@@ -9,7 +9,7 @@ dl, dd, ol, ul, figure {
 }
 
 #searchInput {
-  background-image: url('/assets/images/searchicon.png');
+  background-image: url({{'/assets/images/searchicon.png' | relative_url}});
   background-position: right;
   background-repeat: no-repeat;
   width: 100%;
