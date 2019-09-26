@@ -8,6 +8,7 @@ tud_helyszin: BME, 1111 Budapest Műegyetem rkp. 3., T és MT épület
 tud_intezmeny: BME Gépészmérnöki Kar, Polimertechnika Tanszék
 tud_kapcsolattarto: Dr. Bárány Tamás, barany@pt.bme.hu, 06-1-463-3740
 tud_honlap:
+date: 2013-08-23 15:00
 web:
 ---
 A Magyar Épületgépészek Napja, a MÉN 22 sikeres év után 2018-ban jelentősen tovább fejlődik. Igaz, a huszonkét év alatt is folyamatos változásokon ment át a rendezvénysorozat, 

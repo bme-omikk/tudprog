@@ -1,19 +1,12 @@
 ---
 layout: default
 ---
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  $("#searchInput").on("keyup", function() {
-    var value = $(this).val().toLowerCase();
-    $("#myFilter .filter").filter(function() {
-      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-    });
-  });
-});
-</script>
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 
-<input type="text" id="searchInput" placeholder="Keresés" title="Keresés">
+
+
 
 
 <div class="home">
@@ -24,17 +17,19 @@ $(document).ready(function(){
   {{ content }}
 
   
-  <ul>
-{%- for i in site.2018_tudomany_unnepe -%}
+  <ul id="esemenylista" data-role="listview" data-filter="true" data-filter-placeholder="Keresés" >
+{%- assign items = site.2018_tudomany_unnepe | sort: "date" -%}
+{%- for item in items -%}
 
-  <li id="myFilter">
-  <div class="filter">
-  <h2><a class="post-link" href="{{ i.url | relative_url }}"> {{ i.title | escape }} </a></h2>
-  <p> {{ i.tud_tipus | escape }} <br> {{ i.tud_tudomanyterulet | escape }} </p>
-  <p id="abcd" data-time="{{ i.tud_idopont | escape }}"> {{ i.tud_idopont | escape }} </p>
-  </div>
+  <li>
+  
+  <a class="rendezveny_title" href="{{ item.url | relative_url }}"> {{ item.title | escape }} </a>
+  <p> {{ item.tud_tipus | escape }} <br> {{ item.tud_tudomanyterulet | escape }} </p>
+  <p> {{ item.tud_idopont | escape }} </p>
+ 
   </li>
        
 {%- endfor -%}
   </ul>
 </div>
+

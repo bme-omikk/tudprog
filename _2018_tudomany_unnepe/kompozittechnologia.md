@@ -8,6 +8,7 @@ tud_helyszin: BME, 1111 Budapest Műegyetem rkp. 3., T és MT épület
 tud_intezmeny: BME Gépészmérnöki Kar, Polimertechnika Tanszék
 tud_kapcsolattarto: Dr. Bárány Tamás, barany@pt.bme.hu, 06-1-463-3740
 tud_honlap:
+date: 2013-08-23 14:00
 ---
 A Kompozittechnológiai Kutatócsoport kutatási programja három egymással szorosan összefüggő, számos elemében egymásra épülő kutatási témából áll, amelyek a következők: hibridkompozitok, nanokompozitok és biokompozitok. A megrendezésre kerülő tudományos ülés célja a kutatócsoport e tématerületeken elért, válogatott eredményeinek bemutatása.
 

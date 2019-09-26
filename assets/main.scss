@@ -3,3 +3,61 @@
 ---
 
 @import "minima";
+
+#searchInput {
+  background-image: url({{'/assets/images/searchicon.png' | relative_url}});
+  background-position: right;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+ 
+}
+
+.post-header li{
+  *list-style-type: none;
+   
+
+}
+.post-header ul{
+  margin-left:0px; 
+
+}
+
+.bold{
+  font-weight:bold;
+}
+
+.ui-page-theme-a a {
+
+font-weight:normal !important;
+}
+
+.ui-page-theme-a a  {
+  color:#333 !important;
+
+}
+
+a.rendezveny_title{
+  font-size:28px;
+}
+
+.ui-btn{
+  white-space: normal !important;
+  padding-left: 0px !important;
+}
+
+.ui-listview > li p{
+  font-size:14px !important;
+}
+
+.ui-page-theme-a .ui-btn.ui-btn-active{
+  background-color:#ffff !important;
+  border-color:#ffff !important;
+  text-shadow:none !important;
+}
