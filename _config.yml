@@ -22,7 +22,7 @@ title: Tudomány ünnepe 2019
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A magyar tudomány ünnepe 2019 november 5 - november 30.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/tudprog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
