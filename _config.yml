@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tudomány ünnepe 2019 "Értékteremtő tudomány"
+title: Tudomány ünnepe 2019
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A magyar tudomány ünnepe 2019 november 5 - november 30.
+  A magyar tudomány ünnepe 2019 november 4 - november 30.
 baseurl: "/tudprog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+slogen: „Értékteremtő tudomány”
 
 # Build settings
 theme: minima
@@ -33,7 +34,7 @@ plugins:
   - jekyll-feed
   
 collections:
-  2018_tudomany_unnepe:
+  2019_tudomany_unnepe:
     output: true
     # permalink: /comets/:path/
 # Exclude from processing.

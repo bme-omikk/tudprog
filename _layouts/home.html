@@ -17,8 +17,8 @@ layout: default
   {{ content }}
 
   
-  <ul id="esemenylista" data-role="listview" data-filter="true" data-filter-placeholder="Keresés" >
-{%- assign items = site.2018_tudomany_unnepe | sort: "date" -%}
+  <ul id="esemenylista" data-role="listview" data-filter="true" data-filter-placeholder="Keresés..." >
+{%- assign items = site.2019_tudomany_unnepe | sort: "date" -%}
 {%- for item in items -%}
 
   <li>
@@ -31,5 +31,6 @@ layout: default
        
 {%- endfor -%}
   </ul>
+  
 </div>
 

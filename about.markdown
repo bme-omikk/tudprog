@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Rendezvényről
+title: Rólunk
 permalink: /about/
 ---
 
