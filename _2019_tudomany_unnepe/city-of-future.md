@@ -9,6 +9,6 @@ tud_intezmeny: WICONA és Budapesti Műszaki és Gazdaságtudományi Egyetem Ép
 tud_kapcsolattarto: Dr. Takács Lajos, ltakacs@epsz.bme.hu, 463-1306
 tud_url: https://www.wicona.com/de/de/uber-wicona/konferencia-budapest-2019/
 tud_szinopszis: y
-datum: 2019-11-07 12:30
+date: 2019-11-07 12:30
 ---
 Alkalmazott tudományos-mérnöki előadások a korszerű városi épületek jelentkező épületszerkezeti kihívásokról. Részletes program az esemény honlapján.

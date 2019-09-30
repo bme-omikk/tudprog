@@ -9,5 +9,5 @@ tud_intezmeny: BME Fizikai Intézet
 tud_kapcsolattarto: Dóra Balázs (463-3829)
 tud_url: http://physics.bme.hu/kollokvium
 tud_szinopszis:
-datum: 2019-11-05
+date: 2019-11-05
 ---
