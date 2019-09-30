@@ -16,7 +16,7 @@ layout: default
    </ul>
 	</header>
 
-  <h3 class="bold">Szinopszis, összefoglaló, programterv</h3>
+  {%- if page.tud_szinopszis -%}<h3 class="bold">Szinopszis, összefoglaló, programterv</h3>{%- endif -%}
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}

@@ -4,11 +4,11 @@ title: Rólunk
 permalink: /about/
 ---
 
- Magyar Tudomány Ünnepe 2018.
+ Magyar Tudomány Ünnepe 2019.
 
-A Magyar Tudomány Ünnepe, a Magyar Tudományos Akadémia által 15 éve minden év novemberében megrendezett országos és határon túli programsorozat. Az eseményfolyam hagyományosan egy központi gondolat köré szerveződik, amely közös szempontként érvényesül a rendezvény témaválasztásaiban és előadásaiban. 
+A Magyar Tudomány Ünnepe, a Magyar Tudományos Akadémia által 16 éve minden év novemberében megrendezett országos és határon túli programsorozat. Az eseményfolyam hagyományosan egy központi gondolat köré szerveződik, amely közös szempontként érvényesül a rendezvény témaválasztásaiban és előadásaiban. 
 
-A 2018. évi Magyar Tudomány Ünnepének mottója a "Határtalan tudomány"
+A 2019. évi Magyar Tudomány Ünnepének mottója a "Határtalan tudomány"
 
 Az idei tudományünnepi rendezvények hatékony segítséget kívánnak nyújtani többek között annak az aktuális kérdésnek a megválaszolásában, hogy milyen módon megy végbe a technológiai fejlesztések szétterülésének folyamata hazánkban és a nemzetközi környezetben. A tudományünnep másik kitüntetett célja, megvizsgálni a tudomány kommunikációs tevékenységét. 
 

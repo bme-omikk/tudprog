@@ -7,7 +7,8 @@ tud_idopont: 2019. november 7., 12.30
 tud_helyszin: BME K épület díszterem 1111 Budapest Műegyetem rkp. 3
 tud_intezmeny: WICONA és Budapesti Műszaki és Gazdaságtudományi Egyetem Épületszerkezettani Tanszék
 tud_kapcsolattarto: Dr. Takács Lajos, ltakacs@epsz.bme.hu, 463-1306
-tud_honlap: https://www.wicona.com/de/de/uber-wicona/konferencia-budapest-2019/
-date: 2018-11-07 12:30
+tud_url: https://www.wicona.com/de/de/uber-wicona/konferencia-budapest-2019/
+tud_szinopszis: y
+datum: 2019-11-07 12:30
 ---
 Alkalmazott tudományos-mérnöki előadások a korszerű városi épületek jelentkező épületszerkezeti kihívásokról. Részletes program az esemény honlapján.
