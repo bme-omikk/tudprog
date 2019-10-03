@@ -12,7 +12,7 @@ layout: default
 	{%- if page.tud_helyszin -%}<li><b>A rendezvény helyszíne: </b>{{ page.tud_helyszin | escape }}</li>{%- endif -%}
 	{%- if page.tud_intezveny -%}<li><b>Szervező intézmény(ek): </b>{{ page.tud_intezmeny | escape }}</li>{%- endif -%}
 	{%- if page.tud_kapcsolattarto -%}<li><b>Kapcsolattartó: </b>{{ page.tud_kapcsolattarto | escape }}</li>{%- endif -%}
-	{%- if page.tud_url -%}<li><b>A rendezvény honlapjának elérhetősége: </b><a href="{{ page.tud_url | escape }}">{{ page.tud_url | escape }}</a></li>{%- endif -%}
+	{%- if page.tud_url -%}<li><b>A rendezvény honlapjának elérhetősége: </b><a href="{{ page.tud_url | escape }}" target="_blank">{{ page.tud_url | escape }}</a></li>{%- endif -%}
    </ul>
 	</header>
 
