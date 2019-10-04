@@ -7,7 +7,7 @@ tud_idopont: 2019. november 11.
 tud_helyszin: Szervezés alatt
 tud_intezmeny: BME GTK Környezetgazdaságtan Tanszék
 tud_kapcsolattarto: Dr. Zilahy Gyula, zilahy@eik.bme.hu, 463-4029
-tud_url: kornygazd.bme.hu
+tud_url: http:\\kornygazd.bme.hu
 date: 2019-11-11
 ---
 A fenntartható fejlődés kérdéskörébe tartozó gazdasági, társadalmi és környezeti problémák széleskörű együttműködést követelnek meg a különböző társadalmi szférák (gazdasági, civil, kormányzati érintettek) képviselői és az egyes országok között is.
