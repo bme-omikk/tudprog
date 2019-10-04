@@ -4,7 +4,7 @@ title: 170 éves a Széchenyi lánchíd
 tud_tipus: Konferencia és kiállítás
 tud_tudomanyterulet: Műszaki tudományok
 tud_idopont: 2019. november 20.
-tud_helyszin: ***Konferencia*** BME K épület Díszterem Budapest, Műegyetem rkp. 3. K épület 1. em., ***Kiállítás*** BME Központi Könyvtár, Budapest, Műegyetem rkp. 3. 
+tud_helyszin: Konferencia BME K épület Díszterem Budapest, Műegyetem rkp. 3. K épület 1. em., Kiállítás BME Központi Könyvtár, Budapest, Műegyetem rkp. 3. 
 tud_intezmeny: Főszervező Széchenyi Társaság, Szervezők Hidászokért Egyesület; Hídépítők Egyesülete; Magyar Műszaki és Közlekedési Múzeum; Budapesti Közlekedési Központ
 tud_kapcsolattarto: (BME-n belüli tájékoztatásra Dunai László, dunai.laszlo@epito.bme.hu) 
 tud_url: http://www.agt.bme.hu/gis/workshop8/
