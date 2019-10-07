@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: 170 éves a Széchenyi lánchídd
+title: 170 éves a Széchenyi lánchíd
 tud_tipus: Konferencia és kiállítás
 tud_tudomanyterulet: Műszaki tudományok
 tud_idopont: 2019. november 20.
