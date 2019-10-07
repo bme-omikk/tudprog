@@ -2,7 +2,7 @@
 layout: collection
 title: 23. Fémszerkezeti Konferencia
 tud_tipus: konferencia
-tud_tudomanyterulet: Műszaki tudományo
+tud_tudomanyterulet: Műszaki tudományok
 tud_idopont: 2019. november 7.
 tud_helyszin: BME Hidak és Szerkezetek Tanszék Budapest, Műegyetem rkp. 3, K ép. Mf. 85.
 tud_intezmeny: Magyar Könnyűszerkezetes Egyesület (MKE) Magyar Acélszerkezeti Szövetség (MAGÉSZ)
