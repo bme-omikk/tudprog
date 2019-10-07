@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+  <ul>
+    {%- if page.title -%}<li><b>A rendezvény címe: </b> {{ page.title | escape }}</li>{%- endif -%}
+    {%- if page.tud_tipus -%}<li><b>A rendezvény típusa: </b>{{ page.tud_tipus | escape }}  </li>{%- endif -%}
+	{%- if page.tud_tudomanyterulet -%}<li><b>Tudományterület: </b>{{ page.tud_tudomanyterulet | escape }}</li>{%- endif -%}
+    {%- if page.tud_idopont -%}<li><b>A rendezvény időpontja: </b>{{ page.tud_idopont | escape }}</li>{%- endif -%}
+	{%- if page.tud_helyszin -%}<li><b>A rendezvény helyszíne: </b>{{ page.tud_helyszin | escape }}</li>{%- endif -%}
+	{%- if page.tud_intezmeny -%}<li><b>Szervező intézmény(ek): </b>{{ page.tud_intezmeny | escape }}</li>{%- endif -%}
+	{%- if page.tud_kapcsolattarto -%}<li><b>Kapcsolattartó: </b>{{ page.tud_kapcsolattarto | escape }}</li>{%- endif -%}
+	{%- if page.tud_url -%}<li><b>A rendezvény honlapjának elérhetősége: </b><a href="{{ page.tud_url | escape }}" target="_blank">{{ page.tud_url | escape }}</a></li>{%- endif -%}
+   </ul>
+	</header>
+
+  {%- if page.content -%}<h3 class="bold">Szinopszis, összefoglaló, programterv</h3>{%- endif -%}
+
+
+  
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ page.content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
