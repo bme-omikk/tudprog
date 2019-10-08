@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>A Magyar Tudomány Ünnepe</title>
+  
+  <style type="text/css" media="screen">
+    body {font-family:verdana, sans-serif; color:#666; background:#fafafa; padding:20px; text-align:center;}
+    #page {text-align:left; max-width:1200px; margin:0 auto;} 
+    h1 {font-size:16px; font-weight:bold; text-align:center;}
+    label {font-size:16px;}
+    label i {font-style:normal; display:inline-block; text-align:right; width:400px;}
+    label textarea {vertical-align:top;}
+    #button {margin-left:20px; padding:5px; margin-top:5px; font-size:16px; cursor: pointer; max-width: 100px !important; background-color:#ebebeb !important; text-align:center; border-style: solid !important; border-color: #0167CB  !important; border-radius: 4px !important;}
+	#button:hover {background-color:#ddd !important;  border-style: solid !important; border-width: 1px !important; border-color: #0167CB  !important; border-radius: 4px !important;}
+    input, textarea {width:400px; font-size:16px; font-family: courier, "courier new", monospace; margin:0 0 5px 0; padding:5px; border:1px solid #eee;}
+	textarea:focus {background-color:#ddd !important;}
+    select {margin:0 0 5px 0;}
+	input[type=text] { border: 1px solid #0167CB !important; border-radius: 4px !important;}
+	input[type=text]:focus {background-color:#ddd !important;}
+    @media (min-width:300px) and (max-width: 1200px) {
+      input, textarea {width:100%;}
+      label i {display:block; width:auto; text-align:left;}
+      button {display:block; margin:0;}
+    }
+  </style>
+  
+  <script type="text/javascript">
+    var layout = "collection";
+    
+    function saveFormAsTextFile()
+        {
+        if( document.getElementById('filename').value == "" ) 
+		{
+				alert( "A Fájlnév kitöltése kötelező!" );
+                return false;
+		}
+        else
+		{
+        var textToSave =
+          '---\r\n'+
+		  'layout: ' + layout + '\r\n' + // =layout
+          'title: ' + document.getElementById('title').value.replace(/: |:|\s\s+/g, ' ') + '\r\n' + // =title
+		  'tud_tipus: ' + document.getElementById('tud_tipus').value.replace(/: |:|\s\s+/g, ' ') + '\r\n' + // =tudomány tipus
+		  'tud_tudomanyterulet: ' + document.getElementById('tud_tudomanyterulet').value.replace(/: |:|\s\s+/g, ' ') + '\r\n' + // =tudomány terület
+		  'tud_idopont: ' + document.getElementById('tud_idopont').value.replace(/: |:| : /g, ':') + '\r\n' + // =időpont
+		  'tud_helyszin: ' + document.getElementById('tud_helyszin').value.replace(/: |:|\s\s+/g, ' ') + '\r\n' + // =helyszín
+          'tud_intezmeny: ' + document.getElementById('tud_intezmeny').value.replace(/: |:|\s\s+/g, ' ') + '\r\n' + // =intézmény
+		  'tud_kapcsolattarto: ' + document.getElementById('tud_kapcsolattarto').value.replace(/: |:|\s\s+/g, ' ') + '\r\n' + // =kapcsolattartó
+		  'tud_url: ' + document.getElementById('tud_url').value + '\r\n' + // =honlap
+		  'date: ' + document.getElementById('datum').value + '\r\n' + // =rendezési paraméter (időpont)
+          '---\r\n' +
+          document.getElementById('content').value // =öszefoglaló;
+        textToSave = textToSave.replace(":", "");
+        var textToSaveAsBlob = new Blob([textToSave], {type:"text/plain"});
+        var textToSaveAsURL = window.URL.createObjectURL(textToSaveAsBlob);
+        var fileNameToSaveAs = document.getElementById("filename").value +".md";
+
+        var downloadLink = document.createElement("a");
+        downloadLink.download = fileNameToSaveAs;
+        downloadLink.innerHTML = "Download File";
+        downloadLink.href = textToSaveAsURL;
+        downloadLink.onclick = destroyClickedElement;
+        downloadLink.style.display = "none";
+        document.body.appendChild(downloadLink);
+
+        downloadLink.click();
+		//document.getElementById('title').value = "";
+		document.getElementById("md_form").reset(); 
+		}
+}
+    function destroyClickedElement(event)
+        {
+        document.body.removeChild(event.target);
+        }
+  </script>
+</head>
+
+<body>
+  <div id="page">
+    <h1>A Magyar Tudomány Ünnepe <br>2019. november 4-30.</h1><br>
+	<form id="md_form">
+	
+    <input type="hidden" id="layout" size="40"> <!-- = layout (elrejtve) -->
+  
+    <label for="title">
+      <i>A rendezvény címe</i> <!-- =title -->
+      <input type="text" id="title" size="40">
+    </label>
+    
+    <br>
+    
+    <label for="tud_tipus">
+      <i>A rendezvény típusa</i> <!-- =Tudomány típus -->
+      <input type="text" id="tud_tipus" size="40">
+    </label>
+    
+    <br>
+    
+    <label for="tud_tudomanyterulet"> 
+      <i>Tudományterület</i> <!-- =Tudományterület -->
+	  <input type="text" id="tud_tudomanyterulet" size="40">
+    </label>
+    
+    <br>
+	
+	<label for="tud_idopont"> 
+      <i>A rendezvény időpontja</i> <!-- =Rendezvény időpontja -->
+	  <input type="text" id="tud_idopont" size="40">
+    </label>
+    
+    <br>
+	
+	<label for="tud_helyszin"> 
+      <i>A rendezvény helyszíne</i> <!-- =Rendezvény helyszíne -->
+	  <input type="text" id="tud_helyszin" size="40">
+    </label>
+    
+    <br>
+    
+    <label for="tud_intezmeny">
+      <i>Szervező intézmény(ek)</i>  <!-- =Intézmény helyszíne -->
+      <input type="text" id="tud_intezmeny" cols="40" rows="3">
+    </label>
+    
+    <br>
+	
+	 <label for="tud_kapcsolattarto">
+      <i>Kapcsolattartó</i>  <!-- =Kapcsolattartó -->
+      <input type="text" id="tud_kapcsolattarto" cols="40" rows="3">
+    </label>
+    
+    <br>
+	 <label for="tud_url">
+      <i>A rendezvény honlapjának elérhetősége</i>  <!-- =Rendezvény honlapja -->
+      <input  type="text" id="tud_url" cols="40" rows="3">
+    </label>
+    
+    <br>
+   
+	
+	<label for="datum">
+    <i>Pontos időpont (rendezési alap)</i>  <!-- =Rendezvény időpntja -->
+    <input type="text" id="datum" cols="40" rows="3" placeholder="formátum: 2019-11-07 12:30">
+    </label>
+
+    <br>
+	
+    <label for="content">
+    <i>Szinopszis, összefoglaló, programterv</i>  <!-- =Összefoglaló -->
+    <textarea style="border: 1px solid #0086D6 !important; border-radius: 4px !important;" id="content" cols="40" rows="10" placeholder=" "></textarea>
+    </label>
+
+    <br>
+    
+    <label for="filename"><!-- =Fájlnév (megadása kötelező) -->
+      <i>Fájlnév</i>
+      <input type="text" name="filename" id="filename" value="" size="40">
+    </label>
+    
+    <input type="button" id="button" onclick="saveFormAsTextFile()" value="Mentés">
+   
+    </form>
+  </div>
+</body>
+</html>
