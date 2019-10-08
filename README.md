@@ -2,4 +2,4 @@
  
  **Letölthető fájlok:**
  
-[rendezvény űrlap](https://tudprog.bme.hu/md_converter/md_converter.html)
+[Űrlap események rögzítéséhez](https://tudprog.bme.hu/md_converter/md_converter.html)
