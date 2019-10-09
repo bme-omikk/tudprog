@@ -4,7 +4,7 @@ title: Rólunk
 permalink: /about/
 ---
 
-<p style="text-align: center">Magyar Tudomány Ünnepe a BME-n</p>
+<p style="text-align: center font-weight:bold">Magyar Tudomány Ünnepe a BME-n</p>
 
 <p style="text-align: center">2019.</p>
 
