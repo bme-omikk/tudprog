@@ -13,7 +13,7 @@ hazai tudományos élet kitüntetett eseményét, a "Magyar Tudomány Ünnepe 20
 című országos és határon túli programsorozatot, amelynek idei mottója:
 **"Értékteremtő tudomány"**.
 
-Az idei rendezvénysorozat kitüntetett célja: felhívni a figyelmet arra, hogy
+<p style="text-align: justify">Az idei rendezvénysorozat kitüntetett célja: felhívni a figyelmet arra, hogy
 támogató környezetben valamennyi tudományterület megteremti - egy nemzet
 jólétét szolgálva, nemzeti kincseit gyarapítva - azt az értéket, amely annak
 megfelelő helyén hasznosul, és ezek az értékek természetükből adódóan más
@@ -21,7 +21,7 @@ módon mérhetőek. A programsorozat foglalkozik azzal a jelenséggel, hogy töb
 tudományterületen paradigmaváltás megy végbe napjainkban, valamint
 hangsúlyozza a kutatási eredmények felelős interpretálását. Az idei mottó
 felhívja a figyelmet a kutatói pálya vonzerejére is, és a kutatómunkát mint
-hivatást hirdeti a felnövekvő generációk számára.
+hivatást hirdeti a felnövekvő generációk számára.</p>
 
 Kiemelt témakörök:
 
