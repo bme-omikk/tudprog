@@ -4,9 +4,9 @@ title: Rólunk
 permalink: /about/
 ---
 
-**Magyar Tudomány Ünnepe a BME-n**
+<p style="text-align: justify">Magyar Tudomány Ünnepe a BME-n**</p>
 
-**2019.**
+<p style="text-align: justify">**2019.**</p>
 
 A Magyar Tudományos Akadémia 2019 novemberében 16. alkalommal rendezi meg a
 hazai tudományos élet kitüntetett eseményét, a "Magyar Tudomány Ünnepe 2019"
