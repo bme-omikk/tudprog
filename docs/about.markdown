@@ -4,34 +4,57 @@ title: Rólunk
 permalink: /about/
 ---
 
- Magyar Tudomány Ünnepe 2019.
+**Magyar Tudomány Ünnepe a BME-n**
 
-A Magyar Tudomány Ünnepe, a Magyar Tudományos Akadémia által 16 éve minden év novemberében megrendezett országos és határon túli programsorozat. Az eseményfolyam hagyományosan egy központi gondolat köré szerveződik, amely közös szempontként érvényesül a rendezvény témaválasztásaiban és előadásaiban. 
+**2019.**
 
-A 2019. évi Magyar Tudomány Ünnepének mottója a "Értékteremtő tudomány"
+A Magyar Tudományos Akadémia 2019 novemberében 16. alkalommal rendezi meg a
+hazai tudományos élet kitüntetett eseményét, a "Magyar Tudomány Ünnepe 2019"
+című országos és határon túli programsorozatot, amelynek idei mottója:
+**"Értékteremtő tudomány"**.
 
-Az idei tudományünnepi rendezvények hatékony segítséget kívánnak nyújtani többek között annak az aktuális kérdésnek a megválaszolásában, hogy milyen módon megy végbe a technológiai fejlesztések szétterülésének folyamata hazánkban és a nemzetközi környezetben. A tudományünnep másik kitüntetett célja, megvizsgálni a tudomány kommunikációs tevékenységét. 
+Az idei rendezvénysorozat kitüntetett célja: felhívni a figyelmet arra, hogy
+támogató környezetben valamennyi tudományterület megteremti - egy nemzet
+jólétét szolgálva, nemzeti kincseit gyarapítva - azt az értéket, amely annak
+megfelelő helyén hasznosul, és ezek az értékek természetükből adódóan más
+módon mérhetőek. A programsorozat foglalkozik azzal a jelenséggel, hogy több
+tudományterületen paradigmaváltás megy végbe napjainkban, valamint
+hangsúlyozza a kutatási eredmények felelős interpretálását. Az idei mottó
+felhívja a figyelmet a kutatói pálya vonzerejére is, és a kutatómunkát mint
+hivatást hirdeti a felnövekvő generációk számára.
 
-A kiemelt programok, rendezvények vezető témái:
+Kiemelt témakörök:
 
-példaképek - magyar kutatáshoz köthető felfedezések, melyek ismertséget és elismerést szereztek a világban;
-- a szélsőséges légköri jelenségek hatásai a vízkörforgalomra és a vízminőségre;
-- digitális eszközök az oktatásban;
-- önvezérelt járművek, gyártástechnológia, mesterséges intelligencia;
-- a hálózatok szerepe és hatása a mindennapi életben, valamint a tudományban;
-- metagenomikai kutatási eredmények és kihívások;
-- hungarikumok a magyar tudományban.
+-fenntartható környezetgazdálkodás és az éghajlatváltozás kihívásai;
+
+-az őshonos magyar nyelv és nyelvközösség az ezredforduló utáni világban;
+
+-a népegészségtan legújabb eredményeinek megismertetése;
+
+-új gyógyszerek előállítása: kutatás és innováció;
+
+-precíziós növénytermesztés;
+
+-mesterséges intelligencia és automatizálás az élettudományokban, képi
+ analitika a sejtkutatásban;
+
+-a körforgásos gazdaság kulcskérdései;
+
+-csúcs kutatási infrastruktúrák (nagyberendezések) értékteremtése a legújabb
+ technikákon keresztül.
 
 További információ itt érhető el:
 
 [http://mta.hu/tudomanyunnep](http://mta.hu/tudomanyunnep)
 
- 
-
-A Magyar Tudomány Ünnepe alkalmából a Budapesti Műszaki és Gazdaságtudományi Egyetemen a tartalomban részletezett tudományos események kerülnek megrendezésre.
+A Magyar Tudomány Ünnepe alkalmából a Budapesti Műszaki és Gazdaságtudományi
+Egyetemen a [tartalomban] (/) részletezett tudományos események kerülnek
+megrendezésre.
 
 Szeretettel várjuk minden rendezvényünkön.
 
 dr. Csákány Anikó
+
+tudományos és innovációs igazgató
 
 
