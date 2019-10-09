@@ -46,7 +46,7 @@ megrendezésre.
 
 Szeretettel várjuk minden rendezvényünkön.
 
-dr. Csákány Anikó
+dr. Csákány Anikó<br>
 tudományos és innovációs igazgató
 
 
