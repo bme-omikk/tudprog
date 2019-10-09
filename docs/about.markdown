@@ -26,20 +26,13 @@ hivatást hirdeti a felnövekvő generációk számára.</p>
 Kiemelt témakörök:
 
 -fenntartható környezetgazdálkodás és az éghajlatváltozás kihívásai;
-
 -az őshonos magyar nyelv és nyelvközösség az ezredforduló utáni világban;
-
 -a népegészségtan legújabb eredményeinek megismertetése;
-
 -új gyógyszerek előállítása: kutatás és innováció;
-
 -precíziós növénytermesztés;
-
 -mesterséges intelligencia és automatizálás az élettudományokban, képi
  analitika a sejtkutatásban;
-
 -a körforgásos gazdaság kulcskérdései;
-
 -csúcs kutatási infrastruktúrák (nagyberendezések) értékteremtése a legújabb
  technikákon keresztül.
 
