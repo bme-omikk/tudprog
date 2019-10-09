@@ -48,7 +48,7 @@ További információ itt érhető el:
 [http://mta.hu/tudomanyunnep](http://mta.hu/tudomanyunnep)
 
 A Magyar Tudomány Ünnepe alkalmából a Budapesti Műszaki és Gazdaságtudományi
-Egyetemen a [tartalomban] (/) részletezett tudományos események kerülnek
+Egyetemen a [tartalomban] (http://tudprog.bme.hu) részletezett tudományos események kerülnek
 megrendezésre.
 
 Szeretettel várjuk minden rendezvényünkön.
