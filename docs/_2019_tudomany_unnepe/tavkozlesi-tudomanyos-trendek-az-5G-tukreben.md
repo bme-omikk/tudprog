@@ -1,15 +1,14 @@
 ---
 layout: collection
-title: 6. Magyar Jövő Internet Konferencia (MJIK 2019)
+title: Távközlési Tudományos Trendek az 5G Tükrében
 tud_tipus: Konferencia
 tud_tudomanyterulet: Műszaki tudományok, Információs és kommunikációs technológia
-tud_idopont: 2019. november 27.
-tud_helyszin: Budapesti Műszaki és Gazdaságtudományi Egyetem, Központi épület, Díszterem
-tud_intezmeny: Budapesti Műszaki és Gazdaságtudományi Egyetem A konferencia társrendezői Hírközlési és Informatikai Egyesület (HTE), Jövő Internet Kutatáskoordinációs Központ (FIRCC), Jövő Internet Nemzeti Technológiai Platform (FI NTP)  
-tud_kapcsolattarto: Dr. Sallai Gyula prof. emeritus sallai@tmit.bme.hu, +36 20 3891602
-tud_url: https://www.hte.hu/mjik2019 
-date: 2019-11-27
+tud_idopont: 2019. november 5, kedd, 13:00-17:00
+tud_helyszin: MTA Kisterem
+tud_intezmeny: MTA Távközlési Tudományos Bizottság, Budapesti Műszaki és Gazdaságtudományi Egyetem 
+tud_kapcsolattarto: Cinkler Tibor, cinkler@tmit.bme.hu, 30/473-8500; Horváth Gábor, ghorvath@hit.bme.hu, 70/514-7557
+tud_url: 
+date: 2019-11-05 13:00
 ---
-A 6. Magyar Jövő Internet Konferencia (MJIK 2019) az előző konferenciákhoz (MJIK 2014, 2015, 2016, 2017 és 2018) hasonlóan a jövő internetének hazai szakmai fóruma, amely az internet trendekről, a feltáruló lehetőségekről és az elért eredményekről kíván átfogó képet adni, célkeresztjébe ebben az évben már a kibontakozó okos internet ökoszisztéma triumvirátust, az okos várost, az okos ipart és az okos agráriumot helyezve. 
-
-A konferencia nyelve magyar és angol. A konferencia délelőtti programját az okos ökoszisztémák kibontakozó perspektíváinak, ebben a tudomány és technológia, valamint a nemzetközi együttműködések szerepének, és a megvalósult eredmények bemutatásának szenteljük. A délutáni két szekció előadásai az internet következő, 2020 utáni generációját meghatározó technológiákat (5G hálózatok, mélytanulás, immerzív technológiák, stb.) és a kutatási irányokat ismertetik, illetve jövő internet alapú, okos városi, életviteli, termelésfelügyeleti, élelmiszeripari, egészségügyi, oktatási és környezetvédelmi megoldásokat mutatnak be.
+A két szekcióból álló konferencia lehetőséget ad az ipar és az akadémiai szereplők 5G-vel kapcsolatos tapasztalatainak megosztására. Az első 60 perces blokkban 2 gyártó és 2 szolgáltató tart előadást az 5G, Ipar4.0, IoT, mMTC, LoRaWAN, NB-IoT, és a Cat-M1 magyar bevezetésével kapcsolatban. Ezt követően a jövő internetének megoldásairól lesz szó, valamint arról, hogy a gépi tanulás és az adattudomány miként szolgálja a kommunikációt.
+A második szekcióban terítékre kerülnek adatbiztonsággal, kvantum kommunikációval, okos városokkal és járműkommunikációval kapcsolatos előadások is.
