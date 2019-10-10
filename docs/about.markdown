@@ -8,10 +8,9 @@ permalink: /about/
 
 <p style="text-align: center; font-weight:bold;">2019.</p>
 
-A Magyar Tudományos Akadémia 2019 novemberében 16. alkalommal rendezi meg a
+<p style="text-align: justify">A Magyar Tudományos Akadémia 2019 novemberében 16. alkalommal rendezi meg a
 hazai tudományos élet kitüntetett eseményét, a "Magyar Tudomány Ünnepe 2019"
-című országos és határon túli programsorozatot, amelynek idei mottója:
-**"Értékteremtő tudomány"**.
+című országos és határon túli programsorozatot, amelynek idei mottója: **"Értékteremtő tudomány"**. </p>
 
 <p style="text-align: justify">Az idei rendezvénysorozat kitüntetett célja: felhívni a figyelmet arra, hogy
 támogató környezetben valamennyi tudományterület megteremti - egy nemzet
@@ -40,9 +39,9 @@ További információ itt érhető el:
 
 [http://mta.hu/tudomanyunnep](http://mta.hu/tudomanyunnep)
 
-A Magyar Tudomány Ünnepe alkalmából a Budapesti Műszaki és Gazdaságtudományi
+<p style="text-align: justify">A Magyar Tudomány Ünnepe alkalmából a Budapesti Műszaki és Gazdaságtudományi
 Egyetemen a <a class="home-url" rel="author" href="{{ "/" | relative_url }}">tartalomban</a> részletezett tudományos események kerülnek
-megrendezésre.
+megrendezésre.</p>
 
 Szeretettel várjuk minden rendezvényünkön.
 
