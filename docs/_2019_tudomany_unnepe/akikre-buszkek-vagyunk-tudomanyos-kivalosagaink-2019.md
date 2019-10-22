@@ -3,12 +3,12 @@ layout: collection
 title: Akikre büszkék vagyunk - tudományos kiválóságaink 2019
 tud_tipus: tudományos ülés – díjátadó és köszöntés
 tud_tudomanyterulet: műszaki tudományok, természettudományok
-tud_idopont: 2019. november 218. hétfő 15 óra
+tud_idopont: 2019. november 18. hétfő 15 óra
 tud_helyszin: BME, K. épület, Díszterem
 tud_intezmeny: BME Rektori Kabinet, Tudományos és Innovációs Igazgatóság
 tud_kapcsolattarto: Gyönki Viktória, gyonki.viktoria@mail.bme.hu tel/:463-1214
 tud_url:
-date: 2019-11-20
+date: 2019-11-18
 ---
 Diszruptív technológiáknak az olyan új, feltörekvő, a termelés és a szolgáltatások területén gyorsan terjedő technológiákat nevezzük, amelyek valószínűleg hosszú távon az innovációk katalizátorai lehetnek. Általánosan elfogadott vélemény, hogy a következő évtizedekben az új technológiák közül
  
