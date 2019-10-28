@@ -6,7 +6,7 @@ tud_tudomanyterulet: Műszaki Tudományok, Sporttudományok
 tud_idopont: 2019. nov. 22. péntek, 8.15 12.00
 tud_helyszin: BME K épület, KM34
 tud_intezmeny: BME Műszaki Mechanikai Tanszék BME Mechatronika, Optika és Gépészeti Informatikai Tanszék MTA-BME Lendület Emberi Egyensúlyozás Kutatócsoport BME Biomechanikai Kooperációs Kutatóközpont
-tud_kapcsolattarto: Dr. Insperger Tamás, insperger@mm.bme.hu, +36 1 463 1369 Dr. Kiss Rita, rita.kiss@mogi.bme.hu, +36 1 463 1738
+tud_kapcsolattarto: Dr. Insperger Tamás, insperger@mm.bme.hu, +36 1 463 1369; Dr. Kiss Rita, rita.kiss@mogi.bme.hu, +36 1 463 1738
 tud_url: 
 date: 2019-11-22 08:15
 ---
