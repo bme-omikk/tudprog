@@ -12,10 +12,12 @@ date: 2019-11-22 08:15
 ---
 A BME Műszaki Mechanikai Tanszék, a Mechatronika, Optika és Gépészeti Informatikai Tanszék, az MTA-BME Lendület Emberi Egyensúlyozás Kutatócsoport és a Biomechanikai Kooperációs Kutatóközpont kutatóinak és doktoranduszainak elmúlt években elért eredményeinek ismertetése. 
 
-Program
+<b>Program</b>
+
 
 
 8.15: Megnyitó
+
 
 
 <b>1 . szekció</b>
@@ -31,7 +33,10 @@ Program
 9.40 Gál-Pottyondy Anna: Egyperces statikus gyakorlatok alatt, optikai mozgáskövető rendszerrel végzett gerincvizsgálatok, kineziológiai elektromiográfiával egybekötve
 
 
+
 10.00 Szünet
+
+
 
 <b>2 . szekció:</b>
 
