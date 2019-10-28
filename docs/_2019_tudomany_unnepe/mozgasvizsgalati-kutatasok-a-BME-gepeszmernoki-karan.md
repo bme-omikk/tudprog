@@ -18,7 +18,7 @@ Program
 8.15: Megnyitó
 
 
-1. szekció
+1 . szekció
 
 8.20 Molnár Csenge: Egyensúlyozódeszkán való egyensúlyozás
 8.40 Zelei Ambrus: Futás biomechanikai modellje
@@ -28,7 +28,7 @@ Program
 
 10.00 Szünet
 
-2. szekció:
+2 . szekció:
 
 10.15 Takács Mária: Lúdtalpas gyermekek stabilometriai vizsgálata
 10.35 Petró Bálint: Az egyensúlyozó emberi test modellezése kéttagú, négy szabadságfokú fordított ingával
