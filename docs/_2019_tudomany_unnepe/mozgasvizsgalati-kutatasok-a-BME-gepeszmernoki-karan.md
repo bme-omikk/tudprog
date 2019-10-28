@@ -24,7 +24,7 @@ date: 2019-11-22 08:15
 <br>
 10.00 Szünet<br>
 <br>
-<b>2. szekció:</b>
+<b>2. szekció:</b><br>
 10.15 Takács Mária: Lúdtalpas gyermekek stabilometriai vizsgálata<br>
 10.35 Petró Bálint: Az egyensúlyozó emberi test modellezése kéttagú, négy szabadságfokú fordított ingával<br>
 10.55 Pálya Zsófia: A térdmozgás egyensúlyozásra gyakorolt hatásának kísérleti vizsgálata<br>
