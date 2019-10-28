@@ -22,7 +22,7 @@ date: 2019-11-22 08:15
 9.20 Nagymáté Gergely: Stabilometriás paraméterek<br>
 9.40 Gál-Pottyondy Anna: Egyperces statikus gyakorlatok alatt, optikai mozgáskövető rendszerrel végzett gerincvizsgálatok, kineziológiai elektromiográfiával egybekötve<br>
 <br>
-10.00 Szünet<br>
+10.00: Szünet<br>
 <br>
 <b>2. szekció:</b><br>
 10.15 Takács Mária: Lúdtalpas gyermekek stabilometriai vizsgálata<br>
