@@ -14,30 +14,26 @@ A BME Műszaki Mechanikai Tanszék, a Mechatronika, Optika és Gépészeti Infor
 
 Program
 
+
 8.15: Megnyitó
 
+
 1. szekció
+
 8.20 Molnár Csenge: Egyensúlyozódeszkán való egyensúlyozás
-
 8.40 Zelei Ambrus: Futás biomechanikai modellje
-
 9.00 Bencsik László: Huple® mozgás- és koordinációfejlesztő orvostechnikai eszköz egyensúlyjavító hatásának kontrollált vizsgálata
-
 9.20 Nagymáté Gergely: Stabilometriás paraméterek
-
 9.40 Gál-Pottyondy Anna: Egyperces statikus gyakorlatok alatt, optikai mozgáskövető rendszerrel végzett gerincvizsgálatok, kineziológiai elektromiográfiával egybekötve
 
 10.00 Szünet
 
 2. szekció:
+
 10.15 Takács Mária: Lúdtalpas gyermekek stabilometriai vizsgálata
-
 10.35 Petró Bálint: Az egyensúlyozó emberi test modellezése kéttagú, négy szabadságfokú fordított ingával
-
 10.55 Pálya Zsófia: A térdmozgás egyensúlyozásra gyakorolt hatásának kísérleti vizsgálata
-
 11.15 Nagy Dalma: Színes és különböző tömegű rudak egyensúlyozása ujjhegyen
-
 11.35 Kovács Balázs: Kritikus ingahossz virtuális egyensúlyozás során
 
 11.55: Zárszó
