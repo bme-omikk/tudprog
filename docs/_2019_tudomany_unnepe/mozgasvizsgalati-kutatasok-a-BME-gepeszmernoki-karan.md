@@ -18,7 +18,7 @@ Program
 8.15: Megnyitó
 
 
-1 . szekció
+<b>1 . szekció</b>
 
 8.20 Molnár Csenge: Egyensúlyozódeszkán való egyensúlyozás
 
@@ -33,12 +33,16 @@ Program
 
 10.00 Szünet
 
-2 . szekció:
+<b>2 . szekció:</b>
 
 10.15 Takács Mária: Lúdtalpas gyermekek stabilometriai vizsgálata
+
 10.35 Petró Bálint: Az egyensúlyozó emberi test modellezése kéttagú, négy szabadságfokú fordított ingával
+
 10.55 Pálya Zsófia: A térdmozgás egyensúlyozásra gyakorolt hatásának kísérleti vizsgálata
+
 11.15 Nagy Dalma: Színes és különböző tömegű rudak egyensúlyozása ujjhegyen
+
 11.35 Kovács Balázs: Kritikus ingahossz virtuális egyensúlyozás során
 
 
