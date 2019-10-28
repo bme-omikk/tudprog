@@ -15,7 +15,7 @@ date: 2019-11-22 08:15
 <br>
 8.15: Megnyitó<br>
 <br>
-<b>1. szekció<br></b>
+<b>1. szekció:<br></b>
 8.20 Molnár Csenge: Egyensúlyozódeszkán való egyensúlyozás<br>
 8.40 Zelei Ambrus: Futás biomechanikai modellje<br>
 9.00 Bencsik László: Huple® mozgás- és koordinációfejlesztő orvostechnikai eszköz egyensúlyjavító hatásának kontrollált vizsgálata<br>
