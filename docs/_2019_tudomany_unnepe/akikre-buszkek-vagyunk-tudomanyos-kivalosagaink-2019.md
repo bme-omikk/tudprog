@@ -15,4 +15,4 @@ Az oklevelek átadása után három díjazott előadására kerül sor: Klapcsik
 
 Kérjük, hogy a rendezvényen való részvételi szándékát regisztrációval erősítse meg az alábbi linken:
 
-<a href="https://regisztracio.bme.hu/akikre-buszkek-vagyunk-20191118">https://regisztracio.bme.hu/akikre-buszkek-vagyunk-20191118</a>
+<a href="https://regisztracio.bme.hu/akikre-buszkek-vagyunk-20191118" target="_blank">https://regisztracio.bme.hu/akikre-buszkek-vagyunk-20191118</a>
