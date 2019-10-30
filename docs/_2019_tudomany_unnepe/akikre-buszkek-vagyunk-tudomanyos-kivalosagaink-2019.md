@@ -10,21 +10,9 @@ tud_kapcsolattarto: Gyönki Viktória, gyonki.viktoria@mail.bme.hu tel/:463-1214
 tud_url:
 date: 2019-11-18
 ---
-Diszruptív technológiáknak az olyan új, feltörekvő, a termelés és a szolgáltatások területén gyorsan terjedő technológiákat nevezzük, amelyek valószínűleg hosszú távon az innovációk katalizátorai lehetnek. Általánosan elfogadott vélemény, hogy a következő évtizedekben az új technológiák közül
- 
--       a dolgok internete (Ineternet of Things - IoT), 
--       az önkiszolgáló informatika, 
--       a mobilfizetés, 
--      a mesterséges intelligencia és 
--       a következő generációs wifi 
- 
-lesz a legnagyobb hatással a gazdasági folyamatokra, s közvetve a társadalmi tevékenységekre.
+Az MTA Lendület program vezetőinek, az MTA Prémium Posztdoktori Kutatói Program, az MTA Bolyai János Kutatási Ösztöndíj, rangos külföldi és hazai ösztöndíjak és elismerések nyerteseinek, valamint a BMe Kutatói Pályázat helyezettjeinek köszöntése.
+Az oklevelek átadása után három díjazott előadására kerül sor: Klapcsik Kálmán GPK (BMe Kutatói Pályázat), Oláh Julianna VBK (Bolyai Emléklap),Pach Péter Pál VIK (Lendület Program).
 
-Előadások: 
-Dr. Bécsi Tamás - Mesterséges intelligencia (MI) magyarországi közlekedésben várható szerepével és
-hatásaival
-Pakucs András - Waze adatok felhasználásával és ezen alapuló forgalmi elemzések
-Ponori-Thewrewk Ajtony - mobiltelefon-hálózaton keletkező adatok közlekedés-fejlesztési célokra való
-hasznosítása
-Veres Mihály - Mobiltelefon-hálózaton keletkező adatok közlekedés-fejlesztési célokra való
-hasznosítása
+Kérjük, hogy a rendezvényen való részvételi szándékát regisztrációval erősítse meg az alábbi linken:
+
+<a href="https://regisztracio.bme.hu/akikre-buszkek-vagyunk-20191118">https://regisztracio.bme.hu/akikre-buszkek-vagyunk-20191118</a>
