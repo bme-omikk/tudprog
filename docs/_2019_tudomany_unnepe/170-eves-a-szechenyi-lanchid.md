@@ -7,7 +7,7 @@ tud_idopont: 2019. november 20.
 tud_helyszin: Konferencia BME K épület Díszterem Budapest, Műegyetem rkp. 3. K épület 1. em., Kiállítás BME Központi Könyvtár, Budapest, Műegyetem rkp. 3. 
 tud_intezmeny: Főszervező Széchenyi Társaság, Szervezők Hidászokért Egyesület; Hídépítők Egyesülete; Magyar Műszaki és Közlekedési Múzeum; Budapesti Közlekedési Központ
 tud_kapcsolattarto: Dunai László, dunai.laszlo@epito.bme.hu
-tud_url: http://www.agt.bme.hu/gis/workshop8/
+tud_url:
 date: 2019-11-20 12:30
 ---
 A konferencia a „Széchenyi lánchíd 170” elnevezésű,  2019. novemberi rendezvénysorozat része, a híd 1849. november 20-i megnyitásának és 1949. november 20-i újjáépítésének 170 és 70 éves évfordulója alkalmából. A konferencia előadásainak címe:
