@@ -5,7 +5,7 @@ tud_tipus: előadás és workshop
 tud_tudomanyterulet: Építészet
 tud_idopont: 2019.11.28. 18:00
 tud_helyszin: BME K épület 2. emelet 10. 
-tud_intezmeny: BME Építészeti Geometria és Informatika Tanszék BME Lakoépülettervezési Tanszék
+tud_intezmeny: BME Építészeti Geometria és Informatika Tanszék, BME Lakoépülettervezési Tanszék
 tud_kapcsolattarto: Kovács Ádám kovacsadam@arch.bme.hu +36303523524
 tud_url: www.epab.bme.hu/jovokutatas
 date: 2019.11.28. 18:00
