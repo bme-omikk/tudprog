@@ -10,6 +10,7 @@ tud_kapcsolattarto: Keresztes Anita, keresztes.anita@bpmk.hu Dr. Deme Bélafi Zs
 tud_url: https://talalkozzunk-muegyetem.hu/
 date: 2019-11-29 09:00
 ---
-Az Országos Magyar Épületgépész Napok egyik legnagyobb rendezvényének idén is a Műegyetem ad otthont Készülünk előadásokkal kiállítással, laborbemutatóval, nyitott kapukkal várjuk az érdeklődő szakembereket, látogatókat. Lesz épületgépész hallgatói vetélkedő, melyre csapatok pályázhatnak az ország összes felsőoktatási intézményéből, ahol épületgépész oktatás folyik. 
+Az Országos Magyar Épületgépész Napok egyik legnagyobb rendezvényének idén is a Műegyetem ad otthont Készülünk előadásokkal kiállítással, laborbemutatóval, nyitott kapukkal várjuk az érdeklődő szakembereket, látogatókat. Lesz épületgépész hallgatói vetélkedő, melyre csapatok pályázhatnak az ország összes felsőoktatási intézményéből, ahol épületgépész oktatás folyik.
+
 Több külföldi vezető egyetemekről meghívott előadót is várunk, akik az aktuális trendekről, okos épületekről, szimulációs technikákról fognak előadást tartani. Lesz szó az épületenergetikai rendeletek korszerűsítésének kérdéséről, valamint a BIM-ről is. Lesz továbbá egy szimulációs workshop is neves hazai és külföldi szakemberek bevonásával, ennek témája az épületszimuláció helye az oktatásban és a kutatásban.
 A jó hangulatról tanszékünk zenekara, az ÉpGép All Stars gondoskodik.
