@@ -1,4 +1,4 @@
-﻿---
+---
 layout: collection
 title: Li-ion-akkumulátor a találmány, ami Nobel-díjat ér
 tud_tipus: Előadás
