@@ -13,7 +13,6 @@ date: 2019-11-25
 A Budapesti Műszaki és Gazdaságtudományi Egyetem Vasúti Járművek, Repülőgépek és Hajók Tanszéke, a HungaroControl Zrt. és a Közlekedéstudományi Egyesület közösen konferenciát rendez XX. Magyar Repüléstudományi Napok címmel, melyen napjaink legfontosabb hazai  repüléstudományi és ipari kérdései kerülnének megvitatásra. 
 
 
-
 A konferencia legfontosabb témakörei:
 
 * Repülésbiztonság
@@ -22,7 +21,6 @@ A konferencia legfontosabb témakörei:
 * Hibrid és elektromos hajtás, Smart City
 * A légiforgalom menedzselése, irányítása, ATM * Távérzékelés és űrtechnológia
 * A magyar légiközlekedés és repülőipar fejlesztési lehetőségei 
-
 
 
 A kétnapos rendezvényre hazánk legrangosabb vállalatainak és szervezeteinek képviselőit várjuk rövid innovációs szakmai előadással.
