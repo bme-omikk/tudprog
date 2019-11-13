@@ -15,12 +15,12 @@ A Budapesti Műszaki és Gazdaságtudományi Egyetem Vasúti Járművek, Repül�
 
 A konferencia legfontosabb témakörei:
 
-* Repülésbiztonság
-* Unmanned Traffic Management
-* Katonai repülés helyzete és fejlesztései
-* Hibrid és elektromos hajtás, Smart City
-* A légiforgalom menedzselése, irányítása, ATM * Távérzékelés és űrtechnológia
-* A magyar légiközlekedés és repülőipar fejlesztési lehetőségei 
+- Repülésbiztonság
+- Unmanned Traffic Management
+- Katonai repülés helyzete és fejlesztései
+- Hibrid és elektromos hajtás, Smart City
+- A légiforgalom menedzselése, irányítása, ATM * Távérzékelés és űrtechnológia
+- A magyar légiközlekedés és repülőipar fejlesztési lehetőségei 
 
 
 A kétnapos rendezvényre hazánk legrangosabb vállalatainak és szervezeteinek képviselőit várjuk rövid innovációs szakmai előadással.
