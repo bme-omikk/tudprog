@@ -11,7 +11,7 @@ tud_teams: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjAzMWFmOGEtYz
 tud_intezmeny: BME VIK Távközlési és Médiainformatikai Tanszék
 tud_kapcsolattarto: Dr. Orosz Péter (orosz@tmit.bme.hu, 06 1 463 4189)
 tud_url: https://www.tmit.bme.hu/smartcomlab
-date: 2020-10-26
+date: 2020-11-26
 ---
 Az V. SmartCom Lab Workshopon egyrészt az ipar 4.0 együttműködő rendszereinek támogatására mutatunk be "ABCDE5G" technológiákat egy integrált demonstráció keretében, másrészt áttekintjük a hálózatsemlegesség méréstechnikájának aktuális kihívásait. 
 

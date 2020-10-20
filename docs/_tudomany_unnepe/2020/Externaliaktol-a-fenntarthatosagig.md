@@ -10,7 +10,7 @@ tud_helyszin: Online
 tud_intezmeny: BME GTK Környezetgazdaságtan Tanszék
 tud_kapcsolattarto: Szalmáné Dr. Csete Mária, csete@eik.bme.hu, +36-1-463-2018
 tud_url: http://kornygazd.bme.hu/hu
-date: 2020-10-27
+date: 2020-11-27
 ---
 Az „Externáliáktól a fenntarthatóságig” című, a Magyar Tudomány Ünnepe „Jövőformáló tudomány” programsorozat keretében megrendezésre kerülő online konferencián a BME GTK Környezetgazdaságtan Tanszék fenntarthatóság, környezetgazdaságtan, környezetmenedzsment, valamint környezet- és erőforrásgazdálkodás témaköreiben folytatott szerteágazó szakmai tevékenységének alakulását áttekintő, valamint a legújabb hazai és nemzetközi kutatási eredményeit bemutató előadásokra egyaránt sor kerül.
 

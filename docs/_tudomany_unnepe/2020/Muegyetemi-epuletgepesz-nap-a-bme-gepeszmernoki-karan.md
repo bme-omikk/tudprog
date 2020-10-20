@@ -10,7 +10,7 @@ tud_helyszin: virtuális tér, https://talalkozzunk-muegyetem.hu/
 tud_intezmeny: BME Gépészmérnöki Kar Épületgépészeti és Gépészeti Eljárástechnika Tanszék Budapesti és Pest Megyei Mérnöki Kamara
 tud_kapcsolattarto: Keresztes Anita, keresztes.anita@bpmk.hu
 tud_url: https://talalkozzunk-muegyetem.hu
-date: 2020-10-26
+date: 2020-11-26
 ---
 Az Országos Magyar Épületgépész Napok egyik legnagyobb rendezvényét idén is a Műegyetem és a Budapesti és Pest Megyei Mérnöki Kamara szervezi.
 

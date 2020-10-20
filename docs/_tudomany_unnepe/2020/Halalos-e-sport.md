@@ -10,7 +10,7 @@ tud_helyszin: Online, Zoom platformon. A csatlakozáshoz a linket a rendezvény 
 tud_intezmeny: BME VIK, Hírközlési és Informatikai Tudományos Egyesület
 tud_kapcsolattarto: Bacsárdi László (bacsardi@hit.bme.hu, +36 30 266 6845), Heszberger Zalán (heszi12@gmail.com)
 tud_url: https://www.hte.hu/tavkozlesi-klub/-/esemeny/1/4669065/halalos-e-sport-tavkozlesi-szakosztaly
-date: 2020-10-24
+date: 2020-11-24
 ---
 Az e-sport a digitális korszak olyan különleges jövevénye, amely a fiatal generáció sajátja, rajtuk kívül csak kevesen értik vagy művelik. Legegyszerűbben a számítógépes játékok versenyszerű űzéseként lehetne körül írni.
 

@@ -11,7 +11,7 @@ tud_teams: https://teams.microsoft.com/l/meetup-join/19%3Ameeting_YWEwMTQwMTctYT
 tud_intezmeny: Budapesti Műszaki és Gazdaságtudományi Egyetem, VIK AUT
 tud_kapcsolattarto: Dr. Forstner Bertalan, forstner.bertalan@aut.bme.hu, 06 1 463 1668
 tud_url: https://www.bme.hu
-date: 2020-10-24
+date: 2020-11-24
 ---
 Egy kerekasztal-beszélgetésen és workshopon bemutatjuk a BME VIK AUT tanszékén folyó kutatást a mesterséges valóság alkalmazási lehetőségeit ipari területeken. Különös hangsúlyt kap a tréningek hatékonyságának összehasonlító vizsgálata különböző tréningeszközökkel. Ehhez bemutatjuk a mérési környezetet és a módszertanokat, és ismertetjük a mérési eredményeket is. Bemutatunk több megvalósult projektet is a területen. 
 Ezután vitaindító beszélgetést folytatunk a jövőbeli várható irányok, hasznosítási területek kapcsán. A kerekasztal-beszélgetésen a moderátori szerepet is betöltő kutató, Dr. Forstner Bertalan partnerei lesznek szakértőink és kutatóink: Dr. Blázovics László, Hideg Attila, Bakó Benjámin és Szakál Vince Abosa.
