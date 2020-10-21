@@ -8,6 +8,7 @@ tud_tudomanyterulet: energetika
 tud_idopont: 2020. nov. 17.
 tud_helyszin: MTA Székház Díszterem
 tud_teams:
+tud_yutube: https://mta.hu/tudomanyunnep/elo-kozvetites-hamarosan-az-mta-youtube-csatornajan-110888
 tud_intezmeny: Budapesti Műszaki és Gazdaságtudományi Egyetem Energiatudományi Kutatóközpont, Budapesti Corvinus Egyetem Power-to-Gas Hungary Kft.
 tud_kapcsolattarto: imreattila@energia.bme.hu +36-1-463-2637
 tud_url: https://www.energia.mta.hu/~pressure/2hp2g/p2g_main_1.htm
