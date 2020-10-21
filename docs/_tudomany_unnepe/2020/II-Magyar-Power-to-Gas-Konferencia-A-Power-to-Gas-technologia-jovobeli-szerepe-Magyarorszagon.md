@@ -6,7 +6,7 @@ title: II. Magyar Power-to-Gas Konferencia -  A Power-to-Gas technológia jövő
 tud_tipus: konferencia
 tud_tudomanyterulet: energetika
 tud_idopont: 2020. nov. 17.
-tud_helyszin: MTA Székház Nagyterem
+tud_helyszin: MTA Székház Díszterem
 tud_teams:
 tud_intezmeny: Budapesti Műszaki és Gazdaságtudományi Egyetem Energiatudományi Kutatóközpont, Budapesti Corvinus Egyetem Power-to-Gas Hungary Kft.
 tud_kapcsolattarto: imreattila@energia.bme.hu +36-1-463-2637

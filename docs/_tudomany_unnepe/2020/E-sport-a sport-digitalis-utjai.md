@@ -2,7 +2,7 @@
 layout: collection
 tud_slogen: Jövőformáló tudomány
 tud_title: A Magyar Tudomány Ünnepe 2020
-title: Halálos e-sport
+title: E-sport a sport digitális útjai
 tud_tipus: Kerekasztal-beszélgetés
 tud_tudomanyterulet: Távközlés, informatika
 tud_idopont: 2020.11.24. 17:15 - 19:15
