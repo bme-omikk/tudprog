@@ -7,7 +7,7 @@ tud_tipus: kerekasztal-beszélgetés Dr. Baksay-Nagy György, Dr. Grad-Gyenge An
 tud_tudomanyterulet: jog
 tud_idopont: 2020. november 25. 10:00
 tud_helyszin: Online
-tud_teams: https://teams.microsoft.com/l/meetup-join/19%3aae270a05b01c4c43b653f2ecf2869aad%40thread.tacv2/1603102214728?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%22c7eaf7d2-684b-4597-b217-6a9121400219%22%7d
+tud_teams:
 tud_intezmeny: BME GTK Üzleti Jog Tanszék
 tud_kapcsolattarto: dr. Grad-Gyenge Anikó a.gyenge@eik.bme.hu
 tud_url: http://www.law.bme.hu
