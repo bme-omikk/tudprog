@@ -10,7 +10,7 @@ tud_helyszin: Online rendezvény, Teams platformon. A linket a rendezvény honla
 tud_teams:
 tud_intezmeny: BME Villamosmérnöki és Informatikai Kar, MTA-BME Informatikai rendszerek kutatócsoport
 tud_kapcsolattarto: Telek Miklós (telek@hit.bme.hu, +36 1 463-2084)
-tud_url: https://dtp.physics.bme.hu/?language=hu
+tud_url: http://webspn.hit.bme.hu/~telek/behalozva/
 date: 2020-11-19
 ---
 A workshop a hálózattudomány területén az utóbbi időben elért új tudományos eredményeket foglalja össze.
