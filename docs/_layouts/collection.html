@@ -25,6 +25,7 @@ layout: default
 	{%- if page.tud_intezmeny -%}<li><b>Szervező intézmény(ek): </b>{{ page.tud_intezmeny | escape }}</li>{%- endif -%}
 	{%- if page.tud_kapcsolattarto -%}<li><b>Kapcsolattartó: </b>{{ page.tud_kapcsolattarto | escape }}</li>{%- endif -%}
 	{%- if page.tud_url -%}<li><b>A rendezvény honlapja az alábbi <a href="{{ page.tud_url | escape }}" target="_blank">linken</a> érhető el.</b></li>{%- endif -%}
+	{%- if page.tud_url_soon -%}<li><b>A rendezvény honlapjának elérhetősége:</b> Hamarosan...{%- endif -%}
    </ul>
 	</header>
 
