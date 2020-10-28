@@ -11,7 +11,7 @@ tud_teams:
 tud_intezmeny: BME Villamosmérnöki és Informatikai Kar
 tud_kapcsolattarto: Horváth Gábor (horvath.gabor@vik.bme.hu, +36 70 514 7557)
 tud_url:
-date: 2020-11-19
+date: 2020-11-24
 ---
 A „Jövőformáló elektronika” workshop programterve:
 
