@@ -7,10 +7,10 @@ tud_tipus: Workshop
 tud_tudomanyterulet: Elektronika, elektronikai technológia
 tud_idopont: 2020. November 24. 14:00-16:00
 tud_helyszin: Online rendezvény, Teams platformon. A linket a rendezvény honlapján tesszük közzé.
-tud_teams:
+tud_teams: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTQyNDM4NDEtZjg4NS00NzEwLWEwMDctYjhlMTkzZmFiNjRi%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%226fde4801-a4ed-4075-b609-906d96729a61%22%7d
 tud_intezmeny: BME Villamosmérnöki és Informatikai Kar
 tud_kapcsolattarto: Horváth Gábor (horvath.gabor@vik.bme.hu, +36 70 514 7557)
-tud_url_soon: Hamarosan...
+tud_url_soon:
 date: 2020-11-24
 ---
 A „Jövőformáló elektronika” workshop programterve:
