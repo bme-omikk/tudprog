@@ -19,9 +19,9 @@ Ender Ferenc: <b>Nanohordozók mikrofluidikai környezetben - léptékváltás a
 
 "Az Ipar 4.0 technológiai hátterének kialakulásával egy időben számos nagy potenciállal rendelkező eljárás jutott a (gyógyszer-)ipari alkalmazhatóság küszöbére, melyek közül az előadás a nanoszálas hordozórendszerek előállításával foglalkozik. Bár az elektrosztatikus elvű szálképzés egyszerűsége révén népszerű laboratóriumi technológia, az ipari léptékű alkalmazása számos gyakorlati kérdést felvet, melyek közül néhány lényeges aspektust mutatunk be."
 
-Poppe András: <b>Lightning 4.0</b>
+Poppe András: <b>Lighting 4.0, Ipar 4.0 szemlélet a LED-es világítástechnikában</b>
 
-Absztrakt készülőben...
+A mesterséges világítás legutóbbi nagy, forradalmi változását a LED-esítés, azaz a szilárdtest világítástechnika (solid-state lighting, SSL) kialakulása jelentette. Ez hatásait tekintve összevethető azzal, amikor az elektronikai iparban a vákuumtechnika (elektroncsövek) alkalmazását végleg kiszorították a félvezető eszközök (tranzisztorok, integrált áramkörök). Az egyes LED-es világítótesek a közeljövőben képessé válhatnak a saját “egészségi állapotuk” monitorozására (health monitoring), hátralévő hasznos élettartamuk és várható meghibásodásuk folyamatos becslésére, amely alapján a megfelelő karbantartási feladatok tervezhetők (predictive maintenance). A LIGTHING 4.0-át ezek megvalósulása, mindennapos használata jelenti majd. Az előadásban a LIGHTING 4.0 (világítástechnika 4.0) víziót és a BME VIK Elektronikus Eszközök Tanszékén folyó, a LIGHTING 4.0 kialakulását célzó LED-es K+F tevékenység eredményeit mutatjuk be.
 
 Mizsei János: <b>Oxid elektronika: lépés a "vörös" téglafal mögé neuromorf logikával</b>
 
