@@ -21,4 +21,4 @@ A TEAMS felületen zajló online rendezvény várható programterve:
 - Kiválóságaink köszöntése
 - Professzori székfoglaló előadások 
 
-A virtuális esemény nyilvános, de a részvételi szándékát a <div class="_link"><a class="post-content" href="mailto:kommunikacio@bme.hu">kommunikacio@bme.hu</a></div> e-mail címre november 16.-án 10 óráig kérjük jelezni. 
+A virtuális esemény nyilvános, de a részvételi szándékát a <div class="_link"><a class="post-content" href="mailto:kommunikacio@bme.hu">kommunikacio@bme.hu </a></div>e-mail címre november 16.-án 10 óráig kérjük jelezni. 
