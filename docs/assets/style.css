@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.link .ui-link{
+	margin-right:0px !important;
+	
+}
+
 /*header*/
 .post-header .ui-link{
 	margin-right:0px !important;
