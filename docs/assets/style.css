@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-._link {
+.post-content .ui-link{
 	margin-right:0px !important;
 	
 }
