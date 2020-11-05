@@ -1,5 +1,6 @@
 ﻿/*site CSS*/
 
+
 * {
   box-sizing: border-box;
 }
@@ -24,7 +25,7 @@
   font-size: 26px !important;
   float: none !important;
   margin-top:20px !important;
-  color: #38c !important;
+  color: #a82b31 !important;
 }
 
 
@@ -37,7 +38,7 @@
   font-size: 26px !important;
   float: none !important;
   margin-top:20px !important;
-  color: #38c !important;
+  color: #a82b31 !important;
 }
 
 
@@ -107,11 +108,20 @@ border-top: 5px solid #a82b31 !important;
 }
 .ui-page-theme-a .ui-btn{
 	
-	color:#38c !important;
+	color:#000 !important;
 	font-weight:normal !important;
 
 	
 }
+
+.ui-page-theme-a .ui-btn:hover{
+	
+	color:#5e5e5e !important;
+	
+
+	
+}
+
 
 .topnav {
   overflow: hidden;
@@ -122,7 +132,7 @@ border-top: 5px solid #a82b31 !important;
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #a82b31 !important;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -180,7 +190,7 @@ border-top: 5px solid #a82b31 !important;
 .topnav a:hover, .dropdown:hover .dropbtn {
   background-color: none !important;
   text-decoration:none;
-  color:#5caff1 !important;
+  color:#d84c53 !important;
   
 }
 
@@ -231,7 +241,7 @@ body {margin:0;font-family:Open sans !important;}
 
 h3{
 	
-color:#38c !important;
+color:#000 !important;
 	
 }
 .wrapper{
@@ -269,7 +279,7 @@ color:#38c !important;
 
 .content h2 {
 	font-weight:bold;
-	color: #38c;
+	color: #a82b31;
 	text-align:center;
 	word-wrap: break-word;
 	
@@ -322,7 +332,7 @@ hyphens: manual;
 a.button {
   margin-top:auto !important;
   border-radius: 4px;
-  background-color: #5ca1e1;
+  background-color: #a82b31;
   border: none;
   color: #fff;
   text-align: center;
@@ -391,7 +401,7 @@ a.site-title{
 }
 a.site-title:hover{
   text-decoration:none;	
-  color:#5caff1 !important;
+  color:#000 !important;
   
 }
 
@@ -403,7 +413,7 @@ margin-left:8px;
 
 .esemenylista li:nth-child(odd) {
 	
-	background:#f2f8fc;
+	background:#f0f2f4;
 	
 }
 
