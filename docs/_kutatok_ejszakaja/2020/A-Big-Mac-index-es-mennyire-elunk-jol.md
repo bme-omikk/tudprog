@@ -21,6 +21,5 @@ pontosan, hogy itt a vásárlóerő-paritás (PPP) látványos, közérthetően 
 
 
 <img src="Danyi_Big Mac PPP.jpg" max-width="500" class="center"> 
-<br><br>
-<b>Programfelelős/előadó:</b>
+
 
