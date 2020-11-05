@@ -21,28 +21,3 @@ Az élővilág számtalan stratégiát dolgozott ki a túlélés és fejlődés 
 
 
 <img src="evolucio.png" max-width="500" class="center"> 
-
-<br><br>
-<b>Programfelelős/előadó:</b>
-
-<table class="picture">
-<tr>
-<td>
-<div class="gallery">
-<a target="_blank" href="Botzheim_Janos.jpg">
-    <img src="Botzheim_Janos.jpg" alt="Dr. Botzheim János" max-width="150" max-height="100">
-	</a>
-  <div class="desc">Dr. Botzheim János</div>
-</div>
-
-<div class="gallery">
-<a target="_blank" href="Gyongyossy_Natabara_Mate.png">
-    <img src="Gyongyossy_Natabara_Mate.png" alt="Gyöngyössy_Natabara_Máte" max-width="150" max-height="100">
-	</a>
-  <div class="desc">Gyöngyössy Natabara Máté</div>
-</div>
-
-
-</td>
-</tr>
-</table>

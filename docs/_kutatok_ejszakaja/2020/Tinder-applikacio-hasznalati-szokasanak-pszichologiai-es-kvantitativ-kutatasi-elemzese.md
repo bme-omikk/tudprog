@@ -17,28 +17,3 @@ Tanszék, valamint az ELTE PPK Egészségfejlesztési és Sporttudományi Intéz
 
 Az előadás két részből áll: egyrészt egy hazai kutatás médiahasználati szokás bemutatásából, kik, miért, és hogyan használják a Tindert. Vajon a férfiak másképp Tindereznek, mint a nők? Lehet -e megkülönböztetni különféle csoportokat? Kitérünk a kérdőív kitöltők által megírt pozitív, negatív sztorikra, mint például a Tinder íratlan szabályaira is.
 Másrészt fontosnak véljük, hogy ennek a randiappnak a használatához kapcsolódó lelki folyamatokról is beszéljünk. Mit okoz, mit okozhat a felhasználókban a Tinder? Hogyan módosul a parkeresés, a pártalálás, maga a párkapcsolat? Mennyiben befolyásolja az applikáció a szerelemhez, illetve a szexhez való hozzáállását?
-
-<br><br>
-<b>Programfelelős/előadó:</b>
-
-<table class="picture">
-<tr>
-<td>
-<div class="gallery">
-<a target="_blank" href="Bern_IMG_2647.png">
-    <img src="Bern_IMG_2647.png" alt="Dr. Hevesi Krisztina" max-width="150" max-height="100">
-	</a>
-  <div class="desc">Dr. Hevesi Krisztina</div>
-</div>
-
-<div class="gallery">
-<a target="_blank" href="Bern_NGA_2446_2244.JPG">
-    <img src="Bern_NGA_2446_2244.JPG" alt="Dr. Bernschütz Mária" max-width="150" max-height="100">
-	</a>
-  <div class="desc">Dr. Bernschütz Mária</div>
-</div>
-
-
-</td>
-</tr>
-</table>
