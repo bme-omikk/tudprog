@@ -1,16 +1,25 @@
-﻿/*site CSS Kutéj*/
+﻿/*site CSS*/
 
+* {
+  box-sizing: border-box;
+}
 
+/*header*/
 .post-header .ui-link{
 	margin-right:0px !important;
 	
 }
 
+/*Tudomány ünnepe page-heading*/
+.tudunnep-page-heading{
+	
 
-h3{
-	
-color:#38c !important;
-	
+  font-weight: bold !important;
+  line-height: 35px !important;
+  font-size: 26px !important;
+  float: none !important;
+  margin-top:20px !important;
+  color: #38c !important;
 }
 
 
@@ -27,24 +36,9 @@ color:#38c !important;
 }
 
 
-/*site CSS Tudünnep*/
-* {
-  box-sizing: border-box;
-}
-
-.wrapper{
-	max-width: 980px !important;
-    margin-left:auto;
-	margin-right:auto;
-	padding-left:18px !important;
-	padding-right:18px !important;
-}
-
-/*header*/
 .site-header{
 border-top: 5px solid #a82b31 !important;
 }
-
 
 .main-header-wrapper{
 	
@@ -98,54 +92,6 @@ border-top: 5px solid #a82b31 !important;
  {
      
     }
-	
-/*footer*/
-
-.footer-col-wrapper{
-    *display: table;
-    *text-align: center;
-    margin-left: auto;
-    margin-right: auto;	
-	
-}
-	
-	
-.footer-wrapper{
-	max-width: 980px !important;
-    margin-left:auto;
-	margin-right:auto;
-	padding-left:0px !important;
-	padding-right:0px !important;
-	*display: table;
-    *text-align: center;
-	
-}
-
-.main-footer-wrapper{
-	max-width: 980px !important;
-    margin-left:auto;
-	margin-right:auto;
-	padding-left:0px !important;
-	padding-right:0px !important;
-	display: table;
-    text-align: center;
-	
-}
-.footer-wrapper img {
-    max-width: 120px;
-    vertical-align: middle;
-}
-
-.main-footer-wrapper img {
-    max-width: 120px;
-    vertical-align: middle;
-}
-	
-
-
-body {margin:0;font-family:Open sans !important;}
-
-
 
 
 /*Menu*/
@@ -273,10 +219,30 @@ body {margin:0;font-family:Open sans !important;}
   }
 }
 
+
+/*content*/
+
+body {margin:0;font-family:Open sans !important;}
+
+h3{
+	
+color:#38c !important;
+	
+}
+.wrapper{
+	max-width: 980px !important;
+    margin-left:auto;
+	margin-right:auto;
+	padding-left:18px !important;
+	padding-right:18px !important;
+}
+
 .post-title{
 	
 	font-size:24px !important;
 }
+
+
 
 /* Create two equal columns that floats next to each other */
 .column {
@@ -345,6 +311,7 @@ hyphens: manual;
 	  margin-right:auto;
 	
 }
+/*main page*/
 
 /*main page button*/
 a.button {
@@ -394,6 +361,8 @@ a.button:hover{
 	text-shadow:none !important;
 }
 
+
+
 /*Az oldal címsor mérete */
 .page-heading{
  color: #38c !important;
@@ -410,19 +379,6 @@ a.button:hover{
 	
 }
 
-
-/*Tudomány ünnepe page-heading*/
-.tudunnep-page-heading{
-	
-
-  font-weight: bold !important;
-  line-height: 35px !important;
-  font-size: 26px !important;
-  float: none !important;
-  margin-top:20px !important;
-  color: #38c !important;
-}
-
 a.site-title{
   text-align:center !important;
   color: #56565a !important;
@@ -433,9 +389,6 @@ a.site-title:hover{
   color:#5caff1 !important;
   
 }
-
-
-
 
 .contact-list p{
 
@@ -462,3 +415,47 @@ background:none !important;
 	
 }
 
+
+
+/*footer*/
+
+.footer-col-wrapper{
+    *display: table;
+    *text-align: center;
+    margin-left: auto;
+    margin-right: auto;	
+	
+}
+	
+	
+.footer-wrapper{
+	max-width: 980px !important;
+    margin-left:auto;
+	margin-right:auto;
+	padding-left:0px !important;
+	padding-right:0px !important;
+	*display: table;
+    *text-align: center;
+	
+}
+
+.main-footer-wrapper{
+	max-width: 980px !important;
+    margin-left:auto;
+	margin-right:auto;
+	padding-left:0px !important;
+	padding-right:0px !important;
+	display: table;
+    text-align: center;
+}
+
+.footer-wrapper img {
+    max-width: 120px;
+    vertical-align: middle;
+}
+
+.main-footer-wrapper img {
+    max-width: 120px;
+    vertical-align: middle;
+}
+	
