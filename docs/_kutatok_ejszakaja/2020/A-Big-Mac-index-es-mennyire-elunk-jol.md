@@ -24,16 +24,3 @@ pontosan, hogy itt a vásárlóerő-paritás (PPP) látványos, közérthetően 
 <br><br>
 <b>Programfelelős/előadó:</b>
 
-
- <table class="picture">
-<tr>
-<td>
-<div class="gallery">
-<a target="_blank" href="Danyi_large3.jpg">
-    <img src="Danyi_large3.jpg" alt="Dr. Danyi Pál" width="150" height="100">
-	</a>
-  <div class="desc">Dr. Danyi Pál</div>
-</div>
-</td>
-</tr>
-</table>
