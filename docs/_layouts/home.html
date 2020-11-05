@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-<head>
-<link rel="stylesheet" href="{{ base.url}}/assets/jquery.mobile-1.4.5.min.css" />
-<script src="{{ base.url}}/assets/jquery-1.11.1.min.js"></script>
-<script src="{{ base.url}}/assets/jquery.mobile-1.4.5.min.js"></script>
-</head>
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -14,20 +10,21 @@ layout: default
   {{ content }}
 
   
-  <ul id="esemenylista" data-role="listview" data-filter="true" data-filter-placeholder="Keresés..." >
-{%- assign items = site.2019_tudomany_unnepe | sort: "date" -%}
+<div class="row">
+  {%- assign items = site.homepage | sort: "date" -%}
+  
 {%- for item in items -%}
+  {%- assign tud_year = item.date | truncate: 4, "" -%}
+  <div class="column">
+   <div class="content" style="background-color:#eeeced">
+    <h2>{{ item.tud_title | escape }} <br> {{ tud_year | escape }}</h2>
+    <p>{{ item.tud_description | escape }}</p>
+    <br>
+    <p><div class="section_button"><a class="button" href="{{ item.tud_url | relative_url }}">{{ item.tud_subtitle | escape }}</a></div></p>
+   </div>
+ </div>
+  
+{%- endfor -%} 
 
-  <li>
-  
-  <a class="rendezveny_title" href="{{ item.url | relative_url }}"> {{ item.title | escape }} </a>
-  <p> {{ item.tud_tipus | escape }} <br> {{ item.tud_tudomanyterulet | escape }} </p>
-  <p> {{ item.tud_idopont | escape }} </p>
- 
-  </li>
-       
-{%- endfor -%}
-  </ul>
-  
 </div>
 

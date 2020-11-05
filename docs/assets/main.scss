@@ -3,6 +3,13 @@
 ---
 
 @import "minima";
+@import "style.css";
+@import "nav.css";
+
+
+
+
+
 
 #searchInput {
   background-image: url({{'/assets/images/searchicon.png' | relative_url}});
@@ -81,11 +88,12 @@ li.ui-link{
 }
 
 a.site-title{ 
-  color: #38c !important;
+  color: #38c;
   font-weight:normal !important;
   line-height: 35px !important;
-  font-size:24px !important;
+  font-size:23px !important;
   float:none !important;
+
 }
 
 a.home-url{

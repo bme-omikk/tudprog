@@ -1,0 +1,464 @@
+﻿/*site CSS Kutéj*/
+
+
+.post-header .ui-link{
+	margin-right:0px !important;
+	
+}
+
+
+h3{
+	
+color:#38c !important;
+	
+}
+
+
+/*Kutatók éjszakája page-heading*/
+.kutej-page-heading{
+	
+
+  font-weight: bold !important;
+  line-height: 35px !important;
+  font-size: 26px !important;
+  float: none !important;
+  margin-top:20px !important;
+  color: #38c !important;
+}
+
+
+/*site CSS Tudünnep*/
+* {
+  box-sizing: border-box;
+}
+
+.wrapper{
+	max-width: 980px !important;
+    margin-left:auto;
+	margin-right:auto;
+	padding-left:18px !important;
+	padding-right:18px !important;
+}
+
+/*header*/
+.site-header{
+border-top: 5px solid #a82b31 !important;
+}
+
+
+.main-header-wrapper{
+	
+	    -moz-align-items: center;
+    -webkit-align-items: center;
+    -ms-align-items: center;
+    align-items: center;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -moz-justify-content: center;
+    -webkit-justify-content: center;
+    -ms-justify-content: center;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+
+    flex-wrap: wrap;
+	max-width: 980px !important;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+.header-wrapper{
+	
+	max-width: 980px !important;
+    align-items: center;
+    display: flex;
+    *justify-content: center;
+    position: relative;
+    text-align: center ;
+    overflow: hidden;
+    flex-wrap: wrap;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+.header-wrapper h1{
+
+	position: relative;
+	text-align: left !important;
+	justify-content: left !important;
+
+}
+
+ .header-wrapper img
+ {
+     
+    }
+	
+/*footer*/
+
+.footer-col-wrapper{
+    *display: table;
+    *text-align: center;
+    margin-left: auto;
+    margin-right: auto;	
+	
+}
+	
+	
+.footer-wrapper{
+	max-width: 980px !important;
+    margin-left:auto;
+	margin-right:auto;
+	padding-left:0px !important;
+	padding-right:0px !important;
+	*display: table;
+    *text-align: center;
+	
+}
+
+.main-footer-wrapper{
+	max-width: 980px !important;
+    margin-left:auto;
+	margin-right:auto;
+	padding-left:0px !important;
+	padding-right:0px !important;
+	display: table;
+    text-align: center;
+	
+}
+.footer-wrapper img {
+    max-width: 120px;
+    vertical-align: middle;
+}
+
+.main-footer-wrapper img {
+    max-width: 120px;
+    vertical-align: middle;
+}
+	
+
+
+body {margin:0;font-family:Open sans !important;}
+
+
+
+
+/*Menu*/
+.ui-btn.ui-corner-all{
+	
+	border-radius:0 !important;
+	
+}
+.ui-page-theme-a .ui-btn{
+	
+	color:#38c !important;
+	font-weight:normal !important;
+
+	
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #f9f9f9 !important;
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.2);
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+  color:#38c !important;
+  text-shadow: 0px 0px 0px #FF0000 !important;
+}
+
+.dropdown .dropbtn {
+  font-size: 17px;    
+  border: none;
+  outline: none;
+  padding: 14px 16px;
+  margin: 0;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+ 
+}
+
+.dropbtn{
+	 background:none !important;
+	
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: none !important;
+  text-decoration:none;
+  color:#5caff1 !important;
+  
+}
+
+.dropdown-content a:hover {
+  color: black;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+	
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: center;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+.post-title{
+	
+	font-size:24px !important;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  
+  float: left;
+  width: 50%;
+  min-height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin:8px;
+  padding: 20px;
+  min-height: 400px; /* Should be removed. Only for demonstration */
+
+}
+
+.content h2 {
+	font-weight:bold;
+	color: #38c;
+	text-align:center;
+	word-wrap: break-word;
+	
+}
+
+.content:hover {
+ box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+
+}
+
+
+.content a:hover{
+	text-decoration: none;
+	
+}
+
+.content a{
+color:#fff !important;
+}
+
+
+.content p{
+text-align:left;
+hyphens: manual;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+.section_button{
+	
+	  max-width: 150px;
+	  margin-left:auto;
+	  margin-right:auto;
+	
+}
+
+/*main page button*/
+a.button {
+  margin-top:auto !important;
+  border-radius: 4px;
+  background-color: #5ca1e1;
+  border: none;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  padding: 16px;
+
+  transition: all 0.5s;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right:auto;
+  box-shadow: 0 10px 20px -8px rgba(0, 0, 0,.7);
+}
+
+a.button{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+a.button:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;  
+  top: 14px;
+  right: -20px;
+  transition: 0.5s;
+}
+
+a.button:hover{
+  padding-right: 24px;
+  padding-left:8px;
+}
+
+.button:hover:after {
+  opacity: 1;
+  right: 10px;
+}
+
+.ui-page-theme-a{
+	text-shadow:none !important;
+}
+
+/*Az oldal címsor mérete */
+.page-heading{
+ color: #38c !important;
+ font-weight: normal !important;
+ line-height: 35px !important;
+ font-size: 24px !important;
+ float: none !important;
+	
+}
+
+/*a description behúzása*/
+.ui-link{
+	margin-right:10px;
+	
+}
+
+
+/*Tudomány ünnepe page-heading*/
+.tudunnep-page-heading{
+	
+
+  font-weight: bold !important;
+  line-height: 35px !important;
+  font-size: 26px !important;
+  float: none !important;
+  margin-top:20px !important;
+  color: #38c !important;
+}
+
+a.site-title{
+  text-align:center !important;
+  color: #56565a !important;
+  
+}
+a.site-title:hover{
+  text-decoration:none;	
+  color:#5caff1 !important;
+  
+}
+
+
+
+
+.contact-list p{
+
+margin-left:8px;	
+	
+}
+
+.esemenylista li:nth-child(odd) {
+	
+	background:#f2f8fc;
+	
+}
+
+a.rendezveny_title:hover  {
+	color:#5caff1 !important;
+	
+}
+
+
+.ui-page-theme-a .ui-btn{
+	
+background:none !important;	
+	
+	
+}
+

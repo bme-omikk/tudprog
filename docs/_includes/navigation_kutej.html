@@ -1,0 +1,49 @@
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+ </head>
+
+<div class="topnav" id="myTopnav">
+
+        {% assign links = site.data.navigation_kutej %}
+        {% for link in links %}
+            {% assign class = nil %}
+            {% if page.url contains link.url %}
+                {% assign class = 'active' %}
+            {% endif %}
+            {% if link.sublinks %}
+			<div class="dropdown">
+               <button class="dropbtn">{{ link.title }}
+               <i class="fa fa-caret-down"></i>
+               </button>
+		   
+			<div class="dropdown-content">
+                
+                    
+                        {% for sublink in link.sublinks %}
+                                                         
+                                    <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                                                            
+                        {% endfor %}
+               
+			</div>
+			</div>
+            {% else %}
+               {% if link.url %}
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+			   {% else %}
+			         {% if page.tud_idopont %}  
+			          <a href="/{{ site.baseurl }}tudunnep/{{page.tud_idopont | truncate: 4, ""}}/about">{{ link.title }}</a>
+					 {% else %}
+					  <a href="{{ site.url }}{{ site.baseurl }}{{ page.url | remove: "about/" }}about/">{{ link.title }}</a>
+					 {% endif %}	
+					
+			   {% endif %}
+            {% endif %}
+        {% endfor %}
+   
+
+ <a href="#" style="font-size:15px;" class="icon" onclick="myFunction(this);return true;">&#9776;</a>
+      </div>
+

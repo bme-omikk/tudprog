@@ -3,27 +3,24 @@ layout: default
 
 ---
 
-{%- include navigation.html -%}
-{%- include tudunnep_header.html -%}
-
-  <p><a href="{{ site.url }}{{ site.baseurl }}/tudunnep/{{page.date| truncate: 4, ""}}"><< Vissza a programok listájára</a></p>
-
+{%- include navigation_kutej.html -%}
+{%- include kutej_header.html -%}
+  <p><a href="{{ site.url }}{{ site.baseurl }}/kutej/{{page.date| truncate: 4, ""}}"><< Vissza a programok listájára</a></p>
+  
 {%- if page.title -%}<h3 class="bold">{{ page.title | escape }}</h3>{%- endif -%}
-
-
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
   <ul>
+   
     {%- if page.tud_tipus -%}<li><b>A rendezvény típusa: </b>{{ page.tud_tipus | escape }}  </li>{%- endif -%}
 	{%- if page.tud_tudomanyterulet -%}<li><b>Tudományterület: </b>{{ page.tud_tudomanyterulet | escape }}</li>{%- endif -%}
     {%- if page.tud_idopont -%}<li><b>A rendezvény időpontja: </b>{{ page.tud_idopont | escape }}</li>{%- endif -%}
 	{%- if page.tud_helyszin -%}<li><b>A rendezvény helyszíne: </b>{{ page.tud_helyszin | escape }}</li>{%- endif -%}
-	{%- if page.tud_teams -%}<li><b>A rendezvény helyszíne: <a href="{{ page.tud_teams | escape }}" target="_blank">Microsoft Teams</a></b></li>{%- endif -%}
 	{%- if page.tud_intezmeny -%}<li><b>Szervező intézmény(ek): </b>{{ page.tud_intezmeny | escape }}</li>{%- endif -%}
 	{%- if page.tud_kapcsolattarto -%}<li><b>Kapcsolattartó: </b>{{ page.tud_kapcsolattarto | escape }}</li>{%- endif -%}
-	{%- if page.tud_url -%}<li><b>A rendezvény honlapja az alábbi <a href="{{ page.tud_url | escape }}" target="_blank">linken</a> érhető el.</b></li>{%- endif -%}
+	{%- if page.tud_url -%}<li><b>A rendezvény honlapjának elérhetősége: </b><a href="{{ page.tud_url | escape }}" target="_blank">{{ page.tud_url | escape }}</a></li>{%- endif -%}
    </ul>
 	</header>
 
@@ -45,4 +42,4 @@ layout: default
 
 
 </article>
-{%- include tudunnep_footer.html -%}
+{%- include kutej_footer.html -%}
