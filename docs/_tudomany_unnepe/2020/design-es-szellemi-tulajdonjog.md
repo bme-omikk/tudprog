@@ -3,7 +3,7 @@ layout: collection
 tud_slogen: Jövőformáló tudomány
 tud_title: A Magyar Tudomány Ünnepe 2020
 title: Design és szellemi tulajdonjog
-tud_tipus: kerekasztal-beszélgetés Dr. Baksay-Nagy György, Dr. Grad-Gyenge Anikó, Dr. Horák Péter, Dr. Jókúti András
+tud_tipus: Kerekasztal-beszélgetés Dr. Baksay-Nagy György, Dr. Grad-Gyenge Anikó, Dr. Horák Péter, Dr. Jókúti András
 tud_tudomanyterulet: jog
 tud_idopont: 2020. november 25. 10:00
 tud_helyszin: Online

@@ -3,7 +3,7 @@ layout: collection
 tud_slogen: Jövőformáló tudomány
 tud_title: A Magyar Tudomány Ünnepe 2020
 title: II. Magyar Power-to-Gas Konferencia -  A Power-to-Gas technológia jövőbeli szerepe Magyarországon
-tud_tipus: konferencia
+tud_tipus: Konferencia
 tud_tudomanyterulet: energetika
 tud_idopont: 2020. nov. 17.
 tud_helyszin: MTA Székház Díszterem

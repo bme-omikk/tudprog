@@ -9,7 +9,7 @@ tud_idopont: 2020.11.25. 16:00 - 17:30
 tud_helyszin:
 tud_teams: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWY1MTYxMGEtYzE2Ny00NDg3LTkzODUtMDUyNjM4MWUwZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%227399e1aa-4d05-4eb4-9b35-316ef6fe34cf%22%7d
 tud_intezmeny: BME VIK, Hálózati Rendszerek és Szolgáltatások Tanszék
-tud_kapcsolattarto: Bacsárdi László (bacsardi@hit.bme.hu, +36 30 266 6845)
+tud_kapcsolattarto: Bacsárdi László (bacsardi@hit.bme.hu, 06-1-463-2556)
 tud_url:
 date: 2020-11-25
 ---

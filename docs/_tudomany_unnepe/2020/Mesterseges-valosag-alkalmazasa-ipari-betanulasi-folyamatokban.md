@@ -3,7 +3,7 @@ layout: collection
 tud_slogen: Jövőformáló tudomány
 tud_title: A Magyar Tudomány Ünnepe 2020
 title: Mesterséges valóság alkalmazása ipari betanulási folyamatokban
-tud_tipus: kerekasztal-beszélgetés és workshop
+tud_tipus: Kerekasztal-beszélgetés és workshop
 tud_tudomanyterulet:
 tud_idopont: 2020 November 24. kedd, 16:00-17:00
 tud_helyszin:

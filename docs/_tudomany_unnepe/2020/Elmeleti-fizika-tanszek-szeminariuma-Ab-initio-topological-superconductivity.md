@@ -3,7 +3,7 @@ layout: collection
 tud_slogen: Jövőformáló tudomány
 tud_title: A Magyar Tudomány Ünnepe 2020
 title: Elméleti Fizika Tanszék szemináriuma
-tud_tipus: online előadás
+tud_tipus: Online előadás
 tud_tudomanyterulet: fizika
 tud_idopont: 2020. nov. 13. 10:15
 tud_helyszin:

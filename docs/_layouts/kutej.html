@@ -20,7 +20,7 @@ layout: default
   <ul id="esemenylista" data-role="listview" data-filter="true" data-filter-placeholder="Keresés..." >
  
 {%- assign tud_year = page.tud_year | truncate: 4, "" -%}
-{%- assign items = site.kutatok_ejszakaja | sort: "date" -%}
+{%- assign items = site.kutatok_ejszakaja | sort: "tud_intezmeny" -%}
 
 	{%- for item in items -%}
 		{%- assign tud_idopont = item.tud_idopont | truncate: 4, "" -%}
@@ -33,6 +33,7 @@ layout: default
 	<a class="rendezveny_title" href="{{ item.url | relative_url }}"> {{ item.title | escape }} </a>
 	<p> {{ item.tud_tipus | escape }} <br> {{ item.tud_tudomanyterulet | escape }} </p>
 	<p> {{ item.tud_idopont | escape }} </p>
+	<p> {{ item.tud_intezmeny | escape }} </p>
  
   </li>
 
@@ -42,5 +43,5 @@ layout: default
     </div>
 </div>
 <br>
-  <h3 style="color:#000 !important;">A programok listája 2020. november 3-ától érhető el.</h3>
+  <!-- <h3 style="color:#000 !important;">A programok listája 2020. november 3-ától érhető el.</h3> -->
 {%- include kutej_footer.html -%}

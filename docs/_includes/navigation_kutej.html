@@ -33,7 +33,7 @@
                     <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
 			   {% else %}
 			         {% if page.tud_idopont %}  
-			          <a href="/{{ site.baseurl }}tudunnep/{{page.tud_idopont | truncate: 4, ""}}/about">{{ link.title }}</a>
+			          <a href="/{{ site.baseurl }}kutej/{{page.tud_idopont | truncate: 4, ""}}/about">{{ link.title }}</a>
 					 {% else %}
 					  <a href="{{ site.url }}{{ site.baseurl }}{{ page.url | remove: "about/" }}about/">{{ link.title }}</a>
 					 {% endif %}	
