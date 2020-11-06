@@ -20,4 +20,4 @@ Tudod mi az az optimalizáció? Netán hallottál arról is, hogy egy igen nagys
 Az élővilág számtalan stratégiát dolgozott ki a túlélés és fejlődés érdekében, melyek eredményeképpen a mai élővilág kialakulhatott. Ez a folyamat napjainkban is zajlik, úgy kicsiben, ahogy nagyban is. Előadásunk során egysejtűek és az állatvilág olyan trükkjeit mutatjuk be, melyeket a mérnöki gyakorlat átvett és nehezebb problémáinak megoldására használ. A párhuzamok áttekintése mellett egyszerű példák segítségével tekintjük át ezen módszerek alapjait, valamint ezek néhány ipari alkalmazását.
 
 
-<img src="evolucio.png" max-width="500" class="center"> 
+<img src="images/evolucio.png" max-width="500" class="center"> 

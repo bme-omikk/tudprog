@@ -20,6 +20,6 @@ A Big Mac indexről sokan hallottak, de kevesek értik
 pontosan, hogy itt a vásárlóerő-paritás (PPP) látványos, közérthetően demonstrálható magyarázatáról van szó. A PPP a nemzetközi statisztika egyik legfontosabb fogalma, ami segít reálisan összehasonlítani különböző országok gazdasági teljesítményét és életszínvonalát. Az előadás áttekinti, hogy mire jó a PPP, másrészt konkrét példákon keresztül bemutatja, hogy mennyire élünk jól Magyarországon a többi EU-s országhoz képest, mindezt pontos számszerű statisztikákon keresztül.
 
 
-<img src="Danyi_Big Mac PPP.jpg" max-width="500" class="center"> 
+<img src="images/Danyi_Big Mac PPP.jpg" max-width="500" class="center"> 
 
 

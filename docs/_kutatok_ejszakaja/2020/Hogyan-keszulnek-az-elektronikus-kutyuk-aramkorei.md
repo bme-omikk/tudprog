@@ -25,5 +25,5 @@ date: 2020-10-27
 Mindnyájan használjuk az életünket ellepő elektronikai kütyüket, mobiltelefonokat, elektronikai eszközöket. Ám azt csak kevesen tudják, hogy milyen összetett lépéssorozaton keresztül készülnek el az eszközök lelkét képező áramköri szerelvények. A program során bemutatásra kerül az elektronikai ipar által széleskörűen használt felületszerelési technológia, az ehhez kapcsolódó technológiai lépések (pl. stencilnyomtatás) és berendezések. Az Elektronikai Technológia Tanszék laborkomplexumában az ipari megoldások és a kutatási lehetőségek egy érdekes, online eseményen érnek össze. A programban a jelenleg zajló aktív kutatási témákról is közérthető beszámolót nyújtanak a tématerületen dolgozó Bolyai+ ösztöndíjas tanszéki kutató kollégák.
 
 
-<img src="kutatok_2_ETT.jpg" max-width="500" class="center"> 
+<img src="images/kutatok_2_ETT.jpg" max-width="500" class="center"> 
 

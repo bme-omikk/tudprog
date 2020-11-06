@@ -20,5 +20,5 @@ date: 2020-10-27
 Az immár 86 éves Műszaki Pedagógia Tanszékünk egy rendhagyó, játékos utazásra hívja a kedves érdeklődőket, melynek keretében modern környezetben, a műszaki tudományok magyar fellegvárában interaktív módon bemutatjuk az oktatásban használt oktatástechnikai eszközök öt generációját. emellett felvonultatjuk a nemzedékek generációit is, a veteránoktól kezdve a Z generációkig. A játékkal egybekötött rövid, érdekfeszítő előadások során a gyakorlatban prezentáljuk, hogyan jutott el az oktatás a hagyományos palatáblától a krétás táblán keresztül az okostábláig, a falitábláktól a számítógépig, a logarléctől a kiterjesztett vagy virtuális valóságig. Az eszközöket széles tárházának bemutatása mellett az egyes emberi generációk is megszólalnak, és kis történeteket mesélnek a különböző oktatástechnikai eszközhasználatukkal kapcsolatos élményeikről. Az esemény online résztvevői aktív szerepet játszhatnak a Kutatók Éjszakájának Műegyetemi műszaki és pedagógia jellegű programjában, ismereteiket, tudásukat ezáltal gyarapíthatják a résztvevők.
 
 
-<img src="palatabla.png" max-width="500" class="center"> 
+<img src="images/palatabla.png" max-width="500" class="center"> 
 

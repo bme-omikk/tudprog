@@ -20,5 +20,5 @@ a számítógépes játékok jut eszébe, pedig a a terület nem ilyen játékok
 
 
 
-<img src="rock-paper-scisors.jpg" max-width="500" class="center"> 
+<img src="images/rock-paper-scisors.jpg" max-width="500" class="center"> 
 

@@ -21,5 +21,5 @@ Mi történik a tárgyak színével, ha színes LED-ek fénye alatt nézzük ők
 Keressük együtt a válaszokat a MOGI Tanszék optika laborjaiban, ahonnan érdekes kísérletek és vizsgálatok közvetítésével várunk minden kedves érdeklődőt.
 
 
-<img src="vilag_szinei.png" max-width="500" class="center"> 
+<img src="images/vilag_szinei.png" max-width="500" class="center"> 
 

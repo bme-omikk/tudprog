@@ -22,5 +22,5 @@ date: 2020-10-27
 Pár év múlva tényleg nem kell már vezetnünk? Tényleg veszélyes a mesterséges intelligencia? Mítoszrombolás és érdekes tények az önvezető járművek világából. Az előadásban megpróbálunk tiszta vizet önteni a pohárba a járművek automatizálásnak jelenlegi állásával és trendjeivel kapcsolatban. Rövid betekintést adunk a mesterséges intelligencia területére és annak autóipari felhasználásába. Megtekintjük a járműmérnök hallgatók által épített robotokat és egy elektromos, automatizált gokartot.
 
 
-<img src="onvezet.png" max-width="500" class="center"> 
+<img src="images/onvezet.png" max-width="500" class="center"> 
 

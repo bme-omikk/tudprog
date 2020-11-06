@@ -20,4 +20,4 @@ Participants will learn about some economic concepts by playing two different ga
 The first game will shed light on strategic thinking, and it relates to diverse phenomena like beauty contests and speculation on the stock market.
 The second game will highlight the potential difficulties and issues arising when trying to cooperate and contribute towards a common goal. These aspects are important in real-life issues such as reaching climate agreements, collecting taxes, etc.
 
-<img src="fatma.png" max-height="300" width="400"  class="center"> 
+<img src="images/fatma.png" max-height="300" width="400"  class="center"> 

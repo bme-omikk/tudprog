@@ -19,5 +19,5 @@ Az egyetem Mechatronika, Optika és Gépészeti Informatika Tanszékén kifejles
 
 
 
-<img src="szintevesztes-meres.jpg" max-width="500" class="center"> 
+<img src="images/szintevesztes-meres.jpg" max-width="500" class="center"> 
 

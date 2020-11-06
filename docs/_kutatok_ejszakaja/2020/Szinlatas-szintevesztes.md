@@ -19,5 +19,5 @@ Az előadás az emberi színlátás fiziológiai alapjait, a színtévesztés t�
 
 
 
-<img src="szintevesztes.png" max-width="500" class="center"> 
+<img src="images/szintevesztes.png" max-width="500" class="center"> 
 

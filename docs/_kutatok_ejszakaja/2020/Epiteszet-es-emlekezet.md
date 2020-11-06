@@ -20,5 +20,5 @@ Hogyan hat az épített tér egyéni és kollektív emlékezetünkre? Mitől má
 
 
 
-<img src="esemenyillusztracio_szabo_levente.jpg" max-width="500" class="center"> 
+<img src="images/esemenyillusztracio_szabo_levente.jpg" max-width="500" class="center"> 
 
