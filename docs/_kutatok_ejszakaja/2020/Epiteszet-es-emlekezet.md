@@ -9,7 +9,7 @@ tud_intezmeny: BME Építészmérnöki Kar, Középülettervezési Tanszék
 tud_programfelelos: Szabó Levente DLA építész
 tud_online:
 tud_url:
-tud_reg: Igen. Előzetes regisztráció szükséges a szabo.l@kozep.bme.hu címen. Létszámkorlát nincs. Az előadást megelőzően a regisztráltak emailen értesítést kapnak az online előadás platformjáról.
+tud_reg: Igen, létszámkorlát nincs.
 date: 2020-10-27
 ---
 <b>Szabó Levente DLA építész: </b>tanszékvezető egyetemi tanár (BME Építészmérnöki Kar, Középülettervezési Tanszék)
