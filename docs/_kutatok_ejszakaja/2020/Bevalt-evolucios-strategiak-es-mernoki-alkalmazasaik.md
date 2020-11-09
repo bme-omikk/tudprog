@@ -6,7 +6,7 @@ title:  Bevált evolúciós stratégiák és mérnöki alkalmazásaik
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 18:00-19:00
 tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
-tud_intezmeny: BME GTK QSMS Kutatóközpont
+tud_intezmeny: BME GPK MOGI Tanszék
 tud_programfelelos: Dr. Botzheim János egyetemi docens (felelős), Gyöngyössy Natabara Máté MSc hallgató
 tud_url:
 tud_reg: Nem
