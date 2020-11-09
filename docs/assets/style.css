@@ -70,7 +70,7 @@ border-top: 5px solid #a82b31 !important;
     position: relative;
     text-align: center;
     overflow: hidden;
-
+    margin-top:10px;
     flex-wrap: wrap;
 	max-width: 980px !important;
 	margin-left:auto;
