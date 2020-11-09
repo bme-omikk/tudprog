@@ -6,7 +6,7 @@ title: REFORMula Challenge – virtuális önvezető és valós kisautók versen
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 19:00-20:30
 tud_helyszin:
-tud_intezmeny: BME VIK, Távközlési és Médiainformatikai Tanszék
+tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_programfelelos: Dr. Németh Balázs
 tud_url:
 tud_online: https://www.facebook.com/mernokmisszio 
