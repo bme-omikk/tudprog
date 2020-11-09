@@ -4,13 +4,13 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Vasúttal a felhők felett
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. 19:00-20:30
+tud_idopont: 2020. november 27-28.
 tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
 tud_intezmeny: BME VIK, Méréstechnika és Információs Rendszerek Tanszék 
 tud_programfelelos: Horváth Benedek
 tud_url:
 tud_online:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Horváth Benedek: </b>A linzi Johannes Kepler Egyetem és a budapesti IncQuery Labs Zrt. PhD hallgatója. Témavezetői: Prof. Manuel Wimmer, Dr. Horváth Ákos és Dr. Ráth István. Fő kutatási területe elosztott, párhuzamos, reaktív modelltranszformációk skálázódásának javítása felhőalapú rendszerekben. BSc és MSc évei alatt aktív szerepet vállalt egy modellvasút terepasztal létrehozásában, a vasúti rendszerek biztonságának demonstrálása céljából.

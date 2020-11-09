@@ -10,7 +10,7 @@ tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_programfelelos: Dr. Németh Balázs
 tud_url:
 tud_online: https://www.facebook.com/mernokmisszio 
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Dr. Németh Balázs: </b>A BME Közlekedés- és Járműirányítási Tanszékének címzetes egyetemi docense, oktatási és kutatási területe az önvezető járművek irányítórendszereinek tervezési kérdései. Mérnöki-kutatói hivatása mellett egyben református lelkész. Személyes motivációja a terület kapcsán választ találni a kérdésekre, hogyan lehet képes egy önvezető algoritmus figyelembe venni hatékonyan a közlekedési rendszer minden emberi szereplőjét, milyen megbízhatósági garanciákat képesek nyújtani a gépi tanulásra épülő algoritmusok, valamint hogyan lehetséges etikai szempontokat beépíteni az önvezető járműrendszerek döntéshozási folyamataiba.

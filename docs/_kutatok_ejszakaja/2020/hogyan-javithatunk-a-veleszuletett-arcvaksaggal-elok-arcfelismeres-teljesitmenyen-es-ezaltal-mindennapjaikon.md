@@ -10,7 +10,7 @@ tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_programfelelos: Németh Kornél
 tud_url:
 tud_online:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Németh Kornél: </b> 2016-tól a BME Kognitív Tudományi Tanszékének munkatársa. Kutatási területe az arcfelismerés és annak zavarai. Munkája során elektrofiziológiai, viselkedéses és pszichofiziológiai módszereket alkalmaz.

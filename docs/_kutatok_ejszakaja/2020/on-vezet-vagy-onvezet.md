@@ -4,12 +4,12 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Ön vezet vagy „önvezet”? Avagy ismerkedés az önvezető járművekkel.
 tud_tipus: Online előadás 
-tud_idopont: 2020. november 27. 18:00-21:00
+tud_idopont: 2020. november 27. 18:00-18:45, 18:45-19-30, 19:30-20:15, 20:15-21:00 
 tud_intezmeny: BME  KJK, Közlekedés- és Járműirányítási Tanszék
 tud_programfelelos: Dr. Aradi Szilárd, Fehér Árpád
 tud_online: http://kjit.bme.hu/index.php/hu/szakmai-kapcsolatok/eloadasok/kutatok-ejszakaja-2020
 tud_url:
-tud_reg: Nem. 4 turnus, egy turnus 45perc
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Dr. Aradi Szilárd: </b> adjunktus egyetemi tanulmányait a BME Közlekedésmérnöki és Járműmérnöki Karán végezte. A BME Közlekedés- és Járműirányítási Tanszékén (volt Közlekedésautomatikai Tanszék) vett részt a doktori képzésben, ahol vasúti témakörben írta doktori disszertációját. Az elmúlt években oktatási és kutatási tevekénységeinek hangsúlya a járműmechatronikai területre helyeződött át. Ezen belül a járműfedélzeti vezérlőegységek vezetékes és vezetéknélküli kommunikációjával, valamint a járművek környezetérzékelésével kapcsolatos oktatási és kutatási feladatokat lát el. Az elmúlt években vett több eredményes - magyarországi járműipari fejlesztőközpontokkal közös- ipari együttműködésben vett részt.

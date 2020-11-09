@@ -7,9 +7,9 @@ tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 17:00-18:30
 tud_intezmeny: BME Gazdaság-és Társadalomtudományi Kar, Műszaki Pedagógia Tanszék
 tud_programfelelos: Dr. Molnár György, előadók Horváth Cz. János, Nagy Katalin, Sik Dávid, Czimmer István László
-tud_online:
+tud_online: http://appi.bme.hu/survey/index.php/937196/lang-hu
 tud_url:
-tud_reg: igen, elektronikus formában kérjük, egy turnust tervezünk, regisztrálni itt lehet http://appi.bme.hu/survey/index.php/937196/lang-hu
+tud_reg: Igen, Nem
 date: 2020-10-27
 ---
 <b>Dr. habil Molnár György: </b>Egyetemi docens, a Műszaki Pedagógia Tanszék korábbi tanszékvezetője és a BME Tanárképző Központ korábbi főigazgatója. Villamosmérnök-mérnöktanár, orvosbiológus mérnök, a Neveléstudomány Doktora (PhD.) közoktatási vezető-szakvizsgázott pedagógus, számos tudományos és szakmai bizottság aktív tagja (OTDT, Tehetség Tanács, MAB, HERA, MPT, TKSZ). <a href="http://www.mpt.bme.hu/dr-molnar-gyorgy/">http://www.mpt.bme.hu/dr-molnar-gyorgy</a>

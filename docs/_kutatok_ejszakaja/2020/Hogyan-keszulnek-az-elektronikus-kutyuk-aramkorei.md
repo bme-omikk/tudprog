@@ -4,12 +4,13 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Hogyan készülnek az elektronikus kütyük áramkörei?
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. 16:00-21:00
+tud_idopont: 2020. november 27. 16:00-17:00, 17:00-18:00, 18:00-19:00, 19:00-20:00, 20:00-21:00
 tud_intezmeny: BME – VIK, Elektronikai Technológia Tanszék
 tud_programfelelos: Dr. Krammer Olivér egyetemi docens, Dr. Géczy Attila egyetemi docens, Bátorfi Réka tudományos segédmunkatárs, Straubinger Dániel doktorandusz
-tud_online: https://bit.ly/34PBPwN
+tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_online:
 tud_url:
-tud_reg: Igen. Óránként, kb. 30-40 perces bemutatók, összesen 5 turnus, 30 fő befogadóképesség. BME, MS-Teams (MS Teams felhasználói fiók szükséges a csatlakozáshoz) 
+tud_reg: Igen, 30 fő 
 date: 2020-10-27
 ---
 <b>Dr. Krammer Olivér: </b> Kutatását a felületszerelési technológiák forraszanyagainak és a forraszanyag felvitelének lépésének optimalizálására szenteli. Fő szakterületének, a látványos stencilnyomtatás folyamatának bemutatása a mikro-világtól egészen a kézzel fogható elektronikáig vezet. 2018 óta Bolyai János Kutatási Ösztöndíjas, 2018-ban, 2019-ben és 2020-ban elnyerte az Új Nemzeti Kiválóság Program Bolyai+ ösztöndíját.

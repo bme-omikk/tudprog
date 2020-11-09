@@ -9,7 +9,7 @@ tud_helyszin:
 tud_intezmeny: BME GTK Szociológia és Kommunikáció Tanszék
 tud_programfelelos: Tófalvy Tamás (előadó), Koltai Júlia (társszerző)
 tud_url:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 

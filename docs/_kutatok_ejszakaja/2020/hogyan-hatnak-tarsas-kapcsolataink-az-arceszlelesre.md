@@ -10,7 +10,7 @@ tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_programfelelos: Suri Karolin
 tud_url:
 tud_online:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Suri Karolin: </b>2020-tól a BME Kognitív Tudományi Tanszékén működő Pszichológia Doktori Iskola hallgatója. Témavezetője Németh Kornél, akivel közösen a kötődés és az arcészlelés összefüggéseit vizsgálják viselkedéses és pszichofiziológiai módszerekkel.

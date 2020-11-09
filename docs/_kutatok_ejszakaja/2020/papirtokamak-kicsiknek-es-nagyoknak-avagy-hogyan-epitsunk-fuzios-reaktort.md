@@ -6,11 +6,11 @@ title:  Papírtokamak kicsiknek és nagyoknak - avagy hogyan építsünk fúzió
 tud_tipus: Online előadás
 tud_idopont:  2020. november 27. 18:00–22:00
 tud_helyszin:
-tud_intezmeny: 	TTK, Atomenergetika Tanszék 
+tud_intezmeny: BME TTK, Nukleáris Technológiai Intézet
 tud_programfelelos: Dr. Pokol Gergő, Asztalos Örs
 tud_url:
 tud_online: https://zoom.us/j/96826735882?pwd=eDVnV3N3UXBLYnBOaXZUeERudUlJdz09
-tud_reg: Nem
+tud_reg: Nem, 25 fő
 date: 2020-10-27
 ---
 
@@ -19,7 +19,7 @@ A csatorna 17:55-től elérhető, a fenti linkre kattintva telepíthető az appl
 <b>Meeting ID</b>: 968 2673 5882<br>
 <b>Passcode</b>: 362957
 
-<b>létszám limit</b>: 25 fő (rugalmas), regisztráció: nem szükséges, életkori limit nincs.
+<b>létszám limit</b>: Életkori limit nincs.
 
 <b>Dr. Pokol Gergő: </b> Egyetemi docens, a BME Fúziós Plazmafizika Csoport vezetője, a tokamakok nagy barátja.
 

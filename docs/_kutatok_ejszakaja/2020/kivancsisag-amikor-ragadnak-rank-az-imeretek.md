@@ -10,7 +10,7 @@ tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_programfelelos: Reichardt Richárd
 tud_url:
 tud_online:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Reichardt Richárd: </b>A BME Pszichológia Doktori Iskola hallgatója, a Budapest Sleeplab munkatársa. Kutatási témája az új ismeretek elsajátításának kognitív mechanizmusai. Szabadidejében az agykutatás teljes spektrumának eredményeit próbálja közérthetően kommunikálni (<a href="https://agykutatasegyszeruen.org/">https://agykutatasegyszeruen.org/</a>).

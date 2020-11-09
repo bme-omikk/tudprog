@@ -5,8 +5,9 @@ tud_title: Kutatók éjszakája 2020
 title: Milyen színben látjuk a világot?
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 19:00-19:20, 19:30-19:50, 20:00-20:20, 20:30-20:50, 21:00-21:20, 21:30-21:50
-tud_intezmeny: BME GPK MOGI Tanszék
+tud_intezmeny: BME GPK, MOGI Tanszék
 tud_programfelelos: Dr. Nagy Balázs Vince egyetemi docens (felelős), Urbin Ágnes tanársegéd
+tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
 tud_online: 
 tud_url:
 tud_reg: igen, időpontonként 6 fő

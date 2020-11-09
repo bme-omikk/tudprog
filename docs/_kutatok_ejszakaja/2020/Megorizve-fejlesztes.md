@@ -9,7 +9,7 @@ tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
 tud_intezmeny: BME GTK Üzleti Jog Tanszék
 tud_programfelelos: Grad-Gyenge Anikó jogász, habil. egyetemi docens; Barta Judit jogász, habil. egyetemi docens, NKE; Szemery Samu építész, tanácsadó Lechner Központ, KÉK; Jókúti András iparjogvédelmi vezető, BME
 tud_url:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Grad-Gyenge Anikó jogász, habil. egyetemi docens:</b>A BME Gazdaság- és Társadalomtudományi Karának 

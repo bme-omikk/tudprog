@@ -4,12 +4,12 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Ipar 4.0 – Modern ipari technológiák, a negyedik ipari forradalom építő kövei
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. (péntek) 16:00 - 23:00, november 28. (szombat) 10:00 - 14:00
-tud_helyszin:
+tud_idopont: 2020. november 27. 16:00 - 17:00, 17:00-18:30 (élő közvetítés), 19:00-23:00; november 28. 10:00 - 14:00
 tud_intezmeny: BME VIK, Ipar 4.0 Technológia Központ (FIEK)
 tud_programfelelos: Kovács László, Kovács Balázs, Berczeli Attila, Szalai Dániel, Demonstrátorok BME hallgatók
+tud_helyszin: ONLINE - A leírásban lentebb találhatók
 tud_online:
-tud_reg: Nem
+tud_reg: Az élő közvetítésre Igen, Nem
 date: 2020-10-27
 ---
 <b>Kovács László: </b>1990-ben végzett a BME-n villamosmérnökként, majd 2006-ban szerzett MBA diplomát szintén a BME-n. Szakmai pályafutását a Videotonban kezdte fejlesztőmérnökként, majd a HP tanácsadói csapatába került. 8 évet dolgozott a mobil távközlésben, ebből 4 évet informatikai igazgatóként. Az utóbbi években tanácsadóként, projektvezetőként tevékenykedett hazai és EU-s IT fejlesztési projekteken. Már több éve foglalkozik IoT fejlesztésekkel, ipar 4.0 megoldásokkal. 2018 Március óta a BME Ipar4.0 Technológiai Központ vezetője.

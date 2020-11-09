@@ -1,5 +1,8 @@
 ﻿/*site CSS*/
-
+p{
+	text-align:justify;
+	
+}
 
 * {
   box-sizing: border-box;

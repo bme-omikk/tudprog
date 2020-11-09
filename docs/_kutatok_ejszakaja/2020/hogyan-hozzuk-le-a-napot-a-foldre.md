@@ -6,11 +6,11 @@ title: Hogyan hozzuk le a Napot a Földre? Az ITER kísérlet
 tud_tipus: Online előadás
 tud_idopont: 2020. november 28. 12:00–13:00
 tud_helyszin:
-tud_intezmeny: 	TTK, Atomenergetika Tanszék 
+tud_intezmeny: BME TTK, Energiatudományi Kutatóközpont, Fúziós Plazmafizika Laboratórium
 tud_programfelelos: Réfy Dániel Imre, Asztalos Örs, Dr. Pokol Gergő
 tud_url:
 tud_online: https://zoom.us/j/93506320239?pwd=eWMwV2dpWHpheStvc2pGa2pvYTZVUT09
-tud_reg: Nem
+tud_reg: Nem, 50 fő
 date: 2020-10-27
 ---
 
@@ -19,7 +19,7 @@ A csatorna 11:55-től elérhető, a fenti linkre kattintva telepíthető az appl
 <b>Meeting ID</b>: 935 0632 0239<br>
 <b>Passcode</b>: 761620
 
-<b>létszám limit</b>: 50 fő (rugalmas), regisztráció: nem szükséges, életkori limit nincs, de főleg a középiskolás korosztálynak szól az előadás.
+<b>létszám limit</b>: Életkori limit nincs, de főleg a középiskolás korosztálynak szól az előadás.
 
 <b>Réfy Dániel Imre: </b>Tudományos segédmunkatárs, a Magyar Nukleáris Társaság Fúziós Szakcsoportjának az elnöke
 

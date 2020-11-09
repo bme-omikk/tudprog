@@ -10,7 +10,7 @@ tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_programfelelos: Polner Bertalan
 tud_url:
 tud_online:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Polner Bertalan: </b> pszichológus, a BME Kognitív Tudományi Tanszék adjunktusa. Fő kutatási témája az egyéni különbségek és a pszichózis-spektrum, mostanában a kognitív eltéréseket és az alvással való összefüggéseket vizsgálja. Érdekli még az is, hogy hogyan tudunk rugalmasan alkalmazkodni a változó környezetekhez.

@@ -6,11 +6,11 @@ title: Fiatalok a nukleáris energetikáért - barátunk az atom
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 18:00–21:00
 tud_helyszin:
-tud_intezmeny: 	TTK, Atomenergetika Tanszék 
+tud_intezmeny: 	BME TTK, MNT FINE
 tud_programfelelos: Szondy Borbála, Boguszlavszkij Gergely
 tud_url:
 tud_online: https://zoom.us/j/96338180913?pwd=VW10bFgySFBTZmtOVlA3SGJncW9rQT09
-tud_reg: Nem
+tud_reg: Nem, 25 fő
 date: 2020-10-27
 ---
 
@@ -19,7 +19,7 @@ A csatorna 12:55-től elérhető, a fenti linkre kattintva telepíthető az appl
 <b>Meeting ID</b>: 963 3818 0913<br>
 <b>Passcode</b>: 835612
 
-<b>létszám limit</b>: 25 fő (rugalmas), regisztráció nem szükséges, életkori limit nincs.
+<b>létszám limit</b>:Életkori limit nincs.
 
 <b>Szondy Borbála: </b>  MSc végzős energetikai mérnök szakon, FINE elnökségi tag, ért a fúziós és fissziós témákhoz is.
 

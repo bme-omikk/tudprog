@@ -5,11 +5,11 @@ tud_title: Kutatók éjszakája 2020
 title: Színtévesztés mérés
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27-28.
-tud_intezmeny: BME GPK MOGI Tanszék
+tud_intezmeny: BME GPK, MOGI Tanszék
 tud_programfelelos: Prof.dr.habil Ábrahám György, az MTA doktora
 tud_online: https://forms.gle/UwdecReYTqgjeBGLA
 tud_url:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Prof.dr.habil Ábrahám György, az MTA doktora: </b>Mechatronika, Optika és Gépészeti Informatika tanszékének alapító tanszékvezetője. 48 éves oktatói- kutatói munkássága során kiemelkedő tevékenységet végzett a színtévesztés színszűrős szemüvegekkel történő korrekciója, az optikai átviteli függvények méréstechnikája és nemzetközi űrprogramokban történő részvétele terén.

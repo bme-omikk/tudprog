@@ -6,10 +6,10 @@ title:  Bevált evolúciós stratégiák és mérnöki alkalmazásaik
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 18:00-19:00
 tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
-tud_intezmeny: BME GPK MOGI Tanszék
+tud_intezmeny: BME GPK, MOGI Tanszék
 tud_programfelelos: Dr. Botzheim János egyetemi docens (felelős), Gyöngyössy Natabara Máté MSc hallgató
 tud_url:
-tud_reg: Nem
+tud_reg: Igen, Nem
 date: 2020-10-27
 ---
 <b>Dr. Botzheim János: </b>Botzheim János műszaki informatikából szerzett MSc (2001) és PhD (2008) fokozatot a BME-n. Jelenleg a Mechatronika, Optika és Gépészeti Informatika Tanszék egyetemi docense. Számos tudományos egyesület tagja, pl. Neumann János Számítógép-tudományi Társaság, Magyar Mérnökakadémia, Magyar Fuzzy Társaság, IEEE. Kutatási területe a számítási intelligencia és a kognitív robotika.

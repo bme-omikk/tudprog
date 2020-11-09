@@ -10,7 +10,7 @@ tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_programfelelos: Krizsai Fruzsina
 tud_url:
 tud_online:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Krizsai Fruzsina: </b>2018-tól a BME Kognitív Tudományi Tanszék tudományos segédmunkatársa. Kutatási területe a nyelvelsajátítás pragmatikai vetülete: arról szeretne minél többet megtudni, hogy mikor és milyen képességek birtokában tanuljuk meg a nyelv olyan szabályait, amelyek nem a nyelvtanból következnek.

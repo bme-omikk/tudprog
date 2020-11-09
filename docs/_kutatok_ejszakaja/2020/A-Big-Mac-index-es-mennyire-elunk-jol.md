@@ -9,7 +9,7 @@ tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
 tud_intezmeny: BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék
 tud_programfelelos: Dr. Danyi Pál
 tud_url:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Dr. Danyi Pál:</b>A BME Gazdaság- és Társadalomtudományi Karának 

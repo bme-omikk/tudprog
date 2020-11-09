@@ -10,7 +10,7 @@ tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_programfelelos: Lukics Krisztina Sára
 tud_url:
 tud_online:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Lukics Krisztina Sára: </b>A BME Pszichológia Doktori Iskola negyedéves hallgatója, az MTA-BME Lendület Nyelvelsajátítás Kutatócsoport tudományos segédmunkatársa. Kutatási területe a statiszikai tanulás és annak kapcsolata a nyelvi működéssel.

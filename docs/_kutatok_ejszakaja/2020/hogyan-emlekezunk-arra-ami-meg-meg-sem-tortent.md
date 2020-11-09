@@ -10,7 +10,7 @@ tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_programfelelos: Lencsés Anita és Mikula Bernadett
 tud_url:
 tud_online:
-tud_reg: Nem
+tud_reg: Nem, Nem
 date: 2020-10-27
 ---
 <b>Lencsés Anita és Mikula Bernadett: </b>Az előadók másodéves doktoranduszok a BME Kognitív Tudományi Tanszékének Neuropszichológia és Megismerés kutatócsoportjában. Érdeklődésük középpontjában az agysérülést követő emlékezeti és társas-érzelmi nehézségek állnak. Céljuk, hogy a kutatási eredményeik a klinikai neuropszichológiában is használhatóak legyenek a rehabilitáció során.
