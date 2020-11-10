@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
-title: Kalandozás a polimer habok/habszerkezetek világában, avagy lehet egy hab lebomló polimerből/biopolimerből?
+title: Kalandozás a polimer habok/habszerkezetek világában - avagy lehet egy hab lebomló polimerből/biopolimerből?
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 16:00-16:30, 16:30-17:00, 17:00-17:30, 17:30-18:00
 tud_intezmeny: BME GPK, Polimertechnika Tanszék
