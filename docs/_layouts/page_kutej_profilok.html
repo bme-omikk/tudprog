@@ -1,0 +1,27 @@
+---
+layout: default
+
+---
+
+<article class="post">
+{%- include navigation_kutej.html -%}
+{%- include kutej_header.html -%}
+<!--
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+  -->
+  <header class="post-header">
+   <ul>
+  {%- if page.kutej_eloado -%}<li><b>Előadó: </b>{{ page.kutej_eloado | escape }}  </li>{%- endif -%}
+  {%- if page.kutej_programfelelos -%}<li><b>Programfelelős: </b>{{ page.kutej_programfelelos | escape }}  </li>{%- endif -%}
+  {%- if page.kutej_programfelelos_eloado -%}<li><b>Programfelelős/előadó: </b>{{ page.kutej_programfelelos_eloado | escape }}  </li>{%- endif -%}
+  
+
+   </ul>
+   	</header>
+  <div class="post-content">
+    {{ content }}
+  </div>
+{%- include kutej_footer.html -%}
+</article>

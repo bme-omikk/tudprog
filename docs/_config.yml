@@ -41,7 +41,7 @@ collections:
     output: true
   homepage:
     output: true  
-    
+ 
     
     # this goes inside _config.yml. Change as required
 navigation:
