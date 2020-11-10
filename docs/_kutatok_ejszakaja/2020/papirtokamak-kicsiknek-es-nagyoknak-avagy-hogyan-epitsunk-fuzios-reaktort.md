@@ -2,9 +2,9 @@
 layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
-title:  Papírtokamak kicsiknek és nagyoknak - avagy hogyan építsünk fúziós reaktort?
+title: Papírtokamak kicsiknek és nagyoknak - avagy hogyan építsünk fúziós reaktort?
 tud_tipus: Online előadás
-tud_idopont:  2020. november 27. 18:00–22:00
+tud_idopont:  2020. november 27. 18:00–20:00
 tud_helyszin:
 tud_intezmeny: BME TTK, Nukleáris Technológiai Intézet
 tud_programfelelos: Dr. Pokol Gergő, Asztalos Örs
