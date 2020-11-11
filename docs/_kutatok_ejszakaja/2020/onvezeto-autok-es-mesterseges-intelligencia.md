@@ -6,7 +6,7 @@ title: Biztos, ami biztos? – önvezető autók és mesterséges intelligencia
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 16:00-16:45
 tud_helyszin:
-tud_intezmeny: BME VIK, Távközlési és Médiainformatikai Tanszék
+tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_programfelelos: Dr. Németh Balázs
 tud_url:
 tud_online: https://www.youtube.com/channel/UCtWJgLPovaJd6o8aZCPxuDA/
