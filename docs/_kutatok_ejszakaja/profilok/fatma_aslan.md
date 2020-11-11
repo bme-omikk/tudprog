@@ -1,6 +1,6 @@
 ---
 layout: page_kutej_profilok
-tud_idopont: 2020
+tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Fatma Aslan
 kutej_programfelelos: 
 kutej_eloado:
