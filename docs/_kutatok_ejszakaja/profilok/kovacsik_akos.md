@@ -14,7 +14,7 @@ Nukleáris Gépészeti Szakértő, BME-NTI.
 <td>
 
 <div class="gallery">
-    <img src="images/kovacsik_akos.jpg" max-width="250" max-height="200">
+    <img src="images/kovacsik_akos.png" max-width="250" max-height="200">
   <div class="desc">Kovácsik Ákos</div>
 </div>
 

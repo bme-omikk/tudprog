@@ -14,7 +14,7 @@ MSc végzős energetikai mérnök szakon, FINE elnökségi tag, ért a fúziós 
 <td>
 
 <div class="gallery">
-    <img src="images/szondy_borbala.jpg" max-width="250" max-height="200">
+    <img src="images/szondy_borbala.png" max-width="250" max-height="200">
   <div class="desc">Szondy Borbála</div>
 </div>
 

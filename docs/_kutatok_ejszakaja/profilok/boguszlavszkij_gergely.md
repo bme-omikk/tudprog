@@ -14,7 +14,7 @@ Végzett energetikai mérnök és okleveles fizikus, MNT FINE elnök, jártas mi
 <td>
 
 <div class="gallery">
-    <img src="images/boguszlavszkij_gergely.jpg" max-width="250" max-height="200">
+    <img src="images/boguszlavszkij_gergely.png" max-width="250" max-height="200">
   <div class="desc">Boguszlavszkij Gergely</div>
 </div>
 

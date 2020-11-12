@@ -14,7 +14,7 @@ Tudományos segédmunkatárs, a Magyar Nukleáris Társaság Fúziós Szakcsopor
 <td>
 
 <div class="gallery">
-    <img src="images/refy_daniel_imre.jpg" max-width="250" max-height="200">
+    <img src="images/refy_daniel_imre.png" max-width="250" max-height="200">
   <div class="desc">Réfy Dániel Imre</div>
 </div>
 

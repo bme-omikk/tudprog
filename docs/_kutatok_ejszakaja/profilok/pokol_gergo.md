@@ -14,7 +14,7 @@ Egyetemi docens, a BME Fúziós Plazmafizika Csoport vezetője, a tokamakok nagy
 <td>
 
 <div class="gallery">
-    <img src="images/pokol_gergo.jpg" max-width="250" max-height="200">
+    <img src="images/pokol_gergo.png" max-width="250" max-height="200">
   <div class="desc">Dr. Pokol Gergő</div>
 </div>
 
