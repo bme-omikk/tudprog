@@ -7,7 +7,7 @@ tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 19:30-20:30
 tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
 tud_intezmeny: BME GTK, QSMS Kutatóközpont
-tud_programfelelos: Grad-Gyenge Anikó jogász, habil. egyetemi docens; Barta Judit jogász, habil. egyetemi docens, NKE; Szemery Samu építész, tanácsadó Lechner Központ, KÉK; Jókúti András iparjogvédelmi vezető, BME
+tud_programfelelos: Dr. Fatma Aslan
 tud_url:
 tud_reg: Igen, 40 fő
 date: 2020-10-27
