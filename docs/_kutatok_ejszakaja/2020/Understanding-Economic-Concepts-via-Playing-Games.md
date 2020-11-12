@@ -12,7 +12,7 @@ tud_url:
 tud_reg: Igen, 40 fő
 date: 2020-10-27
 ---
-<b>Dr. Fatma Aslan:</b>"A BME Gazdaság- és Társadalomtudományi Karán alakult Kvantitatív Társadalom- és Gazdaságtudományi Kutatóközpont posztdoktori kutatója. Közgazdasági doktori fokozatát 2019-ben, a párizsi CNAM-ban, és az isztambuli Bilgi Egyetemen szerezte Jean Lainé irányításával. Kutatási területe a szavazáselmélet, a társadalmi döntések elmélete, a párosításelmélet, a kooperatív játékelmélet, a kísérleti közgazdaságtan és a viselkedésgazdaságtan."
+<b>Dr. Fatma Aslan:</b> A BME Gazdaság- és Társadalomtudományi Karán alakult Kvantitatív Társadalom- és Gazdaságtudományi Kutatóközpont posztdoktori kutatója. Közgazdasági doktori fokozatát 2019-ben, a párizsi CNAM-ban, és az isztambuli Bilgi Egyetemen szerezte Jean Lainé irányításával. Kutatási területe a szavazáselmélet, a társadalmi döntések elmélete, a párosításelmélet, a kooperatív játékelmélet, a kísérleti közgazdaságtan és a viselkedésgazdaságtan.
 
 
 Participants will learn about some economic concepts by playing two different games. In these games, they will be asked to make decisions that mimic real-life economic scenarios. 
