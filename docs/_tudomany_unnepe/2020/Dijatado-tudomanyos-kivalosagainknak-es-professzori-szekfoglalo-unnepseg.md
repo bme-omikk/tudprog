@@ -9,7 +9,7 @@ tud_idopont: 2020. november 16. hétfő 15 óra
 tud_teams: https://bit.ly/3en6mWb
 tud_intezmeny: BME Rektori Kabinet, Tudományos és Innovációs Igazgatóság
 tud_kapcsolattarto: Dr. Csákány Anikó, csakany.aniko@bme.hu, tel. +36-1-463-1836
-tud_url: https://www.bme.hu
+tud_megjegyzes: A virtuális eseményt rögzítjük
 date: 2020-11-16
 ---
 Az online esemény 2020 évben azzal a céllal kerül megrendezésre, hogy az Egyetem a rangos hazai pályázatokon résztvevő nyerteseit - hallgatóit, oktatóit - kiválóságait köszöntse, sor kerül a BMe kutatói pályázat díjainak átadására is.

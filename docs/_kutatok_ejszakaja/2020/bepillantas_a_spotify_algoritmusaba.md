@@ -2,10 +2,11 @@
 layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
-title:  Bepillantás a Spotify algoritmusába - mit árulnak el a zenekarok közötti kapcsolatok hálózatai? 
+title: Bepillantás a Spotify algoritmusába - mit árulnak el a zenekarok közötti kapcsolatok hálózatai? 
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. Tervezett előadáshossz 20-25 perc + 10-15 perc beszélgetés a hallgatósággal (a pontos időpont hamarosan meghirdetésre kerül)
+tud_idopont: 2020. november 27. 12:00-12:40. Tervezett előadáshossz 20-25 perc + 10-15 perc beszélgetés a hallgatósággal
 tud_helyszin:
+tud_online: http://meet.google.com/fqj-gkyc-ghx
 tud_intezmeny: BME GTK Szociológia és Kommunikáció Tanszék
 tud_programfelelos: Tófalvy Tamás (előadó), Koltai Júlia (társszerző)
 tud_url:
