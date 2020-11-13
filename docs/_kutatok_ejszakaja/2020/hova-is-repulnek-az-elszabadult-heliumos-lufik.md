@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Hova is repülnek az elszabadult héliumos lufik? / magaslégköri ballonokról röviden
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. 16:00-16:30, 16:30-17:00, 17:00-17:30, 17:30-18:00, 18:00-18:30, 18:30-19:00; november 28. (Online Video)
+tud_idopont: 2020. november 27. 16:00-16:30, 16:30-17:00, 17:00-17:30, 17:30-18:00, 18:00-18:30, 18:30-19:00 (kvíz időpontok); november 28. (Online Video)
 tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
 tud_intezmeny: BME ÉPK, Szilárdságtani és Tartószerkezeti Tanszék
 tud_programfelelos: Dr. Hegyi Dezső, Dr. Gáspár Orsolya, Karádi Dániel
