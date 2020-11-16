@@ -7,8 +7,8 @@ tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 17:00-18:00
 tud_intezmeny: BME Építészmérnöki Kar, Középülettervezési Tanszék
 tud_programfelelos: Szabó Levente DLA építész
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
-tud_online:
+tud_helyszin:
+tud_online: https://teams.microsoft.com/l/meetup-join/19%3ade5226cd1b52422fa3207e7d5484bdc7%40thread.tacv2/1605367550660?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%223ebb5c76-53c8-43d8-988a-32f712f71234%22%7d
 tud_url:
 tud_reg: Igen, Nem
 date: 2020-10-27

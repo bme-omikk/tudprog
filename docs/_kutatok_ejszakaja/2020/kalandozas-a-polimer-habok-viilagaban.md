@@ -4,9 +4,8 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Kalandozás a polimer habok/habszerkezetek világában - avagy lehet egy hab lebomló polimerből/biopolimerből?
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. 16:00-16:30, 16:30-17:00, 17:00-17:30, 17:30-18:00
+tud_idopont: 2020. november 27. 16:00-17:00 
 tud_intezmeny: BME GPK, Polimertechnika Tanszék
-tud_idopont: 2020. november 27. 16:00-17:00, 19:00-20:00, 21:00-22:00
 tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
 tud_programfelelos: Dr. Kmetty Ákos, Litauszki Katalin, Dr. Kmetty Ákos, Dr. Tábi Tamás, Tomin Márton
 tud_url:
