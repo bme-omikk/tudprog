@@ -6,6 +6,8 @@ kutej_programfelelos:
 kutej_eloado: 
 ---
 
+TTK, Fizikai Intézet
+
 
  <table class="picture">
 <tr>
