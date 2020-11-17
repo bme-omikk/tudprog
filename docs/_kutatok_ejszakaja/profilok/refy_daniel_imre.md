@@ -1,7 +1,7 @@
 ---
 layout: page_kutej_profilok
 tud_idopont: 0
-kutej_programfelelos_eloado: Härtlein Károly
+kutej_programfelelos_eloado: Réfy Dániel
 kutej_programfelelos: 
 kutej_eloado: 
 ---
@@ -12,8 +12,8 @@ kutej_eloado:
 <td>
 
 <div class="gallery">
-    <img src="images/hartlein_karoly.png" max-width="250" max-height="200">
-  <div class="desc">Härtlein Károly</div>
+    <img src="images/refy_daniel.png" max-width="250" max-height="200">
+  <div class="desc">Réfy Dániel</div>
 </div>
 
 </td>
