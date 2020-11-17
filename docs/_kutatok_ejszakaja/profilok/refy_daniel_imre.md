@@ -6,6 +6,7 @@ kutej_programfelelos:
 kutej_eloado: 
 ---
 
+Tudományos segédmunkatárs, a Magyar Nukleáris Társaság Fúziós Szakcsoportjának az elnöke
 
  <table class="picture">
 <tr>
