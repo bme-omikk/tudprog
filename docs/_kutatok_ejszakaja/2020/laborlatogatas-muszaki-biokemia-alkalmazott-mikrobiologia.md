@@ -11,8 +11,9 @@ tud_programfelelos: Dr Németh Áron (docens), Nagy Balázs József (doktoráns)
 tud_url:
 tud_online: https://teams.microsoft.com/l/meetup-join/19:368b72f808724bbfb091414b50d9bb7c@thread.tacv2/1605619222242?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%2240ec3d92-77e4-40a4-bd62-b02e0dc562df%22%7d
 tud_reg: Igen, Nem
-date: 2020-11-27
+date: 2020-10-27
 ---
+
 <b>Dr. Németh Áron: </b>Docens, munkáját a jogelőd Mezőgazdasági Kémiai Technológia Tanszéken kezdte. 2002-ben végzett biomérnöként Alkalmazott Biotechnológia Szakirányon, majd 2008-ban szerzett PhD fokozatot summa cum laude minősítéssel. Enzimes és mikrobiális technológiák fejlesztése, modellezése és léptéknövelése a fő kutatási és oktatási területe. 5éve vezeti a Fermentációs Félüzemi Kutató csoportot.
 
 <b>Nagy Balázs József: </b>BSc alapképzését biológusként az ELTE-n szerezte, majd MSc mester tanulmányait a Műszaki Egyetemen folytatta alkalmazott biotechnológia szakirányon. A PhD doktori képzést 2017-ben kezdte. Mindösszesen 4 éve vizsgálja az F-laborban a mikroalgák különféle, ipari léptékben is megvalósítható tenyésztéstechnológiáját. Fő érdeklődési körei a mikroalgák mezőgazdasági hasznosíthatósága és a szennyvíztisztításban való alkalmazhatóságuk vizsgálata. Ezenfelül számos algaeredetű biotermék (tápláláékkiegészítők és kozmetikumok alapanyagai) előállításával és kinyerésével is foglalkozik.
