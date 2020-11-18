@@ -27,7 +27,7 @@ További információ itt érhető el:
 
 [https://kutatokejszakaja.hu/](https://kutatokejszakaja.hu/)
 
-<p style="text-align: justify">A Kutatők éjszakája alkalmából a Budapesti Műszaki és Gazdaságtudományi
+<p style="text-align: justify">A Kutatók éjszakája alkalmából a Budapesti Műszaki és Gazdaságtudományi
 Egyetemen a <a class="home-url" rel="author" href="{{ "/kutej/2020" | relative_url }}">tartalomban</a> részletezett tudományos események kerülnek
 megrendezésre.</p>
 
