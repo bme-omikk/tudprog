@@ -19,30 +19,31 @@ Az online rendezvényen a 2017-2021 között zajló HunQuTech projektben eddig e
 
 <b>Tervezett program:</b>
 
-<b>Köszöntő</b>
+<b>Köszöntő</b><br>
 Charaf Hassan, dékán, BME Villamosmérnöki és Informatikai Kar
 
-<b>Európai kvantumkommunikációs tervek</b>
+<b>Európai kvantumkommunikációs tervek</b><br>
 Imre Sándor, tanszékvezető, BME Hálózati Rendszerek és Szolgáltatások
 Tanszék (BME HIT)
 
+<b>Európai kvantumkommunikációs tervek</b><br>
 <b>Igazi véletlenszámok a műegyetemi kvantum alapú véletlenszám-generátorral</b>
 Gerhátné Udvary Eszter, docens, BME Szélessávú Hírközlés és
 Villamosságtan Tanszék (BME HVT)
 
-<b>Hogyan építsünk vezetékes kvantumkulcsszétosztó berendezést?</b>
+<b>Hogyan építsünk vezetékes kvantumkulcsszétosztó berendezést?</b><br>
 Kis Zsolt, Wigner Fizikai Kutatóközpont, a BME HIT külső szakértője
 
-<b>Kvantumkommunikáció szabadtérben</b>
+<b>Kvantumkommunikáció szabadtérben</b><br>
 Koller István, laborvezető, BME HIT Elektronikus Rendszerek
 Fejlesztőlaboratórium (BME HIT)
 
-<b>Műegyetemi fejlesztésű fotonforrások</b>
+<b>Műegyetemi fejlesztésű fotonforrások</b><br>
 Sarkadi Tamás, docens, BME Atomfizika Tanszék (BME Fizika Intézet)
 
-<b>Képezzük a jövő generációját</b>
+<b>Képezzük a jövő generációját</b><br>
 Bacsárdi László, laborvezető, BME HIT Mobil Kommunikáció és
 Kvantumtechnológiák Laboratórium (BME HIT)
 
-<b>Hogyan tovább?</b>
+<b>Hogyan tovább?</b><br>
 Kérdések és válaszok 
