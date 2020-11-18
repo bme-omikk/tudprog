@@ -26,10 +26,6 @@ Charaf Hassan, dékán, BME Villamosmérnöki és Informatikai Kar
 Imre Sándor, tanszékvezető, BME Hálózati Rendszerek és Szolgáltatások
 Tanszék (BME HIT)
 
-<b>Európai kvantumkommunikációs tervek</b><br>
-Imre Sándor, tanszékvezető, BME Hálózati Rendszerek és Szolgáltatások
-Tanszék (BME HIT) 
-
 <b>Igazi véletlenszámok a műegyetemi kvantum alapú véletlenszám-generátorral</b><br>
 Gerhátné Udvary Eszter, docens, BME Szélessávú Hírközlés és
 Villamosságtan Tanszék (BME HVT)
