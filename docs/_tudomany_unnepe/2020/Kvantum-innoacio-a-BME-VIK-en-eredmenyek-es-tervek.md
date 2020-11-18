@@ -16,3 +16,33 @@ date: 2020-11-25
 A Budapesti Műszaki és Gazdaságtudományi Egyetemen több csoport is foglalkozik kvantumtechnológiával, ez az online rendezvény a BME Villamosmérnöki és Informatikai Kar kvantumkommunikációs eredményeire és terveire koncentrál, bemutatva azt is, hogy a Műegyetem más karaival milyen kapcsolódó együttműködések segítik a kvantumkommunikációs tervek megvalósítását. 
 
 Az online rendezvényen a 2017-2021 között zajló HunQuTech projektben eddig elért  kvantumkommunikációs eredményeinket mutatjuk be, valamint ismertetjük a 2020 októberében indult Kvantuminformatikai Nemzeti Labor BME VIK-hez kapcsolódó kvantumkommunikációs terveit.
+
+<b>Tervezett program:</b>
+
+<b>Köszöntő</b>
+Charaf Hassan, dékán, BME Villamosmérnöki és Informatikai Kar
+
+<b>Európai kvantumkommunikációs tervek</b>
+Imre Sándor, tanszékvezető, BME Hálózati Rendszerek és Szolgáltatások
+Tanszék (BME HIT)
+
+<b>Igazi véletlenszámok a műegyetemi kvantum alapú véletlenszám-generátorral</b>
+Gerhátné Udvary Eszter, docens, BME Szélessávú Hírközlés és
+Villamosságtan Tanszék (BME HVT)
+
+<b>Hogyan építsünk vezetékes kvantumkulcsszétosztó berendezést?</b>
+Kis Zsolt, Wigner Fizikai Kutatóközpont, a BME HIT külső szakértője
+
+<b>Kvantumkommunikáció szabadtérben</b>
+Koller István, laborvezető, BME HIT Elektronikus Rendszerek
+Fejlesztőlaboratórium (BME HIT)
+
+<b>Műegyetemi fejlesztésű fotonforrások</b>
+Sarkadi Tamás, docens, BME Atomfizika Tanszék (BME Fizika Intézet)
+
+<b>Képezzük a jövő generációját</b>
+Bacsárdi László, laborvezető, BME HIT Mobil Kommunikáció és
+Kvantumtechnológiák Laboratórium (BME HIT)
+
+<b>Hogyan tovább?</b>
+Kérdések és válaszok 
