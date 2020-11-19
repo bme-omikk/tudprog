@@ -10,17 +10,18 @@ tud_intezmeny: BME GPK, Mechatronika, Optika és Gépészeti Informatika Tanszé
 tud_programfelelos: Samu Krisztián, Samu Sára
 tud_url:
 tud_online:
-tud_reg: Nem, 10 fő
+tud_reg: Igen, 10 fő
 date: 2020-11-27
 ---
+
+Színek keverésének bemutatása elektronikus megjelenítőkön - azaz hogyan működik a mobiltelefon, TV és projektor színmegjelenítése.
 
 <b>Samu Krisztián: </b> BME, Mechatronika, Optika és Gépészeti Informatika Tsz., egyetemi docens
 
 Kutatási területe: elektronikus képmegjelenítők színtani tulajdonságai, színméréstechnika, megjelenítők színtévesztésdiagnostikai felhasználása.
 
-Színek keverésének bemutatása elektronikus megjelenítőkön - azaz hogyan működik a mobiltelefon, TV és projektor színmegjelenítése.
-
-
 <b>Samu Sára: </b>II. Rákóczi Ferenc Gimnázium, Budapest, 8. osztály
 
 Öntevékeny diák kutatási tevékenység: színtévesztés diagnosztika és korrekció népszerűsétése (Orchidea Science Award, 1. helyezés)
+
+<img src="images/16_millio_szin.jpg" max-width="500" class="center">
