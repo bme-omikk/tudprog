@@ -33,7 +33,7 @@ A bemutatókat próbáljuk interaktívvá tenni azáltal, hogy az előadás köz
 Élő bejelentkezés a BME ipar4.0 Technológiai Központból.<br>
 (<a href="https://kutatokejszakaja.hu/latogato/#/regisztracio">Regisztráció</a> szükséges)
 <br>
-A közvetítés az alábbi linken érhető el: <a href="https://youtu.be/e36RFcuGYpI">Youtube</a>
+A közvetítés az alábbi linken érhető el: <a href="https://youtu.be/e36RFcuGYpI">Youtube video</a>
 </li>
 <ul>
 <li>Megnyitó</li>
@@ -46,7 +46,7 @@ A közvetítés az alábbi linken érhető el: <a href="https://youtu.be/e36RFcu
 
 <li>Ipar 4.0 Technológiai Központ a Műegyetemen (6:46)
 Kovács László, Központvezető 
-<a href="https://youtu.be/8wxi27S1iV8">Youtube</a>
+<a href="https://youtu.be/8wxi27S1iV8">Youtube video</a>
 </li>
 
 <ul>
@@ -59,7 +59,7 @@ Kovács László, Központvezető
 
 <li>
 Szcenárió1: Szenzorok, digitális ikerpár (6:19)
-<a href="https://youtu.be/stK-7MxMFdA">Youtube</a>
+<a href="https://youtu.be/stK-7MxMFdA">Youtube video</a>
 </li>
 
 <ul>
@@ -70,7 +70,7 @@ Szcenárió1: Szenzorok, digitális ikerpár (6:19)
 
 <li>
 Szcenárió2: Digitális gyártervezés, gyártásütemezés és vezérlés (5:52)
-<a href="https://youtu.be/f1bOqztKG4w">Youtube</a>
+<a href="https://youtu.be/f1bOqztKG4w">Youtube video</a>
 </li>
 
 <ul>
@@ -82,7 +82,7 @@ Szcenárió2: Digitális gyártervezés, gyártásütemezés és vezérlés (5:5
 </ul>
 
 <li>Szcenárió3: Adatgyűjtés, adatelemzés, adatvizualizáció (7:00)
-<a href="https://youtu.be/vqV4kiR2HF0">Youtube</a>
+<a href="https://youtu.be/vqV4kiR2HF0">Youtube video</a>
 </li>
 
 <ul>
@@ -96,7 +96,7 @@ Szcenárió2: Digitális gyártervezés, gyártásütemezés és vezérlés (5:5
 
 <li>
 Szcenárió4: Ipar4.0 gyártás, beavatkozás a termelésbe (5:27)
-<a href="https://youtu.be/IBy5fSfTqrU">Youtube</a>
+<a href="https://youtu.be/IBy5fSfTqrU">Youtube video</a>
 </li>
 
 <ul>
@@ -109,7 +109,7 @@ Szcenárió4: Ipar4.0 gyártás, beavatkozás a termelésbe (5:27)
 
 <li>
 Szcenárió5: Ipar 4 a logisztikában (5:39)
-<a href="https://youtu.be/Tc3X7SAab6I">Youtube</a>
+<a href="https://youtu.be/Tc3X7SAab6I">Youtube video</a>
 </li>
 
 <ul>
