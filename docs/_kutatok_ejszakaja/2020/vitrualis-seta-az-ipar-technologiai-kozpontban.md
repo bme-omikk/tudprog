@@ -42,7 +42,7 @@ A közvetítés az alábbi linken érhető el: https://youtu.be/e36RFcuGYpI
 <li>Vitruális túra a TK-ban</li>
 </ul>
 
-<b>Folyamatosan megtekinthető bemutatók:</b><br>
+<b>Folyamatosan megtekinthető bemutatók:</b><br><br>
 
 <li>Ipar 4.0 Technológiai Központ a Műegyetemen (6:46)
 Kovács László, Központvezető 
