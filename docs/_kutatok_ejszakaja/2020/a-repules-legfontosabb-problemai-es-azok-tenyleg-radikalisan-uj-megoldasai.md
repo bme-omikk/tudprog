@@ -10,7 +10,7 @@ tud_intezmeny: BME KJK, Vasúti Járművek, Repülőgépek és Hajók Tanszék
 tud_programfelelos: Prof. Dr. Rohács József
 tud_url:
 tud_online:
-tud_reg: Nem, Nem
+tud_reg: Igen, Nem
 date: 2020-11-27
 ---
 

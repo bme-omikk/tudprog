@@ -10,7 +10,7 @@ tud_intezmeny: BME KJK, Vasúti Járművek, Repülőgépek és Hajók Tanszék
 tud_programfelelos: Dr. Veress Árpád
 tud_url:
 tud_online:
-tud_reg: Nem, Nem
+tud_reg: Igen, Nem
 date: 2020-11-27
 ---
 
