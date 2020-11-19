@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Anyu, te vagy az? - hogyan javíthatunk a veleszületett arcvaksággal élők arcfelismerési teljesítményén és ezáltal mindennapjaikon?
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. 18:30-18:45
+tud_idopont: 2020. november 27. 18:30-18:45 (A gördülékeny kezdés érdekében már 17:15-től lehet csatlakozni az eseményhez.)
 tud_helyszin:
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék 
 tud_programfelelos: Németh Kornél

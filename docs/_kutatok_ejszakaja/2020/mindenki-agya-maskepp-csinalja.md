@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Mindenki (agya) másképp csinálja - sokféleség, lelki egészség és a kognitív tudomány.
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. 18:00-18:20
+tud_idopont: 2020. november 27. 18:00-18:20 (A gördülékeny kezdés érdekében már 17:15-től lehet csatlakozni az eseményhez.)
 tud_helyszin:
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék 
 tud_programfelelos: Polner Bertalan

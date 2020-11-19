@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Mit ért egy óvodás, amikor nem azt mondjuk, amit gondolunk?
 tud_tipus: Online előadás
-tud_idopont: 2020. november 19:10-19:30
+tud_idopont: 2020. november 19:10-19:30 (A gördülékeny kezdés érdekében már 17:15-től lehet csatlakozni az eseményhez.)
 tud_helyszin:
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék 
 tud_programfelelos: Krizsai Fruzsina

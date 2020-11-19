@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Mi rejlik a nyelvi képesség mögött?
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. 19:40-20:00
+tud_idopont: 2020. november 27. 19:40-20:00 (A gördülékeny kezdés érdekében már 17:15-től lehet csatlakozni az eseményhez.)
 tud_helyszin:
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék 
 tud_programfelelos: Lukics Krisztina Sára
