@@ -33,7 +33,7 @@ A bemutatókat próbáljuk interaktívvá tenni azáltal, hogy az előadás köz
 Élő bejelentkezés a BME ipar4.0 Technológiai Központból.<br>
 (<a href="https://kutatokejszakaja.hu/latogato/#/regisztracio">Regisztráció</a> szükséges)
 <br>
-A közvetítés az alábbi linken érhető el: <a href="https://youtu.be/e36RFcuGYpI">Youtube video</a>
+A közvetítés az alábbi linken érhető el: <a href="https://youtu.be/e36RFcuGYpI">Youtube élő közvetítés</a>
 </li>
 <ul>
 <li>Megnyitó</li>
