@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Hogyan emlékezünk arra, ami még meg sem történt? Avagy a prospektív memória rejtelmei
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. 17:35-17:55
+tud_idopont: 2020. november 27. 17:35-17:55 (A gördülékeny kezdés érdekében már 17:15-től lehet csatlakozni az eseményhez.)
 tud_helyszin:
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék 
 tud_programfelelos: Lencsés Anita és Mikula Bernadett
