@@ -46,7 +46,7 @@ A közvetítés az alábbi linken érhető el: <a href="https://youtu.be/e36RFcu
 
 <li>Ipar 4.0 Technológiai Központ a Műegyetemen (6:46)
 Kovács László, Központvezető 
-<a href="https://youtu.be/8wxi27S1iV8"</a>
+<a href="https://youtu.be/8wxi27S1iV8">https://youtu.be/8wxi27S1iV8</a>
 </li>
 
 <ul>
