@@ -59,7 +59,7 @@ Kovács László, Központvezető
 
 <li>
 Szcenárió1: Szenzorok, digitális ikerpár (6:19)
-<a href="https://youtu.be/stK-7MxMFdA"</a>
+<a href="https://youtu.be/stK-7MxMFdA">https://youtu.be/stK-7MxMFdA</a>
 </li>
 
 <ul>
@@ -70,7 +70,7 @@ Szcenárió1: Szenzorok, digitális ikerpár (6:19)
 
 <li>
 Szcenárió2: Digitális gyártervezés, gyártásütemezés és vezérlés (5:52)
-<a href="https://youtu.be/f1bOqztKG4w"</a>
+<a href="https://youtu.be/f1bOqztKG4w">https://youtu.be/f1bOqztKG4w</a>
 </li>
 
 <ul>
@@ -82,7 +82,7 @@ Szcenárió2: Digitális gyártervezés, gyártásütemezés és vezérlés (5:5
 </ul>
 
 <li>Szcenárió3: Adatgyűjtés, adatelemzés, adatvizualizáció (7:00)
-<a href="https://youtu.be/vqV4kiR2HF0"</a>
+<a href="https://youtu.be/vqV4kiR2HF0">https://youtu.be/vqV4kiR2HF0</a>
 </li>
 
 <ul>
@@ -96,7 +96,7 @@ Szcenárió2: Digitális gyártervezés, gyártásütemezés és vezérlés (5:5
 
 <li>
 Szcenárió4: Ipar4.0 gyártás, beavatkozás a termelésbe (5:27)
-<a href="https://youtu.be/IBy5fSfTqrU"</a>
+<a href="https://youtu.be/IBy5fSfTqrU">https://youtu.be/IBy5fSfTqrU</a>
 </li>
 
 <ul>
@@ -109,7 +109,7 @@ Szcenárió4: Ipar4.0 gyártás, beavatkozás a termelésbe (5:27)
 
 <li>
 Szcenárió5: Ipar 4 a logisztikában (5:39)
-<a href="https://youtu.be/Tc3X7SAab6I"</a>
+<a href="https://youtu.be/Tc3X7SAab6I">https://youtu.be/Tc3X7SAab6I</a>
 </li>
 
 <ul>
