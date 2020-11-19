@@ -21,6 +21,7 @@ layout: default
 	{%- if page.tud_online -%}<li><b>A rendezvény helyszíne: <a href="{{ page.tud_online | escape }}" target="_blank">Online helyszín</a></b></li>{%- endif -%}
 	{%- if page.tud_intezmeny -%}<li><b>Szervező intézmény(ek): </b>{{ page.tud_intezmeny | escape }}</li>{%- endif -%}
 	{%- if page.tud_programfelelos -%}<li><b>Programfelelős: </b>{{ page.tud_programfelelos | escape }}</li>{%- endif -%}
+	{%- if page.tud_szereplok -%}<li><b>Szereplők: </b>{{ page.tud_szereplok | escape }}</li>{%- endif -%}
 	{%- if page.tud_reg -%}<li><b>Regisztráció, létszámkorlát szükséges-e: </b>{{ page.tud_reg | escape }}</li>{%- endif -%}
 	{%- if page.tud_url -%}<li><b>A rendezvény honlapjának elérhetősége: </b><a href="{{ page.tud_url | escape }}" target="_blank">{{ page.tud_url | escape }}</a></li>{%- endif -%}
    </ul>
