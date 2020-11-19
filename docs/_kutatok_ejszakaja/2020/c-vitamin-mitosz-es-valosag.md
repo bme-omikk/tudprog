@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
-title: C-vitamin: Mítosz és valóság
+title: C-vitamin - Mítosz és valóság
 tud_tipus: Online előadás
 tud_idopont: 2020. november 28. 16:00
 tud_helyszin:
