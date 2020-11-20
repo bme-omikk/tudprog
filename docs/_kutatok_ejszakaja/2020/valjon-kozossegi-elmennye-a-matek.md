@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Váljon közösségi élménnyé a matek!
 tud_tipus: Online előadás
-tud_idopont: 2020 November 28. 9:00
+tud_idopont: 2020 November 28. 9:00-10:30
 tud_intezmeny: BME TTK, Fizikai Intézet
 tud_programfelelos:
 tud_url:
