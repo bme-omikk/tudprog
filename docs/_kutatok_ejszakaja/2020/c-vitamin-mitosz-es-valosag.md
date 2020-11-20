@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: C-vitamin - Mítosz és valóság
 tud_tipus: Online előadás
-tud_idopont: 2020. november 28. 16:00
+tud_idopont: 2020. november 28. 16:00-17:00
 tud_helyszin:
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
 tud_programfelelos: Szarka András
