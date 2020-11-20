@@ -4,10 +4,10 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
 title: Ipar 4.0 – Modern ipari technológiák, a negyedik ipari forradalom építő kövei
 tud_tipus: Online előadás
-tud_idopont: 2020. november 27. 16:00 - 23:00 (élő közvetítés), november 28. 10:00 - 14:00 (video)
+tud_idopont: 2020. november 27. 16:00 - 17:30 (élő közvetítés), 17:30 - 23:00, november 28. 10:00 - 14:00 (video)
 tud_intezmeny: BME VIK, Ipar 4.0 Technológia Központ (FIEK)
 tud_programfelelos: Kovács László 
-tud_szereplok: BME hallgatók, demonstrátorok  Kovácsa Balázs, Berczelly Attila, Szalai Dániel
+tud_szereplok: Berczelly Attila, Kovács Balázs, Nenov Adrienn, Szalai Dániel, Demonstrátorok=BME hallgatók
 tud_helyszin: ONLINE - A leírásban lentebb találhatók
 tud_online:
 tud_reg: Az élő közvetítésre Igen, Nem
@@ -41,9 +41,10 @@ A közvetítés az alábbi linken érhető el: <a href="https://youtu.be/e36RFcu
 <li>Kérdések-válaszok</li>
 <li>Vitruális túra a TK-ban</li>
 </ul>
+</ul>
+<b>Folyamatosan megtekinthető bemutatók:</b>
 
-<b>Folyamatosan megtekinthető bemutatók:</b><br><br>
-
+<ul>
 <li>Ipar 4.0 Technológiai Központ a Műegyetemen (6:46)
 Kovács László, Központvezető 
 <a href="https://youtu.be/8wxi27S1iV8">Youtube video</a>
