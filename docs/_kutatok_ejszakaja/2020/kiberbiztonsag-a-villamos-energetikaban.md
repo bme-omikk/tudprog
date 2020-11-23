@@ -5,11 +5,11 @@ tud_title: Kutatók éjszakája 2020
 title: Kiberbiztonság a villamos energetikában – avagy mi történik, ha a hackerek az áramellátást veszik célba
 tud_tipus: Online előadás
 tud_idopont:  2020. november 27. 17:00
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_intezmeny: BME VIK, Villamos Energetika Tanszék
 tud_programfelelos: Dr. Vokony István, Molnár Martin
 tud_url:
-tud_online:
+tud_online: https://www.gotomeet.me/molnarmartinbme/kiberbiztonság-a-villamos-energetikában---kutatók-
 tud_reg: Nem, Nem
 date: 2020-10-27
 ---
