@@ -12,7 +12,7 @@ tud_url:
 tud_online:
 tud_regisztracio: https://kutatokejszakaja.hu/event/betekintes-a-muegyetemi-pilotakepzesbe
 tud_reg: Igen, Nem
-date: 2020-11-27
+date: 2020-10-27
 ---
 
 Beszélgetés a Műszaki Egyetem és a CAVOK Aviation közös pilótaképzéséről.
