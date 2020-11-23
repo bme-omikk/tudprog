@@ -9,7 +9,7 @@ tud_intezmeny: BME TTK, Matematika Intézet
 tud_helyszin: 
 tud_programfelelos: Ráth Balázs
 tud_url:
-tud_online: https://docs.google.com/forms/d/e/1FAIpQLSecwilk1f9Pf9BymHMRAjADUugGaQ2YFD4hbPuRWUWtrRtjow/viewform
+tud_online: https://www.youtube.com/channel/UCURyeAht1XiQUNDrc9JtZ5w
 tud_reg: Nem, Nem
 date: 2020-10-27
 ---
