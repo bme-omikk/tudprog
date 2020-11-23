@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2020
 title: Betekintés a műegyetemi pilótaképzésbe
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 17:00-18:00
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_intezmeny: BME KJK, Vasúti Járművek, Repülőgépek és Hajók Tanszék
 tud_programfelelos: Lezsovits Marcell, Jankovics István
 tud_url:
