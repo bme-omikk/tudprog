@@ -5,10 +5,11 @@ tud_title: Kutatók éjszakája 2020
 title:  ON - láv Gyors match, lassú szerelem – Tinder applikáció használati szokásának pszichológiai és kvantitatív kutatási elemzése
 tud_tipus: Online előadás
 tud_idopont: 2020. november 28. 13:00-14:30
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_intezmeny: BME GTK, Menedzsment és Vállalkozásgazdaságtan Tanszék
 tud_programfelelos: Dr. Hevesi Krisztina, Dr. Bernschütz Mária
 tud_url:
+tud_online: https://meet.google.com/whd-zfvw-yth
 tud_reg: Nem, Nem
 date: 2020-10-27
 ---

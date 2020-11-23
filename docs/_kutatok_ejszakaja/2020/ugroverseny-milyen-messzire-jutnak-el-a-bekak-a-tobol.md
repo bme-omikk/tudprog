@@ -15,7 +15,7 @@ date: 2020-10-27
 ---
  
 A békák egymás hátán átugorva tudnak a tóból kiugrani, de amelyiket már átugrották, az nem mehet tovább. Milyen messzire juthatnak el a békák a tóból? Az előadásban a problémát matematikailag pontosan megfogalmazzuk, majd bemutatjuk és elemezzük a megoldás módszerét.
-Kipórbálhatod magad egy feladatsorral.
+Kipórbálhatod magad egy <a href="https://docs.google.com/forms/d/e/1FAIpQLScvBEjSfzI3u17yaGU59fYsGBQVG1-hGbYYnzDS56DpyZdshQ/viewform">feladatsorral</a>.
 
 
 <img src="images/beka.jpg" max-width="500" class="center">
