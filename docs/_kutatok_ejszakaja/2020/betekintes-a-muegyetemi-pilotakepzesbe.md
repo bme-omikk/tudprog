@@ -10,6 +10,7 @@ tud_intezmeny: BME KJK, Vasúti Járművek, Repülőgépek és Hajók Tanszék
 tud_programfelelos: Lezsovits Marcell, Jankovics István
 tud_url:
 tud_online:
+tud_regisztracio: https://kutatokejszakaja.hu/event/betekintes-a-muegyetemi-pilotakepzesbe
 tud_reg: Igen, Nem
 date: 2020-11-27
 ---

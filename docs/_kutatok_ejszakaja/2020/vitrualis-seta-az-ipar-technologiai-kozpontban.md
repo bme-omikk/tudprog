@@ -10,6 +10,7 @@ tud_programfelelos: Kovács László
 tud_szereplok: Berczelly Attila, Kovács Balázs, Nenov Adrienn, Szalai Dániel, Demonstrátorok=BME hallgatók
 tud_helyszin: ONLINE - A leírásban lentebb találhatók
 tud_online:
+tud_regisztracio: https://kutatokejszakaja.hu/event/ipar-40-modern-ipari-technologiak-a-negyedik-ipari-forradalom-epito-kovei
 tud_reg: Az élő közvetítésre Igen, Nem
 date: 2020-10-27
 ---
@@ -31,7 +32,7 @@ A bemutatókat próbáljuk interaktívvá tenni azáltal, hogy az előadás köz
 <ul>
 <li>
 Élő bejelentkezés a BME ipar4.0 Technológiai Központból.<br>
-(<a href="https://kutatokejszakaja.hu/latogato/#/regisztracio">Regisztráció</a> szükséges)
+(<a href="https://kutatokejszakaja.hu/event/ipar-40-modern-ipari-technologiak-a-negyedik-ipari-forradalom-epito-kovei">REGISZTRÁCIÓ</a> szükséges)
 <br>
 A közvetítés az alábbi linken érhető el: <a href="https://youtu.be/e36RFcuGYpI">Youtube élő közvetítés</a>
 </li>

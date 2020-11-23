@@ -9,7 +9,8 @@ tud_intezmeny: BME TTK, Fizikai Intézet
 tud_helyszin: 
 tud_programfelelos: Pályi András, Asbóth János, Budai Ákos
 tud_url:
-tud_online: https://docs.google.com/forms/d/e/1FAIpQLSecwilk1f9Pf9BymHMRAjADUugGaQ2YFD4hbPuRWUWtrRtjow/viewform
+tud_online:
+tud_regisztracio: https://kutatokejszakaja.hu/event/programozzunk-kvantumszamitogepet-mi-az-a-kvantumszamitogep-mire-jo
 tud_reg: Igen, 30 fő
 date: 2020-10-27
 ---

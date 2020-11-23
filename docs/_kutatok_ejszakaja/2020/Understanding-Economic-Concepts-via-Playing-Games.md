@@ -5,10 +5,10 @@ tud_title: Kutatók éjszakája 2020
 title: Understanding Economic Concepts via Playing Games
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 19:30-20:30
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_intezmeny: BME GTK, QSMS Kutatóközpont
 tud_programfelelos: Dr. Fatma Aslan
-tud_url:
+tud_regisztracio: https://kutatokejszakaja.hu/event/understanding-economic-concepts-via-playing-games 
 tud_reg: Igen, 40 fő
 date: 2020-10-27
 ---

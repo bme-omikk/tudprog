@@ -5,7 +5,8 @@ tud_title: Kutatók éjszakája 2020
 title:  Bevált evolúciós stratégiák és mérnöki alkalmazásaik
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 18:00-19:00
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
+tud_regisztracio: https://kutatokejszakaja.hu/event/bevalt-evolucios-strategiak-es-mernoki-alkalmazasaik
 tud_intezmeny: BME GPK, MOGI Tanszék
 tud_programfelelos: Dr. Botzheim János egyetemi docens (felelős), Gyöngyössy Natabara Máté MSc hallgató
 tud_url:

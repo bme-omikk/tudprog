@@ -9,7 +9,8 @@ tud_intezmeny: BME TTK, Fizikai Intézet
 tud_programfelelos:
 tud_url:
 tud_online:
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin: 
+tud_regisztracio: https://kutatokejszakaja.hu/event/valjon-kozossegi-elmennye-a-matek
 tud_reg: Igen, Nem
 date: 2020-10-27
 ---

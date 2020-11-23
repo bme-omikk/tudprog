@@ -7,8 +7,9 @@ tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 16:00-17:00, 17:00-18:00, 18:00-19:00, 19:00-20:00, 20:00-21:00
 tud_intezmeny: BME – VIK, Elektronikai Technológia Tanszék
 tud_programfelelos: Dr. Krammer Olivér egyetemi docens, Dr. Géczy Attila egyetemi docens, Bátorfi Réka tudományos segédmunkatárs, Straubinger Dániel doktorandusz
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_online:
+tud_regisztracio: https://kutatokejszakaja.hu/event/hogyan-keszulnek-az-elektronikus-kutyuk-aramkorei-1
 tud_url:
 tud_reg: Igen, 30 fő 
 date: 2020-10-27

@@ -5,11 +5,12 @@ tud_title: Kutatók éjszakája 2020
 title: Az emlékezet mindennapi működése (laborbemutató)
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 17:00-17:30
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék 
 tud_programfelelos: Szőllősi Ágnes
 tud_url:
 tud_online:
+tud_regisztracio: https://kutatokejszakaja.hu/event/az-emlekezet-mindennapi-mukodese-laborbemutato
 tud_reg: Igen, 5 fő
 date: 2020-10-27
 ---

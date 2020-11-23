@@ -9,7 +9,8 @@ tud_helyszin:
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi tanszék
 tud_programfelelos: Dr Németh Áron (docens), Nagy Balázs József (doktoráns)
 tud_url:
-tud_online: https://teams.microsoft.com/l/meetup-join/19:368b72f808724bbfb091414b50d9bb7c@thread.tacv2/1605619222242?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%2240ec3d92-77e4-40a4-bd62-b02e0dc562df%22%7d
+tud_online:
+tud_regisztracio: https://kutatokejszakaja.hu/event/muszaki-biokemia-alkalmazott-mikrobiologia
 tud_reg: Igen, Nem
 date: 2020-10-27
 ---
