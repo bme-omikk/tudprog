@@ -6,7 +6,7 @@ title: Design és szellemi tulajdonjog
 tud_tipus: Kerekasztal-beszélgetés Dr. Baksay-Nagy György, Dr. Grad-Gyenge Anikó, Dr. Horák Péter, Dr. Jókúti András
 tud_tudomanyterulet: jog
 tud_idopont: 2020. november 25. 10:00
-tud_helyszin: Online
+tud_helyszin:
 tud_online: http://law.bme.hu/?fbclid=IwAR1A61nncMGDIVcY3v0Lfn4Si0kmymnuQDsocoBZwCiUhhenwS1stqE4TPw
 tud_intezmeny: BME GTK Üzleti Jog Tanszék
 tud_kapcsolattarto: dr. Grad-Gyenge Anikó a.gyenge@eik.bme.hu
