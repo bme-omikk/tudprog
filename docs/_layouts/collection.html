@@ -20,6 +20,7 @@ layout: default
 	{%- if page.tud_tudomanyterulet -%}<li><b>Tudományterület: </b>{{ page.tud_tudomanyterulet | escape }}</li>{%- endif -%}
     {%- if page.tud_idopont -%}<li><b>A rendezvény időpontja: </b>{{ page.tud_idopont | escape }}</li>{%- endif -%}
 	{%- if page.tud_helyszin -%}<li><b>A rendezvény helyszíne: </b>{{ page.tud_helyszin | escape }}</li>{%- endif -%}
+	{%- if page.tud_online -%}<li><b>A rendezvény helyszíne: <a href="{{ page.tud_online | escape }}" target="_blank">Online helyszín</a></b></li>{%- endif -%}
 	{%- if page.tud_teams -%}<li><b>A rendezvény online helyszíne: <a href="{{ page.tud_teams | escape }}" target="_blank">Microsoft Teams</a></b></li>{%- endif -%}
 	{%- if page.tud_youtube -%}<li><b>A rendezvény online helyszíne: <a href="{{ page.tud_youtube | escape }}" target="_blank">Youtube csatorna</a></b></li>{%- endif -%}
 	{%- if page.tud_intezmeny -%}<li><b>Szervező intézmény(ek): </b>{{ page.tud_intezmeny | escape }}</li>{%- endif -%}
