@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2020
 title: Kémia grammokban és milliótonnákban
 tud_tipus: Online előadás 
 tud_idopont: 2020. november 27. 16:30-17:45
-tud_intezmeny: BME GPK, Hidrodinamikai Rendszerek Tanszék
+tud_intezmeny: BME VBK, Kémiai és Környezeti Folyamatmérnöki Tanszék
 tud_programfelelos: Dr. Mika László Tamás
 tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
 tud_online:
