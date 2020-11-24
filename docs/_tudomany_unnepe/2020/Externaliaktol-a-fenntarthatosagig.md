@@ -6,7 +6,7 @@ title: Externáliáktól a fenntarthatóságig
 tud_tipus: Konferencia, könyvbemutató
 tud_tudomanyterulet: Közgazdaságtudomány, Üzleti tudományok, Regionális tudomány, Interdiszciplináris
 tud_idopont: 2020. november 27. 10:00
-tud_helyszin: Online
+tud_helyszin:
 tud_intezmeny: BME GTK Környezetgazdaságtan Tanszék
 tud_online: http://kornygazd.bme.hu/hu/hirek/externaliaktol-a-fenntarthatosagig-online-konferencia-a-magyar-tudomany-uennepe-joevoformalo-tudomany-programsorozat-kereteben
 tud_kapcsolattarto: Szalmáné Dr. Csete Mária, csete@eik.bme.hu, +36-1-463-2018
