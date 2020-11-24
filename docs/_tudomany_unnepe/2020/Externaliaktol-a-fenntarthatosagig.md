@@ -8,6 +8,7 @@ tud_tudomanyterulet: Közgazdaságtudomány, Üzleti tudományok, Regionális tu
 tud_idopont: 2020. november 27. 10:00
 tud_helyszin: Online
 tud_intezmeny: BME GTK Környezetgazdaságtan Tanszék
+tud_teams: http://kornygazd.bme.hu/hu/hirek/externaliaktol-a-fenntarthatosagig-online-konferencia-a-magyar-tudomany-uennepe-joevoformalo-tudomany-programsorozat-kereteben
 tud_kapcsolattarto: Szalmáné Dr. Csete Mária, csete@eik.bme.hu, +36-1-463-2018
 tud_url: http://kornygazd.bme.hu/hu
 date: 2020-11-27
