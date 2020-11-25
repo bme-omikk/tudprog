@@ -7,8 +7,8 @@ tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 16:30-17:45
 tud_intezmeny: BME VBK, Kémiai és Környezeti Folyamatmérnöki Tanszék
 tud_programfelelos: Dr. Mika László Tamás
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
-tud_online:
+tud_helyszin:
+tud_online: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDJmZTE2YTItMTJlZS00NTZkLTg0MDctZjk0ODRmMDA5Y2Zm%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%225112666e-3e32-405d-816f-d34422f66cb5%22%2c%22IsBroadcastMeeting%22%3atrue%7d
 tud_url:
 tud_reg: Nem, Nem
 date: 2020-10-27
