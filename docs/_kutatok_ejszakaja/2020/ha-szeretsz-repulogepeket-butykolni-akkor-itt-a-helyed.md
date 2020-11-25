@@ -5,11 +5,11 @@ tud_title: Kutatók éjszakája 2020
 title: Ha szeretsz repülőgépeket bütykölni, akkor itt a helyed! - Új duális repülőgép karbantartó és javító MSc képzés indul a BME-n
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 16:00-16:30
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_intezmeny: BME KJK, Vasúti Járművek, Repülőgépek és Hajók Tanszék
 tud_programfelelos: Dr. Veress Árpád
 tud_url:
-tud_online:
+tud_online: https://www.youtube.com/channel/UCJtKE6SsIHeWx_4g7LdBH6g
 tud_reg: Igen, Nem
 date: 2020-11-27
 ---
