@@ -5,11 +5,11 @@ tud_title: Kutatók éjszakája 2020
 title: Vasúttal a felhők felett
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27-28.
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_intezmeny: BME VIK, Méréstechnika és Információs Rendszerek Tanszék 
 tud_programfelelos: Horváth Benedek
 tud_url:
-tud_online:
+tud_online: https://www.youtube.com/watch?v=hveIsI-EBhQ
 tud_reg: Nem, Nem
 date: 2020-10-27
 ---
