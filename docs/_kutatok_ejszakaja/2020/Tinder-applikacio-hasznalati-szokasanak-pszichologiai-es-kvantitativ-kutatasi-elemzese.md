@@ -9,7 +9,7 @@ tud_helyszin:
 tud_intezmeny: BME GTK, Menedzsment és Vállalkozásgazdaságtan Tanszék
 tud_programfelelos: Dr. Hevesi Krisztina, Dr. Bernschütz Mária
 tud_url:
-tud_online: https://meet.google.com/whd-zfvw-yth
+tud_online: https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Y2Q0YjM2MGMtZGJlYS00ODk0LTkzMTgtZWNhNDBmOTk4YTJi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25226a3548ab-7570-4271-91a8-58da00697029%2522%252c%2522Oid%2522%253a%2522797dc6c0-5d88-48a3-a432-e5b892908fe7%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=3c181d21-241e-4e50-8e1b-f74781ba7f69&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
 tud_reg: Nem, Nem
 date: 2020-10-27
 ---
