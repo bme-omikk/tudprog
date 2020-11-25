@@ -17,10 +17,10 @@ date: 2020-10-27
 
 Logirintus: online logikai kalandjáték A Matematika Összeköt Egyesület önkénteseitől. A játék 8-18 éves korig játszható egyénileg és csapatban is, több kategóriában, vagyis mindenki megtalálhatja a neki megfelelő nehézségi szintet.  
 
-5-6. évfolyam: https://logirintus.typeform.com/to/RfRDWkJi
-7-8. évfolyam: https://logirintus.typeform.com/to/hnA0HsTE
-9-10. évfolyam: https://logirintus.typeform.com/to/udgxDkqE
-11-12. évfolyam: https://logirintus.typeform.com/to/dqhBWzUp
+<a href="https://logirintus.typeform.com/to/RfRDWkJi">5-6. évfolyam, <a>
+<a href="https://logirintus.typeform.com/to/hnA0HsTE">7-8. évfolyam, </a>
+<a href="https://logirintus.typeform.com/to/udgxDkqE">9-10. évfolyam, </a>
+<a href="https://logirintus.typeform.com/to/dqhBWzUp">11-12. évfolyam</a>
 
 
 <img src="images/kalandjatek.png" max-width="500" class="center">
