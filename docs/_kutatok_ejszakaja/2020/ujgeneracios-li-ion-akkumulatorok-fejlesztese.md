@@ -2,14 +2,14 @@
 layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2020
-title: Újgenerációs Li-ion akkumulátorok fejlesztése
+title: Mitől gyulladhatnak ki az elektromos autók, avagy a Li-ion akkumulátor az elektromos autók Achilles-sarka? - Újgenerációs Li-ion akkumulátorok fejlesztése
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 14:00-14:40
 tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
 tud_intezmeny: BME VBK, Kémiai és Környezeti Folyamatmérnöki Tanszék
 tud_programfelelos: Dr. Kun Róbert
 tud_url:
-tud_online:
+tud_online: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTcyMTc4MzktYzUwNi00OWVjLTkzNGUtZGNiYWRmYjZkODNi%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%22fc3df0b8-b3f3-4cd7-9fa3-d96e65e347f3%22%7d
 tud_reg: Nem, Nem
 date: 2020-11-27
 ---
