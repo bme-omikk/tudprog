@@ -8,7 +8,7 @@ tud_idopont: 2020. november 27. 16:00-16:30, 16:30-17:00, 17:00-17:30, 17:30-18:
 tud_helyszin:
 tud_intezmeny: BME ÉPK, Szilárdságtani és Tartószerkezeti Tanszék
 tud_programfelelos: Dr. Hegyi Dezső, Dr. Gáspár Orsolya, Karádi Dániel
-tud_online:
+tud_online: https://teams.microsoft.com/l/team/19%3a432368b580884319a81f65e313f7da95%40thread.tacv2/conversations?groupId=82e36613-211d-48fc-af01-2740e3a9eac6&tenantId=6a3548ab-7570-4271-91a8-58da00697029
 tud_kviz: https://kutatokejszakaja.hu/event/hova-is-repulnek-az-elszabadult-heliumos-lufik-magaslegkori-ballonokrol-roviden
 tud_reg: Kvízhez igen, 50 fő/alkalom. Videó bármikor megtekinthető.
 date: 2020-10-27
@@ -18,6 +18,8 @@ date: 2020-10-27
 <b>Dr. Gáspár Orsolya: </b>Építészmérnök, adjunktus a BME Szilárdságtani és Tartószerkezeti Karán. A ballonokról Hegyi Dezsőtől hallott először évekkel ezelőtt. A felállás változatlan, most is ő az, aki kérdez. 
 
 <b>Karádi Dániel: </b>Doktorandusz hallgató a BME Szilárdságtani és Tartószerkezeti Tanszéken, a műszaki textíliák tönkremenetelét vizsgálja.
+
+Teams belépési kód: lavkvge
  
 Ha az űrtechnika szóba kerül, általában valami bonyolult dologra gondolunk – többnyire jogosan. Azonban (majdnem) az űrbe egészen egyszerű módszerrel is feljuttathatunk kísérleti berendezéseket – az úgynevezett magaslégköri ballonok a héliumos lufihoz hasonló elven működnek. Ezek képesek elérni a sztratoszférát (~30-40 km magasság), ahol már elvégezhetőek olyan vizsgálatok, amik például a kozmikus sugárzást figyelik.
 
