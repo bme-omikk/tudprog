@@ -16,6 +16,10 @@ date: 2020-10-27
 <b>Dr. Fatma Aslan:</b> A BME Gazdaság- és Társadalomtudományi Karán alakult Kvantitatív Társadalom- és Gazdaságtudományi Kutatóközpont posztdoktori kutatója. Közgazdasági doktori fokozatát 2019-ben, a párizsi CNAM-ban, és az isztambuli Bilgi Egyetemen szerezte Jean Lainé irányításával. Kutatási területe a szavazáselmélet, a társadalmi döntések elmélete, a párosításelmélet, a kooperatív játékelmélet, a kísérleti közgazdaságtan és a viselkedésgazdaságtan.
 
 
+A csatorna 19:30-tól elérhető, a fenti linkre kattintva telepíthető az applikáció illtve valósul meg a csatlakozás:<br>
+
+<b>Meeting ID: </b> 836 1306 0401
+
 Participants will learn about some economic concepts by playing two different games. In these games, they will be asked to make decisions that mimic real-life economic scenarios. 
 
 The first game will shed light on strategic thinking, and it relates to diverse phenomena like beauty contests and speculation on the stock market.

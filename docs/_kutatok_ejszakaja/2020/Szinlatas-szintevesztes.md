@@ -5,10 +5,10 @@ tud_title: Kutatók éjszakája 2020
 title: Színlátás-színtévesztés
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27-28.
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_intezmeny: BME GPK, MOGI Tanszék
 tud_programfelelos: Prof.dr.habil Ábrahám György, az MTA doktora
-tud_online:
+tud_online: https://www.youtube.com/watch?v=AAI_28sOZ3w
 tud_url:
 tud_reg: Nem, Nem
 date: 2020-10-27

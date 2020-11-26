@@ -5,9 +5,10 @@ tud_title: Kutatók éjszakája 2020
 title:  Játékelmélet a mindennapokban
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 18:00-19:00
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
+tud_helyszin:
 tud_intezmeny: BME GTK, QSMS Kutatóközpont
 tud_programfelelos: Prof. Dr. Kóczy Á. László
+tud_online: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMGIxNGUtNzhiYi00NDgyLWFhZWItZjlmNmM1Y2QwOGIx%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%2248025922-3c5f-45a3-9d25-6196899e6554%22%7d
 tud_url:
 tud_reg: Nem, Nem
 date: 2020-10-27
