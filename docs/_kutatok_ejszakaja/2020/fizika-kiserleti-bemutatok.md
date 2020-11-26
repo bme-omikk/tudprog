@@ -18,7 +18,7 @@ date: 2020-10-27
 <br>
 A fizika alaptudomány, amely nélkül a modern társadalom összeomlik. Ahogy eddig is, kiragadjuk a fizika legszerethetőbb részét a kísérletezést.
 <br>
-Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az előadó youtube csatornája</a>
+Helyszín: <a href="https://www.youtube.com/watch?v=fClVJP5R2qY">Az előadó youtube csatornája</a>
 </li>
 <br>
 
@@ -27,7 +27,7 @@ Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az elő
 <br>
 Szívószálak, labdák, pénzérmék, tölcsér vagy WC-papír-tekercs: minden otthonban megtalálható. Nem is gondolnánk, hogy érdekfeszítő kísérletek eszközéül is szolgálhatnak. Vagyis az előadásban olyan kísérletek lesznek a főszereplők, amelyek otthon is elvégezhetőek.
 <br>
-Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az előadó youtube csatornája</a>
+Helyszín: <a href="https://www.youtube.com/watch?v=rU7_pHuAatc">Az előadó youtube csatornája</a>
 </li>
 
 <br>
@@ -37,7 +37,7 @@ Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az elő
 <br>
 Környezetszennyezés, energiaellátás, fenntartható fejlődés ezek korunk legfontosabb kihívásai. A természettudományok, ezen belül a fizika alapos ismerete adhat helyes választ, megoldást ak érédsekre és a problémákra.
 <br>
-Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az előadó youtube csatornája</a>
+Helyszín: <a href="https://www.youtube.com/watch?v=WFyKiHHp2dE">Az előadó youtube csatornája</a>
 </li>
 
 <br>
@@ -47,7 +47,7 @@ Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az elő
 <br>
 Szívószálak, labdák, pénzérmék, tölcsér vagy WC-papír-tekercs: minden otthonban megtalálható. Nem is gondolnánk, hogy érdekfeszítő kísérletek eszközéül is szolgálhatnak. Vagyis az előadásban olyan kísérletek lesznek a főszereplők, amelyek otthon is elvégezhetőek.
 <br>
-Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az előadó youtube csatornája</a>
+Helyszín: <a href="https://www.youtube.com/watch?v=rU7_pHuAatc">Az előadó youtube csatornája</a>
 </li>
 
 <br>
@@ -58,7 +58,7 @@ Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az elő
 <br>
 A fizika alaptudomány, amely nélkül a modern társadalom összeomlik. Ahogy eddig is, kiragadjuk a fizika legszerethetőbb részét a kísérletezést.
 <br>
-Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az előadó youtube csatornája</a>
+Helyszín: <a href="https://www.youtube.com/watch?v=fClVJP5R2qY">Az előadó youtube csatornája</a>
 </li>
 
 <br>
@@ -68,7 +68,7 @@ Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az elő
 <br>
 Környezetszennyezés, energiaellátás, fenntartható fejlődés ezek korunk legfontosabb kihívásai. A természettudományok, ezen belül a fizika alapos ismerete adhat helyes választ, megoldást ak érédsekre és a problémákra.
 <br>
-Helyszín: <a href="https://www.youtube.com/c/K%C3%A1rolyH%C3%A4rtlein/">Az előadó youtube csatornája</a>
+Helyszín: <a href="https://www.youtube.com/watch?v=WFyKiHHp2dE">Az előadó youtube csatornája</a>
 
 </li>
 

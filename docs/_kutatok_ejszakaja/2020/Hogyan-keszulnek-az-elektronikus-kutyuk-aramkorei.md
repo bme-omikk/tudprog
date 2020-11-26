@@ -9,7 +9,7 @@ tud_intezmeny: BME – VIK, Elektronikai Technológia Tanszék
 tud_programfelelos: Dr. Krammer Olivér egyetemi docens, Dr. Géczy Attila egyetemi docens, Bátorfi Réka tudományos segédmunkatárs, Straubinger Dániel doktorandusz
 tud_helyszin:
 tud_online: https://bit.ly/34PBPwN
-tud_regisztracio: https://kutatokejszakaja.hu/event/hogyan-keszulnek-az-elektronikus-kutyuk-aramkorei-1
+tud_regisztracio:
 tud_url:
 tud_reg: Igen, 30 fő 
 date: 2020-10-27
