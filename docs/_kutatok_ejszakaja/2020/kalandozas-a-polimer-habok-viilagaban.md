@@ -6,10 +6,11 @@ title: Kalandozás a polimer habok/habszerkezetek világában - avagy lehet egy 
 tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 16:00-17:00 
 tud_intezmeny: BME GPK, Polimertechnika Tanszék
-tud_helyszin: ONLINE - Hamarosan meghirdetésre kerül
-tud_programfelelos: Dr. Kmetty Ákos, Litauszki Katalin, Dr. Kmetty Ákos, Dr. Tábi Tamás, Tomin Márton
+tud_helyszin:
+tud_programfelelos: Dr. Kmetty Ákos, Litauszki Katalin, Dr. Tábi Tamás, Tomin Márton
 tud_url:
-tud_online:
+tud_online: https://www.youtube.com/watch?v=AdGyzl2DJtA
+tud_beszelgetes: https://teams.microsoft.com/l/meetup-join/19%3a25926c5ff40e47ada1414d66f14ae876%40thread.tacv2/1605538318870?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%226f9a532b-a0f1-44d6-82ab-a928703e672a%22%7d
 tud_reg: Igen, Nem
 date: 2020-10-27
 ---
