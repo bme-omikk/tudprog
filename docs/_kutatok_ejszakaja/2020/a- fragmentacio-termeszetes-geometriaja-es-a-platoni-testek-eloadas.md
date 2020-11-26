@@ -9,7 +9,7 @@ tud_intezmeny: BME TTK, Fizikai Intézet
 tud_helyszin:
 tud_programfelelos: Török János
 tud_url:
-tud_online: https://www.youtube.com/channel/UCURyeAht1XiQUNDrc9JtZ5w
+tud_online: https://www.youtube.com/watch?v=Rc2una-zVMU
 tud_reg: Nem, Nem
 date: 2020-10-27
 ---
