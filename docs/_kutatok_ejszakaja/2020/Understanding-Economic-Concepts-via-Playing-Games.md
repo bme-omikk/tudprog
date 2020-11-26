@@ -8,6 +8,7 @@ tud_idopont: 2020. november 27. 19:30-20:30
 tud_helyszin:
 tud_intezmeny: BME GTK, QSMS Kutatóközpont
 tud_programfelelos: Dr. Fatma Aslan
+tud_online: https://us02web.zoom.us/j/83613060401
 tud_regisztracio: https://kutatokejszakaja.hu/event/understanding-economic-concepts-via-playing-games 
 tud_reg: Igen, 40 fő
 date: 2020-10-27
