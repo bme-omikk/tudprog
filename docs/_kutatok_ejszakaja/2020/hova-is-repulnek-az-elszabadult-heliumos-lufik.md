@@ -19,7 +19,7 @@ date: 2020-10-27
 
 <b>Karádi Dániel: </b>Doktorandusz hallgató a BME Szilárdságtani és Tartószerkezeti Tanszéken, a műszaki textíliák tönkremenetelét vizsgálja.
 
-Teams belépési kód: lavkvge
+<b>Teams belépési kód</b>: lavkvge
  
 Ha az űrtechnika szóba kerül, általában valami bonyolult dologra gondolunk – többnyire jogosan. Azonban (majdnem) az űrbe egészen egyszerű módszerrel is feljuttathatunk kísérleti berendezéseket – az úgynevezett magaslégköri ballonok a héliumos lufihoz hasonló elven működnek. Ezek képesek elérni a sztratoszférát (~30-40 km magasság), ahol már elvégezhetőek olyan vizsgálatok, amik például a kozmikus sugárzást figyelik.
 
