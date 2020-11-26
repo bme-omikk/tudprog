@@ -8,7 +8,7 @@ tud_idopont: 2020. november 27. 16:00-17:00, 19:00-20:00, 21:00-22:00
 tud_helyszin:
 tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_programfelelos: Dr. Bauer Péter
-tud_online: https://drive.google.com/file/d/1o9JMC2GSNfiQfXhQ6WVKqPAzZyyxouM6/view?usp=sharin
+tud_online: https://www.youtube.com/watch?v=xzFma1qjARs
 tud_reg: Nem, Nem
 date: 2020-10-27
 ---

@@ -9,7 +9,7 @@ tud_helyszin:
 tud_intezmeny: BME KJK, Vasúti Járművek, Repülőgépek és Hajók Tanszék
 tud_programfelelos: Dr. Veress Árpád
 tud_url:
-tud_online: https://www.youtube.com/channel/UCJtKE6SsIHeWx_4g7LdBH6g
+tud_online:
 tud_regisztracio: https://kutatokejszakaja.hu/event/szamitogepes-jatekok-vagy-mernoki-kutatas-fejlesztes
 tud_reg: Igen, Nem
 date: 2020-10-27

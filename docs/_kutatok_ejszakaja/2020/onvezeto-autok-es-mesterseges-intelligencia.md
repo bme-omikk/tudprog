@@ -9,7 +9,7 @@ tud_helyszin:
 tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_programfelelos: Dr. Németh Balázs
 tud_url:
-tud_online: https://www.youtube.com/channel/UCtWJgLPovaJd6o8aZCPxuDA/
+tud_online: https://www.youtube.com/watch?v=CcSt3hRD8y4
 tud_reg: Nem, Nem
 date: 2020-10-27
 ---

@@ -12,7 +12,7 @@ tud_url:
 tud_online:
 tud_regisztracio: https://kutatokejszakaja.hu/event/legikozlekedesi-menedzsment-mesterkepzes-a-kozlekedesmernoki-karon
 tud_reg: Igen, Nem
-date: 2020-11-27
+date: 2020-10-27
 ---
 
 Betekintés a Közlekedésmérnöki és Járműmérnöki kar ATM képzésébe, és a HungaroControl Zrt. kapcsolódó munkájába.
