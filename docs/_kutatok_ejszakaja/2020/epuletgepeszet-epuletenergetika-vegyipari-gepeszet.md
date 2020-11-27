@@ -22,17 +22,17 @@ A Tanszék tevékenységével és kutatásával kapcsolatos kérdések feltétel
 
  A honlapunkon a jelzett linken kifejezetten a Kutatók Éjszakájáre létrehoztunk egy oldalt, ahol különböző videókat lehet megtekinteni:
 
-    - a Tanszék képzéseinek bemutatása (épületgépészet, vegyipari gépészet);
-    - kb. 10-15 perces előadások épületgépészeti és épületenergetikai témakörökben;
-    - épületgépészeti jelenségeket és berendezéseket bemutató 2-5 perces videók;
-    - vegyipari gépészeti berendezéseket és eljárásokat bemutató 1-5 perces videók;
-    - túra a Stokes Laboratúriumban;
-    - a Macskásy Komfort és Klímatechnikai Laboratórium bemutatása;
+    . a Tanszék képzéseinek bemutatása (épületgépészet, vegyipari gépészet);
+    . kb. 10-15 perces előadások épületgépészeti és épületenergetikai témakörökben;
+    . épületgépészeti jelenségeket és berendezéseket bemutató 2-5 perces videók;
+    . vegyipari gépészeti berendezéseket és eljárásokat bemutató 1-5 perces videók;
+    . túra a Stokes Laboratúriumban;
+    . a Macskásy Komfort és Klímatechnikai Laboratórium bemutatása;
 
 továbbá
 
-    - virtuális laborséta a Tanszék  laboratóriumaiban az egyes mérőállások bemutatásával (link a 2-5 perces videókra);
-    - nyereményjáték a videókat megtekintők és az erre vonatkozó kérdőívet kitöltők számára.
+    . virtuális laborséta a Tanszék  laboratóriumaiban az egyes mérőállások bemutatásával (link a 2-5 perces videókra);
+    . nyereményjáték a videókat megtekintők és az erre vonatkozó kérdőívet kitöltők számára.
 
 Az egyes videókban, részprogramokban lényegében az egész Tanszék oktatógárdája érintett. A programokban szereplő oktatók és kutatók bemutatása a Tanszék <a href="https://epget.bme.hu/oktatoi_oldal.php">honlapján</a> található.
 
