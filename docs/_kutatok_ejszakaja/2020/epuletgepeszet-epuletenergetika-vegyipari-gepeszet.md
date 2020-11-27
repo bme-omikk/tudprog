@@ -21,19 +21,21 @@ date: 2020-10-27
 A Tanszék tevékenységével és kutatásával kapcsolatos kérdések feltételére és megválaszolására. A Teams-ben lebonyolított programhoz a Tanszék honlapján a „<b>Kérdésed van?</b>” menüpont alatt lehet kapcsolódni.
 
  A honlapunkon a jelzett linken kifejezetten a Kutatók Éjszakájáre létrehoztunk egy oldalt, ahol különböző videókat lehet megtekinteni:
+ <ul>
+   <li> a Tanszék képzéseinek bemutatása (épületgépészet, vegyipari gépészet); </li>
+   <li>kb. 10-15 perces előadások épületgépészeti és épületenergetikai témakörökben;</li>
+   <li> épületgépészeti jelenségeket és berendezéseket bemutató 2-5 perces videók;</li>
+   <li> vegyipari gépészeti berendezéseket és eljárásokat bemutató 1-5 perces videók;</li>
+   <li> túra a Stokes Laboratúriumban;</li>
+    <li>a Macskásy Komfort és Klímatechnikai Laboratórium bemutatása;</li>
+ </ul>
+ 
+továbbá 
 
-    . a Tanszék képzéseinek bemutatása (épületgépészet, vegyipari gépészet);
-    . kb. 10-15 perces előadások épületgépészeti és épületenergetikai témakörökben;
-    . épületgépészeti jelenségeket és berendezéseket bemutató 2-5 perces videók;
-    . vegyipari gépészeti berendezéseket és eljárásokat bemutató 1-5 perces videók;
-    . túra a Stokes Laboratúriumban;
-    . a Macskásy Komfort és Klímatechnikai Laboratórium bemutatása;
-
-továbbá
-
-    . virtuális laborséta a Tanszék  laboratóriumaiban az egyes mérőállások bemutatásával (link a 2-5 perces videókra);
-    . nyereményjáték a videókat megtekintők és az erre vonatkozó kérdőívet kitöltők számára.
-
+ <ul>
+     <li>virtuális laborséta a Tanszék  laboratóriumaiban az egyes mérőállások bemutatásával (link a 2-5 perces videókra);</li>
+     <li>nyereményjáték a videókat megtekintők és az erre vonatkozó kérdőívet kitöltők számára.</li>
+ </ul>
 Az egyes videókban, részprogramokban lényegében az egész Tanszék oktatógárdája érintett. A programokban szereplő oktatók és kutatók bemutatása a Tanszék <a href="https://epget.bme.hu/oktatoi_oldal.php">honlapján</a> található.
 
 
