@@ -40,7 +40,9 @@ collections:
   kutatok_ejszakaja:
     output: true
   homepage:
-    output: true  
+    output: true 
+  kutej_homepage:
+    output: true    
  
     
     # this goes inside _config.yml. Change as required

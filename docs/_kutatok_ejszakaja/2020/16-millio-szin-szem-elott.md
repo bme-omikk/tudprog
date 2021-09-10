@@ -7,6 +7,7 @@ tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 19:30-19:55, 20:00-20:25, 20:30-20:55
 tud_helyszin:
 tud_intezmeny: BME GPK, Mechatronika, Optika és Gépészeti Informatika Tanszék
+tud_intezmeny_rovid: GPK
 tud_programfelelos: Samu Krisztián, Samu Sára
 tud_url:
 tud_online:

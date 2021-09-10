@@ -25,7 +25,7 @@ layout: default
 	{%- for item in items -%}
 		{%- assign tud_idopont = item.tud_idopont | truncate: 4, "" -%}
 
-		{%- if tud_year == tud_idopont -%} 
+		{%- if tud_year and tud_year == tud_idopont -%} 
 
 		
   <li>

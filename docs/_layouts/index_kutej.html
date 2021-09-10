@@ -1,0 +1,41 @@
+---
+layout: default
+
+---
+
+<article class="post">
+{%- include navigation_kutej.html -%}
+{%- include kutej_header.html -%}
+<!--
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+-->
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+  <div class="center_button">
+ <p><a class="list_button" href="{{ site.url }}{{ site.baseurl }}/kutej/2021/lista">BME 2021 teljes program lista</a></p>
+  </div>
+  <div class="row">
+  {%- assign items = site.kutej_homepage -%}
+  <div class="karok_container">
+{%- for item in items -%}
+  
+   <div class="content_wrapper" >
+   
+   <div class="{% cycle 'odd', 'even' %}" style="background-color:#adc5d3; ">
+   
+    <p><a  href="{{ item.tud_url | relative_url }}">{{ item.tud_title | escape }}</a>
+	<img class="cont_picture" src="{{ item.tud_img_url | relative_url }}">
+	</p>
+	
+	</div>
+   </div>
+
+ {%- endfor -%} 
+  </div>
+  </div>
+{%- include kutej_footer.html -%}
+</article>

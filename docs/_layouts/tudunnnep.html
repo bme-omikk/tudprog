@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<head>
+
+</head>
+
+{%- include navigation.html -%}
+{%- include tudunnep_header.html -%}
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  
+
+  {{ content }}
+
+   <div class="esemenylista">
+  <ul id="esemenylista" data-role="listview" data-filter="true" data-filter-placeholder="Keresés..." >
+ 
+{%- assign tud_year = page.tud_year | truncate: 4, "" -%}
+{%- assign items = site.tudomany_unnepe | sort: "date" -%}
+
+	{%- for item in items -%}
+		{%- assign tud_idopont = item.tud_idopont | truncate: 4, "" -%}
+
+		{%- if tud_year == tud_idopont -%} 
+
+		
+  <li>
+  
+	<a class="rendezveny_title" href="{{ item.url | relative_url }}"> {{ item.title | escape }} </a>
+	<p> {{ item.tud_tipus | escape }} <br> {{ item.tud_tudomanyterulet | escape }} </p>
+	<p> {{ item.tud_idopont | escape }} </p>
+ 
+  </li>
+
+		{%- endif -%} 
+	{%- endfor -%}
+  </ul>
+    </div>
+</div>
+{%- include tudunnep_footer.html -%}

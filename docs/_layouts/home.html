@@ -9,22 +9,45 @@ layout: default
 
   {{ content }}
 
-  
+
 <div class="row">
   {%- assign items = site.homepage | sort: "date" -%}
+
+<!--
+Description
+-->
   
 {%- for item in items -%}
   {%- assign tud_year = item.date | truncate: 4, "" -%}
+
   <div class="column">
-   <div class="content" style="background-color:#eeeced">
-    <h2>{{ item.tud_title | escape }} <br> {{ tud_year | escape }}</h2>
+   <div class="home_content">
+ 
+     <img src="/assets/images/{{ item.tud_picture | escape }}.png"> <br>
+    <h2> <span class="home_tud_year">{{ tud_year | escape }} </span> <br> {{ item.tud_title | escape }} </h2>
     <p>{{ item.tud_description | escape }}</p>
     <br>
-    <p><div class="section_button"><a class="button" href="{{ item.tud_url | relative_url }}">{{ item.tud_subtitle | escape }}</a></div></p>
+   </div>
+ <!--
+Gombok
+-->
+    <div class="home_button_content">
+     <div class="section_button"><a class="button" href="{{ item.tud_url | relative_url }}">{{ item.tud_subtitle | escape }}</a></div>
    </div>
  </div>
-  
+
+
 {%- endfor -%} 
 
-</div>
+<!--
+Gombok
+-->
 
+</div>
+{%- for item in items -%}
+  {%- assign tud_year = item.date | truncate: 4, "" -%}
+
+ 
+
+{%- endfor -%} 
+</div>

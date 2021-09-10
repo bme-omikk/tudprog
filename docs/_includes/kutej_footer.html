@@ -1,4 +1,4 @@
-<footer class="site-footer h-card">
+<footer class="kutej_footer">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="footer-wrapper">
@@ -19,7 +19,10 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
 			-->
-			<a href="https://kutatokejszakaja.hu/" target="_blank"><img src="{{ site.baseurl }}/assets/images/kutatok_ejszakaja_logo_2020.png" alt="logo" class="hidden lg:block ml-2 mr-3"></a>
+			
+			<a href="https://kutatokejszakaja.hu/" target="_blank"><img src="{{ site.baseurl }}/assets/images/kutatok_ejszakaja_logo_{{page.tud_title | split: " " | last }}.png" alt="logo" class="hidden lg:block ml-2 mr-3"></a>
+			
+			
 			<!--<p>{{- site.description | escape -}}</p> -->
         </ul>
       

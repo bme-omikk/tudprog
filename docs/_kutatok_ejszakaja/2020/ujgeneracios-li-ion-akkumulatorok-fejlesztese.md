@@ -7,6 +7,7 @@ tud_tipus: Online előadás
 tud_idopont: 2020. november 27. 14:00-14:40
 tud_helyszin:
 tud_intezmeny: BME VBK, Kémiai és Környezeti Folyamatmérnöki Tanszék
+tud_intezmeny_rovid: VBK
 tud_programfelelos: Dr. Kun Róbert
 tud_url:
 tud_online: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTcyMTc4MzktYzUwNi00OWVjLTkzNGUtZGNiYWRmYjZkODNi%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%22fc3df0b8-b3f3-4cd7-9fa3-d96e65e347f3%22%7d
