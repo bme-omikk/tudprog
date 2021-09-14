@@ -11,6 +11,7 @@ tud_intezmeny: BME VIK, Simonyi Károly Szakkollégium
 tud_intezmeny_rovid: VIK
 tud_programfelelos: Weisz Pál
 tud_eloadok: A Simonyi Károly Szakkollégium öntevékeny körei
+tud_covid: Igen
 tud_url:
 tud_online:
 tud_regisztracio:

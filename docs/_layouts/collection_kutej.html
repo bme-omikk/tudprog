@@ -47,7 +47,8 @@ layout: default
 	{%- if page.tud_eloadok -%}<li><b>Előadó(k): </b>{{ page.tud_eloadok | escape }}</li>{%- endif -%}
 	{%- if page.tud_szereplok -%}<li><b>Szereplők: </b>{{ page.tud_szereplok | escape }}</li>{%- endif -%}
 	{%- if page.tud_reg -%}<li><b>Regisztráció, létszámkorlát szükséges-e: </b>{{ page.tud_reg | escape }}</li>{%- endif -%}
-	{%- if page.tud_url -%}<li><b>A rendezvény honlapjának elérhetősége: </b><a href="{{ page.tud_url | escape }}" target="_blank">{{ page.tud_url | escape }}</a></li>{%- endif -%}
+	{%- if page.tud_url -%}<li><b>A rendezvény honlapjának elérhetősége: </b><a href="{{ page.tud_url | escape }}" target="_blank">{{ page.tud_url | escape }} </a></li>{%- endif -%}
+	{%- if page.tud_covid -%}<li><b>Covid igazolvány szükséges-e: </b>{{ page.tud_covid | escape }}</li>{%- endif -%}
    </ul>
 	</header>
 

@@ -11,6 +11,7 @@ tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_intezmeny_rovid: KJK
 tud_programfelelos: Dr. Németh Balázs
 tud_url:
+tud_covid: Igen
 tud_online: https://facebook.com/mernokmisszio
 tud_reg: Nem, Nem
 date: 2021-03-27

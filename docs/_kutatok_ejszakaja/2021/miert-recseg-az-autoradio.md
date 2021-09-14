@@ -12,6 +12,7 @@ tud_intezmeny_rovid: VIK
 tud_programfelelos: Szűcs László
 tud_eloadok: Szűcs László; Lénárt Ferenc; Nagy Lajos
 tud_url:
+tud_covid: Igen
 tud_online:
 tud_regisztracio:
 tud_reg: Igen, 20 fő/turnus

@@ -14,6 +14,7 @@ tud_intezmeny_rovid: TTK
 tud_online:
 tud_regisztracio:
 tud_url:
+tud_covid: Igen
 tud_reg: igen, időpontonként 20 fő/turnus
 date: 2021-03-27
 ---

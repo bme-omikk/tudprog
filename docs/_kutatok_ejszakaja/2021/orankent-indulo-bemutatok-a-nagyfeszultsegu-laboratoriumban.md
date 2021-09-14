@@ -11,6 +11,7 @@ tud_intezmeny: BME-VIK Villamos Energetika Tanszék, Nagyfeszültségű Technika
 tud_intezmeny_rovid: VIK
 tud_programfelelos: Dr. Németh Bálint
 tud_eloadok: Dr. Göcsei Gábor
+tud_covid: Igen
 tud_url:
 tud_online:
 tud_reg: igen, turnusunként 35 fő

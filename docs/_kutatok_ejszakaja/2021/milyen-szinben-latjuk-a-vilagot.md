@@ -13,6 +13,7 @@ tud_intezmeny_rovid: GPK
 tud_online:
 tud_regisztracio:
 tud_url:
+tud_covid: Igen
 tud_reg: igen, időpontonként 6 fő/turnus
 date: 2021-03-27
 ---

@@ -12,6 +12,7 @@ tud_programfelelos: Dr. Aradi Szilárd
 tud_eloadok: Fehér Árpád
 tud_online:
 tud_url:
+tud_covid: Igen
 tud_reg: Nem, Nem
 date: 2021-03-27
 ---
