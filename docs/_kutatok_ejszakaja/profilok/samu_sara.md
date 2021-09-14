@@ -6,7 +6,7 @@ kutej_programfelelos:
 kutej_eloado:
 ---
 
-II. Rákóczi Ferenc Gimnázium, Budapest, 8. osztályos tanulója
+II. Rákóczi Ferenc Gimnázium, Budapest, 9. osztályos tanulója
 Öntevékeny diák kutatási tevékenység: színtévesztés diagnosztika és korrekció népszerűsétése (Orchidea Science Award, 1. helyezés)
 
 
