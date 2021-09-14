@@ -33,4 +33,4 @@ megrendezésre.</p>
 
 Szeretettel várjuk minden rendezvényünkön.
 
-„Fizika nem azért van, hogy gyötörjük vele a gyerekeket. Jóléti társadalmunk erre a tudásra, mint alapra épül.” Beszélgetés Härtlein Károllyal, az évente megrendezett Kutatók Éjszakája ötletgazdájával. 
+„Fizika nem azért van, hogy gyötörjük vele a gyerekeket. Jóléti társadalmunk erre a tudásra, mint alapra épül.” Beszélgetés Härtlein Károllyal, az évente megrendezett Kutatók Éjszakája ötletgazdájával.  
