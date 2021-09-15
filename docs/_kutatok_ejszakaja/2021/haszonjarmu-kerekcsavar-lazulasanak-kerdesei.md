@@ -14,7 +14,7 @@ tud_eloadok:
 tud_covid: Igen
 tud_url:
 tud_online:
-tud_reg: igen, 36 fő
+tud_reg: Igen, 36 fő
 date: 2021-03-27
 ---
 

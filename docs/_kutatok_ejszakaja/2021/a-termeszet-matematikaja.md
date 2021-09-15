@@ -8,13 +8,13 @@ tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 16.00-17.00
 tud_helyszin:
-tud_reg_hamarosan:
+tud_reg_hamarosan: Regisztrciós link hamarosan!
 tud_intezmeny: BME TTK
 tud_intezmeny_rovid: TTK
 tud_covid: Igen
 tud_url:
 tud_online: 
-tud_reg: Nem, Nem
+tud_reg: Igen, 20 fő
 date: 2021-03-27
 ---
 
