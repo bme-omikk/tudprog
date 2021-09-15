@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2021
 title: Miért recseg az autórádió?
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. Egy turnus 16:00-17:00
-tud_helyszin:
+tud_helyszin: V1 épület C szárny
 tud_reg_hamarosan: Regisztrciós link hamarosan!
 tud_intezmeny: BME HVT
 tud_intezmeny_rovid: VIK
