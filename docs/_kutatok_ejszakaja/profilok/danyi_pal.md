@@ -6,7 +6,7 @@ kutej_programfelelos:
 kutej_eloado:
 ---
 
-A BME Gazdaság- és Társadalomtudományi Karának egyetemi docense. Az informatika és a marketing határterületeivel foglalkozik, kutatási területe a mesterséges intelligencia alapú árazás. Emellett évtizedek óta foglalkozik pénztörténettel és árstatisztikával, az ártörténet.hu szakportál létrehozója és szerkesztője.
+AA BME egyetemi docense, árazás szakértő, az ártörténet.hu alapító-szerkesztője.
 
 
 
@@ -15,7 +15,7 @@ A BME Gazdaság- és Társadalomtudományi Karának egyetemi docense. Az informa
 <td>
 
 <div class="gallery">
-    <img src="images/danyi_pal.jpg" max-width="250" max-height="200">
+    <img src="images/danyi_pal2021.jpg" max-width="250" max-height="200">
   <div class="desc">Dr. Danyi Pál</div>
 </div>
 

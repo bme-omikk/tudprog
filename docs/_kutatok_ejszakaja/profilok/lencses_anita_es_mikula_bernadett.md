@@ -6,7 +6,7 @@ kutej_programfelelos:
 kutej_eloado: 
 ---
 
-Az előadók másodéves doktoranduszok a BME Kognitív Tudományi Tanszékének Neuropszichológia és Megismerés kutatócsoportjában. Érdeklődésük középpontjában az agysérülést követő emlékezeti és társas-érzelmi nehézségek állnak. Céljuk, hogy a kutatási eredményeik a klinikai neuropszichológiában is használhatóak legyenek a rehabilitáció során.
+AAz előadók a Neuropszichológia és Megismerés kutatócsoport tagjai. A kutatócsoport vezetője Dr. Demeter Gyula, habilitált egyetemi docens és neuropszichológus. Lencsés Anita és Mikula Bernadett pszichológusok és harmadéves doktoranduszok. Érdeklődésük középpontjában az agysérülést követő emlékezeti és társas-érzelmi nehézségek állnak. Fontosnak gondolják, hogy a kutatási eredményeik a neuropszichológiai gyakorlati munkában is alkalmazhatóak legyenek
 
  <table class="picture">
 <tr>

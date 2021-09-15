@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 17:00-18:00
 tud_programfelelos: dr. Tasnádi Tamás
 tud_eloadok:
-tud_helyszin:
+tud_helyszin: BME, H épület 306.
 tud_reg_hamarosan: Regisztrciós link hamarosan!
 tud_regisztracio:
 tud_intezmeny: BME TTK, Analízis Tsz.
