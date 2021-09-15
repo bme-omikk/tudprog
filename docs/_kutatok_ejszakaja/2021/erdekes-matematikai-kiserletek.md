@@ -10,7 +10,7 @@ tud_eloadok:
 tud_helyszin:
 tud_reg_hamarosan: Regisztrciós link hamarosan!
 tud_regisztracio:
-tud_intezmeny: BME TTK Analízis Tsz.
+tud_intezmeny: BME TTK, Analízis Tsz.
 tud_intezmeny_rovid: TTK
 tud_online:
 tud_url:

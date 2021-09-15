@@ -10,7 +10,7 @@ tud_eloadok: Dr. Demeter Gyula, Mikula Bernadett, Lencsés Anita
 tud_helyszin: T épület, 5. emelet, T502
 tud_reg_hamarosan: Regisztrciós link hamarosan!
 tud_regisztracio:
-tud_intezmeny: BME TTK Kognitív Tudományi Tanszék
+tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:
 tud_url:
