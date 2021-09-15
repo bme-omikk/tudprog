@@ -40,7 +40,7 @@
 								{% endif %}
 								
 					{% else %}
-					  <a href="{{ site.url }}{{ site.baseurl }}{{ page.url | remove: "about/" | remove: "vbk/"  | remove: "emk/" | remove: "epk/" | remove: "gpk/" | remove: "gtk/" | remove: "kjk/" | remove: "ttk" | remove: "vik/" }}about/">{{ link.title }}</a>
+					  <a href="{{ site.url }}{{ site.baseurl }}{{ page.url | remove: "about/" | remove: "vbk/"  | remove: "emk/" | remove: "epk/" | remove: "gpk/" | remove: "gtk/" | remove: "kjk/" | remove: "ttk" | remove: "vik/"| remove: "/lista" }}about/">{{ link.title }}</a>
 					{% endif %}
   	
 			   {% endif %}
