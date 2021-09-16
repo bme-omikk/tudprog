@@ -8,11 +8,11 @@ tud_idopont: 2021. szeptember 24. 19:00-19:45, 20:00-20:45, 21:00-21:45
 tud_programfelelos: Pályi András
 tud_eloadok: Pályi András, Asbóth János, Budai Ákos
 tud_helyszin: 
-tud_reg_hamarosan: Regisztrciós link hamarosan!
+tud_reg_hamarosan:
 tud_intezmeny: BME TTK, Elméleti Fizika Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/kvantumszamitogep-programozasa
 tud_url:
 tud_covid: Igen
 tud_reg: igen, időpontonként 20 fő/turnus

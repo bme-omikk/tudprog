@@ -8,7 +8,8 @@ tud_eloadok: Dudás Levente, Hödl Emil, Herman Tibor, Szüllő Ádám
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 16:00-23:00 órás bontásban
 tud_helyszin: BME E épület 12. szint.
-tud_reg_hamarosan: Regisztrciós link hamarosan!
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/bme-foldi-muholdvezerlo-allomas-latogatas
 tud_intezmeny: BME VIK, Szélessávú Hírközlés és Villamosságtan Tanszék
 tud_intezmeny_rovid: VIK
 tud_covid: Igen

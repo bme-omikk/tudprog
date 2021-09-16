@@ -7,11 +7,11 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 19:00-19:20, 19:30-19:50, 20:00-20:20, 20:30-20:50, 21:00-21:20, 21:30-21:50
 tud_programfelelos: Dr. Nagy Balázs Vince egyetemi docens (felelős), Urbin Ágnes tanársegéd
 tud_helyszin: D épület 5.emelet 503 labor
-tud_reg_hamarosan: Regisztrciós link hamarosan!
+tud_reg_hamarosan:
 tud_intezmeny: BME Mechatronika, Optika és Gépészeti Informatika Tanszék
 tud_intezmeny_rovid: GPK
 tud_online:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/milyen-szinben-latjuk-a-vilagot-1
 tud_url:
 tud_covid: Igen
 tud_reg: igen, időpontonként 6 fő/turnus
