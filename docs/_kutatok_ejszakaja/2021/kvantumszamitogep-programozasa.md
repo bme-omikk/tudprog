@@ -14,7 +14,7 @@ tud_intezmeny_rovid: TTK
 tud_online:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/kvantumszamitogep-programozasa
 tud_url:
-tud_covid: Igen
+tud_covid:
 tud_reg: igen, időpontonként 20 fő/turnus
 date: 2021-03-27
 ---

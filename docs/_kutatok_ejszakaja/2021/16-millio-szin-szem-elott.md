@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2021
 title: 16 millió szín szem előtt
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 17:30-18:00, 18:30-19:00, 19:30-20:00 
-tud_helyszin:
+tud_helyszin: BME D épület 5. emelet 507 labor
 tud_reg_hamarosan:
 tud_intezmeny: BME GPK, Mechatronika, Optika és Gépészeti Informatika Tanszék
 tud_intezmeny_rovid: GPK

@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2021
 title: Ön vezet vagy „önvezet”? Avagy ismerkedés az önvezető járművekkel.
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_helyszin: St. épület előtti parkoló
-tud_idopont: 2021. szeptember 24. 17:00, 17:45, 18:30, 19:15, 20:00, 20:45
+tud_idopont: 2021. szeptember 24. 17:00-17:45, 17:45-18:30, 18:30-19:15, 19:15-20:00, 20:00-20:45, 20:45-21:30
 tud_intezmeny: BME  KJK, Közlekedés- és Járműirányítási Tanszék
 tud_intezmeny_rovid: KJK
 tud_programfelelos: Dr. Aradi Szilárd 

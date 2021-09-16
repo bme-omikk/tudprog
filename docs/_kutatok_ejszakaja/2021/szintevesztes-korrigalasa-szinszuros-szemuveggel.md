@@ -7,7 +7,7 @@ tud_programfelelos: Dr.habil Ábrahám György prof. emeritus, az MTA doktora
 tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24-25. péntek 16:00-17:30, 19:00-21:30 15 percenként 1 fő; szombat 9:00-12:00 15 percenként 1 fő
-tud_helyszin:
+tud_helyszin: BME, D épület 401.
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/bemutato-szintevesztes-korrigalasa-szinszuros-szemuveggel-1
 tud_intezmeny: BME GPK Mechatronika, Optika és Gépészeti Informatika Tanszék

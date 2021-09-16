@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2021
 title: Az emberi színtévesztés korrigálása színszűrős szemüveggel (előadás)
 tud_programfelelos: Dr.habil Ábrahám György prof. emeritus, az MTA doktora
 tud_eloadok: 
-tud_tipus: Csak személyes jelenléttel látogatható
+tud_tipus: Személyes jelenléttel és online látogatható
 tud_idopont: 2021. szeptember 24 18:00-19:30 
 tud_helyszin: BME, D.épület 401. 
 tud_reg_hamarosan:
@@ -13,7 +13,7 @@ tud_intezmeny: BME GPK Mechatronika, Optika és Gépészeti Informatika Tanszék
 tud_intezmeny_rovid: GPK
 tud_covid: Igen
 tud_url:
-tud_online: 
+tud_online: https://www.youtube.com/watch?v=AAI_28sOZ3w
 tud_reg: Igen, 50 fő
 date: 2021-03-27
 ---

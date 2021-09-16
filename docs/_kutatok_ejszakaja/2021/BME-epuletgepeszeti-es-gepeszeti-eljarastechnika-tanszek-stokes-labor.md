@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: BME Épületgépészeti és Gépészeti Eljárástechnika Tanszék, Stokes Labor
-tud_tipus: bármikor megtekinthető videók
+tud_tipus: Személyes és online részvétel
 tud_idopont: 2021. szeptember 24. 18:00-22:30
 tud_programfelelos: Dr. Szánthó Zoltán
 tud_eloadok: Dr. Hégely László, Dr. Deme Bélafi Zsófia, Dr. Czétány László, Dr. Both Balázs, Varjú Evelin, Érces Norbert

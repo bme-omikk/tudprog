@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2021
 title: Koponya implantátumok modellezésének kérdései
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 16:00-16:50
-tud_helyszin:
+tud_helyszin: BME ST épület 201.
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/koponya-implantatumok-modellezesenek-kerdesei
 tud_intezmeny: BME KJK, Vasúti Járművek és Járműrendszeranalízis Tanszék

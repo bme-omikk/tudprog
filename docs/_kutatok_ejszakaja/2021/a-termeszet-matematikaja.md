@@ -7,7 +7,7 @@ tud_programfelelos: Csikja Rudolf
 tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 16.00-17.00
-tud_helyszin:
+tud_helyszin: BME, H épület 601.
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/a-termeszet-matematikaja
 tud_intezmeny: BME TTK

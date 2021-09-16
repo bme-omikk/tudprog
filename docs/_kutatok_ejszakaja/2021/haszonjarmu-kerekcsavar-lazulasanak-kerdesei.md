@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2021
 title: Haszonjármű kerékcsavar lazulásának kérdései
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 17:00-17:45
-tud_helyszin:
+tud_helyszin: BME ST épület 201.
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/haszonjarmu-kerekcsavar-lazulasanak-kerdesei
 tud_intezmeny: BME KJK, Vasúti Járművek és Járműrendszeranalízis Tanszék

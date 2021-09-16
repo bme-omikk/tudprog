@@ -7,7 +7,7 @@ tud_programfelelos: Renata Sechi, Tibor Höltzl
 tud_eloadok: Renata Sechi, Tibor Höltzl
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 16.00-20.00
-tud_helyszin:
+tud_helyszin: BME, CH épület földszint
 tud_reg_hamarosan:
 tud_intezmeny: BME VBK, Inorganic and Analytical Chemistry
 tud_intezmeny_rovid: VBK

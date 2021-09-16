@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2021
 title: Virtuális önvezető és valós kisautók versenye
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 17:00-21:00
-tud_helyszin: BME R 301
+tud_helyszin: BME R épület 301
 tud_reg_hamarosan: Regisztrciós link hamarosan!
 tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_intezmeny_rovid: KJK

@@ -3,9 +3,9 @@ layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: Önvezető autók egyes etikai kérdései egy mérnök-lelkész szemével
-tud_tipus: Élő közvetítés és utólagos video feltoltés
+tud_tipus: Személyes részvétel és élő közvetítés és utólagos video feltöltés
 tud_idopont: 2021. szeptember 24. 20:00-21:00
-tud_helyszin: BME R 301
+tud_helyszin: BME R épület 301
 tud_reg_hamarosan:
 tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_intezmeny_rovid: KJK

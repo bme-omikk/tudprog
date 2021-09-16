@@ -9,7 +9,7 @@ tud_programfelelos: Dr. Demeter Gyula, Mikula Bernadett, Lencsés Anita
 tud_eloadok: Dr. Demeter Gyula, Mikula Bernadett, Lencsés Anita
 tud_helyszin: T épület, 5. emelet, T502
 tud_reg_hamarosan:
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]a-neuropszichologia-es-megismeres-kutatocsoport-munkajaba
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/jovobeli-emlekeink-nyomaban-betekintes-a-neuropszichologia-es-megismeres-kutatocsoport-munkajaba
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:

@@ -8,7 +8,8 @@ tud_eloadok: Áramlástan Tanszék, Áramlástan Szakosztály
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 18:00-19:00, 19:00-20:00, 20:00-21:00, 21:00-22:00, 22:00-23:00
 tud_helyszin: BME Kármán Tódod Szélcsatorna laboratórium, Bertalan Lajos u. 4-6.
-tud_reg_hamarosan: Regisztrciós link hamarosan!
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/latogatas-a-karman-todor-szelcsatorna-laboratoriumban
 tud_intezmeny: BME GPK, Áramlástan Tanszék
 tud_intezmeny_rovid: GPK
 tud_covid: Igen

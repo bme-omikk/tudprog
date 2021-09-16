@@ -9,7 +9,7 @@ tud_programfelelos: Dobó Dorottya
 tud_eloadok: Dobó Dorottya
 tud_helyszin: T épület, 5. emelet, T515
 tud_reg_hamarosan:
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]tkoznapokban-a-tudatelmeleti-kepesseg-fejlodese-es-zavara
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/gondolatolvasas-a-hetkoznapokban-a-tudatelmeleti-kepesseg-fejlodese-es-zavara
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:

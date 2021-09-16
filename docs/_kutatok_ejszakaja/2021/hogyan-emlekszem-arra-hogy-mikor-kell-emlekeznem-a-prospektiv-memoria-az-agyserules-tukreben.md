@@ -9,7 +9,7 @@ tud_programfelelos: Dr. Demeter Gyula
 tud_eloadok: Dr. Demeter Gyula
 tud_helyszin: T épület, 5. emelet, T515
 tud_reg_hamarosan:
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]ll-emlekeznem-a-prospektiv-memoria-az-agyserules-tukreben
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/hogyan-emlekszem-arra-hogy-mikor-kell-emlekeznem-a-prospektiv-memoria-az-agyserules-tukreben
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:
