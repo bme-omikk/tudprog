@@ -7,7 +7,7 @@ tud_programfelelos: Dr. Hazai László egyetemi magántanár
 tud_eloadok: Dr. Hazai László egyetemi magántanár
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 18:00-19:00
-tud_helyszin: BME CH épület CHmax
+tud_helyszin: BME, CH épület CHMax előadó
 tud_reg_hamarosan:
 tud_intezmeny: BME VBK, Szerves Kémia és Technológia Tanszék
 tud_intezmeny_rovid: VBK

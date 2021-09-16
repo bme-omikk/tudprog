@@ -18,7 +18,7 @@ tud_covid: igen
 tud_reg: Nem, Nem
 date: 2021-03-27
 ---
-<b>Orosz Gergely:</b> a BME doktorandusza, atomerőművek termohidraulikáját vizsgálgatja. Munkájában vagy 3D-s modelleket épít, vagy izgi lézeres kísérleteket csinál.
+<b><a href="http://reak.bme.hu/munkatars/oktatok/orosz-gergely-imre.html" target="_blank">Orosz Gergely</a>:</b> a BME doktorandusza, atomerőművek termohidraulikáját vizsgálgatja. Munkájában vagy 3D-s modelleket épít, vagy izgi lézeres kísérleteket csinál.
 <br><br>
 A FINE a Kutatók Éjszakáján minden érdeklődő korosztálynak igyekszik kielégíteni a kíváncsiságát. Az idei évben mi is igyekszünk az online térben megvalósítani programjainkat. Eddig papíralapú kvízeinket a különböző korosztálynak különböző kategóriákban online formában tesszük elérhetővé, melyet csoportokban tudunk átbeszélni. A kvízeket videókkal, animációkkal fogjuk illusztrálni.
 

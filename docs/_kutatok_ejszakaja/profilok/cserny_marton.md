@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: Cserny Márton
@@ -10,8 +10,3 @@ A Budapesti Műszaki és Gazdaságtudományi Egyetem, Közlekedésmérnöki és 
 MSc hallgató
 tématerület: Monokamera alapú 3D objektumdetekció
 Kutatócsoport: Környezetérzékelés
-
-
-
-
-

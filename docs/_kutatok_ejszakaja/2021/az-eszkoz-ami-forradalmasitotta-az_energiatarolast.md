@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 16:00-20:00
 tud_programfelelos: Dr. Höfler Lajos
 tud_eloadok: Dr. Höfler Lajos
-tud_helyszin: 
+tud_helyszin: BME CH épület CHMax előadó
 tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME VBK

@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2021
 title: A szakmám a hobbim, avagy szakmai élet a Simonyi Károly Szakkollégiumban
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. Egy turnus 17:00-21:00
-tud_helyszin:
+tud_helyszin: BME, IB019-es terem 
 tud_reg_hamarosan:
 tud_intezmeny: BME VIK, Simonyi Károly Szakkollégium
 tud_intezmeny_rovid: VIK

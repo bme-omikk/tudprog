@@ -6,14 +6,14 @@ title: 16 millió szín szem előtt
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 17:30-18:00, 18:30-19:00, 19:30-20:00 
 tud_helyszin:
-tud_reg_hamarosan: Regisztrciós link hamarosan!
+tud_reg_hamarosan:
 tud_intezmeny: BME GPK, Mechatronika, Optika és Gépészeti Informatika Tanszék
 tud_intezmeny_rovid: GPK
 tud_programfelelos: Dr. Samu Krisztián
 tud_covid: Igen
 tud_url:
 tud_online:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/16-millio-szin-szem-elott
 tud_reg: Igen, 10 fő/turnus
 date: 2021-02-27
 ---
