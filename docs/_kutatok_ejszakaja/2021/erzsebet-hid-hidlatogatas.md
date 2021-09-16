@@ -9,7 +9,7 @@ tud_programfelelos: Dr. Farkas György
 tud_eloadok:
 tud_helyszin: Erzsébet híd - találkozó budai oldali hídfő; ivócsarnok előtt
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/erzsebet-hid-latogatas
 tud_intezmeny: BME ÉMK, Hidak és Szerkezetek Tanszék
 tud_intezmeny_rovid: EMK
 tud_online:

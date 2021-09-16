@@ -9,7 +9,7 @@ tud_programfelelos: Kovács László
 tud_eloadok: Kovács László, központvezető, Nenov Adrienn, projektvezető, BME hallgatók, demonstrátorok: Bogár Bálint, Szász Tamás
 tud_helyszin:
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/ipar4-azaz-ipari-digitalizacio
 tud_intezmeny: BME VBK
 tud_intezmeny_rovid: VBK
 tud_online:
@@ -25,5 +25,4 @@ date: 2021-03-27
 <br><br>
 A BME ipar4 Technológiai Központban bemutatjuk hogyan beszélnek a gépek egymással, hogyan kontrolláljuk és gyorsítsuk fel a gyrtási folyamatainkat a mesterséges intelligencia alkalmazásával.
 <br><br>
-<img src="images/IPAR_40_eredmenyek.jpg" max-width="500" class="center"> 
-
+<img src="images/IPAR_40_eredmenyek.jpg" max-width="500" class="center">

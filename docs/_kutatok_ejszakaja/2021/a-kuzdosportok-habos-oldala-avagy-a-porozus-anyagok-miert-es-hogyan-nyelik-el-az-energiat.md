@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 1. turnus 18:00-18:50; 2. turnus 19:00-19:50, 
 tud_programfelelos: Dr. Kmetty Ákos
 tud_eloadok: Dr. Kmetty Ákos, Litauszki Katalin, Tomin Márton, Tábi Tamás, Kovács Norbert Krisztián
 tud_helyszin: BME, MT épület Bertalan Lajos utcai oldaláról megközelítve
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]y-a-porozus-anyagok-miert-es-hogyan-nyelik-el-az-energiat
 tud_intezmeny: BME GPK, Polimertechnika Tanszék
 tud_intezmeny_rovid: GPK
 tud_online:

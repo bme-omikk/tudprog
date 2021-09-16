@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 17:30-18:00; 18:00-18:30; 18:30-19:00
 tud_programfelelos: Dr. Demeter Gyula, Mikula Bernadett, Lencsés Anita
 tud_eloadok: Dr. Demeter Gyula, Mikula Bernadett, Lencsés Anita
 tud_helyszin: T épület, 5. emelet, T502
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]a-neuropszichologia-es-megismeres-kutatocsoport-munkajaba
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:

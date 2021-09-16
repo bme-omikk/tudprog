@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 18:00-18:20; 18:20-18:40; 18:40-19:00
 tud_programfelelos: Dr. Markovits Tamás
 tud_eloadok: Varga Ferenc László
 tud_helyszin: St épület, fsz. 12. labor
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/femek-3d-s-nyomtatasa
 tud_intezmeny: BME KJK, Gépjárműtechnológia Tanszék
 tud_intezmeny_rovid: KJK
 tud_online:

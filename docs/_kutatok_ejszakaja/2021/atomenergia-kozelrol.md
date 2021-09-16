@@ -6,7 +6,8 @@ title: Atomenergia közelről
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 14:00-15:30, 15:30-17:00, 17:00-18:30, 18:30-20:00
 tud_helyszin:
-tud_reg_hamarosan: Regisztrciós link hamarosan!
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/atomenergia-kozelrol
 tud_intezmeny: BME TTK, Nukleáris Technikai Intézet
 tud_intezmeny_rovid: TTK
 tud_programfelelos: Balla Márta

@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 18:00-18:45
 tud_programfelelos: Vető Bálint
 tud_eloadok: Vető Bálint
 tud_helyszin: BME, H406
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio: 
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/veletlen-feluletnovekedes
 tud_intezmeny: BME TTK, Matematika Intézet, Sztochasztika Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:

@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 16:00-18:00; 18:00-20:00
 tud_programfelelos: Dr. Németh Áron
 tud_eloadok: Dr. Németh Áron, Tóth Pál
 tud_helyszin:
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]zaki-biokemia-avagy-a-rataplalasos-pekeleszto-fermentacio
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
 tud_intezmeny_rovid: VBK
 tud_online:

@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 18:00-18:30; 18:30-19:00
 tud_programfelelos: Dr. Hlinka József
 tud_eloadok: Dr. Hlinka József
 tud_helyszin: ST épület, 222.
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/nagysebessegu-es-hokamera-specialis-alkalmazasai
 tud_intezmeny: BME KJK, Gépjárműtechnológia Tanszék
 tud_intezmeny_rovid: KJK
 tud_online:

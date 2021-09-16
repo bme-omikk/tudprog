@@ -9,7 +9,7 @@ tud_programfelelos: Dr.  Nehme Salem
 tud_eloadok: Csanády Dániel, Dr. Nagy Balázs, Dr. Sólyom Sándor, Szijártó Anna
 tud_helyszin: BME MM-MG épület, 1111 Bp. Bertalan Lajos u. 1. 
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/szerkezeti-es-hoszigetelo-anyagok-kiserleti-vizsgalatai
 tud_intezmeny: BME ÉMK, Építőanyagok és Magasépítés Tanszék
 tud_intezmeny_rovid: EMK
 tud_online:

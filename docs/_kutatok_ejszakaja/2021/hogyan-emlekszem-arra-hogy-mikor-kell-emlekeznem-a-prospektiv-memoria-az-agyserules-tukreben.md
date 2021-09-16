@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 17:00-17:30
 tud_programfelelos: Dr. Demeter Gyula
 tud_eloadok: Dr. Demeter Gyula
 tud_helyszin: T épület, 5. emelet, T515
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]ll-emlekeznem-a-prospektiv-memoria-az-agyserules-tukreben
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:

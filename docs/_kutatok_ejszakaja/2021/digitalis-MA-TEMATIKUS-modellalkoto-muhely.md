@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 17:00-17:45; 18:00-18:45; 19:00-19:45
 tud_programfelelos: Nagyné Csóti Beáta
 tud_eloadok: Nagyné Csóti Beáta
 tud_helyszin:
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/digitalis-ma-tematikus-modellalkoto-muhely
 tud_intezmeny: BME KJK Anyagmozgatási és Logisztikai Rendszerek Tanszék
 tud_intezmeny_rovid: KJK
 tud_online:

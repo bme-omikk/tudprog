@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 18:30
 tud_programfelelos: Dr. Molnár György
 tud_eloadok: Dr. Molnár György, Dr. Kattein-Pornói Rita, Dr. Kálmán Anikó, Békefi Teodóra, Orosz Beáta, Horváth Cz. János
 tud_helyszin: BME, Q. A. 139. terem
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/jatszva-tanulni-jatekositva-tanitani
 tud_intezmeny: BME, GTK, Műszaki Pedagógia Tanszék
 tud_intezmeny_rovid: GTK
 tud_online:

@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 19:00-19:30
 tud_programfelelos: Dobó Dorottya
 tud_eloadok: Dobó Dorottya
 tud_helyszin: T épület, 5. emelet, T515
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]tkoznapokban-a-tudatelmeleti-kepesseg-fejlodese-es-zavara
 tud_intezmeny: BME TTK, Kognitív Tudományi Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:

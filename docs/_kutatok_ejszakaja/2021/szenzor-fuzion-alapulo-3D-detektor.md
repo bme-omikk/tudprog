@@ -8,8 +8,8 @@ tud_idopont: 2021. szeptember 24. 2021. 09. 24. 17:00-19:00 5 percenként,
 tud_programfelelos: Dr. Rövid András
 tud_eloadok: Dr. Rövid András, Vincze Zsolt, Cserny Márton 
 tud_helyszin: J épület Csarnok 
-tud_reg_hamarosan: Regisztrciós link hamarosan!
-tud_regisztracio:
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/szenzor-fuzion-alapulo-3d-detektor
 tud_intezmeny: BME KJK, Gépjárműtechnológia Tanszék
 tud_intezmeny_rovid: KJK
 tud_online:
