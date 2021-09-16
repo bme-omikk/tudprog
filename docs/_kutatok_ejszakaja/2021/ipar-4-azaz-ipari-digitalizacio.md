@@ -6,7 +6,7 @@ title: ipar4, azaz ipari digitalizáció
 tud_tipus: bármikor megtekinthető videók
 tud_idopont: 2021. szeptember 24. 17:00-18:00, 18:00-19:00, 19:00-20:00, 2021. szeptember 25. video
 tud_programfelelos: Kovács László
-tud_eloadok: Kovács László, központvezető, Nenov Adrienn, projektvezető, BME hallgatók, demonstrátorok: Bogár Bálint, Szász Tamás
+tud_eloadok: Kovács László, központvezető, Nenov Adrienn, projektvezető, BME hallgatók, demonstrátorok Bogár Bálint, Szász Tamás
 tud_helyszin:
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/ipar4-azaz-ipari-digitalizacio
