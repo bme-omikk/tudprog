@@ -9,7 +9,7 @@ tud_programfelelos: Dr. Ekler Péter
 tud_eloadok: Dr. Ekler Péter, Sik Dávid
 tud_helyszin:
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/5g-technologia-alkalmazasi-teruletei-a-digitalizacios-megoldasok-vilagaban
 tud_intezmeny: BME VIK, Automatizálási és Alkalmazott Informatikai Tanszék
 tud_intezmeny_rovid: VIK
 tud_online: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDZkODlkMzUtMGNlYS00N2Y2LWI0YjEtNjZkNWZiODZjZTU2%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%2273299782-5dfc-4406-921e-c5357ce3b954%22%7d
