@@ -14,7 +14,7 @@ tud_intezmeny: BME VBK
 tud_intezmeny_rovid: VBK
 tud_online:
 tud_url:
-tud_covid: Igen
+tud_covid: Igen (maszk viselése ajánlott)
 tud_reg: Igen, Turnusonként 20 fő
 date: 2021-03-27
 ---

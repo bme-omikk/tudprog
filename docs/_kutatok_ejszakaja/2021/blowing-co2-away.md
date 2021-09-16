@@ -11,7 +11,7 @@ tud_helyszin: BME, CH épület földszint
 tud_reg_hamarosan:
 tud_intezmeny: BME VBK, Inorganic and Analytical Chemistry
 tud_intezmeny_rovid: VBK
-tud_covid: Igen
+tud_covid: Igen (maszk viselése ajánlott)
 tud_url:
 tud_online: 
 tud_reg: Nem, Nem

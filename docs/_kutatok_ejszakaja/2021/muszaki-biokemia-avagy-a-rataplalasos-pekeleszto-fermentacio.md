@@ -9,12 +9,12 @@ tud_programfelelos: Dr. Németh Áron
 tud_eloadok: Dr. Németh Áron, Tóth Pál
 tud_helyszin:
 tud_reg_hamarosan:
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]zaki-biokemia-avagy-a-rataplalasos-pekeleszto-fermentacio
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/muszaki-biokemia-avagy-a-rataplalasos-pekeleszto-fermentacio
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
 tud_intezmeny_rovid: VBK
 tud_online:
 tud_url:
-tud_covid: Igen
+tud_covid: Igen (maszk viselése ajánlott)
 tud_reg: Igen, összesen 30 fő, turnusonkánt 15 fő
 date: 2021-03-27
 ---

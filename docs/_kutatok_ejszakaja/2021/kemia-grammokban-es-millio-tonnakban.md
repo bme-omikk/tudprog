@@ -14,7 +14,7 @@ tud_intezmeny: BME VBK, Kémiai és Környezeti Folyamatmérnöki Tanszék
 tud_intezmeny_rovid: VBK
 tud_online:
 tud_url:
-tud_covid: Igen
+tud_covid: Igen (maszk viselése ajánlott)
 tud_reg: Igen, Nem
 date: 2021-03-27
 ---
