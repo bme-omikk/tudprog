@@ -4,15 +4,15 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: 5G technológia alkalmazási területei a digitalizációs megoldások világában
 tud_tipus: Csak online látogatható
-tud_idopont: 2021. szeptember 25. 18:00-19:00
+tud_idopont: 2021. szeptember 25. 18:00-18:30 19:00-19:30
 tud_programfelelos: Dr. Ekler Péter
 tud_eloadok: Dr. Ekler Péter, Sik Dávid
 tud_helyszin:
-tud_reg_hamarosan: Regisztrciós link hamarosan!
+tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME VIK, Automatizálási és Alkalmazott Informatikai Tanszék
 tud_intezmeny_rovid: VIK
-tud_online:
+tud_online: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDZkODlkMzUtMGNlYS00N2Y2LWI0YjEtNjZkNWZiODZjZTU2%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%2273299782-5dfc-4406-921e-c5357ce3b954%22%7d
 tud_url:
 tud_covid:
 tud_reg: Igen, Nem
