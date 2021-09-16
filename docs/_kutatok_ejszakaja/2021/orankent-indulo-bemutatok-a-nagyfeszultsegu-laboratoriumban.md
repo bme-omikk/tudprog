@@ -6,7 +6,8 @@ title: Óránként induló bemutatók a Nagyfeszültségű Laboratóriumban
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 15:00-22:00
 tud_helyszin:
-tud_reg_hamarosan: Regisztrciós link hamarosan!
+tud_reg_hamarosan:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/orankent-indulo-bemutatok-a-bme-nagyfeszultsegu-laboratoriumaban
 tud_intezmeny: BME-VIK Villamos Energetika Tanszék, Nagyfeszültségű Technika és Berendezések Csoport
 tud_intezmeny_rovid: VIK
 tud_programfelelos: Dr. Németh Bálint
