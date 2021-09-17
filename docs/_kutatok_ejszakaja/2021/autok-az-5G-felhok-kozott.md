@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: Autók az 5G felhők között
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2021. szeptember 24. 18:00-21:00, 3 db 1 órás turnus
+tud_idopont: 2021. szeptember 24. 18:00-19:00, 19:00-20:00, 20:00-21:00
 tud_programfelelos: Dr. Bokor László
 tud_eloadok: Dr. Bokor László, Maller Levente, Suskovics Péter
 tud_helyszin:
