@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: Az eszköz, ami forradalmasította az energiatárolást
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2021. szeptember 24. 16:00-20:00
+tud_idopont: 2021. szeptember 24. 16:00-17:00
 tud_programfelelos: Dr. Höfler Lajos
 tud_eloadok: Dr. Höfler Lajos
 tud_helyszin: BME CH épület CHMax előadó

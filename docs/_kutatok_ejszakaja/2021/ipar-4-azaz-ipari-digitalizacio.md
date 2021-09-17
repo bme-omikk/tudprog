@@ -10,8 +10,8 @@ tud_eloadok: Kovács László, központvezető, Nenov Adrienn, projektvezető, B
 tud_helyszin:
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/ipar4-azaz-ipari-digitalizacio
-tud_intezmeny: BME VBK
-tud_intezmeny_rovid: VBK
+tud_intezmeny: BME VIK
+tud_intezmeny_rovid: VIK
 tud_online:
 tud_url:
 tud_covid: Igen (maszk viselése ajánlott)
