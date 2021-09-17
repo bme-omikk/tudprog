@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
-title: REFORMula Challenge  egy kiterjesztett valóságra épülő innovációs verseny technikai háttere
+title: REFORMula Challenge - egy kiterjesztett valóságra épülő innovációs verseny technikai háttere
 tud_tipus: Személyes részvétel és élő közvetítés és utólagos video feltöltés
 tud_idopont: 2021. szeptember 24. 18:00-19:00
 tud_helyszin: BME R épület 301
