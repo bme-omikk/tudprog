@@ -8,14 +8,14 @@ tud_idopont: 2021. szeptember 24. 18:00-21:00, 3 db 1 órás turnus
 tud_programfelelos: Dr. Bokor László
 tud_eloadok: Dr. Bokor László, Maller Levente, Suskovics Péter
 tud_helyszin:
-tud_reg_hamarosan: Regisztrciós link hamarosan!
+tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME VIK, Hálózati Rendszerek és Szolgáltatások Tanszék (HIT)
 tud_intezmeny_rovid: VIK
 tud_online:
 tud_url:
 tud_covid: Igen
-tud_reg: Igen, Összesen 75 fő, turnusonként 25 fő
+tud_reg: Nem, Összesen 75 fő, turnusonként 25 fő
 date: 2021-03-27
 ---
 
