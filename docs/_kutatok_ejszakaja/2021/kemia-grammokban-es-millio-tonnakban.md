@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: Kémia grammokban és millió tonnákban
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2021. szeptember 24. 18:00-19:30
+tud_idopont: 2021. szeptember 24. 17:30-18:30
 tud_programfelelos: Prof. Dr. Mika László Tamás
 tud_eloadok: Prof. Dr. Mika László Tamás
 tud_helyszin: BME, CH épület CHMax előadó
@@ -15,7 +15,7 @@ tud_intezmeny_rovid: VBK
 tud_online:
 tud_url:
 tud_covid: Igen (maszk viselése ajánlott)
-tud_reg: Igen, Nem
+tud_reg: Nem, Nem
 date: 2021-03-27
 ---
 
