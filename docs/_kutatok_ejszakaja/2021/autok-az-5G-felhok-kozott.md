@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 18:00-19:00, 19:00-20:00, 20:00-21:00
 tud_programfelelos: Dr. Bokor László
 tud_eloadok: Dr. Bokor László, Maller Levente, Suskovics Péter
-tud_helyszin:
+tud_helyszin: BME, I épület B110.
 tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME VIK, Hálózati Rendszerek és Szolgáltatások Tanszék (HIT)
