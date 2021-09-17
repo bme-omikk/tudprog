@@ -4,10 +4,10 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: Szerkezeti és hőszigetelő anyagok kísérleti vizsgálatai
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2021. szeptember 24. 18:00 - 19:00; 19:00-20:00; 20:00-21:00; 21:00-22:00
+tud_idopont: 2021. szeptember 24. 18:00-19:00; 19:00-20:00; 20:00-21:00; 21:00-22:00
 tud_programfelelos: Dr.  Nehme Salem
 tud_eloadok: Csanády Dániel, Dr. Nagy Balázs, Dr. Sólyom Sándor, Szijártó Anna
-tud_helyszin: BME MM-MG épület, 1111 Bp. Bertalan Lajos u. 1. 
+tud_helyszin: BME, MM-MG épület, 1111 Bp. Bertalan Lajos u. 1. 
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/szerkezeti-es-hoszigetelo-anyagok-kiserleti-vizsgalatai
 tud_intezmeny: BME ÉMK, Építőanyagok és Magasépítés Tanszék

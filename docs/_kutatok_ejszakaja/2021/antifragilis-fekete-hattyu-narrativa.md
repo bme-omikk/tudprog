@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 25. 10:00-10:45
 tud_programfelelos: Dr. Ligeti Zsombor
 tud_eloadok: Dr. Ligeti Zsombor
-tud_helyszin: BME  QA-202
+tud_helyszin: BME,  QA-202
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/antifragilis-fekete-hattyu-narrativa
 tud_intezmeny: BME GTK, Közgazdaságtan Tanszék

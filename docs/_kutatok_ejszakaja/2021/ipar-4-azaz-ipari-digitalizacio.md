@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: ipar4, azaz ipari digitalizáció
-tud_tipus: bármikor megtekinthető videók
+tud_tipus: Személyes jelenlét és bármikor megtekinthető videók
 tud_idopont: 2021. szeptember 24. 17:00-18:00, 18:00-19:00, 19:00-20:00, 2021. szeptember 25. video
 tud_programfelelos: Kovács László
 tud_eloadok: Kovács László, központvezető, Nenov Adrienn, projektvezető, BME hallgatók, demonstrátorok Bogár Bálint, Szász Tamás
@@ -14,7 +14,7 @@ tud_intezmeny: BME VIK
 tud_intezmeny_rovid: VIK
 tud_online:
 tud_url:
-tud_covid: Igen (maszk viselése ajánlott)
+tud_covid: Igen
 tud_reg: Igen, Turnusonként 20 fő
 date: 2021-03-27
 ---

@@ -5,7 +5,7 @@ kutej_programfelelos_eloado: Dr Németh Áron
 kutej_programfelelos: 
 kutej_eloado:
 ---
-Tudományos munkatárs, BME Közlekedésmérnöki és Járműmérnöki Kar, Közlekedés- és Járműirányítási Tanszék
+Tudományos munkatárs, BME VBK
 Tudományos főmunkatárs: ELKH SZTAKI
 
 Dr Németh Áron egyetemi docens, munkáját a jogelőd Mezőgazdasági Kémiai Technológia Tanszéken kezdte. 2002-ben végzett biomérnökként Alkalmazott Biotechnológia Szakirányon, majd 2008-ban szerzett PhD fokozatot summa cum laude minősítéssel. Enzimes és mikrobiális technológiák fejlesztése, modellezése és léptéknövelése a fő kutatási és oktatási területe. 7 éve vezeti a Fermentációs Félüzemi Kutató csoportot. 

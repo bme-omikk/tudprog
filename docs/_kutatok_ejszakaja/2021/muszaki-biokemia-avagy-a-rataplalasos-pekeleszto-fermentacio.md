@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 16:00-18:00; 18:00-20:00
 tud_programfelelos: Dr. Németh Áron
 tud_eloadok: Dr. Németh Áron, Tóth Pál
-tud_helyszin:
+tud_helyszin: BME, F épület FE lépcsőház földszint "F labor" 
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/muszaki-biokemia-avagy-a-rataplalasos-pekeleszto-fermentacio
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék

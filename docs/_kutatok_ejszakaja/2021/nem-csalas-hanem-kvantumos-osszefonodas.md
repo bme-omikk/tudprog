@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 18:00-18:50, 19:00-19:50, 20:00-20:50
 tud_programfelelos: Weiner Mihály
 tud_eloadok: Weiner Mihály
-tud_helyszin:
+tud_helyszin: BME, H épület 6. emelet 7.
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/nem-csalas-hanem-kvantumos-osszefonodas
 tud_intezmeny: BME TTK, Analízis Tanszék

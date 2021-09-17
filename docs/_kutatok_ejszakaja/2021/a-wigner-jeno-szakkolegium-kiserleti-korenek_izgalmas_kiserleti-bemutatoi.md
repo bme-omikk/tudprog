@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 10:00-23:00
 tud_programfelelos: Szász Bence
 tud_eloadok: A kísérleti kör tagjai
-tud_helyszin:
+tud_helyszin: BME, K épület Aula, és a Sóhajok hídja alatt
 tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME Természettudományi kar Wigner Jenő Szakkolégium
