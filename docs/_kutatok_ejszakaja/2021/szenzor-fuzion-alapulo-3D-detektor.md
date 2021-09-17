@@ -15,7 +15,7 @@ tud_intezmeny_rovid: KJK
 tud_online:
 tud_url:
 tud_covid: Igen
-tud_reg: igen, turnusonként 5 fő
+tud_reg: igen, Turnusonként 5 fő
 date: 2021-03-27
 ---
 <b>Dr. Rövid András:</b> tudományos főmunkatárs

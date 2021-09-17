@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 1. turnus 18:00-18:50; 2. turnus 19:00-19:50, 3. turnus 20:00-20:50
 tud_programfelelos: Dr. Kmetty Ákos
 tud_eloadok: Dr. Kmetty Ákos, Litauszki Katalin, Tomin Márton, Tábi Tamás, Kovács Norbert Krisztián
-tud_helyszin: BME, MT épület Bertalan Lajos utcai oldaláról megközelítve
+tud_helyszin: BME, MT épület Bertalan Lajos utca felöli bejárat
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/a-kuzdosportok-habos-oldala-avagy-a-porozus-anyagok-miert-es-hogyan-nyelik-el-az-energiat
 tud_intezmeny: BME GPK, Polimertechnika Tanszék

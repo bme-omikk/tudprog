@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 1. turnus 18:00-18:50; 2. turnus 19:00-19:50, 3. turnus 20:00-20:50
 tud_programfelelos: Dr. Tamás-Bényei Péter
 tud_eloadok: Dr. Czél Gergely, Dr. Kovács Norbert Krisztián, Dr. Suplicz András, Dr. Tamás-Bényei Péter, Hliva Viktor, Magyar Balázs, Salvatore Marino Giacomo, Pomázi Ákos, Vermes Brúnó, Sántha Péter
-tud_helyszin: BME Q. épület 
+tud_helyszin: BME, MT épület Bertalan Lajos utca felöli bejárat
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/erositsd-magad-kompozitok-ujra-es-ujra
 tud_intezmeny: BME GPK, Polimertechnika Tanszék
