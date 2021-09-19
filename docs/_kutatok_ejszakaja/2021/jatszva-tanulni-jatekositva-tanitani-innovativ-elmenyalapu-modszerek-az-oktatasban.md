@@ -35,7 +35,7 @@ Nemzetközi gazdálkodás alapszakon végzett közgazdász, majd okleveles közg
 <br><br>
 <b>Horváth Cz. János:</b> Horváth Cz. János a BME Mérnöktovábbképző Intézet tanszéki mérnöke és a Műszaki Pedagógia Tanszék külső munkatársa. Villamosmérnöki diplomáját 2000-ben, mérnök-tanári diplomáját 2002-ben, közgazdász diplomáját 2009-ben szerezte meg. Kutatási területébe tartozik a tudáshálózatok és a mikrotartalmak vizsgálata, valamint az oktatástechnológia fejlesztésének lehetőségei. 
 <br><br>
-A program két fő részből tevődik össze, egy rövid elméleti áttekintéssel kezdődik a korszerű repülőgép-hajtóművek felépítéséről, működéséről, legfontosabb jellemzőikről. Ezután a légcsavaros gázturbinát modellező hajtóművet egy rövidebb üzemelés során működés közben is megfigyelhetik.
+Az élményalapú, játékos elemekkel egybekötött rövid, érdekfeszítő előadások során a gyakorlatban kívánjuk bemutatni, hogyan lehet a tanítás és tanulást "játékosítani". Milyen korszerű élménypedagógiai és technológiai módszerek segíthetik napjainkban a diákok, tevékenységét a hatékony megismerés világában.
 <br><br>
 <img src="images/MPT.jpg" max-width="500" class="center"> 
 
