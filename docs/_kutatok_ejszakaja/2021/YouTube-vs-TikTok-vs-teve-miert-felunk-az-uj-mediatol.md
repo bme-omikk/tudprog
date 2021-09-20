@@ -9,13 +9,13 @@ tud_programfelelos: Tófalvy Tamás
 tud_eloadok: Tófalvy Tamás
 tud_helyszin: BME, Könyvtár épület földszint 2. (folyóiratolvasó)
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/youtube-vs-tiktok-vs-teve-miert-felunk-az-uj-mediatol
 tud_intezmeny: BME GTK, Szociológia és Kommunikáció Tanszék
 tud_intezmeny_rovid: GTK
 tud_online:
 tud_url:
 tud_covid: Igen
-tud_reg: Nem, Nem
+tud_reg: Igen, 30 fő
 date: 2021-03-27
 ---
 
