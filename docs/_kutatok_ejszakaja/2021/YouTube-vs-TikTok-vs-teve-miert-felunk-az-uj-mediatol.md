@@ -4,10 +4,10 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: YouTube vs TikTok vs tévé - Miért félünk az új médiától?
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2021. szeptember 25. 13:00-13:30
+tud_idopont: 2021. szeptember 25. 15:00-15:30
 tud_programfelelos: Tófalvy Tamás
 tud_eloadok: Tófalvy Tamás
-tud_helyszin: 
+tud_helyszin: BME, Könyvtár épület földszint 2. (folyóiratolvasó)
 tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME GTK, Szociológia és Kommunikáció Tanszék
