@@ -7,7 +7,7 @@ tud_programfelelos: Markotics Boldizsár
 tud_eloadok: Markotics Boldizsár és más körtagok
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 18.00-21.00
-tud_helyszin:
+tud_helyszin: BME, E épület aula
 tud_reg_hamarosan:
 tud_intezmeny: Egyetemi Kozmosz Kör szervezés
 tud_intezmeny_rovid:
