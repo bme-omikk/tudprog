@@ -26,7 +26,7 @@ Természettudományi Kar Programjai
   <ul id="esemenylista" data-role="listview" data-filter="false" data-filter-placeholder="Keresés..." >
  
 {%- assign tud_year = page.tud_year | truncate: 4, "" -%}
-{%- assign items = site.kutatok_ejszakaja | sort: "tud_intezmeny" -%}
+{%- assign items = site.kutatok_ejszakaja | sort: "title" -%}
 
 	{%- for item in items -%}
 		{%- assign tud_idopont = item.tud_idopont | truncate: 4, "" -%}
