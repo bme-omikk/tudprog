@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 16:00-20:00
 tud_programfelelos: Jankovics István Róbert
 tud_eloadok: Jankovics István Róbert
-tud_helyszin:
+tud_helyszin: BME J épület 309
 tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME KJK, Repüléstudományi és Hajózási Tanszék

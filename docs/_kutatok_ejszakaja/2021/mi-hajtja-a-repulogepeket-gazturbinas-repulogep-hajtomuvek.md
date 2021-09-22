@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 17:00-17:40; 17:45-18:25; 18:30-19:10; 19:15-19:55; 20:00-20:40
 tud_programfelelos: Dr. Beneda Károly, Csomor Vilmos
 tud_eloadok: Dr. Beneda Károly, Csomor Vilmos
-tud_helyszin:
+tud_helyszin: BME AE labor
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mi-hajtja-a-repulogepeket-gazturbinas-repulogep-hajtomuvek
 tud_intezmeny: BME KJK, Repüléstudományi és Hajózási Tanszék
