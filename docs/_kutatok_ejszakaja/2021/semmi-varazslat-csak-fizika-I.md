@@ -19,7 +19,7 @@ date: 2021-02-27
 ---
 
 
-<b>Härtlein Károly: </b>Műegyetem Fizikai Intézet mesteroktatója,  <a href="http://goliat.eik.bme.hu/~hartlein/" target="_blank" > http://goliat.eik.bme.hu/~ </a>
+<b>Härtlein Károly: </b>Műegyetem Fizikai Intézet mesteroktatója,  <a href="http://goliat.eik.bme.hu/~hartlein/" target="_blank" > http://goliat.eik.bme.hu/~hartlein/ </a>
 <br><br>
 A fizika legszerethetőbb részének, a kísérletezésnek szenteljük ezt a délutánt. Intézetünkben bemutatható kísérletekből válogatok, megmutatva, hogy a fizika mennyire szövi át a mindennapjainkat - ezért fontos a fizika tudása-tanulása.
 <br><br>
