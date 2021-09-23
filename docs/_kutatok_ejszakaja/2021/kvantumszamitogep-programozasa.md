@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
 title: Kvantumszámítógép programozása
-tud_tipus: Csak személyes jelenléttel látogatható
+tud_tipus: Csak online látogatható
 tud_idopont: 2021. szeptember 24. 19:00-19:45, 20:00-20:45, 21:00-21:45
 tud_programfelelos: Pályi András
 tud_eloadok: Pályi András, Asbóth János, Budai Ákos
@@ -23,5 +23,7 @@ date: 2021-03-27
  <a href="https://dtp.physics.bme.hu/Budai_Akos" target="_blank">Budai Ákos</a>
 
 Programozzátok Ti is az IBM kvantumszámítógépeit! Rövid ismeretterjesztő előadás és játékos kvíz után a BME kutatói segítségével a résztvevők megtanulják programozni az IBM felhőn keresztül elérhető kvantumszámítógépeit. 
+<br><br>
+<img src="images/kvantumszamitogepel_programozasa.png" max-width="500" class="center"> 
 
 

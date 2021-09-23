@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
-title: Madarat tolláról, avagy hogyan látja a fizikus, miként választunk barátokat.
+title: Madarat tolláról, avagy hogyan látja a fizikus, miként választunk barátokat
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 21:15-22:00
 tud_programfelelos: Török János

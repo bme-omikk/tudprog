@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2021
-title: Utazás a dimenziók között milyen térben él egy kvantumbit?
+title: Utazás a dimenziók között - milyen térben él egy kvantumbit?
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 18:00-19:00
 tud_programfelelos: Pintér Gergő
