@@ -12,7 +12,7 @@ tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/ipar4-azaz-ipari-digitalizacio
 tud_intezmeny: BME VIK
 tud_intezmeny_rovid: VIK
-tud_online:
+tud_online: https://youtube.com/playlist?list=PLwvMnYk4hHDZQ2rWls0FIuZBYzAt09626
 tud_url:
 tud_covid: Igen
 tud_reg: Igen, Turnusonként 20 fő
