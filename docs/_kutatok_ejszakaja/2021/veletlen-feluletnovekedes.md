@@ -9,7 +9,7 @@ tud_programfelelos: Vető Bálint
 tud_eloadok: Vető Bálint
 tud_helyszin: BME, H406
 tud_reg_hamarosan:
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/veletlen-feluletnovekedes
+tud_regisztracio:
 tud_intezmeny: BME TTK, Matematika Intézet, Sztochasztika Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:
