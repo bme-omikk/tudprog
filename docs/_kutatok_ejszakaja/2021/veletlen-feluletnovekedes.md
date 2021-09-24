@@ -15,7 +15,7 @@ tud_intezmeny_rovid: TTK
 tud_online:
 tud_url:
 tud_covid: Igen
-tud_reg: Igen, 30 fő
+tud_reg: Nem, Nem
 date: 2021-03-27
 ---
 
