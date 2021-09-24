@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2021. szeptember 24. 18:00-19:00; 20:00-21:00
 tud_programfelelos: Dr. Danyi Pál
 tud_eloadok: Dr. Danyi Pál
-tud_helyszin: BME Q. épület 
+tud_helyszin: BME Q épület QA 405 
 tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME GTK, Menedzsment és Vállalatgazdaságtan Tanszék
