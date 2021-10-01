@@ -4,7 +4,7 @@
 
 layout: tudunnep
 tud_title: A Magyar Tudomány Ünnepe 2021
-tud_slogen: Jövőformáló tudomány
+tud_slogen: Tudomány - iránytű az élhető jövőhöz
 tud_about_url: /tudunnep/2021/about/
 tud_about: Rólunk
 home: Home
