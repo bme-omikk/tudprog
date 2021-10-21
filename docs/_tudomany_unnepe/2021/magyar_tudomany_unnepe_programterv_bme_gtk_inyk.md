@@ -6,7 +6,7 @@ tud_tipus: nemzetközi konferencia
 tud_tudomanyterulet: szaknyelvkutatás 
 tud_idopont: 2021.november 05.  9:00-17:00
 tud_helyszin: online ZOOM alkalmazással
-tud_intezmeny: A Debreceni Egyetem Gazdasági Szaknyelvi Kommunikációs Intézete a Budapesti Műszaki és Gazdaságtudományi Egyetem Idegen Nyelvi Központjával együttműködésben
+tud_intezmeny: A Debreceni Egyetem Gazdasági Szaknyelvi Kommunikációs Intézete a BME Idegen Nyelvi Központjával együttműködésben
 tud_kapcsolattarto: Tóth Zsuzsanna, toth.zsuzsa@gtk.bme.hu, 06 1 463 2013
 tud_url: http://szokoe.hu/hirek/2021/08/24/xxi-szokoe-nemzetkozi-szaknyelvi-online-konferencia 
 date: 2021-09-05

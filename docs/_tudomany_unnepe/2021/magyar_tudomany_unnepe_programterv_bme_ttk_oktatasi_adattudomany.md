@@ -4,7 +4,7 @@ tud_title: A Magyar Tudomány Ünnepe 2021
 title: Oktatási adattudomány matematikai válaszok a tanulmányi adatvagyonból
 tud_tipus: workshop
 tud_tudomanyterulet: adattudomány, alkalmazott matematika, statisztika, ökonometria, oktatástudomány, oktatásgazdaságtan
-tud_idopont: 2021. november 23. 16:00 – 18:30
+tud_idopont: 2021. november 23. 16:00-18:30
 tud_helyszin: hibrid BME (pontos helyszín szervezés alatt + online)
 tud_intezmeny: BME HSDSLab
 tud_kapcsolattarto: Kapcsolattartó (név, e-mail, telefon)	Dr. Molontay Roland, molontay@math.bme.hu, +36205913228
