@@ -4,7 +4,7 @@ tud_title: A Magyar Tudomány Ünnepe 2021
 title: A Műegyetem az első világháborúban című könyv bemutatója
 tud_tipus: könyvbemutató
 tud_tudomanyterulet: egyetemtörténet
-tud_idopont: 2021. november 19.
+tud_idopont: 2021. november 19. 11:00
 tud_helyszin: BME K épület mfsz. 51. közösségi terem
 tud_intezmeny: BME OMIKK, Levéltár
 tud_kapcsolattarto: Batalka Krisztina, leveltar@bme.hu
