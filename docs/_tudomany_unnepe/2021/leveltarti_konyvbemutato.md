@@ -1,7 +1,7 @@
 ---
 layout: collection
 tud_title: A Magyar Tudomány Ünnepe 2021
-title: A Műegyetem az első világháborúban című könyvének bemutatója
+title: A Műegyetem az első világháborúban című könyv bemutatója
 tud_tipus: könyvbemutató
 tud_tudomanyterulet: egyetemtörténet
 tud_idopont: 2021. november 19.
