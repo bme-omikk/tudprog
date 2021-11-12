@@ -17,4 +17,4 @@ Az utóbbi években szinte az összes nemzeti és nemzetközi központi bank akt
 
 Az innovációs lehetőségek mellett rámutatunk néhány kulcsfontosságú DLT műszaki tervezési kihívásra és azok a BME-n is aktívan kutatott megoldási lehetőségeire, mint a teljesítményre tervezés, az elosztott főkönyv tartalmi helyességének biztosítása és a munkafolyamatok blokklánc-támogatásának automatizált megvalósítása.
 
-Részvételi szándékukat kérjük, jelezzék előre a következő regisztrációs űrlapon:https://forms.gle/xawt1yEVFVqSUThf6
+Részvételi szándékukat kérjük, jelezzék előre a következő regisztrációs űrlapon: <a target=" _blank" href="https://forms.gle/xawt1yEVFVqSUThf6">https://forms.gle/xawt1yEVFVqSUThf6</a>
