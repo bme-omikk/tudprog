@@ -4,7 +4,7 @@ tud_title: A Magyar Tudomány Ünnepe 2021
 title: A BME TTK ScienceCampus szemináriumsorozatának előadása. Lukács Ágnes (BME TTK, Kognitív Tudományi Tanszék) A nyelvelsajátítás építőkövei és a nyelvi fejlődés zavarai
 tud_tipus: előadás
 tud_tudomanyterulet: kognitív tudományok, pszichológia
-tud_idopont: 2021.november 26. 16:00-17:30
+tud_idopont: 2021. november 26. 16:00-17:30
 tud_helyszin: F3213 (F épület III. lépcsőház, 2. emelet 13-as tanterem)
 tud_intezmeny: BME Természettudományi kar
 tud_kapcsolattarto: Dr. Simon Ferenc, simon.ferenc@ttk.bme.hu Dr. Asbóth János, asboth.janos@ttk.bme.hu 
