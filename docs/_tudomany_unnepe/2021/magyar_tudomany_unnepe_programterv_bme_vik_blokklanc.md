@@ -23,9 +23,9 @@ Részvételi szándékukat megköszönjük, ha jelzik a következő regisztráci
 
 Előadók
 
-•	Szombati Anikó (meghívott előadó, digitalizációért és a FinTech szektor fejlesztéséért felelős ügyvezető igazgató, Magyar Nemzeti Bank)
-•	Kocsis Imre (adjunktus, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
-•	Gönczy László (adjunktus, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
-•	Klenik Attila (doktorjelölt, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
-•	Varga Pál (tanszékvezető docens, BME VIK Távközlési és Médiainformatikai Tanszék)
-•	Frankó Attila (doktorandusz, BME VIK Távközlési és Médiainformatikai Tanszék)
+- Szombati Anikó (meghívott előadó, digitalizációért és a FinTech szektor fejlesztéséért felelős ügyvezető igazgató, Magyar Nemzeti Bank)
+- Kocsis Imre (adjunktus, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
+- Gönczy László (adjunktus, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
+-	Klenik Attila (doktorjelölt, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
+-	Varga Pál (tanszékvezető docens, BME VIK Távközlési és Médiainformatikai Tanszék)
+-	Frankó Attila (doktorandusz, BME VIK Távközlési és Médiainformatikai Tanszék)
