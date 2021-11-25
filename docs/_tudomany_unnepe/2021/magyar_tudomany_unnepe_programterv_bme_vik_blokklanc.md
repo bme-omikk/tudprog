@@ -1,4 +1,4 @@
-﻿---
+---
 layout: collection
 tud_title: A Magyar Tudomány Ünnepe 2021
 title: "Digitális jegybankpénz és blokklánc alapú ipari innováció"
