@@ -20,3 +20,11 @@ Az innovációs lehetőségek mellett rámutatunk néhány kulcsfontosságú DLT
 MÓDOSÍTÁS: az eseményt online, <a target=" _blank" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTYyYWNkY2ItOWJlOS00NzFmLTg0ZTMtYzBmYjQwMDg0ODQw%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%2201ead5d1-166e-493d-89d8-dbaf30584173%22%7d"> Microsoft Teams-en tartjuk meg.</a>
 
 Részvételi szándékukat megköszönjük, ha jelzik a következő regisztrációs űrlapon, de a részvétel nem regisztrációhoz kötött: <a target=" _blank" href="https://forms.gle/xawt1yEVFVqSUThf6">https://forms.gle/xawt1yEVFVqSUThf6</a>
+
+Előadók
+•	Szombati Anikó (meghívott előadó, digitalizációért és a FinTech szektor fejlesztéséért felelős ügyvezető igazgató, Magyar Nemzeti Bank)
+•	Kocsis Imre (adjunktus, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
+•	Gönczy László (adjunktus, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
+•	Klenik Attila (doktorjelölt, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
+•	Varga Pál (tanszékvezető docens, BME VIK Távközlési és Médiainformatikai Tanszék)
+•	Frankó Attila (doktorandusz, BME VIK Távközlési és Médiainformatikai Tanszék)
