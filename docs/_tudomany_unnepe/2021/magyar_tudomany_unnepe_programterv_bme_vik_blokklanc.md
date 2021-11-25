@@ -22,7 +22,7 @@ MÓDOSÍTÁS: az eseményt online, <a target=" _blank" href="https://teams.micro
 
 Részvételi szándékukat megköszönjük, ha jelzik a következő regisztrációs <a target=" _blank" href="https://forms.gle/xawt1yEVFVqSUThf6"> űrlapon</a>, de a részvétel nem regisztrációhoz kötött.
 
-Előadók
+<b>Előadók</b>
 
 - Szombati Anikó (meghívott előadó, digitalizációért és a FinTech szektor fejlesztéséért felelős ügyvezető igazgató, Magyar Nemzeti Bank)
 - Kocsis Imre (adjunktus, BME VIK Méréstechnika és Információs Rendszerek Tanszék)
