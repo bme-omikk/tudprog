@@ -9,8 +9,7 @@ tud_helyszin: MÓDOSÍTVA online, Microsoft Teams-en
 tud_teams: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTYyYWNkY2ItOWJlOS00NzFmLTg0ZTMtYzBmYjQwMDg0ODQw%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%2201ead5d1-166e-493d-89d8-dbaf30584173%22%7d
 tud_intezmeny: BME Villamosmérnöki és Informatikai Kar
 tud_kapcsolattarto: Villamosmérnöki és Informatikai Kar, Kocsis Imre, kocsis.imre@vik.bme.hu, Gönczy László, gonczy.laszlo@vik.bme.hu
-tud_url: https://www.bme.hu/node/9080
-date: 2021-09-29
+date: 2021-10-29
 ---
 A blokklánc alapú elosztott főkönyvi rendszerek (Distributed Ledger Technology, DLT) egyre több gazdasági területen jelennek meg, mint a "hiperösszekötött” gazdaság szervezetközi együttműködéseinek támogatóplatformja. A DLT-k a résztvevők számára különösen megbízható, megosztott közös főkönyvet biztosítanak a blokklánc konstrukción keresztül; az ún. okos szerződésekkel programozhatóság pedig az együttműködés szabályainak transzparenciáját biztosítja minden résztvevő számára.
 
