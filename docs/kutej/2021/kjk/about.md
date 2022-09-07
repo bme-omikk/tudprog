@@ -1,11 +1,11 @@
 ---
 layout: page_kutej
 title: Rólunk
-tud_title: Kutatók éjszakája 2020
-permalink: /kutej/2020/about/
+tud_title: Kutatók éjszakája 2021
+permalink: /kutej/2021/about/
 ---
 
-<p style="text-align: center; font-weight:bold;">Kutatók éjszakája 2020 a BME-n</p>
+<p style="text-align: center; font-weight:bold;">Kutatók éjszakája 2021 a BME-n</p>
 
 <p style="text-align: center; font-weight:bold;">2020.</p>
 
@@ -28,7 +28,7 @@ További információ itt érhető el:
 [https://kutatokejszakaja.hu/](https://kutatokejszakaja.hu/)
 
 <p style="text-align: justify">A Kutatók éjszakája alkalmából a Budapesti Műszaki és Gazdaságtudományi
-Egyetemen a <a class="home-url" rel="author" href="{{ "/kutej/2020" | relative_url }}">tartalomban</a> részletezett tudományos események kerülnek
+Egyetemen a <a class="home-url" rel="author" href="{{ "/kutej/2021" | relative_url }}">tartalomban</a> részletezett tudományos események kerülnek
 megrendezésre.</p>
 
 Szeretettel várjuk minden rendezvényünkön.

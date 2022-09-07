@@ -7,7 +7,7 @@ permalink: /about/
 
 <p style="text-align: center; font-weight:bold;">Magyar Tudomány Ünnepe a BME-n</p>
 
-<p style="text-align: center; font-weight:bold;">2020.</p>
+<p style="text-align: center; font-weight:bold;">2020</p>
 
 <p style="text-align: justify">A Magyar Tudományos Akadémia (MTA) 2020 novemberében 17. alkalommal rendezi meg a hazai tudományos élet kitüntetett eseményét, a <b>„Magyar Tudomány Ünnepe 2020”</b> című országos és határon túli programsorozatot, amelynek idei mottója: <b>„Jövőformáló tudomány”</b>.</p>
 
