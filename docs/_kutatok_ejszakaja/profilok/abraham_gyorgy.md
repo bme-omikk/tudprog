@@ -13,7 +13,7 @@ kutej_eloado:
 <td>
 
 <div class="gallery">
-    <img src="images/abraham_gyorgy2021.jpg" max-width="250" max-height="200">
+    <img src="images/abraham_gyorgy.jpg" max-width="250" max-height="200">
   <div class="desc">Prof.dr.habil Ábrahám György</div>
 </div>
 
