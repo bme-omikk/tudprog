@@ -12,7 +12,7 @@ tud_online:
 tud_reg_hamarosan:
 tud_intezmeny: BME FTT
 tud_intezmeny_rovid: GTK
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/maszk-vedooltas-es-tavolsagtartas-a-covid-19-es-a-szocialpszichologia
 tud_url:
 tud_covid:
 tud_reg: igen, összesen 30 fő

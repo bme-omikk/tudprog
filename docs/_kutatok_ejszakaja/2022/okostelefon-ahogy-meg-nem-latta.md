@@ -10,6 +10,7 @@ tud_intezmeny: BME VIK Elektronikus Eszközök Tanszéke
 tud_intezmeny_rovid: VIK
 tud_programfelelos: Dr. Neumann Péter Lajos
 tud_eloadok: Dr. Neumann Péter, Rózsás Gábor, Tóth- Blum Adél
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/okostelefon-ahogy-meg-nem-latta
 tud_online:
 tud_url:
 tud_covid:

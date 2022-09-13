@@ -8,13 +8,12 @@ tud_idopont: 2022. szeptember 30. 18:30-19:45
 tud_helyszin: "Magyar Tudósok körút 2. BME Q épület A szárny QA102-es szoba"
 tud_reg_hamarosan:
 tud_intezmeny: BME GTK, BME Ergonómia és Pszichológia Tanszék
-
 tud_intezmeny_rovid: GTK
 tud_programfelelos: Dr. Hercegfi Károly
 tud_covid:
 tud_url:
 tud_online:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/szemmozgaskovetes-a-gyakorlatban
 tud_reg: Igen, 45 fő/turnus
 date: 2022-02-27
 ---

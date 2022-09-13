@@ -9,7 +9,7 @@ tud_programfelelos: Zsíros Gábor
 tud_eloadok: BME NTI Oktatóreaktor személyzet
 tud_helyszin: Budapest, TR épület (Tanreaktor), Műegyetem rkp. 3, 1111
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/bme-nti-oktatoreaktor-latogatas
 tud_intezmeny:
 tud_intezmeny_rovid: TTK
 tud_online:

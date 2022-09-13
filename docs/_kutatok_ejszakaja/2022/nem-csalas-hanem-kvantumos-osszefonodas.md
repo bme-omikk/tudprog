@@ -9,7 +9,7 @@ tud_programfelelos: Weiner Mihály
 tud_eloadok: Weiner Mihály
 tud_helyszin:
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/nem-csalas-hanem-kvantumos-osszefonodas
 tud_intezmeny: BME TTK, Analízis Tanszék
 tud_intezmeny_rovid: TTK
 tud_online:

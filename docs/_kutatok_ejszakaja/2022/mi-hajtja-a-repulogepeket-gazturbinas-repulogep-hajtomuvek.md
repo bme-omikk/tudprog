@@ -9,7 +9,7 @@ tud_programfelelos: Dr. Beneda Károly, Csomor Vilmos
 tud_eloadok: Dr. Beneda Károly, Csomor Vilmos
 tud_helyszin: BME AE labor, Az AE labornak a programban érintett bejárata az ÉL épület felőli belső udvar rácsos kerítésén található, ahonnan balra továbbhaladva lehet a programnak helyet adó laborhelyiségbe bejutni.
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mi-hajtja-a-repulogepeket-gazturbinas-repulogep-hajtomuvek
 tud_intezmeny: BME KJK, Repüléstudományi és Hajózási Tanszék
 tud_intezmeny_rovid: KJK
 tud_online:

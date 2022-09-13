@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 15:00-22:00 (óránként induló turnus)
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME "V1" épület) fszt. 024
 tud_reg_hamarosan:
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/orankent-indulo-bemutatok-a-bme-nagyfeszultsegu-laboratoriumaban
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/orankent-indulo-bemutatok-a-nagyfeszultsegu-laboratoriumban
 tud_intezmeny: BME-VIK Villamos Energetika Tanszék, Nagyfeszültségű Technika és Berendezések Csoport
 tud_intezmeny_rovid: VIK
 tud_programfelelos: Dr. Németh Bálint

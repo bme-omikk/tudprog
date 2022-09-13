@@ -9,7 +9,7 @@ tud_programfelelos: Kovács László
 tud_eloadok: Kovács László, központvezető, Nenov Adrienn, projektvezető, demonstrátorok Szabó Bálint, Tkalcec Péter
 tud_helyszin: BME I. épület, Fsz.017 1117 Budapest, Magyar tudósok körútja 2.
 tud_reg_hamarosan:
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/ipar4-azaz-ipari-digitalizacio
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/ipar-40-ipari-uzleti-digitalizacio
 tud_intezmeny: BME FIEK
 tud_intezmeny_rovid: VIK
 tud_online: https://youtube.com/playlist?list=PLwvMnYk4hHDbxLLfl6C2yi4O5UcCYSbdv
