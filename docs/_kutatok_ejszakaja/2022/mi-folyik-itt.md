@@ -9,13 +9,13 @@ tud_programfelelos: Dr. Baranya Sándor
 tud_eloadok: Füstös Vivien
 tud_helyszin: BME K épület előtti stég az alsó rakparton.
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mi-folyik-itt-meghivas-egy-vizmernoki-felmeressel-egybekotott-dunai-csonakazasra-a-muegyetem-elott
 tud_intezmeny: BME ÉMK Vízépítési és Vízgazdálkodási Tanszék
 tud_intezmeny_rovid: EMK
 tud_online:
 tud_url:
 tud_covid:
-tud_reg: Nem, max. 20 fő
+tud_reg: Igen, max. 20 fő
 date: 2022-03-27
 ---
 
