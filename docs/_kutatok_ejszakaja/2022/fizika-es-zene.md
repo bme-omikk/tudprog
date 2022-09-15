@@ -9,7 +9,7 @@ tud_programfelelos: Härtlein Károly
 tud_eloadok: Härtlein Károly, Műegyetemi Szimfonikus Zenekar kamaregyüttese, Gryllus Dániel
 tud_helyszin: 1117 Budapest, Magyar tudósok krt. 2. BME Q épület Simonyi terem
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/fizika-es-zene
 tud_intezmeny: BME TTK Fizika Intézet
 tud_intezmeny_rovid: TTK
 tud_online:
