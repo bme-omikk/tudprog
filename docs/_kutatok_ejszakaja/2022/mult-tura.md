@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2022
 title: Múlt-túra
-tud_tipus: Személyes jelenléttel és online is látogatható
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 17:00-17:30
 tud_programfelelos: Batalka Krisztina
 tud_eloadok: Batalka Krisztina, Horváth Attila Levente
