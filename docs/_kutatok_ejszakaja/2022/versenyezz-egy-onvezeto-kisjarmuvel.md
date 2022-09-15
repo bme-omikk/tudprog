@@ -24,3 +24,5 @@ date: 2022-03-27
 <br>
 Milyen lehet szembeszállni egy robotjárművel? Ki tudja jobban megtalálni a pályán az ideális ívet? A BME KJK és a Mérnökmisszió közös versenyének, a REFORMula Challenge új szériájának egy bemutató programján kipróbálhatod, milyen versenyezni egy önvezető kisjármű ellen. A program során nem csak vezetésre van lehetőség, hanem kérdezhetsz az Egyetem kutatóitól is a rendszer működéséről.
  
+ <br><br>
+<img src="images/onvezeto_kisjarmu.jpg" max-width="500" class="center"> 
