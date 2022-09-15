@@ -9,7 +9,7 @@ tud_programfelelos: Dr. Hlinka József
 tud_eloadok: Logó János Máté, Horváth Viktor Győző
 tud_helyszin: BME St épület 2. emelet 222. terem, elméletileg akadálymentesített épület
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: ttps://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/korszeru-diagnosztikai-modszerek-a-muszaki-gyakorlatban
 tud_intezmeny: BME KJK, Gépjárműtechnológia Tanszék
 tud_intezmeny_rovid: EMK
 tud_online:
