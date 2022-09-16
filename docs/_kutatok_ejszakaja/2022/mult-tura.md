@@ -10,7 +10,7 @@ tud_eloadok: Batalka Krisztina, Horváth Attila Levente
 tud_helyszin: BME K épület földszint 17. 
 tud_reg_hamarosan:
 tud_regisztracio:
-tud_intezmeny: BME Levéltár
+tud_intezmeny: BME OMIKK Levéltár
 tud_intezmeny_rovid: OMIKK
 tud_online:
 tud_url:
@@ -23,7 +23,7 @@ date: 2022-03-27
 
 
 <br>
-Az idén 240 éves Műegyetem múltját a BME Levéltár őrzi: régi dokumentumokat, fotókat, érdekességeket. A levéltári raktárba csak kevesen léphetnek be, a Kutatók Éjszakáján azonban lehetőség nyílik elmerülni a történelemben.
+Az idén 240 éves Műegyetem múltját a BME OMIKK Levéltár őrzi: régi dokumentumokat, fotókat, érdekességeket. A levéltári raktárba csak kevesen léphetnek be, a Kutatók Éjszakáján azonban lehetőség nyílik elmerülni a történelemben.
 
 <br><br>
 <img src="images/KE_2022_Levtar.JPG" max-width="500" class="center">
