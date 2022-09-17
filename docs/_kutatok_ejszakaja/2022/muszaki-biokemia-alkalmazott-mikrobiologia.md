@@ -28,6 +28,5 @@ date: 2022-03-27
 <br>
 A látogatás során bemutatjuk, hogy az alaptudományok (kémia, biokémia, biológia) folyamatai és jelenségei hogyan befolyásolják a termelő biotechnológiai folyamatokat. Milyen szabályozástechnikai trükkökkel lehet például rávenni a hétköznapi élesztőt, hogy alkohol helyett biomasszát termeljen vagy egy algát, hogy a napfény helyett ecetet egyen.
 
-
 <br><br>
 <img src="images/muszaki-biokemia-alkalmazott-mikrobiologia.png" max-width="500" class="center">
