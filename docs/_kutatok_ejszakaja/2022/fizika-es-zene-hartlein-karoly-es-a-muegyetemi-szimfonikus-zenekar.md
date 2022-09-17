@@ -15,7 +15,7 @@ tud_intezmeny_rovid: TTK
 tud_online:
 tud_url:
 tud_covid:
-tud_reg: Igen, Max. 400fő
+tud_reg: Igen, Max. 400 fő
 date: 2022-03-27
 ---
 <a href="http://goliat.eik.bme.hu/~hartlein/" about:_blank> Härtlein Károly</a>: Műegyetem Fizikai Intézet mesteroktatója
