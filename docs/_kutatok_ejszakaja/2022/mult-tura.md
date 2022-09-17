@@ -9,7 +9,7 @@ tud_programfelelos: Batalka Krisztina
 tud_eloadok: Batalka Krisztina, Horváth Attila Levente
 tud_helyszin: BME K épület földszint 17. 
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mult-tura
 tud_intezmeny: BME OMIKK Levéltár
 tud_intezmeny_rovid: OMIKK
 tud_online:

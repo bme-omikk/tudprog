@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 16:30-17:30, 18:30-19:30
 tud_programfelelos: Barta Miranda
 tud_eloadok: Mészáros Erika, Németh Gábor
-tud_helyszin: 1111 Budapest, Műegyetem rkp. 3. BME Könyvtár, Nagyolvasó
+tud_helyszin: 1111 Budapest, Budafoki út 4-6. BME OMIKK, Nagyolvasó
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/kincskereses-a-konyvtarban
 tud_intezmeny: BME OMIKK
