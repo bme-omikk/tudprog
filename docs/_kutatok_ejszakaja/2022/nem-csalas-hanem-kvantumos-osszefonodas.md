@@ -4,10 +4,10 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2022
 title: Nem csalás, hanem kvantumos összefonódás!
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2022. szeptember 30 18:00-18:50, 19:00-19:50, 20:00-20:50
+tud_idopont: 2022. szeptember 30 20:00-21:00
 tud_programfelelos: Weiner Mihály
 tud_eloadok: Weiner Mihály
-tud_helyszin:
+tud_helyszin: BME K. épület K155.
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/nem-csalas-hanem-kvantumos-osszefonodas
 tud_intezmeny: BME TTK, Analízis Tanszék
@@ -15,7 +15,7 @@ tud_intezmeny_rovid: TTK
 tud_online:
 tud_url:
 tud_covid:
-tud_reg: Nem, Igen Összesen 60 fő, Turnusonként 20 fő
+tud_reg: Igen, összesen 150 fő
 date: 2022-03-27
 ---
 

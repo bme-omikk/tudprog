@@ -1,12 +1,12 @@
 ---
 layout: page_kutej_profilok
 tud_idopont: 0
-kutej_programfelelos_eloado: 
+kutej_programfelelos_eloado: Szent-Györgyi Albert Szakkollégium
 kutej_programfelelos: 
-kutej_eloado: Szent-Györgyi Albert Szakkollégium
+kutej_eloado: 
 ---
 
-Mind a BME Szent-Györgyi Albert Szakkollégium tagjai. Szakkollégiumunk egyik küldetése a kémia és a tudományok népszerűsítése, csapatunk ezt jól képviseli. Lelkesen és szorgalommal álunk a rendezvény megszervezéséhez. Egy részük fotója megtalálható itt: https://szasz.bme.hu/tagok
-
+A BME Szent-Györgyi Albert Szakkollégiumot (SzASz) 2001-ben alapította a Vegyészmérnöki és Biomérnöki Kar néhány lelkes hallgatója és segítőkész tanára. A SzASz kezdetben egy főleg biomérnök hallgatókból álló baráti társaság volt, mely fő céljának a biomérnökség népszerűsítését tekintette. 
+Az elmúlt évek során a Szakkollégium létszáma bővült, tevékenységi köre szélesedett. Mára a Kar szakmai és kulturális életének egyik meghatározó szereplőjévé vált. 
 
 
