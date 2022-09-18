@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2022
-title: Mi folyik itt?
+title: Mi folyik itt? Meghívás egy vízmérnöki felméréssel egybekötött dunai csónakázásra a Műegyetem előtt!
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 16.00-18.00
 tud_programfelelos: Dr. Baranya Sándor

@@ -17,10 +17,10 @@ tud_covid:
 tud_reg: Igen, Turnusonként 10 fő
 date: 2021-03-27
 ---
-<a href="https://www.eet.bme.hu/munkatarsak/?id=neumann" about:_blank> Dr. Neumann Péter Lajos</a>
+<a href="https://www.eet.bme.hu/munkatarsak/?id=neumann" target="_blank"> Dr. Neumann Péter Lajos</a>
 <br>
 
-<a href="https://www.eet.bme.hu/munkatarsak/?id=rozsas" about:_blank> Rózsás Gábor</a>
+<a href="https://www.eet.bme.hu/munkatarsak/?id=rozsas" target="_blank"> Rózsás Gábor</a>
 
 
 A bemutató során a látogatók megnézhetik, hogy egy modern mobiltelefonban milyen alkotóelemek (kijelző, kamera, érintőképépernyő, stb.) és áramkörök vannak, illetve bemutatjuk azok felépítését és működését is. Ehhez a tanszék (BME EET) infrastruktúráját igénybe véve, egy okostelefont szétbontva, különböző vizsgálati eljárásokkal bepillantást nyújtunk az okos környezetünket működtető mikroméretű elektronikai eszközök világába, megmutatjuk miként is épül fel egy modern processzor, szenzor vagy a kommunikációs interfész. A résztvevők így képet kaphatnak arról, milyen összetett eszköz is lapul valójában a zsebükben. A bemutató bepillantást enged az úgynevezett tisztatéri munkába, ahol a chipek születnek.

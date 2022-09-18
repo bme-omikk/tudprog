@@ -20,7 +20,7 @@ date: 2022-03-27
 ---
 
 
-<a href="https://www.hit.bme.hu/staff" about:_blank> Gerhátné Dr. Udvary Eszter, Czermann Márton, Galambos Máté, Solymos Balázs
+<a href="https://www.hit.bme.hu/staff" target="_blank"> Gerhátné Dr. Udvary Eszter, Czermann Márton, Galambos Máté, Solymos Balázs
 </a>
 
 

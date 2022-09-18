@@ -19,14 +19,14 @@ tud_reg: Nem, Nem
 date: 2022-03-27
 ---
 
-<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=140" about:_blank> Dr. Szánthó Zoltán</a><br>
-<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=118" about:_blank> Dr. Hégely László</a><br>
-<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=148" about:_blank> Dr. Deme Bélafi Zsófia</a><br>
-<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=112" about:_blank> Dr. Czétány László</a><br>
-<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=110" about:_blank> Dr. Both Balázs</a><br>
-<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=143" about:_blank> Varjú Evelin</a><br>
-<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=107" about:_blank> Dr. Barna Edit Orsolya</a><br>
-<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=121" about:_blank> Horváth Dániel</a>
+<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=140" target="_blank"> Dr. Szánthó Zoltán</a><br>
+<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=118" target="_blank"> Dr. Hégely László</a><br>
+<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=148" target="_blank"> Dr. Deme Bélafi Zsófia</a><br>
+<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=112" target="_blank"> Dr. Czétány László</a><br>
+<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=110" target="_blank"> Dr. Both Balázs</a><br>
+<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=143" target="_blank"> Varjú Evelin</a><br>
+<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=107" target="_blank"> Dr. Barna Edit Orsolya</a><br>
+<a href="https://epget.bme.hu/oktatoi_oldal.php?lepes=4&oid=121" target="_blank"> Horváth Dániel</a>
 
 
 A BME Épületgépészeti és Gépészeti Eljárástechnika Tanszék Stokes, Macskásy és Légtechnikai Laborjainak bemutatása

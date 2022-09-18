@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2022
 title: Mi hajtja a repülőgépeket? Gázturbinás repülőgép-hajtóművek
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2022. szeptember 30. 19:00-19:45; 19:45-20:30; 20:30-21:15
+tud_idopont: 2022. szeptember 30. 19:00-19:45, 19:45-20:30, 20:30-21:15
 tud_programfelelos: Dr. Beneda Károly, Csomor Vilmos
 tud_eloadok: Dr. Beneda Károly, Csomor Vilmos
 tud_helyszin: BME AE labor, Az AE labornak a programban érintett bejárata az ÉL épület felőli belső udvar rácsos kerítésén található, ahonnan balra továbbhaladva lehet a programnak helyet adó laborhelyiségbe bejutni.

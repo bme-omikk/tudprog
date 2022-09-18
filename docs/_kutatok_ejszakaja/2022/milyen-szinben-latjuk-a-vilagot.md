@@ -6,7 +6,7 @@ title: Milyen színben látjuk a világot?
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 19:00-19:20, 19:30-19:50, 20:00-20:20, 20:30-20:50, 21:00-21:20, 21:30-21:50
 tud_programfelelos: Dr. Nagy Balázs Vince egyetemi docens (felelős), Urbin Ágnes tanársegéd
-tud_helyszin: D épület 5.emelet 503 labor
+tud_helyszin: BME D épület 5.emelet 503. labor
 tud_reg_hamarosan:
 tud_intezmeny: BME Mechatronika, Optika és Gépészeti Informatika Tanszék
 tud_intezmeny_rovid: GPK

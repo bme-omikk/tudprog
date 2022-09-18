@@ -19,7 +19,7 @@ tud_reg: Igen, 20 fő/turnus
 date: 2022-02-27
 ---
 
-<b>Dr. Németh Balázs:</b> a BME Közlekedés- és Járműirányítási Tanszékének címzetes egyetemi docense, oktatási és kutatási területe az önvezető járművek irányítórendszereinek tervezési kérdései. Mérnöki-kutatói hivatása mellett egyben református lelkész.  
+<b>Dr. Németh Balázs</b>: a BME Közlekedés- és Járműirányítási Tanszékének címzetes egyetemi docense, oktatási és kutatási területe az önvezető járművek irányítórendszereinek tervezési kérdései. Mérnöki-kutatói hivatása mellett egyben református lelkész.  
 
 
 

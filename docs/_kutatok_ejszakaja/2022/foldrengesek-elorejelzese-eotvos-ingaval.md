@@ -20,10 +20,10 @@ date: 2022-03-27
 ---
 
 
-<a href="http://epito.bme.hu/volgyesi-lajos" about:_blank> Prof. Dr. Völgyesi Lajos</a>: geofizikus, akadémikus<br>
-<a href="http://epito.bme.hu/toth-gyula" about:_blank> Dr. Tóth Gyula</a>: egyetemi docens<br>
-<a href="https://wigner.hu/infopages/van.peter" about:_blank> Dr. Ván Péter</a>: tudományos tanácsadó<br>
-<a href="https://www.facebook.com/ettesust/" about:_blank> Szondy György</a>: független kutató
+<a href="http://epito.bme.hu/volgyesi-lajos" target="_blank"> Prof. Dr. Völgyesi Lajos</a>: geofizikus, akadémikus<br>
+<a href="http://epito.bme.hu/toth-gyula" target="_blank"> Dr. Tóth Gyula</a>: egyetemi docens<br>
+<a href="https://wigner.hu/infopages/van.peter" target="_blank"> Dr. Ván Péter</a>: tudományos tanácsadó<br>
+<a href="https://www.facebook.com/ettesust/" target="_blank"> Szondy György</a>: független kutató
 
 Előadás az Eötvös-inga történetéről, működéséről, jelenlegi felhasználásáról beszélünk a műhelytitkokról, tájékoztatást adunk az eredményeinkről és a terveinkről.
 

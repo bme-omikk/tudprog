@@ -15,7 +15,7 @@ tud_intezmeny_rovid: EMK
 tud_online:
 tud_url:
 tud_covid:
-tud_reg: Nem, maximum 20 fő.
+tud_reg: Nem, maximum 20 fő
 date: 2022-03-27
 ---
 
