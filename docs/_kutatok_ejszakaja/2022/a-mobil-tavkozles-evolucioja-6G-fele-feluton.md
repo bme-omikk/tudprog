@@ -7,9 +7,9 @@ tud_tipus: Csak online látogatható
 tud_idopont: 2022. szeptember 30. 16.00-16:45
 tud_programfelelos: Hajós-Wisinger Borbála, Dallos Györgyi
 tud_eloadok: Németh Vilmos
-tud_helyszin: Budapesti Műszaki és Gazdaságtudományi Egyetem, Q. épület, B. Szárny F203 1117 Budapest, Magyar tudósk krt. 2.
+tud_helyszin: BME Q. épület, B. Szárny QB203 1117 Budapest, Magyar tudósok krt. 2.
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/a-mobil-tavkozles-evolucioja-6g-fele-feluton
 tud_intezmeny: BME VIK, 5G Lab
 tud_intezmeny_rovid: VIK
 tud_online:

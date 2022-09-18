@@ -6,8 +6,8 @@ title:  A színtévesztés oka és korrigálása színszűrős szemüveggel (el�
 tud_programfelelos: Dr.habil Ábrahám György prof. emeritus, az MTA doktora
 tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2022. szeptember 30. 18:00
-tud_helyszin: BME, D épület 401.
+tud_idopont: 2022. szeptember 30. 18:00-20:00
+tud_helyszin: BME, D épület 4.emelet 401.
 tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME GPK Mechatronika, Optika és Gépészeti Informatika Tanszék
@@ -22,7 +22,7 @@ date: 2022-03-27
 
 <b> Dr.habil Ábrahám György prof. emeritus:</b> A műszaki optika professzora, fő kutatási területe az emberi színlátás és a színtévesztés korrigálása
 <br><br>
- Vetített képes előadás az emberi látásról, a színlátásról és a zíntévesztésről. Magyar világszabadalom lett a színtévesztés korrigálása színszűrős szemüvegekkel. Az előadás a feltaláló szmélyes élményeivel ismerteti meg a hallgatóságot a találmány születéséről és a megoldás lényegéről.
+Vetített képes előadás az emberi látásról, a színlátásról és a zíntévesztésről. Magyar világszabadalom lett a színtévesztés korrigálása színszűrős szemüvegekkel. Az előadás a feltaláló szmélyes élményeivel ismerteti meg a hallgatóságot a találmány születéséről és a megoldás lényegéről.
  
  <br>
 <img src="images/szintevesztes.png" max-width="500" class="center"> 
