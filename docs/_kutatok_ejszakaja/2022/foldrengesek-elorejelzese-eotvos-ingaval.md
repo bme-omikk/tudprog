@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2022
 title: Földrengések előrejelzése Eötvös-ingával?
-tud_tipus: Csak személyesen látogatható
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 18:00-19:30
 tud_programfelelos: Prof. Dr. Völgyesi Lajos
 tud_eloadok: Prof. Dr. Völgyesi Lajos, Dr. Tóth Gyula egyetemi docens, Dr. Ván Péter, Szondy György
