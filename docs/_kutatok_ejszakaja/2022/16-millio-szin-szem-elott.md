@@ -10,7 +10,7 @@ tud_reg_hamarosan:
 tud_intezmeny: BME GPK, Mechatronika, Optika és Gépészeti Informatika Tanszék
 tud_intezmeny_rovid: GPK
 tud_programfelelos: Dr. Samu Krisztián
-tud_covid: Igen
+tud_covid:
 tud_url:
 tud_online:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/16-millio-szin-szem-elott
