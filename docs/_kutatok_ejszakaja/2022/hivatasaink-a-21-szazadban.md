@@ -28,7 +28,5 @@ date: 2021-03-27
 
 Mit jelent a 21. században a hivatás fogalma? Ki és miért választ olyan életpályát, amelynek középpontjában a hivatás áll? Lehet-e hivatást váltani? Beszélgetésünk résztvevőivel többek között ezekre a kérdésekre keressük a választ, elsősorban, de nem kizárólag az egyházi hivatásra fókuszálva.
 
-<br><br>
-<img src="images/kvantumszamitogepel_programozasa.png" max-width="500" class="center"> 
 
 
