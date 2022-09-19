@@ -12,7 +12,7 @@ tud_reg_hamarosan:
 tud_intezmeny: BME GTK, Műszaki Pedagógia Tanszék
 tud_intezmeny_rovid: GTK
 tud_online:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/hivatasaink-a-21-szazadban
 tud_url:
 tud_covid:
 tud_reg: igen, Max. 40 fő
