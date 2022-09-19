@@ -15,7 +15,7 @@ tud_intezmeny_rovid: TTK
 tud_online:
 tud_url:
 tud_covid:
-tud_reg: Igen, Összesen maximum 60 fő, turnusonként minimum 10 fő, maximum 20 fő.
+tud_reg: Igen, Turnusonként minimum 10 fő, maximum 20 fő
 date: 2022-03-27
 ---
 
@@ -23,5 +23,7 @@ date: 2022-03-27
 <a href="http://www.reak.bme.hu/munkatars/oktatok/zsiros-gabor.html" target="_blank"> Zsíros Gábor</a> 
 
 A BME Nukleáris Technikai Intézet Oktatóreaktorának megtekintése. Rövid, kb. fél órás előadás ismerteti a reaktor működésének fizikai alapjait. Ezután megmutatjuk a reaktorépület egyes részeit, működési funkcióit.
+
+<b>A belépés feltétele a betöltött 16 év!</b>
 
 <img src="images/BME-NTI-oktatoreaktor-latogatas.jpg" max-width="500" class="center"> 
