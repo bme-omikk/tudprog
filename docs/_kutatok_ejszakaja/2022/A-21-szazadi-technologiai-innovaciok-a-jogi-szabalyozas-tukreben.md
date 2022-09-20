@@ -12,7 +12,7 @@ tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/a-21-szazadi-technologiai-innovaciok-a-jogi-szabalyozas-tukreben
 tud_intezmeny: BME GTK Üzleti Jog Tanszék 
 tud_intezmeny_rovid: GTK
-tud_online: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzY1YzNkMDItNTJmZi00ZGE2LTg0NTctNWVhMWZlMDFmNTI5%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%224c7825cd-5914-4c3c-b8aa-8734ac2caf09%22%7d
+tud_online:
 tud_url:
 tud_covid:
 tud_reg: Igen, Nem
