@@ -5,7 +5,7 @@ tud_title: Kutatók éjszakája 2022
 title: Nem látszik a munkám, magánügy? –  érzelmi munka a zeneiparban, szociodramatikus kutatás
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 17:30-19:00 
-tud_helyszin: BME K épület magasföldszint 51-es terem, a terem a könyvtár része
+tud_helyszin: BME Könyvtár épület TTO közösségi terem
 tud_reg_hamarosan: 
 tud_intezmeny: BME GTK Szociológia- és Kommunikáció Tanszék
 tud_intezmeny_rovid: GTK
