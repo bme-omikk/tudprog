@@ -15,7 +15,7 @@ tud_online:
 tud_url:
 tud_covid:
 tud_reg: Igen, Turnusonként 10 fő
-date: 2021-03-27
+date: 2022-03-27
 ---
 <a href="https://www.eet.bme.hu/munkatarsak/?id=neumann" target="_blank"> Dr. Neumann Péter Lajos</a>
 <br>

@@ -16,7 +16,7 @@ tud_regisztracio:
 tud_url:
 tud_covid:
 tud_reg: Nem, Nem
-date: 2021-03-27
+date: 2022-03-27
 ---
 
 <a href="https://vet.bme.hu/munkatarsak/17937-kiss-peter" target="_blank">Dr. Kiss Péter</a>: Egetemi docens, BME-VIK Villamos Energetika Tanszék

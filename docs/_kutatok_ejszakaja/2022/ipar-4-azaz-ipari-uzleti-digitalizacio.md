@@ -19,7 +19,7 @@ tud_reg: Igen, Turnusonként 15-max. 20 fő
 date: 2022-03-27
 ---
 
-<b>Kovács László:</b> 
+<a href="https://www.linkedin.com/in/l%C3%A1szl%C3%B3-kov%C3%A1cs-059089b/" target="_blank">Kovács László</a>: 
 BME Ipar4.0 Technológiai Központ vezetője.
 <br><br>
 Csak akkor mennek a dolgok, ha Ön is ott van? Úgy érzi, csak újabb gépek vásárlásával lehet enyhíteni a vevői nyomáson? A vevők információéhsége minden nap extra munkával terheli? Korszerű üzleti modellel és ipar 4.0 technológiai megoldásokkal egyaránt felveheti a versenyt.

@@ -15,7 +15,7 @@ tud_intezmeny_rovid: VIK
 tud_online:
 tud_url:
 tud_covid:
-tud_reg: nem, 100 fő, Turnusomként 10 fő
+tud_reg: nem, 100 fő, Turnusonként 10 fő
 date: 2022-03-27
 ---
 
