@@ -21,5 +21,7 @@ date: 2022-03-27
 
 Az egyórás kincskeresés alatt a gyerekek játékos feladatokon keresztük járják be a könyvtár különböző területeit. A kalandos játékokat, kisebb csoportban oldják majd meg, amihez használniuk kell többek között a logikai, problémamegoldó és koncentrációs képességüket is.
 
+<b>A jelentkezés feltétele olvasási és számismereti készség megléte. Ajánlott korosztály: 8-10 év</b>
+
 <br><br>
 <img src="images/Kincskereses_a_konyvtarban.jpg" max-width="500" class="center" max-width="500" class="center">

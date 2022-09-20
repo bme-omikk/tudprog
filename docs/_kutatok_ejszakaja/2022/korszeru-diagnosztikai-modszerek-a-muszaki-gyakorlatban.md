@@ -6,8 +6,8 @@ title: Korszerű diagnosztikai módszerek a műszaki gyakorlatban
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 17:00-18:00, 18:00-19:00
 tud_programfelelos: Dr. Hlinka József
-tud_eloadok: Logó János Máté, Horváth Viktor Győző
-tud_helyszin: BME St épület 2. emelet 222. terem, elméletileg akadálymentesített épület
+tud_eloadok: Dr. Hlinka József
+tud_helyszin: BME St épület 2. emelet 222. terem
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/korszeru-diagnosztikai-modszerek-a-muszaki-gyakorlatban
 tud_intezmeny: BME KJK, Gépjárműtechnológia Tanszék
