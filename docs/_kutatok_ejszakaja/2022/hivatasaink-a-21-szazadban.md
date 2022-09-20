@@ -16,7 +16,7 @@ tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es
 tud_url:
 tud_covid:
 tud_reg: Igen, Max. 40 fő
-date: 2021-03-27
+date: 2022-03-27
 ---
 <b>Békefi Teodóra</b>: 2021-ben diplomázott magyar-olasz szakos tanárként. Az ELTE PPK doktorandusza, a BME Műszaki Pedagógia Tanszékének munkatársa. Kutatási területe a magyar nyelv és irodalom tantárgy-pedagógiája.
 
