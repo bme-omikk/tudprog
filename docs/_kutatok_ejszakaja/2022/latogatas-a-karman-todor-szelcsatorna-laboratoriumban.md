@@ -16,7 +16,7 @@ tud_covid: Igen
 tud_url:
 tud_online: 
 tud_reg: Igen, Turnusonként max. 100 fő
-date: 2021-03-27
+date: 2022-03-27
 ---
 
 <b><a href="https://triton.ara.bme.hu/munkatarsak/552" target="_blank"> Tokaji Kristóf</a></b>: okl. gépészmérnök (MSc), áramlástechnikai gépészmérnök, tanszéki mérnök az Áramlástan Tanszék munkatársa. Kutatási területei: aerokausztika, áramlások modellezése, áramlástechnikai gépek, légtechnika. 

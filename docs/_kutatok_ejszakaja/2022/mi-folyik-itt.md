@@ -21,10 +21,11 @@ date: 2022-03-27
 
 
 
-<a href="https://epito.bme.hu/baranya-sandor" target="_blank"> Baranya Sándor:</a> A BME Vízépítési és Vízgazdálkodási Tanszék egyetemi docense, tanszékvezető.  
+<a href="https://epito.bme.hu/baranya-sandor" target="_blank">Dr. Baranya Sándor</a>: A BME Vízépítési és Vízgazdálkodási Tanszék egyetemi docense, tanszékvezető.  
 
-<a href="http://vit.bme.hu/fustos-vivien" target="_blank"> Füstös Vivien:</a> PhD hallgató a BME Vízépítési és Vízgazdálkodási Tanszékén 
+<a href="http://vit.bme.hu/fustos-vivien" target="_blank"> Füstös Vivien</a>: PhD hallgató a BME Vízépítési és Vízgazdálkodási Tanszékén 
 
 
 Szeretsz a felszín alá nézni? Érdekel, milyen titkokat rejt Magyarország legnagyobb folyója, a fővárost kettészelő Duna? Csatlakozz hozzánk egy dunai csónakázásra a Műegyetem előtt! A programon bemutatjuk Neked, milyen műszerekkel tudják ma a vízmérnökök egy folyó fontos tulajdonságait megmérni; ezek közül néhány mérést el is végzünk; valamint egyebek mellett azt is elmeséljük, hogy mi köze lehetett (volna) József Attilának a vízsebesség-méréshez. Szeretettel várunk!
-(A csónakban mentőmellény viselése szükséges, amit biztosítunk. A vízi közlekedés jellegéből adódóan előfordulhat, hogy kevés víz befröcsköl a csónakba, de borulástól nem kell tartani.)
+
+<b>A csónakban mentőmellény viselése szükséges, amit biztosítunk. A vízi közlekedés jellegéből adódóan előfordulhat, hogy kevés víz befröcsköl a csónakba, de borulástól nem kell tartani.</b>

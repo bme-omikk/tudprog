@@ -32,13 +32,15 @@ date: 2022-03-27
 <a href="http://www.pt.bme.hu/munkatarsadatlap.php?id=725cAB3m2z29r2q38472d978Bz8u8n3uvh435758&l=m" target="_blank"> Nemes-Károly István</a><br>
 <a href="http://www.pt.bme.hu/munkatarsadatlap.php?id=7x3675Aez5z3f5gAtggAf72wj64zf334zu3A2r62&l=m" target="_blank"> Dr. Kmetty Ákos</a><br>
 <a href="http://www.pt.bme.hu/munkatarsadatlap.php?id=Btv9mv8qxj57f62x498x7on36j78d22e4683yf76&l=m" target="_blank"> Dr. Suplicz András</a><br>
-<a href="http://www.pt.bme.hu/munkatarsadatlap.php?id=Bjpon4ek5oe8zjb274q46e75BB86q59p3574dA8o&l=m" target="_blank"> Dr. Török Dániel</a<br>
+<a href="http://www.pt.bme.hu/munkatarsadatlap.php?id=Bjpon4ek5oe8zjb274q46e75BB86q59p3574dA8o&l=m" target="_blank"> Dr. Török Dániel</a><br>
 <a href="http://www.pt.bme.hu/munkatarsadatlap.php?id=j2j3e454q78eqxmsstuvb3639ho6B799bpp6kbh9&l=m" target="_blank"> Dr. Kovács Norbert Krisztián</a><br>
 <a href="http://www.pt.bme.hu/munkatarsadatlap.php?id=kb45kox2hu4xxz4jn8u627pwn3ok78975d9exw6c&l=m" target="_blank"> Dr. Gere Dániel</a>
 
 A gumi alapú termékek az élet minden területén megtalálhatók, gondoljunk csak egy egyszerű befőttes gumira, vagy gépjármű abroncsra, de akár egy repülőgép, vagy űrhajó hajtóműrendszerében megtalálható tömítésre. Ezen anyagokat alapvetően nagy rugalmasság, jó rezgéscsillapító- és energiaelnyelő-képesség jellemzi, amely az alkotók minőségének és mennyiségének gondos megválasztásával egyedi igényre szabható. 
 
 Az esemény során a látogatók megismerkedhetnek a gumikeverékek előállítási módszereivel, megtudhatják, hogy mit jelent a vulkanizáció, valamint megtapasztalhatják, hogy befolyásolja a hőmérséklet a gumik rugalmasságát. Emellett kitérünk a gumik anyagában történő újrahasznosítási lehetőségeire a körkörös gazdasági szemlélet tükrében. Mindezek mellett a látogató egy átfogó képet kaphat a műanyagiparban használatos anyagokról és eljárásokról is. A program kapcsolódik a Polimertechnika Tanszék T épületi laboratóriumában "Mikroszkóp-Mikroszál; kompozit erősítőanyagok és vizsgálatuk"  címmel megrendezésre kerülő programhoz és a hozzá kapcsolódó laborlátogatáshoz.
+
+<b>Az egyes labortevékenységek bizonyos esetekben erősebb szag- és hanghatással járhatnak!</b>
 
 <br><br>
 <img src="images/gumitermekek-eloallitasi-lehetosegei-a-korkoros-gazdasagi-szemlelet-jegyeben.jpg" max-width="500" class="center">

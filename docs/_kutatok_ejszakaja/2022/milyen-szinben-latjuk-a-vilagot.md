@@ -17,9 +17,9 @@ tud_covid:
 tud_reg: igen, időpontonként 6 fő/turnus
 date: 2022-03-27
 ---
-<b>Dr. Nagy Balázs Vince: </b> A Mechatronika, Optika és Gépészeti Informatika Tanszék docense. Kutatási területe a műszaki optika, így a színek fizikája, szubjektív észlelése.
+<b>Dr. Nagy Balázs Vince</b>: A Mechatronika, Optika és Gépészeti Informatika Tanszék docense. Kutatási területe a műszaki optika, így a színek fizikája, szubjektív észlelése.
 
-<b>Urbin Ágnes: </b>  a Mechatronika, Optika és Gépészeti Informatika Tanszék tanársegéde. Kutatási területe a színlátás, azon belül a kromatikus adaptáció és hatásai.
+<b>Urbin Ágnes</b>:  a Mechatronika, Optika és Gépészeti Informatika Tanszék tanársegéde. Kutatási területe a színlátás, azon belül a kromatikus adaptáció és hatásai.
 
 Mi a szín? 
 Hogyan változik a tárgyak színe különböző környezetekben? 

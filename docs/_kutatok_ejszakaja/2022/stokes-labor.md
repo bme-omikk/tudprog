@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2022
 title: BME Épületgépészeti és Gépészeti Eljárástechnika Tanszék - Stokes Labor
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2022. szeptember 30.
+tud_idopont: 2022. szeptember 30. 18:00-22:30
 tud_programfelelos: Dr. Szánthó Zoltán
 tud_eloadok: Dr. Hégely László, Dr. Both Balázs, Dr. Czétány László, Horváth Dániel, Varjú Evelin, Deme-Bélafi Zsófia, Barna Edit
 tud_helyszin: BME D.Cs. Épület középső hajó - Stokes Laboratórium
