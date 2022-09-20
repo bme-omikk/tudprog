@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 2022.09.30. 18:00-18:20; 18:20-18:40; 18:40-19:00, St épület, fsz. 12. labor
 tud_programfelelos: Dr. Markovits Tamás
 tud_eloadok: Varga Ferenc László
-tud_helyszin: BME St épület Fsz. 12. labor, elméletileg akadálymentesített épület
+tud_helyszin: BME St épület Fsz. 12. labor
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/femek-3d-s-nyomtatasa
 tud_intezmeny: BME KJK, Gépjárműtechnológia Tanszék
