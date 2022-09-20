@@ -16,7 +16,7 @@ tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es
 tud_url:
 tud_covid:
 tud_reg: igen, 30 fő
-date: 2021-03-27
+date: 2022-03-27
 ---
 Programozzátok Ti is az IBM kvantumszámítógépeit! Rövid ismeretterjesztő előadás és játékos kvíz után a BME kutatói segítségével a résztvevők megtanulják programozni az IBM felhőn keresztül elérhető kvantumszámítógépeit. 
 
