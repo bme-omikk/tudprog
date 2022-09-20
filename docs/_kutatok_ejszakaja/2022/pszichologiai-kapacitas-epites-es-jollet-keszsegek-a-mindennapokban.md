@@ -4,10 +4,10 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2022
 title: Pszichológiai kapacitás-építés és jóllét-készségek a mindennapokban
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_idopont: 2022. szeptember 30. 18:00-18:35, 18:35-19:10, 19:10-19:45
+tud_idopont: 2022. szeptember 30. 18:00-19:30
 tud_programfelelos: Dr. Kun Ágota
 tud_eloadok: Dr. Kun Ágota, Tompos-Nagy Eszter, Halmos Alexandra
-tud_helyszin: 1117 Budapest, Magyar Tudósok körút 2. BME Q épület A szárny Q A102-es terem
+tud_helyszin: 1117 Budapest, Magyar Tudósok körút 2. BME Q épület A szárny QA115 terem
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/pszichologiai-kapacitas-epites-es-jollet-keszsegek-a-mindennapokban
 tud_intezmeny: BME Ergonómia és Pszichológia Tanszék
@@ -15,7 +15,7 @@ tud_intezmeny_rovid: GTK
 tud_online:
 tud_url:
 tud_covid:
-tud_reg: igen, 60 fő, Turnusomként 20 fő
+tud_reg: igen, 20 fő
 date: 2022-03-27
 ---
 

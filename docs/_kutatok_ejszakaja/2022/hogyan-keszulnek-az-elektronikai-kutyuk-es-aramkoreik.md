@@ -9,7 +9,7 @@ tud_programfelelos: Bátorfi Réka
 tud_eloadok: Bátorfi Réka, Havellant Gergő, Takács Gergő
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME "V1" épület) alagsor, BME ETT laboratóriumok
 tud_reg_hamarosan:
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/hogyan-keszulnek-az-elektronikus-kutyuk-aramkorei-1
 tud_intezmeny: BME VIK, Elektronikai Technológia Tanszék
 tud_intezmeny_rovid: VIK
 tud_online:
