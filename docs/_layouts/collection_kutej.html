@@ -70,4 +70,9 @@ layout: default
 
 
 </article>
+{%- assign tud_intezm = page.tud_intezmeny | truncate: 7, "" -%}
+{%- if tud_intezm == "BME TTK" -%} 
+{%- include kutej_ttk_footer.html -%}
+{% else %}
 {%- include kutej_footer.html -%}
+{%- endif -%}

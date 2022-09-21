@@ -7,7 +7,7 @@ tud_programfelelos: Dr. Bokor Nándor
 tud_eloadok: Dr. Bokor Nándor
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 17:00-18:00
-tud_helyszin: BME K épület K155
+tud_helyszin: BME K épület 1. emelet 55.
 tud_reg_hamarosan:
 tud_intezmeny: BME TTK, Fizikai Intézet
 tud_intezmeny_rovid: TTK

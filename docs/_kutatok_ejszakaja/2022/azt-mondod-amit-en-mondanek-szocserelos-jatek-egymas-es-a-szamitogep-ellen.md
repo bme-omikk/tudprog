@@ -15,7 +15,7 @@ tud_intezmeny_rovid: TTK
 tud_online:
 tud_url:
 tud_covid:
-tud_reg: Igen, összesen 10 fő
+tud_reg: Igen, Max. 10 fő
 date: 2022-03-27
 ---
 
