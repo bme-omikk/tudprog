@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2022
 title: A mobil távközlés evolúciója - 6G felé félúton
-tud_tipus: Csak online látogatható
+tud_tipus: Személyesen és online is látogatható
 tud_idopont: 2022. szeptember 30. 16.00-16:45
 tud_programfelelos: Hajós-Wisinger Borbála, Dallos Györgyi
 tud_eloadok: Németh Vilmos
