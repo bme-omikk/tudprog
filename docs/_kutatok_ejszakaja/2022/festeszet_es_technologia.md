@@ -12,7 +12,7 @@ tud_reg_hamarosan:
 tud_intezmeny: Budapesti Műszaki és Gazdaságtudományi Egyetem, Művészeti rezidenciaprogram
 tud_intezmeny_rovid: BMR
 tud_online:
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/hivatasaink-a-21-szazadban
+tud_regisztracio:
 tud_url:
 tud_covid:
 tud_reg: Nem, Nem
