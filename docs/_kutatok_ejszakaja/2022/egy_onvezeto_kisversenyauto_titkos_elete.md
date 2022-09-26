@@ -14,7 +14,7 @@ tud_programfelelos: Németh Balázs
 tud_eloadok: Németh Balázs
 tud_url:
 tud_covid:
-tud_online:
+tud_online: https://www.facebook.com/mernokmisszio
 tud_reg: Igen, 20 fő/turnus
 date: 2022-02-27
 ---
