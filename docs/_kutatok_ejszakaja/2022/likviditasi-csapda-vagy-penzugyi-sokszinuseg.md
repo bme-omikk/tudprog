@@ -12,7 +12,7 @@ tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME GTK Pénzügyek Tanszék
 tud_intezmeny_rovid: GTK
-tud_online:
+tud_online: https://zoom.us/j/98039221356?pwd=QWhUTE5EK0MrLzFZVXZjSlRTNnVmQT09
 tud_url:
 tud_covid:
 tud_reg: Nem, Nem
@@ -25,6 +25,10 @@ Főbb kutatási területei: monetáris politika, egyensúlyi árfolyamok, állam
 
 <br>
 Az előadás keretében egy mintegy két évet felölelő kutatás elméleti alapjaiba és főbb eredményeibe kap betekintést a hallgatóság. A kutatás áttekinti a likviditási csapda jelenségének elmélettörténeti alapjait, majd empirikus vizsgálatokon keresztül értékeli annak ténylegesen megfigyelhető gazdasági hatásait mindenekelőtt az euroövezet, de érintőlegesen az USA és Japán gazdaságának vizsgálata révén. A Kutatók Éjszakája keretében Tatay Tibor, Orlovits Zsanett és Novák Zsuzsanna a Risks folyóiratban megjelenés alatt álló, az euroövezeti gazdaságokat felölelő klaszterelemzésének eredményeiből is nyújt egy rövid ízelítőt rámutatva az eurozóna gazdaságainak pénzügyi sokszínűségére, eltérő vagyon szerkezetére.
+
+<b>Az online bejelentkezéshez szükséges adatok</b>:<br>
+Meeting ID: 980 3922 1356<br>
+Passcode: likviditas
 
 <br><br>
 <img src="images/likviditasi_csapda_vagy_penzugyi_sokszinuseg.png" max-width="500" class="center">
