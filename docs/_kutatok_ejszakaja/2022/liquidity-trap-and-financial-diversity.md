@@ -4,7 +4,7 @@ tud_slogen: Jövőformáló tudomány
 tud_title: Kutatók éjszakája 2022
 title: Liquidity trap and financial diversity
 tud_tipus: Online, and personal presence
-tud_idopont: 2022 november 01. 10:00-10:45
+tud_idopont: 2022 október 01. 10:00-10:45
 tud_programfelelos: Zsuzsanna Novák
 tud_eloadok: Zsuzsanna Novák
 tud_helyszin: 1117 Budapest, Magyar Tudósok körútja 2. QA building 323.
