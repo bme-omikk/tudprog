@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 18:00-19:00
 tud_programfelelos: Bozsoki Fruzsina, Jäger Szimonetta
 tud_eloadok: Bozsoki Fruzsina, Jäger Szimonetta
-tud_helyszin: 1111 Budapest, Műegyetem rakpart 3.
+tud_helyszin: QB F10 Magyar tudósok krt. 2.
 tud_reg_hamarosan:
 tud_regisztracio:
 tud_intezmeny: BME GTK, Környezetgazdaságtan és Fenntartható Fejlődés Tanszék
