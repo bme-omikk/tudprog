@@ -7,7 +7,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_idopont: 2022. szeptember 30. 20:30-21:30
 tud_programfelelos: Prof. Vasáros Zsolt DLA
 tud_eloadok: Prof. Vasáros Zsolt DLA
-tud_helyszin: 1111 Budapest, BME K. épület (főbejárat) 2. emelet 210-es terem
+tud_helyszin: 1111 Budapest, BME K. épület (főbejárat) 2. emelet 275-ös terem
 tud_reg_hamarosan:
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/kincsek-sirok-emberek-es-az-epiteszet-egy-sokretegu-kulturtaj-kutatasa-egyiptomban
 tud_intezmeny: BME ÉPK, Exploratív Építészeti Tanszék
