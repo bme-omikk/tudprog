@@ -26,6 +26,6 @@ A fizika alaptudomány, amely nélkül a modern társadalom összeomlik, ezért 
 <b><i>Ez a különleges esemény a TTK és VIK közös rendezvénye!</i></b>
 
  
-Megtekinthető az eseményről készült<a href="https://youtu.be/QJNhcCE0Wt8" about:_blank>  videofelvétel</a>.
+Az eseményről készült videofelvétel <a href="https://youtu.be/QJNhcCE0Wt8" about:_blank>  megtekinthető</a>.
 <br><br>
 <img src="images/fizika_es_zene_hartlein.jpg" max-width="500" class="center">
