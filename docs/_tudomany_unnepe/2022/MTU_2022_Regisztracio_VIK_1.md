@@ -8,7 +8,7 @@ tud_idopont: 2022.11.14. 14:00-17:00
 tud_helyszin: BME V1 épület 404.
 tud_intezmeny: MTA-BME Lendület FASTER Kutatócsoport
 tud_kapcsolattarto: Dr. Hartmann Bálint hartmann.balint@vik.bme.hu +36204825310
-tud_url: 
+tud_url: https://www.bme.hu/node/9954
 date: 2022-09-14 14:00
 ---
 Magyarországon mintegy 165 000 kilométernyi vezeték biztosítja a magas színvonalú villamosenergia-ellátást. Ennek több mint fele a lakossági fogyasztókat kiszolgáló kisfeszültségű elosztóhálózat részét képezi, amelynek automatizáltsága alacsony. Az MTA-BME Lendület FASTER Kutatócsoport 2019-2022 között arra fókuszált, hogy ez a jövő kihívásainak megfelelő, okos megoldásokkal felszerelt, innovatív, rugalmas és modern hálózattá legyen átalakítható.

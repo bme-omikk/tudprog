@@ -8,7 +8,7 @@ tud_idopont: 2022.11.15. 13:00-18:00
 tud_helyszin: MTA Székház Nagyterem
 tud_intezmeny: Szervező intézmény(ek)	MTA Műszaki Tudományok Osztálya Energetikai Tudományos Bizottsága; BME GPK Energetikai Gépek és Rendszerek tanszék; ELKH Energiatudományi Kutatóközpont
 tud_kapcsolattarto: Imre Attila, imreattila@energia.bme.hu, 00361-4632637
-tud_url: 
+tud_url: https://www.bme.hu/node/9946
 date: 2022-09-03 16:00
 ---
 Összefoglaló: A tudományos ülés aktuális kérdésekkel foglalkozik, amelyek a járvány és az orosz-ukrán háború generálta gazdasági válság miatt kerültek az egész társadalom fókuszába. Az első részben szóba kerül a nukleáris energia felhasználása mellett a megújulók és az használatukhoz szükséges energiatárolási módszerek fejlődése. A második rész a szigorodó energetikai előírások ipari és lakossági fogyasztókra való hatásával foglalkozik, nem megkerülve az energiaszegénység kérdését sem. 

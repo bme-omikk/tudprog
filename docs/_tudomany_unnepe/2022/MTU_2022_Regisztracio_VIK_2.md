@@ -8,7 +8,7 @@ tud_idopont: 2022.11.23. 16:00-17:30
 tud_helyszin: BME Q épület földszint QBF10 (1117 Budapest, Magyar tudósok krt. 2.) és online (Microsoft Teams)
 tud_intezmeny: BME VIK, Hálózati Rendszerek és Szolgáltatások Tanszék
 tud_kapcsolattarto: Bacsárdi László bacsardi@hit.bme.hu +3614632556
-tud_url: 
+tud_url: https://www.bme.hu/node/9949
 date: 2022-09-23 16:00
 ---
 A Budapesti Műszaki és Gazdaságtudományi Egyetemen több csoport is foglalkozik kvantumtechnológiával, ez a rendezvény a BME Villamosmérnöki és Informatikai Kar kvantumkommunikációs eredményeire és terveire koncentrál a vezetékes kvantum alapú kulcsszétosztás, a szabadtéri kvantumkommunikáció és a kvantum alapú véletlenszám-generátorok területén.

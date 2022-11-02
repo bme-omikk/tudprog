@@ -8,7 +8,7 @@ tud_idopont: 2022.11.19. 10:00-15:30
 tud_helyszin: 1071 Budapest, Városligeti fasor 17-21., Budapest-Fasori Evangélikus Gimnázium díszterme
 tud_intezmeny: Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest-Fasori Evangélikus Egyházközség, Budapest-Fasori Evangélikus Gimnázium, Budai Református Gyülekezet, Budapesti Unitárius Egyházközség
 tud_kapcsolattarto: Gy. Balogh Ágnes gyetvaine.balogh.agnes@epk.bme.hu, Róka Enikő
-tud_url: 
+tud_url: https://www.bme.hu/node/9952
 date: 2022-09-19 10:00
 ---
 10.00	A konferenciát köszöntik

@@ -8,7 +8,7 @@ tud_idopont: 2022.11.23. 14:00
 tud_helyszin: MTA székház
 tud_intezmeny: MTA Közlekedés és Járműtudományi Tudományos Bizottság BME Közlekedésmérnöki és Járműmérnöki Kar BME Építőmérnöki Kar Széchenyi István Egyetem Győr
 tud_kapcsolattarto: Török Ádám; torok.adam@kjk.bme.hu;+36 20 9932010 Horváth Balázs; hbalazs@sze.hu
-tud_url: 
+tud_url: https://www.bme.hu/node/9950
 date: 2022-09-23 14:00
 ---
 A Tudomány Ünnepéhez kapcsolódóan a közlekedés és járműtudományi kutatások bemutatása
