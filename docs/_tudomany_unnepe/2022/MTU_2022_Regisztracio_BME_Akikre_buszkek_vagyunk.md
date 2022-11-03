@@ -7,8 +7,10 @@ tud_tudomanyterulet: műszaki tudományok, természettudományok
 tud_idopont: 2022.11.21 15:00
 tud_helyszin: BME Központi épület Díszterem
 tud_intezmeny: BME Rektori Kabinet
-tud_kapcsolattarto: Oros-Klementisz Marianna oros.klementisz.marianna@bme.hu 463-2289
+tud_kapcsolattarto: BME Rektori Kabinetet, kommunikacio@bme.hu
 tud_url: https://www.bme.hu/node/9951
 date: 2022-09-21 15:00
 ---
 Az esemény keretein belül a Budapesti Műszaki és Gazdaságtudományi Egyetem rektora köszönti az elmúlt évben rangos hazai pályázatokon résztvevő nyerteseit és kiválóságait, hallgatókat és oktatókat egyaránt.
+
+<b>Az eseményen való részvétel <a href="https://regisztracio.bme.hu/akikre_buszkek_vagyunk_2022" target="_blank">regisztrációhoz</a> kötött.</b>

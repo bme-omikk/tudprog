@@ -13,6 +13,11 @@ date: 2022-09-03 16:00
 ---
 Összefoglaló: A tudományos ülés aktuális kérdésekkel foglalkozik, amelyek a járvány és az orosz-ukrán háború generálta gazdasági válság miatt kerültek az egész társadalom fókuszába. Az első részben szóba kerül a nukleáris energia felhasználása mellett a megújulók és az használatukhoz szükséges energiatárolási módszerek fejlődése. A második rész a szigorodó energetikai előírások ipari és lakossági fogyasztókra való hatásával foglalkozik, nem megkerülve az energiaszegénység kérdését sem. 
 
+
+<b>Az eseményen való részvétel <a href="https://mta.hu/mtu_esemenynaptar/2022-11-15-az-energiaellatas-biztonsaga-hogyan-merre-4499" target="_blank">regisztrációhoz</a> kötött.</b>
+
+
+
 Program: 
 13.00	Köszöntő; Imre Attila az MTA doktora
 
