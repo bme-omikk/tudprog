@@ -13,8 +13,7 @@ date: 2022-09-23 14:00
 ---
 A Tudomány Ünnepéhez kapcsolódóan a közlekedés és járműtudományi kutatások bemutatása
 
-Horváth Balázs (SZE) – Széchenyi Egyetem közlekedési kutatásaink bemutatása
-Rózsa Szabolcs (BME UVT) – Út- és Vasútépítési kutatások bemutatása
-Szauter Ferenc (SZE-JKK) – Járműmérnöki kutatások a Széchenyi Egyetemen
-Szalmáné Csete Mária (BME GTK) – OTKA – Közúti közlekedési hajtásláncok életciklus elemzése
-5. Hörcher Dániel (BME KJK) – OTKA – Felhasználói preferenciák bemutatása az idő pénzértékének értékelésekor.
+Rózsa Szabolcs (BME UVT) – Út- és Vasútépítési kutatások bemutatása<br>
+Szauter Ferenc (SZE-JKK) – Járműmérnöki kutatások a Széchenyi Egyetemen<br>
+Szalmáné Csete Mária (BME GTK) – OTKA – Közúti közlekedési hajtásláncok életciklus elemzése<br>
+Hörcher Dániel (BME KJK) – OTKA – Felhasználói preferenciák bemutatása az idő pénzértékének értékelésekor.
