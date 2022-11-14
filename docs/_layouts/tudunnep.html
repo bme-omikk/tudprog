@@ -32,8 +32,10 @@ layout: default
   <li>
   
 	<a class="rendezveny_title" href="{{ item.url | relative_url }}"> {{ item.title | escape }} </a>
-	<p> {{ item.tud_tipus | escape }} <br> {{ item.tud_tudomanyterulet | escape }} <br>
-	<b>{{ item.tud_intezmeny | escape }}</b><br>
+	<p> {{ item.tud_tipus | escape }} <br>
+	{%- if item.tud_tudomanyterulet -%} {{ item.tud_tudomanyterulet | escape }} <br> {%- endif -%}
+	<b>{{ item.tud_intezmeny | escape }}</b>
+	<br>
 	{{ item.tud_idopont | escape }} </p>
  
   </li>
