@@ -7,8 +7,6 @@ permalink: /kutej/2023/about/
 
 <p style="text-align: center; font-weight:bold;">Kutatók éjszakája 2023 a BME-n</p>
 
-<p style="text-align: center; font-weight:bold;">2023.</p>
-
 <p style="text-align: justify">A közönség előtt ritkán megnyíló laborokkal, minden érzéket megmozgató interaktív bemutatókkal, történelmi kulisszákkal és a holnap műszaki témáival várja idén is a tudomány iránt érdeklődőket a Műegyetem a Kutatók Éjszakáján. 2023-ban is hagyományosan szeptember utolsó hétvégéjén rendezik meg a programokat: szeptember 29 – 30. között.
 </p>
 
