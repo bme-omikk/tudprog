@@ -27,6 +27,9 @@ Description
     <h2> <span class="home_tud_year">{{ tud_year | escape }} </span> <br> {{ item.tud_title | escape }} </h2>
     <p>{{ item.tud_description | escape }}</p>
     <br>
+	{%- if item.tud_szervezoknek -%}<p><div class="section_button"><a class="button" href="{{ item.tud_szervezoknek | escape }}">SZERVEZŐKNEK</a></div></p>{%- endif -%}
+	
+
    </div>
  <!--
 Gombok
