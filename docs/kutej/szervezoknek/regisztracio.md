@@ -13,5 +13,5 @@ Kérjük, hogy a kitöltött [jelentkezési lapot](https://dokutar.omikk.bme.hu/
 <br><br>
 Tájékoztatjuk Önöket, hogy jelentkezésük beküldésével elfogadják, hogy a Regionális Információs és Fejlesztő Tudásközpont Kft-vel történő együttműködés keretein belül a szervezeti egységük programjait és a hozzájuk kapcsolódó személyek nevének (esetlegesen életrajzának) leírását a nagyközönség számára elérhetővé tesszük, illetve a személyes adataik ezen célból történő kezeléséhez, nyilvánosságra hozatalához az EU általános adatvédelmi rendelete (GDPR) szerinti önkéntes hozzájárulásukat kifejezetten megadják.
 Az egyes programok megvalósításának költsége a programszervező szervezeti egységet terheli.
-<br><br>Az érdeklődők a központi honlapon [kutatokejszakaja.hu](https://www.kutatokejszakaja.hu) a regisztrációhoz kötött előadásokra szeptember 15-től jelentkezhetnek.
+<br><br>Az érdeklődők a központi honlapon [kutatokejszakaja.hu](https://www.kutatokejszakaja.hu) a regisztrációhoz kötött előadásokra szeptember 11-től jelentkezhetnek.
 
