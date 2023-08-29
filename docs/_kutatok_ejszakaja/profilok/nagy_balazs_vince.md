@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: Dr. Nagy Balázs Vince egyetemi docens 
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 

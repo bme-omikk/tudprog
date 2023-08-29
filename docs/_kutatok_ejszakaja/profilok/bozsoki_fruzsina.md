@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Bozsoki Fruzsina
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 PhD hallgató, Környezetgazdaságtan és Fenntartható Fejlődés Tanszék 
 

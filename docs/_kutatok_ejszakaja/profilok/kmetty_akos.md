@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Kmetty Ákos
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 

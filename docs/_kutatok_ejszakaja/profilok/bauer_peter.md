@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Bauer Péter
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Tudományos munkatárs, BME Közlekedésmérnöki és Járműmérnöki Kar, Közlekedés- és Járműirányítási Tanszék
 Tudományos főmunkatárs: ELKH SZTAKI

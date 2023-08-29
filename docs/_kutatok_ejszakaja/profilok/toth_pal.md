@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Tóth Pál
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Tanulmányait a Budapest Műszaki és Gazdasági Tudomány Egyetemen a Vegyész és Biomérnök Karán MSc gyógyszervegyész-mérnökként 2019ben fejezte be. 
 Jelenleg a BME VBK ABÉT tanszéken folytatja doktori tanulmányait kozmetikai és étrendkiegészítő komponensek fermentációs előállításának vizsgálata címmel.

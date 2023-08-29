@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Samu Krisztián
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 BME, Mechatronika, Optika és Gépészeti Informatika Tsz., egyetemi docens

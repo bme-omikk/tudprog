@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado:
 kutej_programfelelos: Dr. Hegyi Dezső 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 Építészmérnök, a BME Szilárdságtani és Tartószerkezeti Tanszékének vezetője. 2012-13-as tanévben vendégkutatóként a CALTECH (USA, Los Angeles) repülőmérnöki intézetében végzett kutatásokat a superpressure ballonokhoz használt LLDPE anyagok tönkremenetelével kapcsolatban.

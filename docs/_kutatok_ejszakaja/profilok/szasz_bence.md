@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Szász Bence
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Sziasztok, Szász Bence vagyok, én vagyok a Kísérleti kör vezetője a Wigner Jenő Szakkolégiumnak. Remélem sajátkészítésű és tervezéső eszközeinkel és kísérleteinkel minnél több emberrel sikerül megszerettetnünk a természettudományokat és hogy valami maradandó élményt tudunk nekik okozni. 
 

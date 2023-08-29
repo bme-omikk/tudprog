@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Beneda Károly
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
  A BME Repüléstudományi és Hajózási Tanszék adjunktusa, kutatási területe a gázturbinás sugárhajtóművek. 2006-ban végzett a Közlekedésmérnöki Karon repülőgépész szakirányon, 2013-ban szerezte PhD fokozatát. Főállása mellett a repülésműszaki oktatásban is tevékenykedik, ahol számos korszerű repülőgép hajtóművét tanítja repülőgép-szerelőknek.
 

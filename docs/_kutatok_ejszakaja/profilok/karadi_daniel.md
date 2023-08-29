@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: Karádi Dániel
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 Doktorandusz hallgató a BME Szilárdságtani és Tartószerkezeti Tanszéken, a műszaki textíliák tönkremenetelét vizsgálja.

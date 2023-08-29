@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Zarka Dénes
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 1998 – Budapesti Műszaki és Gazdaságtudományi Egyetem – Oktatásinnovációs és Felnőttképzési Központ <br>
 Munkakör: főmunkatárs, tananyagfejlesztő<br>

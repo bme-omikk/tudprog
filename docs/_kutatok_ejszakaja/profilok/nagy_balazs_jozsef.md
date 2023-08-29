@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Nagy Balázs József
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 BSc alapképzését biológusként az ELTE-n szerezte, majd MSc mester tanulmányait a Műszaki Egyetemen folytatta alkalmazott biotechnológia szakirányon. A PhD doktori képzést 2017-ben kezdte. Mindösszesen 4 éve vizsgálja az F-laborban a mikroalgák különféle, ipari léptékben is megvalósítható tenyésztéstechnológiáját. Fő érdeklődési körei a mikroalgák mezőgazdasági hasznosíthatósága és a szennyvíztisztításban való alkalmazhatóságuk vizsgálata. Ezenfelül számos algaeredetű biotermék (tápláláékkiegészítők és kozmetikumok alapanyagai) előállításával és kinyerésével is foglalkozik.
 

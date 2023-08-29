@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: Dr.habil Ábrahám György prof. emeritus, az MTA doktora
 kutej_programfelelos: 
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Ábrahám professzor 25 éves kutatási munkájának eredményeképpen 2021-ben a világpiacra kerülnek a színtévesztést korrigáló magyar gyártmányú színszűrős szemüvegek. 
 

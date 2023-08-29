@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Blaskó Ágnes
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Szociodráma-vezető, kutató, a BME GTK Szociológia- és Kommunikáció Tanszékén oktató. A legkülönbözőbb társadalmi csoportokkal dolgozik együtt: elnyomottakkal és privilegizáltakkal. 
 A szociodráma módszer fejlesztője, elkötelezett a szociodráma kutatási módszerként való alkalmazásának szélesebb körben való bevezetésében is. A Táguló realitás című első magyar nyelvű szociodráma könyv főszerkesztője.

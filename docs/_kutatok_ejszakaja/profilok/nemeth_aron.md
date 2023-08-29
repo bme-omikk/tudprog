@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Németh Áron
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 A BME Vegyészménröki és Biomérnöki Kar, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszékének vagyok laborvezető egyetemi docense az F-laborban (F-épületi Fermentációs Félüzem).
 

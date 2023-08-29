@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Békefi Teodóra
+tud_title: Kutatók éjszakája 2023
 ---
 2021-ben diplomázott magyar-olasz szakos tanárként. Az ELTE PPK doktorandusza, a BME Műszaki Pedagógia Tanszékének munkatársa. Kutatási területe a magyar nyelv és irodalom tantárgy-pedagógiája.
 

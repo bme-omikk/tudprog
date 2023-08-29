@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: Bátorfi Réka
 kutej_programfelelos: 
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 Az ETT tudományos segédmunkatársa, kutatási területei többek között az ón tűkristályok. Alkalmazott mérnöki tapasztalata a teljes elektronikai gyártás lépéssorozatára kiterjed. 

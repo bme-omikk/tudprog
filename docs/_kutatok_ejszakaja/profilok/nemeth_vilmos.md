@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Németh Vilmos
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Fizikus, a BME-Nokia 5G Hálózat és 5G Lab K+F tevékenységének koordinátora, az 5G Koalíció 6G Munkacsoportjának vezetője 
 

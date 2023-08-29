@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: Németh Kornél 
 kutej_programfelelos: 
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023 
 ---
 
 2016-tól a BME Kognitív Tudományi Tanszékének munkatársa. Kutatási területe az arcfelismerés és annak zavarai. Munkája során elektrofiziológiai, viselkedéses és pszichofiziológiai módszereket alkalmaz.

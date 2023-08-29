@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Csomor Vilmos
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Csomor Vilmos – a BME Vasúti Járművek, Repülőgépek és Hajók Tanszékének labortechnikusa, aki a több gázturbinás próbapad létrehozásában, majd üzemeltetésében is kiemelkedő szerepet játszott több mint 25 éves pályafutása során, nemcsak saját Egyetemünkön.
 

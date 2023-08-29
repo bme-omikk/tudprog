@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Bokor Nándor
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
  
 Bokor Nándor a BME TTK Fizikai intézetének egyetemi docense. Kutatási területe a holográfia és alkalmazásai.  

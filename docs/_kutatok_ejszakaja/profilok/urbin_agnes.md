@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Urbin Ágnes
+tud_title: Kutatók éjszakája 2023
 ---
 
 

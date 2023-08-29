@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Hlinka József
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 A Budapesti Műszaki és Gazdaságtudományi Egyetem Közlekedésmérnöki és Járműmérnöki Karának Gépjárműtechnológia Tanszékén egyetemi adjunktusként dolgozik. Az egyetemen oktató és kutató munkát végez. <a href="https://auto.bme.hu/" target="_blank">https://auto.bme.hu</a>
 

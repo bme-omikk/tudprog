@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Dr. Bíró Gábor István
+tud_title: Kutatók éjszakája 2023
 ---
 Igazgatásszervező (BA, Budapesti Corvinus Egyetem, 2010), Európai és nemzetközi közigazgatási szakértő (MA, Budapesti Corvinus Egyetem, 2012), Tanár - közgazdász tanár (MSc, Budapesti Corvinus Egyetem, 2013) és tudományfilozófiára és tudománytörténetre szakosodott filozófus (PhD, Budapest Műszaki és Gazdaságtudományi Egyetem, 2017). 
 A Budapesti Műszaki és Gazdaságtudományi Egyetem Filozófia és Tudománytörténet Tanszékének egyetemi adjunktusa. 

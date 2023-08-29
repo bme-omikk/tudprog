@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: Dr. Gáspár Orsolya
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 Építészmérnök, adjunktus a BME Szilárdságtani és Tartószerkezeti Karán. A ballonokról Hegyi Dezsőtől hallott először évekkel ezelőtt. A felállás változatlan, most is ő az, aki kérdez.

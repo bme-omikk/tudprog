@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Vokony István
 kutej_programfelelos: 
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 A Villamos Energetika Tanszék docense, a Pro Progessio OTDK 2018-as Tanári Ösztöndíjasa, az MTA-BME-E.ON Célzott Lendület FASTER kutatócsoportjának tagja, a Magyar Elektrotechnikai Egyesület Szakmai és Tudományos Bizottságának elnöke.

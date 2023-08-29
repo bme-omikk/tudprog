@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Weisz Pál
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Negyedéves villamosmérnök hallgató vagyok, a Simonyi Károly Szakkolégium elnöke. Fontosnak tartom a fiatalok érdeklődését táplálni a műszaki- és természettudományok iránt.
 

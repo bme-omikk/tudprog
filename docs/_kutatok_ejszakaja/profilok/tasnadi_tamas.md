@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: dr. Tasnádi Tamás
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Tasnádi Tamás a BME TTK Matematika Intézetének egyetemi adjunktusa. Kutatási területei a dinamikai rendszerek vizsgálata és a káosz jelenségeinek vizsgálata. 
 

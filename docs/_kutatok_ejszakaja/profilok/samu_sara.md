@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Samu Sára
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 II. Rákóczi Ferenc Gimnázium, Budapest, 9. osztályos tanulója

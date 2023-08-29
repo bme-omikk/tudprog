@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Cserny Márton
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 A Budapesti Műszaki és Gazdaságtudományi Egyetem, Közlekedésmérnöki és Járműmérnöki Kar, Gépjárműtechnológia Tanszék

@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Héder Mihály
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 Okleveles mérnök-informatikusként végeztem a BME-n 2009-ben, a rendszerfejlesztés szakirányon. Ugyanebben az évben jelentkeztem a Tudományfilozófia és Tudománytörténet Doktori Iskolába. 
 Informatikusként természetes nyelvek feldolgozásával, szemantikus annotációs technológiákkal és rendszerek tervezésével foglalkoztam a legtöbbet. Ezeken a területeken ma is aktív vagyok, részben saját kutatások, részben informatikus diplomázók témavezetése révén. 

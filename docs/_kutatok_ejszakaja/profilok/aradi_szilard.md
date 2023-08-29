@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Aradi Szilárd
 kutej_programfelelos: 
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 Dr. Aradi Szilárd egyetemi docens egyetemi tanulmányait a BME Közlekedésmérnöki és Járműmérnöki Karán végezte. A BME Közlekedés- és Járműirányítási Tanszékén (volt Közlekedésautomatikai Tanszék) vett részt a doktori képzésben, ahol vasúti témakörben írta doktori disszertációját. Az elmúlt években oktatási és kutatási tevekénységeinek hangsúlya a járműmechatronikai területre helyeződött át. Ezen belül a járműfedélzeti vezérlőegységek vezetékes és vezetéknélküli kommunikációjával, valamint a járművek környezetérzékelésével kapcsolatos oktatási és kutatási feladatokat lát el. Az elmúlt években vett több eredményes - magyarországi járműipari fejlesztőközpontokkal közös- ipari együttműködésben vett részt.

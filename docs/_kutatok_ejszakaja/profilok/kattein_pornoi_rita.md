@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Dr. Kattein-Pornói Rita
+tud_title: Kutatók éjszakája 2023
 ---
 „2009-ben végeztem, a Debreceni Egyetem Bölcsészettudományi Karán, mint történelem-földrajz szakos tanár.
 2011-ben a Debreceni Egyetem, Humán Tudományok Doktori Iskolájának, Nevelés- és művelődéstudományi programjában kezdtem meg doktori tanulmányaimat, amit 2014-ben sikeresen abszolváltam. Kutatási témám, a Horthy-korszak oktatáspolitikája, ezen belül a Református Egyházhoz tartozó gimnáziumok tehetségmentő munkája. 

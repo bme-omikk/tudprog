@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: Kovács László
 kutej_programfelelos: 
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 1990-ben végzett a BME-n villamosmérnökként, majd 2006-ban szerzett MBA diplomát szintén a BME-n. Szakmai pályafutását a Videotonban kezdte fejlesztőmérnökként, majd a HP tanácsadói csapatába került. 8 évet dolgozott a mobil távközlésben, ebből 4 évet informatikai igazgatóként. Az utóbbi években tanácsadóként, projektvezetőként tevékenykedett hazai és EU-s IT fejlesztési projekteken. Már több éve foglalkozik IoT fejlesztésekkel, ipar 4.0 megoldásokkal. 2018 Március óta a BME Ipar4.0 Technológiai Központ vezetője.

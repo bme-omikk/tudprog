@@ -3,7 +3,8 @@ layout: page_kutej_profilok
 tud_idopont: 0
 kutej_programfelelos_eloado: Szőllősi Ágnes 
 kutej_programfelelos: 
-kutej_eloado: 
+kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 
 Szőllősi Ágnes a BME Kognitív Tudományi Tanszékének oktatója, valamint a Természettudományi Kutatóközpont munkatársa. Tudományos érdeklődése: Különböző tanulási stratégiák hatékonysága; Érzelmi emlékezet.

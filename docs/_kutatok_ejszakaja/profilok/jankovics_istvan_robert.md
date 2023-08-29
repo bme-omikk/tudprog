@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Jankovics István Róbert
 kutej_programfelelos: 
 kutej_eloado:
+tud_title: Kutatók éjszakája 2023
 ---
 A Repüléstudományi és Hajózási Tanszék tanársegédje
 

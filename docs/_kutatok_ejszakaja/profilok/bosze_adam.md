@@ -4,6 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Bősze Ádám
+tud_title: Kutatók éjszakája 2023
 ---
 Zenetörténész, zenei antikvárius, 2008 óta a Bartók Rádió műsorvezetője, több kulturális rendezvény és zenei közvetítés moderátora. Gimnázium után belépett a ferences rendbe, szerzetesként a Ferences Hittudományi Főiskolán, majd ezzel párhuzamosan a Zeneakadémia zenetudományi szakán tanult. 
 Nyolc év után kilépett a rendből, világi pályára lépett.
