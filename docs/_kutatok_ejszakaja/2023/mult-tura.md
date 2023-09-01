@@ -20,4 +20,4 @@ date:  2023-03-27
 
 A több mint 240 éves Műegyetem múltját a BME Levéltár őrzi: régi dokumentumokat, fotókat, érdekességeket. A levéltári raktárba csak kevesen léphetnek be, a Kutatók Éjszakáján azonban lehetőség nyílik elmerülni a történelemben.
 
-![Múlt-túra](../2023/images/mult-tura.jpg)
+![Múlt-túra](../2023/images/mult-tura.JPG)
