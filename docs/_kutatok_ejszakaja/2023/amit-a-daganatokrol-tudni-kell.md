@@ -24,4 +24,4 @@ Kutatási tevékenységsem során a kutatócsoport hagyományait követve dagana
 A rák napjaink egyik meghatározó egészségügyi problémája. Emiatt sajnos mindenki érintett a témában valamilyen formában. Az Élet és Tudomány ismeretterjesztő folyóiratban 2021-ben megjelent háromrészes cikksorozatunk összefoglalásaként előadásunkban megpróbálunk átfogó  képet adni arról, mit tudunk jelenleg az ilyen típusú megbetegedésekről, diagnosztizálásukról, gyógyítási lehetőségekről, és arról, milyen reményeket csillantanak fel és milyen irányban haladnak a legújabb kutatások.
 
 
-![Amit a daganatokról tudni kell ](../images/amit-a-daganatokrol-tudni-kell.jpg)
+![Amit a daganatokról tudni kell ](/images/amit-a-daganatokrol-tudni-kell.jpg)
