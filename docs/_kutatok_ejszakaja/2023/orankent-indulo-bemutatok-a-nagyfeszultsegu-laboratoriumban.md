@@ -6,7 +6,7 @@ tud_intezmeny_rovid: VIK
 title: Óránként induló bemutatók a Nagyfeszültségű Laboratóriumban
 tud_programfelelos: Dr. Németh Bálint
 tud_eloadok: Dr. Göcsei Gábor
-tud_tipus: Kérjük válasszon!
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online:
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME V1 épület) földszint 024.
 tud_idopont: 2023. szeptember 29. 15:00-22:00
