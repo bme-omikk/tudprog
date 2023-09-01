@@ -9,7 +9,7 @@ tud_eloadok: Prof.dr. habil Ábrahám György
 tud_tipus: csak személyes jelenléttel látogatható
 tud_online: bemutató
 tud_helyszin: 1111 Budapest, Műegyetem rkp 9., D. épület 406.
-tud_idopont: 2023. szeptember 29. 16:00-21:30-ig; 15 perc egy vizsgálat+bemutató. Érkezési sorrendben zajlik a vizsgálat!
+tud_idopont: 2023. szeptember 29. 16:00-21:30-ig; Egy vizsgálat 15 perc +bemutató. A vizsgálat érkezési sorrendben zajlik!
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
