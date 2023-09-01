@@ -22,4 +22,4 @@ date:  2023-03-27
 
 Színek keverésének bemutatása elektronikus megjelenítőkön - azaz hogyan működik a mobiltelefon, TV és más digitális eszközök színmegjelenítése. 
 
-![Mindennap 16 millió szín a szemünk előtt](../2023/images/mindennap-16 -millio-szin-a-szemunk-elott.jpg)
+![Mindennap 16 millió szín a szemünk előtt](../2023/images/mindennap-16-millio-szin-a-szemunk-elott.jpg)
