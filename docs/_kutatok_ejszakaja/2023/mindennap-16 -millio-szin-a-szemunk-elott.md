@@ -12,7 +12,7 @@ tud_helyszin: BME, D. épület, 5. emelet, 507. laboratórium
 tud_idopont: 2023. szeptember 29. 17:30-18:00 /// 18:30-19:00 /// 19:30-20:00 
 tud_regisztracio: 
 tud_url: 
-tud_reg: igen, összesen: 30 / turnusonként: 10
+tud_reg: igen, összesen 30, turnusonként 10
 date:  2023-03-27
 ---
 
