@@ -20,4 +20,4 @@ date:  2023-03-27
 
 Vetített képes előadás az emberi látásról, a színlátásról és a zíntévesztésről. Magyar világszabadalom lett a színtévesztés korrigálása színszűrős szemüvegekkel. Az előadás a feltaláló szmélyes élményeivel ismerteti meg a hallgatóságot a találmány születéséről és a megoldás lényegéről.
 
-![A színtévesztés oka és korrigálása színszűrős szemüveggel](../2023/images/a-szintevesztes-oka-es-korrigalasa-szinszuros-szemuveggel.jpg)
+![A színtévesztés oka és korrigálása színszűrős szemüveggel](../2023/images/a-szintevesztes-oka-es-korrigalasa-szinszuros-szemuveggel.JPG)
