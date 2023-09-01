@@ -6,7 +6,7 @@ tud_intezmeny_rovid: VBK
 title: Amit a daganatokról tudni kell 
 tud_programfelelos: Dr. Hazai László 
 tud_eloadok: Dr. Keglevich András, Dr. Hazai László
-tud_tipus: Kérjük válasszon!
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Ch.épület, ChC14 
 tud_idopont: 2023. szeptember 29. 18.00-18.50
