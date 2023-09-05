@@ -7,7 +7,7 @@ kutej_eloado:
 tud_title: Kutatók éjszakája 2023
 ---
 
-II. Rákóczi Ferenc Gimnázium, Budapest, 9. osztályos tanulója
+II. Rákóczi Ferenc Gimnázium, Budapest, 11. osztályos tanulója
 Öntevékeny diák kutatási tevékenység: színtévesztés diagnosztika és korrekció népszerűsétése (Orchidea Science Award, 1. helyezés)
 
 
