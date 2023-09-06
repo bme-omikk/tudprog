@@ -8,7 +8,7 @@ tud_title: Kutatók éjszakája 2023
 ---
 
 
-Urbin Ágnes a Mechatronika, Optika és Gépészeti Informatika Tanszék tanársegéde. Kutatási területe a színlátás, azon belül a kromatikus adaptáció és hatásai.
+Urbin Ágnes a Mechatronika, Optika és Gépészeti Informatika Tanszék adjunktusa. Kutatási területe a színlátás, azon belül a kromatikus adaptáció és hatásai.
 
  <table class="picture">
 <tr>

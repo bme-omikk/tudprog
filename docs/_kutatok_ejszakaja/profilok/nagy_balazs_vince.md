@@ -8,7 +8,7 @@ tud_title: Kutatók éjszakája 2023
 ---
 
 
-Nagy Balázs Vince a Mechatronika, Optika és Gépészeti Informatika Tanszék docense. Kutatási területe a műszaki optika, így a színek fizikája, szubjektív észlelése.
+Nagy Balázs Vince a Mechatronika, Optika és Gépészeti Informatika Tanszék docense. Kutatási területe a műszaki optika, a színek fizikája, szubjektív észlelése.
 
  <table class="picture">
 <tr>
