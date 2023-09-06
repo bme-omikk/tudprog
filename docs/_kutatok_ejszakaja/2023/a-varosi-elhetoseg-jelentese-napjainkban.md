@@ -24,4 +24,5 @@ date:  2023-03-27
 Klímaváltozás, alkalmazkodás, mitigáció és fenntarthatóság. Népszerű fogalmak, de vajon mit takarnak? Mind kapcsolódik a sikeres városfejlesztési folyamathoz, ami az ott lakók élhetőségének javítását célozza meg, és Te is részese vagy.
 
 
-![A városi élhetőség jelentése napjainkban](../2023 /images/a-varosi-elhetoseg-jelentese-napjainkban.jpg)
+![A városi élhetőség jelentése napjainkban](../2023/images/a-varosi-elhetoseg-jelentese-napjainkban.jpg)
+
