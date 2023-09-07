@@ -18,7 +18,7 @@ date:  2023-03-27
 
 **Dr. Samu Krisztián**: Kutatási területe az elektronikus képmegjelenítők színtani tulajdonságai, színméréstechnika, megjelenítők színtévesztésdiagnostikai felhasználása.
 
-**Samu Sára, II. Rákóczi Ferenc Gimnázium, Budapest, 11. osztály**: Öntevékeny diák kutatási tevékenység: színtévesztés diagnosztika és korrekció népszerűsétése (Orchidea Science Award, 1. helyezés)
+**Samu Sára**, II. Rákóczi Ferenc Gimnázium, Budapest, 11. osztály: Öntevékeny diák kutatási tevékenység: színtévesztés diagnosztika és korrekció népszerűsétése (Orchidea Science Award, 1. helyezés)
 
 
 
