@@ -6,10 +6,10 @@ tud_intezmeny_rovid: GPK
 title: Színtévesztés korrigálása
 tud_programfelelos: prof.dr.habil Ábrahám György
 tud_eloadok: Prof.dr. habil Ábrahám György
-tud_tipus: csak személyes jelenléttel látogatható
-tud_online: bemutató
+tud_tipus: Csak személyes jelenléttel látogatható
+tud_online: 
 tud_helyszin: 1111 Budapest, Műegyetem rkp 9., D. épület 406.
-tud_idopont: 2023. szeptember 29. 16:00-21:30-ig; Egy vizsgálat 15 perc +bemutató. A vizsgálat érkezési sorrendben zajlik!
+tud_idopont: 2023. szeptember 29. 16:00-21:30-ig
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
@@ -20,3 +20,6 @@ date:  2023-03-27
 
 
 Az emberi színtévesztés korrekciójára kerül sor élőben, egy gyors diagnózist követően felpróbálásra kerül egy diagnózisnak megfelelő szeműveg, amely tkp. Egy szinszürő. Azonnal tapasztalni lehet a színlátás javulását a közismert pőttyős (Ishihara) teszten.
+
+
+Egy vizsgálat 15 perc +bemutató. **A vizsgálat érkezési sorrendben zajlik!**
