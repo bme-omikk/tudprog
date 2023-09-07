@@ -21,4 +21,4 @@ A Magyar Innovációs Szövetség elkötelezett a tehetséggondozás iránt, 32.
 
 Az OTIO egy természettudományt népszerűsítő projekt verseny. Középiskolások pályázhatnak önálló, innovatív alkotással, találmánnyal, kutató vagy fejlesztő, ill. tudományos munka eredményével.
 
-![MISZ - OTIO bemutatkozó](misz-otio.jpg)
+![MISZ - OTIO bemutatkozó](images/misz-otio.jpg)
