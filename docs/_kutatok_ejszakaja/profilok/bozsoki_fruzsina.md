@@ -6,9 +6,9 @@ kutej_programfelelos:
 kutej_eloado:
 tud_title: Kutatók éjszakája 2023
 ---
-PhD hallgató, Környezetgazdaságtan és Fenntartható Fejlődés Tanszék 
+PhD hallgató, Környezetgazdaságtan és Fenntartható Fejlődés Tanszék
 
-A BME-VBK környezetmérnök alapszak elvégzése után a regionális és környezeti gazdaságtan mesterszakon folytattam tanulmányaimat. Miután megszereztem mesterdiplomámat, megkezdtem PhD tanulmányaimat. Jelenleg másodéves vagyok a BME Környezetgazdaságtan és Fenntartható Fejlődés Tanszékén, kutatási témám a barnamezős területek revitalizációs megoldásainak vizsgálata fenntarthatósági szempontból, továbbá ehhez kacsolódóan a városi élhetőség vizsgálata.
+A BME-VBK környezetmérnök alapszak elvégzése után a regionális és környezeti gazdaságtan mesterszakon folytattam tanulmányaimat. Miután megszereztem mesterdiplomámat, megkezdtem PhD tanulmányaimat. Jelenleg harmadéves vagyok a BME Környezetgazdaságtan és Fenntartható Fejlődés Tanszékén, kutatási témám a barnamezős területek revitalizációs megoldásainak vizsgálata fenntarthatósági szempontból, továbbá ehhez kacsolódóan a városi élhetőség vizsgálata.
 
  <table class="picture">
 <tr>
