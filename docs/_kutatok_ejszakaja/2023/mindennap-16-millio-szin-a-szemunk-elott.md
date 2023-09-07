@@ -9,8 +9,8 @@ tud_eloadok: Samu Sára, gimnáziumi tanuló
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME, D. épület, 5. emelet, 507. laboratórium 
-tud_idopont: 2023. szeptember 29. 17:30-18:00 /// 18:30-19:00 /// 19:30-20:00 
-tud_regisztracio: 
+tud_idopont: 2023. szeptember 29. 17:30-18:00; 18:30-19:00; 19:30-20:00 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mindennap-16-millio-szin-a-szemunk-elott
 tud_url: 
 tud_reg: igen, összesen 30, turnusonként 10
 date:  2023-03-27
