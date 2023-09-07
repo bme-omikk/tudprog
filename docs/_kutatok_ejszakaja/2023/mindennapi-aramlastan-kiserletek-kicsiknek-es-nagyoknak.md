@@ -6,7 +6,7 @@ tud_intezmeny_rovid: GPK
 title: Mindennapi áramlástan, kísérletek kicsiknek és nagyoknak
 tud_programfelelos: Gulyás András
 tud_eloadok: Till Sára
-tud_tipus: 
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online:
 tud_helyszin: 1111 Budapest Bertalan Lajos utca 7. , L épület, Hidrodinamikai Rendszek Tanszék Laboratórium
 tud_idopont: 2023. szeptember 29. 18.00-22.00 folyamatosan.
