@@ -16,7 +16,7 @@ tud_reg: igen, összesen 400 fő, turnusonként 100 fő
 date:  2023-03-27
 ---
 
-**Tokaji Kristóf**: [Tokaji Kristóf](https://www.ara.bme.hu/munkatarsak/552) okl. gépészmérnök (MSc), áramlástechnikai gépészmérnök, tanszéki mérnök az Áramlástan Tanszék munkatársa. Kutatási területei: aerokausztika, áramlások modellezése, áramlástechnikai gépek, légtechnika. 
+[Tokaji Kristóf](https://www.ara.bme.hu/munkatarsak/552) okl. gépészmérnök (MSc), áramlástechnikai gépészmérnök, tanszéki mérnök az Áramlástan Tanszék munkatársa. Kutatási területei: aerokausztika, áramlások modellezése, áramlástechnikai gépek, légtechnika. 
 
 [Információk a Áramlástan Tanszékről>>](https://www.ara.bme.hu/) 
 
