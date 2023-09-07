@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME E épület 11. emelet műhold vezérlő állomás. 1111 Budapest, Egry József utca 2, E épület.
 tud_idopont: 2023. szeptember 29. 16:00-16:45, 17:00-17:45, 18:00-18:45, 19:00-19:45, 20:00-20:45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/oktatasi-celu-diakmuholdak-a-muegyetemen-avagy-bme-muholdvezerlo-allomas-latogatas
 tud_url: 
 tud_reg: igen, turnusonként max 12 fő
 date:  2023-03-27
