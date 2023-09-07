@@ -16,7 +16,7 @@ tud_reg: igen, 56 fő
 date:  2023-03-27
 ---
 
-**Dr. habil Ábrahám György professor emeritus**: A műszaki optika professzora, fő kutatási területe az emberi színlátás 
+**Dr. habil Ábrahám György** professor emeritus: A műszaki optika professzora, fő kutatási területe az emberi színlátás 
 
 Vetített képes előadás az emberi látásról, a színlátásról és a zíntévesztésről. Magyar világszabadalom lett a színtévesztés korrigálása színszűrős szemüvegekkel. Az előadás a feltaláló szmélyes élményeivel ismerteti meg a hallgatóságot a találmány születéséről és a megoldás lényegéről.
 
