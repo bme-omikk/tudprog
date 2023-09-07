@@ -6,7 +6,7 @@ tud_intezmeny_rovid: GPK
 title: Miért kavitál a hajócsavar és hullámzik a patak? Nézd meg csatornáinkban!
 tud_programfelelos: Gulyás András
 tud_eloadok: Dr. Csizmadia Péter
-tud_tipus: 
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest Bertalan Lajos utca 7. , L épület, Hidrodinamikai Rendszek Tanszék Laboratórium
 tud_idopont: 2023. szeptember 29. 18.00-18.45, 18.45-19.30, 19.30-20.15, 20.15-21:00
