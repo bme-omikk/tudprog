@@ -3,24 +3,24 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2023
 tud_intezmeny: BME VIK, Elektronikai Technológia Tanszék
 tud_intezmeny_rovid: VIK
-title: Építsünk együtt digitális dobókockát! 
-tud_programfelelos: Bátorfi Réka
-tud_eloadok: Takács Gergő, Havellant Gergő
+title: 3D nyomtatott mikrofluidikai megvalósítások - Nanovilág és bioérzékelők
+tud_programfelelos: Borók Alexandra, Kovács Rebeka
+tud_eloadok: Borók Alexandra, Kovács Rebeka
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME ""V1"" épület) alagsor, BME ETT laboratóriumok
-tud_idopont: 2023. szeptember 29. 18.00-19.00; 19.00-20.00; 20.00-21.00; 21.00-22.00
+tud_idopont: 2023. szeptember 29. 15.00-15.40;15.50-16.30
 tud_regisztracio: 
 tud_url: 
-tud_reg: igen, összesen 80 fő, 20 fő/turnus
+tud_reg: igen, turnusonként 15 fő
 date:  2023-03-27
 ---
 
-**Bátorfi Réka** a BME Elektronikai Technolgóia Tanszék tudományos segédmunkatársa, kutatási területei többek között az ón tűkristályok. Alkalmazott mérnöki tapasztalata a teljes elektronikai gyártás lépéssorozatára kiterjed. Réka a tanszék nagykövete az egyetem Lányok Napja programsorozatában.
+**Borók Alexandra** az Elektronikai Technológia Tanszék PhD hallgatója, plazmonikus nanokompozitok fejlesztésével foglalkozik. Gépészmérnöki BSc végzettségét 2016-ban szerezte, egészségügyi mérnöki MSc diplomáját pedig 2020-ban. Kutatási témái besorolhatók az anyagtudomány, a mikrofluidika és a plazmonika tudományterületeibe.
 
-**Takács Gergő** a BME Elektronikai Technolgóia Tanszék tanszéki mérnöke. Szakterülete az elektronikai gyártástechnológiák és a minőségi vizsgálatok.
+**Kovács Rebeka** az Elektronikai Technológia Tanszék PhD hallgatója. Biomérnöki BSc és Egészségügyi mérnöki MSc végzettséggel rendelkezik. Doktori kutatásának témája a lokalizált felületi plazmonrezonancián alapuló bioszenzor fejlesztése.
 
-**Havellant Gergő** a BME Elektronikai Technológia Tanszékének MSc hallgatója, demonstrátor. Érdeklődési területei a mikrovezérlőkkel megvalósított komplett készülékek és mérőrendszerek; az elektronikai szereléstechnológiák.  Jelenlegi kutatásaiban gőzfázisú forrasztóberendezéseket vizsgál különböző szenzorfúziók alkalmazásával.
 
-Elgondolkodtál már azon, hogy készülnek az elektronikus áramkörök? Hogyan készül a mobiltelefon vagy a mosógép vezérlőlapja? Akkor itt a helyed nálunk! A program során bemutatjuk egy egyszerű áramkör gyártása közben a felületszerelési technológia lépéssorozatát és berendezéseit, és megláthatod, hogyan lesz a sok apró alkatrészből egy működő villogó digitális dobókocka! Az Elektronikai Technológia Tanszék laborkomplexumában az ipari megoldások és a kutatási lehetőségek ötvöződnek a megvalósítás szépségével.
+Hogyan kapcsolódik a biológiai minták vizsgálata a villamosmérnöki és gépészeti tudományokhoz? Mik a mikrovilág törvényszerűségei? Ezekre és még sok érdekes kérdésre kaphatnak választ a résztvevők. A mikrofluidikai rendszereket elterjedten alkalmazzák az orvosi, biológiai és kémiai kutatások területén, mert segítségükkel hordozható, kis méretű diagnosztikai eszközöket kaphatunk. A mikrofluidikai eszközök hagyományos gyártási technológiáival szemben a 3D nyomtatást kis anyagköltség, rövid gyártási idő és széleskörű alapanyag használat jellemzi. Alkalmazásával lehetőség nyílik komplex csatorna-rendszerek megvalósítására, akár háromdimenzióban is. A laborlátogatás során bemutatjuk hogy mi is a mikrofluidika, hogyan alkalmazzuk az additív gyártást a mikrofluidikai eszközök kialakítására, és megmutatunk néhány alkalmazási példát is.
 
+![3D nyomtatott mikrofluidikai megvalósítások - Nanovilág és bioérzékelők](images/3d-nyomtatott-mikrofluidikai-megvalositasok-nanovilag-es-bioerzekelok.jpg)
