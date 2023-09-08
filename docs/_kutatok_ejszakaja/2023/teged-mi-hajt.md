@@ -6,7 +6,7 @@ tud_intezmeny_rovid: GPK
 title: Téged mi hajt?
 tud_programfelelos: Kardos Réka, Rácz Erika
 tud_eloadok: Dr. Sztankó Krisztián, Kovács Krisztián, Kalorikus Gépek Szakosztály, BME Shark Team
-tud_tipus: Kérjük válasszon!
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online:
 tud_helyszin: 1111 Budapest, Bertalan Lajos utca 4-6. D épület Aula
 tud_idopont: 2023. szeptember 29. 17:00-18:00, 18:20-19:20, 19:40-20:40, 21:00-22:00
