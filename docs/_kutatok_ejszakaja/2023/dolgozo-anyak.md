@@ -21,4 +21,4 @@ date:  2023-03-27
 Az előadás célja, hogy betekintést nyújtson azokba a kihívásokba, amelyekkel a munkaerőpiacra visszatérő anyák küzdenek. A szülési szabadság során a gyermekneveléssel töltött periódus később, a munkaerőpiacra való visszatérés
 időszakában komoly szakmai terhet jelent a nők számára és egyfajta szakadékot hoz létre az önéletrajzukban. A munkájuk kapcsán kevésbé tartják őket kompetensnek és kevésbé tartják őket esélyesnek az előrelépésre, a gyermektelen nőkkel
 és férfiakkal összehasonlítva _(Heilman & Okimoto, 2008)_.
-A kisgyermekes szülőknek jelentős kihívást jelent a munka és a család összeegyeztetése _(Kártyás– Répáczki–Takács, 2014)_, a munka világába való visszatérést pedig az anyák úgy élik meg, mint egy olyan élethelyzetet, amely teljesen felkészületlenül éri őket _(Spiteri és Xuereb, 2012)_.. 
+A kisgyermekes szülőknek jelentős kihívást jelent a munka és a család összeegyeztetése _(Kártyás– Répáczki–Takács, 2014)_, a munka világába való visszatérést pedig az anyák úgy élik meg, mint egy olyan élethelyzetet, amely teljesen felkészületlenül éri őket _(Spiteri és Xuereb, 2012)_.
