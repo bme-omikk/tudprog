@@ -16,6 +16,8 @@ tud_reg: igen, nem
 date:  2023-03-27
 ---
 
+[Dr. Grad-Gyenge Anikó](https://law.bme.hu/munkatarsaink ) Bolyai-ösztöndíjas kutató, a BME GTK Üzleti Jog Tanszékének habiliált egyetemi docense, szerzői jogász. 
+
+
 Az Európai Unió hosszú ideje kísérletezik azzal, hogy a Facebook, Youtube-szerű szolgáltatásokban elérhető védett zenei, filmes tartalmakból származó bevételekből az alkotók is részesedéshez juthassanak. A szolgáltatókra vonatkozó új szabályok egy tágabb keretbe is ágyazódnak, ugyanis az EU az elmúlt évben a teljes belső piacon általános szabályozást vezetett be a digitális szolgáltatások tekintetében. Az előadás bemutatja, hogy ezek a megoldások elegendőek-e ahhoz, hogy az alkotók hozzájussanak a megérdemelt elismeréshez és az őket megillető bevételekhez.
 
-[Dr. Grad-Gyenge Anikó](https://law.bme.hu/munkatarsaink ) Bolyai-ösztöndíjas kutató, a BME GTK Üzleti Jog Tanszékének habiliált egyetemi docense, szerzői jogász. 
