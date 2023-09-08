@@ -6,7 +6,7 @@ kutej_programfelelos: Csippa Benjamin
 kutej_eloado: 
 ---
 
-tudományos segédmunkatárs
+okl. gépészmérnök (MSc), [tudományos segédmunkatárs](https://www.hds.bme.hu/tanszek.php?sm=2&lang=HU)
 
 
 <table class="picture">
