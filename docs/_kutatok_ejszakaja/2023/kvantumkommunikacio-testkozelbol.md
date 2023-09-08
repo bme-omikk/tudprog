@@ -18,4 +18,4 @@ date:  2023-03-27
 
 A bemutató során saját fejlesztésű kvantumos elvű kulcsszétosztó berendezéseket és véletlenszám generátort mutatunk be. Kíváncsi vagy, hogyan lehet összefonódott fotonpárokat megosztani a Duna fölött? Vagy kvantumos információt küldeni egy optikai hálózaton? Laborunkban megtudhatod.
 
-A helyszín a bejárattól balra található lifttel vagy lépcsővel megközelíthető.
+A helyszín a bejárattól balra található lifttel vagy lépcsővel megközelíthető. A turnusok 30 percenként kezdődnek.
