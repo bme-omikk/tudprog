@@ -22,6 +22,8 @@ date:  2023-03-27
 
 **Friedrich Péter** okleveles gépészmérnök (MSc), jelenleg doktoranduszként dolgozik a HDR Tanszéken. Fő kutatási területét a hemodinamikai kutatások (véráramlás) jelentik.  
 
+**Krähling Péter** okleveles gépészmérnök (MSc), jelenleg doktoranduszként dolgozik a HDR Tanszéken. Fő kutatási területét a szonokémiai kutatások (buborék dinamika).
+
 
 
 Az áramlástannal bárhol találkozhatunk legyen az sütikészítés, zenehallgatás, vérnyomásmérés, művészet vagy műszaki alkalmazások. Kísérleteinket játékos formában mutatjuk be a napelemes hajón és akusztikán át, a nemnewtoni folyadékokig.
