@@ -5,7 +5,7 @@ tud_intezmeny: BME GPK, Polimertechnika Tanszék
 tud_intezmeny_rovid: GPK
 title: Kompozit 3D nyomtatás- játékszer vagy a jövő?
 tud_programfelelos: Dr. Kovács Norbert Krisztián
-tud_eloadok: Tóth Csenge
+tud_eloadok: Tóth Csenge, Szederkényi Bence, Dr. Suplicz András, Dr. Török Dániel
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GPK, Polimertechnika Tanszék Laboratórium, MT épület Bertalan L. utca felőli bejárat
