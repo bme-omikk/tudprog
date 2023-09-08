@@ -21,3 +21,5 @@ A **BME Szent-Györgyi Albert Szakkollégiumot** (SzASz) 2001-ben alapította a 
 **A Szakkollégium tagjai:** Lelkesen állunk a rendezvény megszervezéséhez. Csapatunk szeretné minél szélesebb körben népszerűsíteni a kémiát és a tudományokat.
 
 A Szent-Györgyi Albert Szakkollégium tagjai izgalmas, interaktív kísérleti bemutatóval készültek nektek az idei Kutatók Éjszakájára. Kicsiknek és nagyoknak egyaránt szórakoztató lesz az előadás, reméljük, minél többetekkel találkozunk majd szept. 29-én!
+
+![BME Szent Györgyi-Albert Szakkollégium kísérleti bemutatója](images/BME-Szent-Gyorgyi-Albert-Szakkollegium-kiserleti-bemutatoja.jpg)
