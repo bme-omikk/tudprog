@@ -13,7 +13,7 @@ A BME Vízi Közmű és Környezetmérnöki Tanszék [egyetemi docense, tanszék
 <td>
 
 <div class="gallery">
-    <img src="images/ patziger_miklos.jpg" max-width="250" max-height="200">
+    <img src="images/patziger_miklos.jpg" max-width="250" max-height="200">
   <div class="desc"> Dr. Patziger Miklós</div>
 </div>
 
