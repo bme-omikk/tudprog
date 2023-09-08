@@ -7,7 +7,7 @@ kutej_eloado:
 tud_title: Kutatók éjszakája 2023 
 ---
 
-[Tófalvy Tamás](www.tofalvytamas.hu) médiakutató, a BME Szociológia és Kommunikáció Tanszékének docense. Többek között a populáris zenei műfajok, közösségek és az internet kapcsolatát kutatja. Könyvei, írásai ingyenesen letölthetők a [tofalvytamas.hu](www.tofalvytamas.hu) oldalról.
+[Tófalvy Tamás](https://sites.google.com/site/tofalvytamas/) médiakutató, a BME Szociológia és Kommunikáció Tanszékének docense. Többek között a populáris zenei műfajok, közösségek és az internet kapcsolatát kutatja. Könyvei, írásai ingyenesen letölthetők a [tofalvytamas.hu](https://sites.google.com/site/tofalvytamas/) oldalról.
 
 
  <table class="picture">
