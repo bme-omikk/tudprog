@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Q épület, QA403 terem
 tud_idopont: 2023. szeptember 29. 16.00-17.30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/v-putyin-es-az-orosz-geopolitikai-strategiak-a-2000-evtol-napjainkig
 tud_url: 
 tud_reg: igen, Max. 140 fő
 date:  2023-03-27
