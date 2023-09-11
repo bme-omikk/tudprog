@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online:
 tud_helyszin: 1111 Budapest, Műegyetem rkp 3. K. épület
 tud_idopont: 2023. szeptember 29. 18:00-19:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/a-varosi-elhetoseg-jelentese-napjainkban
 tud_url: 
 tud_reg: nem, max 60 fő
 date:  2023-03-27
