@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GPK, Polimertechnika Tanszék Laboratórium, MT épület Bertalan L. utca felőli bejárat
 tud_idopont: 2023. szeptember 29. 18:00-19:00; 20:00-21:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/kompozit-szendvics-szerkezetek-itt-nem-az-iz-szamit
 tud_url: 
 tud_reg: igen, összesen 30 fő; 15 fő/turnus
 date:  2023-03-27
