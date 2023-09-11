@@ -7,7 +7,7 @@ title: Ki felel a Facebookon megosztott tartalmakért?
 tud_programfelelos: Dr. Grad-Gyenge Anikó
 tud_eloadok: 
 tud_tipus: Csak online látogatható
-tud_online: Teams csatorna
+tud_online: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTdmYTEyMjAtYmVlZS00MjY1LWIxMmYtZDYzZWFlMDQ1YmUy%40thread.v2/0?
 tud_helyszin: Teams csatorna
 tud_idopont: 2023. szeptember 29. 16:00-16:45
 tud_regisztracio: 
