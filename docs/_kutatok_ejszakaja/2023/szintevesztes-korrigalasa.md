@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2023
 tud_intezmeny: BME GPK, Mechatronika, Optika és Gépészeti Informatika Tanszék
 tud_intezmeny_rovid: GPK
-title: Színtévesztés és korrigálása
+title: Színtévesztés korrigálása
 tud_programfelelos: prof.dr.habil Ábrahám György
 tud_eloadok: Prof.dr. habil Ábrahám György
 tud_tipus: Csak személyes jelenléttel látogatható
