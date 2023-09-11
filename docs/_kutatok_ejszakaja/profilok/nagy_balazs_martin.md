@@ -7,7 +7,7 @@ kutej_eloado: Nagy Balázs Martin
 ---
 
 
-Mechatronikai mérnök, a BME GPK gépészeti modellezés mesterszakos hallgatója. Érdeklődési köre a szimulációs eljárások, szilárdtest mechanika, képelemzés, valamint a szemcsés anyagok keveredésének vizsgálata. _Elérhetősége:_ balazs.martin.nagy@gmail.com
+Mechatronikai mérnök, a BME GPK gépészeti modellezés mesterszakos hallgatója. Érdeklődési köre a szimulációs eljárások, szilárdtest mechanika, képelemzés, valamint a szemcsés anyagok keveredésének vizsgálata. _Elérhetősége_: balazs.martin.nagy@gmail.com
 
 <table class="picture">
 <tr>
