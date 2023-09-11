@@ -8,8 +8,8 @@ tud_programfelelos: Dr. Szijjártó Linda
 tud_eloadok: Dr. Szijjártó Linda
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: Q ÉPÜLET Q II ELŐADÓ
-tud_idopont: 2023. szeptember 30. 
+tud_helyszin: BME Q épület, QA403. terem
+tud_idopont: 2023. szeptember 30. 12:30-13:30
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
