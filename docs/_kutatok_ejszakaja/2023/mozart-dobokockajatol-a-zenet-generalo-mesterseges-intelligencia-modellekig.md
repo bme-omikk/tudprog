@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Q épület A szárny, földszint 15 terem (QAF15)
 tud_idopont: 2023. szeptember 29. 18:00 - 19:30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mozart-dobokockajatol-a-zenet-generalo-mesterseges-intelligencia-modellekig
 tud_url: 
 tud_reg: igen, 125 fő
 date:  2023-03-27
