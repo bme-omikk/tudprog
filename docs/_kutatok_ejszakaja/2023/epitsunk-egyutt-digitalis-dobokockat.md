@@ -23,3 +23,6 @@ date:  2023-03-27
 **Havellant Gergő** a BME Elektronikai Technológia Tanszékének MSc hallgatója, demonstrátor. Érdeklődési területei a mikrovezérlőkkel megvalósított komplett készülékek és mérőrendszerek; az elektronikai szereléstechnológiák.  Jelenlegi kutatásaiban gőzfázisú forrasztóberendezéseket vizsgál különböző szenzorfúziók alkalmazásával.
 
 Elgondolkodtál már azon, hogy készülnek az elektronikus áramkörök? Hogyan készül a mobiltelefon vagy a mosógép vezérlőlapja? Akkor itt a helyed nálunk! A program során bemutatjuk egy egyszerű áramkör gyártása közben a felületszerelési technológia lépéssorozatát és berendezéseit, és megláthatod, hogyan lesz a sok apró alkatrészből egy működő villogó digitális dobókocka! Az Elektronikai Technológia Tanszék laborkomplexumában az ipari megoldások és a kutatási lehetőségek ötvöződnek a megvalósítás szépségével.
+
+
+![Építsünk együtt digitális dobókockát!](images/epitsunk-egyutt-digitalis-dobokockat.jpg)
