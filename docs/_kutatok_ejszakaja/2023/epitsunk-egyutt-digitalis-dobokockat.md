@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME ""V1"" épület) alagsor, BME ETT laboratóriumok
 tud_idopont: 2023. szeptember 29. 18.00-19.00; 19.00-20.00; 20.00-21.00; 21.00-22.00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/epitsunk-egyutt-digitalis-dobokockat 
 tud_url: 
 tud_reg: igen, összesen 80 fő, 20 fő/turnus
 date:  2023-03-27
