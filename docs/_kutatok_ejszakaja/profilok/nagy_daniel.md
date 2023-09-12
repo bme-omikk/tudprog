@@ -6,7 +6,7 @@ kutej_programfelelos:
 kutej_eloado: Nagy Dániel
 ---
 
-Gépészeti modellezés szakon MSc. hallgató a BME-n. Kutatási területe a GPU-val gyorsított numerikus módszerek alkalmazása a gépészetben. _Email címe_: nagyd@edu.bme.h
+Gépészeti modellezés szakon MSc. hallgató a BME-n. Kutatási területe a GPU-val gyorsított numerikus módszerek alkalmazása a gépészetben. _Email címe_: nagyd@edu.bme.hu
 
 <table class="picture">
 <tr>
