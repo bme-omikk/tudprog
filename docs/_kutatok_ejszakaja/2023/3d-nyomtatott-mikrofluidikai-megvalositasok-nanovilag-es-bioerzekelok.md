@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME ""V1"" épület) alagsor, BME ETT laboratóriumok
 tud_idopont: 2023. szeptember 29. 15.00-15.40;15.50-16.30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/3d-nyomtatott-mikrofluidikai-megvalositasok-nanovilag-es-bioerzekelok
 tud_url: 
 tud_reg: igen, turnusonként 15 fő
 date:  2023-03-27
