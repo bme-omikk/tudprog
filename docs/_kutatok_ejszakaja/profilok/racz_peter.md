@@ -6,7 +6,7 @@ kutej_programfelelos:
 kutej_eloado:
 tud_title: Kutatók éjszakája 2023
 ---
-A kognitív tudomány tanszék munkatársa, a nyelv és az agy viszonyával foglalkozik.
+Péter évtizedek óta foglalkozik azzal, hogyan érzékeli az agyunk a bennünket körülvevő világot, hogyan tanul új dolgokat, és, ami talán a legérdekesebb, hogyan befolyásolja ezt az a kultúra, az a társas környezet, amelyben fölnőttünk.
 
  <table class="picture">
 <tr>
