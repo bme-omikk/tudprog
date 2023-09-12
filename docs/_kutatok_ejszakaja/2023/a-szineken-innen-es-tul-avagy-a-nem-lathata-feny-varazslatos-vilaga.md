@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Szent Gellért tér 4., Ch épület 1. emelet 165., NIR Spektroszkópia Csoport
 tud_idopont: 2023. szeptember 29. 16.00-16.45, 17.30-18.15, 19.00-19.45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/a-szineken-innen-es-tul-avagy-a-nem-lathato-feny-varazslatos-vilaga
 tud_url: 
 tud_reg: igen, turnusonként 10
 date:  2023-03-27
