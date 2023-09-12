@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME MG épület, műhely főbejárata, 1111 Budapest, Műegyetem rakpart 3. 
 tud_idopont: 2023. szeptember 29. 18:00-19:00; 19:00-20:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/szemcsek-virtualis-szimulacioja-a-talajtol-a-vasuti-zuzottkovekig
 tud_url: 
 tud_reg: igen, összesen 40 fő, turnusonként 20
 date:  2023-03-27
