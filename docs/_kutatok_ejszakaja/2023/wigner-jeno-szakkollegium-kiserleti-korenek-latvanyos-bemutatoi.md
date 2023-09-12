@@ -20,5 +20,5 @@ date:  2023-03-27
 
 Kicsiket és nagyokat egyaránt szeretettel várunk, hogy megismerkedjenek a fizika varázslatos világával. Kísérleteink a folyékony levegő fagyosságától a tomboló lángok forróságáig terjednek, továbbá felölelik a szikrázó elektromosságot, különböző rakétákat és még sok mást.
 
-![Wigner Jenő Szakkollégium Kísérleti Körének látványos bemutatói](images/wigner-jeno-szakkollegium-kiserleti-korenek-latvanyos-bemutatoi)
+![Wigner Jenő Szakkollégium Kísérleti Körének látványos bemutatói](images/wigner-jeno-szakkollegium-kiserleti-korenek-latvanyos-bemutatoi.jpg)
 
