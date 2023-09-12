@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Q épület, Bp., Magyar Tudósok Körútja 2. 
 tud_idopont: 2023. szeptember 29. 17.00-18.00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/muegyetemi-marketing-kulisszatitkok-ha-a-bme-ember-lenne
 tud_url: 
 tud_reg: igen, nem
 date:  2023-03-27
