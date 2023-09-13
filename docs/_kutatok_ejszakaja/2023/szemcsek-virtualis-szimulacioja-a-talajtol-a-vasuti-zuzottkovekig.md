@@ -16,7 +16,7 @@ tud_reg: igen, összesen 40 fő, turnusonként 20
 date:  2023-03-27
 ---
 
-[Dr. Tamás Konrél](https://gt3.bme.hu/oktatoi_oldal.php?lepes=4&oid=162) a BME Gép- és Terméktervezés Tanszék docense, ahol MSc fokozatot szerzett, majd PhD fokozatot szerzett. Szakterülete a szemcsés anyagok modellezése diszkrét elem módszerrel (DEM). _E-mail címe:_ tamas.kornel@gt3.bme.hu
+[Dr. Tamás Kornél](https://gt3.bme.hu/oktatoi_oldal.php?lepes=4&oid=162) a BME Gép- és Terméktervezés Tanszék egyetemi docense, ahol MSc fokozatot szerzett, majd PhD fokozatot szerzett. Szakterülete a szemcsés anyagok modellezése diszkrét elem módszerrel (DEM). _E-mail címe:_ tamas.kornel@gt3.bme.hu
 
 [Pásthy László](https://gt3.bme.hu/oktatoi_oldal.php?lepes=4&oid=190) a BME Gép- és Terméktervezés Tanszék PhD hallgatója, ahol MSc fokozatot szerzett. Kutatási területe a kapcsolt diszkrét elemes (DEM) szimulációk. _E-mail címe:_ pathy.laszlo@gt3.bme.hu
 
