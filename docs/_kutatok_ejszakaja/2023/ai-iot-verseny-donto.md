@@ -9,7 +9,7 @@ tud_eloadok: Fehér Gábor, Vida Rolland
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME I épület IB025 előadó - Infopark
-tud_idopont: 2023. szeptember 29. 16:00
+tud_idopont: 2023. szeptember 29. 16:00-19:00
 tud_regisztracio: 
 tud_url: https://www.tmit.bme.hu/iot-verseny
 tud_reg: nem, nem
