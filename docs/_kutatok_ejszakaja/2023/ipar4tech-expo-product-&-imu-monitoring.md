@@ -10,9 +10,9 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Ipar 4.0 Technológiai Központ; 1117 Bp., Magyar tudósok körútja 2., I. épület, Fsz.017
 tud_idopont: 2023. szeptember 29. 17:00, 18:00, 19:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/bme-ipar-40-technologiai-kozpont
 tud_url: 
-tud_reg: igen, 20
+tud_reg: igen, 20 fő/turnus
 date:  2023-03-27
 ---
 
