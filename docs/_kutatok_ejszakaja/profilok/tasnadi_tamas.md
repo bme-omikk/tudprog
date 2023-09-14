@@ -1,14 +1,13 @@
 ---
 layout: page_kutej_profilok
 tud_idopont: 0
-kutej_programfelelos_eloado: dr. Tasnádi Tamás
+kutej_programfelelos_eloado: Dr. Tasnádi Tamás
 kutej_programfelelos: 
 kutej_eloado:
 tud_title: Kutatók éjszakája 2023
 ---
-Tasnádi Tamás a BME TTK Matematika Intézetének egyetemi adjunktusa. Kutatási területei a dinamikai rendszerek vizsgálata és a káosz jelenségeinek vizsgálata. 
 
-
+Az ELTE fizikus szakán végzett majd, ugyanitt szerezte meg a PhD. fokozatot. Érdeklődése fokozatosan a matematika felé fordult, jelenleg a BME Analízis és Operációkutatás Tanszékén oktat főként analízist és funkcionálanalízist. Rendszeresen tart matematikai és fizikai tárgyú népszerűsítő előadásokat. 
 
 
  <table class="picture">
