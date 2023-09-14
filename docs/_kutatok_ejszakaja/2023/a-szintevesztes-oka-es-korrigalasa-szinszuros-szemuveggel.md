@@ -9,7 +9,7 @@ tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Műegyetem rkp 9., D. épület 401.
-tud_idopont: 2023. szeptember 29. 18:00
+tud_idopont: 2023. szeptember 29. 18:00-20:00
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/a-szintevesztes-oka-es-korrigalasa-szinszuros-szemuveggel-1
 tud_url: 
 tud_reg: igen, 56 fő
