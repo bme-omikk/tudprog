@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2023
 tud_intezmeny: BME ÉMK, Vízi Közmű és Környezetmérnöki Tanszék
-tud_intezmeny_rovid: ÉMK
+tud_intezmeny_rovid: EMK
 title: Víz – Közmű – Környezet. Mi a kapcsolat?
 tud_programfelelos: Dr. Patziger Miklós
 tud_eloadok: A BME VKKT munkatársai
