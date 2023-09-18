@@ -1,7 +1,7 @@
 ---
 layout: collection_kutej
 tud_title: Kutatók éjszakája 2023
-tud_intezmeny: BME VEgyészmérnöki és Biomérnöki Kar
+tud_intezmeny: BME Vegyészmérnöki és Biomérnöki Kar
 tud_intezmeny_rovid: VBK
 title: Műszaki biokémia – alkalmazott mikrobiológia
 tud_programfelelos: Dr. Németh Áron
