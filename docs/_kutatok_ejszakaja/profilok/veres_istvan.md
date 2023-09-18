@@ -14,8 +14,8 @@ BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi adjunktusa. 
 <td>
 
 <div class="gallery">
-    <img src="images/Berkl_Zsofia.jpg" max-width="250" max-height="200">
-  <div class="desc">Berkl Zsófia</div>
+    <img src="images/Veres_Istvan.jpg" max-width="250" max-height="200">
+  <div class="desc">Dr. Veres István</div>
 </div>
 
 </td>
