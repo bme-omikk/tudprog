@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2023
 tud_intezmeny: BME ÉMK, Vízépítési és Vízgazdálkodási Tanszék
-tud_intezmeny_rovid: ÉMK
+tud_intezmeny_rovid: EMK
 title: Mi folyik itt?
 tud_programfelelos: Dr. Baranya Sándor
 tud_eloadok: Kéri Barbara, Füstös Vivien
