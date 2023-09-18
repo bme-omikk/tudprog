@@ -10,7 +10,7 @@ tud_tipus: csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME K épület előtti hajókikötő az alsó rakparton.
 tud_idopont: 2023. szeptember 29. 16.00-18.00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mi-folyik-itt
 tud_url: 
 tud_reg: igen, összesen 20, turnusonként 5 fő
 date:  2023-03-27
