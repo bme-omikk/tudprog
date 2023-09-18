@@ -7,8 +7,9 @@ kutej_eloado: Eszterbauer Edina
 tud_title: Kutatók éjszakája 2023
 ---
 
-Tanulmányait a Budapest Műszaki és Gazdasági Tudomány Egyetemen a Vegyész és Biomérnök Karán MSc biomérnökként 2022ben fejezte be. 
-Jelenleg a BME VBK ABÉT tanszéken folytatja doktori tanulmányait alternatív édesítőszerek innovatív biotechnológia előállításának vizsgálata címmel.
+Tanulmányait a Budapest Műszaki és Gazdasági Tudomány Egyetemen a Vegyész és Biomérnök Karán MSc biomérnökként 2022ben fejezte be. Jelenleg a BME VBK ABÉT tanszéken folytatja doktori tanulmányait alternatív édesítőszerek innovatív biotechnológia előállításának vizsgálata címmel.
+
+_She completed her studies at the Budapest University of Technology and Economics in 2022 as an MSc in biochemical engineer. She is currently pursuing her doctoral studies at the BME VBK ABÉT department, entitled Investigation of innovative biotechnological production of alternative sweeteners._
 
  <table class="picture">
 <tr>
