@@ -20,4 +20,4 @@ date:  2023-03-27
 
 Kicsiket és nagyokat egyaránt szeretettel várunk, hogy megismerkedjenek látványos érdekességekkel az optika világából. Olyan, a nagyközönség számára talán kevéssé ismert jelenségeket mutatunk be mint a moiré-hatás, karcholográfia, varázstükrök, kausztikus leképezés, integrált fényképezés, fluoreszcencia, optikai aktivitás, száloptikai nagyítás.
 
-![Látványos érdekességek az optika témaköréből](latvanyos-erdekessegek-az-optika-temakorebol.jpg)
+![Látványos érdekességek az optika témaköréből](images/latvanyos-erdekessegek-az-optika-temakorebol.jpg)
