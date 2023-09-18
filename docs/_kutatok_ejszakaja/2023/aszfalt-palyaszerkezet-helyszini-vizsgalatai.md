@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2023
 tud_intezmeny: BME ÉMK Út és Vasútépítési Tanszék
-tud_intezmeny_rovid: ÉMK
+tud_intezmeny_rovid: EMK
 title: Aszfalt pályaszerkezet helyszíni vizsgálatai
 tud_programfelelos: Vattai Alina
 tud_eloadok: Balog László, Vattai Alina
