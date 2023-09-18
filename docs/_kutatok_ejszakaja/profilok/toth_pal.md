@@ -6,8 +6,9 @@ kutej_programfelelos:
 kutej_eloado:
 tud_title: Kutatók éjszakája 2023
 ---
-Tanulmányait a Budapest Műszaki és Gazdasági Tudomány Egyetemen a Vegyész és Biomérnök Karán MSc gyógyszervegyész-mérnökként 2019ben fejezte be. 
-Jelenleg a BME VBK ABÉT tanszéken folytatja doktori tanulmányait kozmetikai és étrendkiegészítő komponensek fermentációs előállításának vizsgálata címmel.
+Tanulmányait a Budapest Műszaki és Gazdasági Tudomány Egyetemen a Vegyész és Biomérnök Karán MSc gyógyszervegyész-mérnökként 2019ben fejezte be. Jelenleg a BME VBK ABÉT tanszéken folytatja doktori tanulmányait kozmetikai és étrendkiegészítő komponensek fermentációs előállításának vizsgálata címmel.
+
+_He completed his studies at the Budapest University of Technology and Economics in 2019 as an MSc in pharmaceutical chemical engineer. He is currently pursuing his doctoral studies at the BME VBK ABÉT department, entitled Investigation of the fermentation production of cosmetic and dietary supplement components._
 
  <table class="picture">
 <tr>
