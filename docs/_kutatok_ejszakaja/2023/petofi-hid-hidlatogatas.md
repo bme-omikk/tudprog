@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Petőfi híd - találkozó a budai oldali hídfőnél
 tud_idopont:  2023. szeptember 29. 15:00-16:00; 16:00-17:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/petofi-hid-hidlatogatas
 tud_url: 
 tud_reg: igen, 25-30 fő
 date:  2023-03-27
