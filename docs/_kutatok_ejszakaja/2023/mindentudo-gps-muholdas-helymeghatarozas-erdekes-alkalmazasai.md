@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2023
 tud_intezmeny: BME ÉMK, Általános és Felsőgeodézia Tanszék
-tud_intezmeny_rovid: EMK
+tud_intezmeny_rovid: ÉMK
 title: Mindentudó GPS - a műholdas helymeghatározás érdekes alkalmazásai
 tud_programfelelos: Dr. Rózsa Szabolcs
 tud_eloadok: Ács Ágnes, Laky Piroska, Turák Bence, Farkas Márton, Hrutka Bence, Ambrus Bence, Tuchband Tamás, Siki Zoltán, Takács Bence
