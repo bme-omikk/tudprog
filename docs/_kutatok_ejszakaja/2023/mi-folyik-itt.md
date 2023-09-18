@@ -25,4 +25,4 @@ Szeretsz a felszín alá nézni? Érdekel, milyen titkokat rejt Magyarország le
 **A csónakban mentőmellény viselése szükséges**, amit biztosítunk. A vízi közlekedés jellegéből adódóan előfordulhat, hogy kevés víz befröcsköl a csónakba, de borulástól nem kell tartani.
 
 
-![Mi folyik itt?](images/mi-folyik-itt.jpg)
+![Mi folyik itt?](images/mi-folyi-itt.jpg)
