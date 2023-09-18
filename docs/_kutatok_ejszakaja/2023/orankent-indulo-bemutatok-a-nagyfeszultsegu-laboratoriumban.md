@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online:
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME V1 épület) földszint 024.
 tud_idopont: 2023. szeptember 29. 15:00-22:00
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/orankent-indulo-bemutatok-a-nagyfeszultsegu-laboratoriumban
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/orankent-indulo-bemutatok-a-nagyfeszultsegu-laboratoriumban-1
 tud_url: 
 tud_reg: igen, turnusonként 35
 date:  2023-03-27
