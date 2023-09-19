@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Bertalan Lajos utca 2.
 tud_idopont: 2023. szeptember 29. 16:00-17:00, 17:00-18:00, 18:00 - 19:00
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/aszfalt-palyaszerkezet-helyszini-vizsgalata
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/aszfalt-palyaszerkezet-helyszini-vizsgalatai-on-site-tests-of-asphalt-pavement
 tud_url: 
 tud_reg: nem, turnusonként max 30 fő
 date:  2023-03-27
