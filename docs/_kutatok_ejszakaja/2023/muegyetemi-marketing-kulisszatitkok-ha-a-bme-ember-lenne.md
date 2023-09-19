@@ -16,17 +16,17 @@ tud_reg: igen, nem
 date:  2023-03-27
 ---
 
-[Dr. Bíró-Szigeti Szilvia](http://mvt.bme.hu/munkatarsak/B%C3%ADr%C3%B3-Szigeti%20Szilvia) a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi docense, EMOK elnökségi tagja. Főbb kutatási és oktatási területe: termék- és márkamenedzsment.
+[Dr. Bíró-Szigeti Szilvia](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/biro_szigeti_szilvia) a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi docense, EMOK elnökségi tagja. Főbb kutatási és oktatási területe: termék- és márkamenedzsment.
 
-[Dr. Iványi Tamás](http://mvt.bme.hu/munkatarsak/Iv%C3%A1nyi%20Tam%C3%A1s) a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi adjunktusa.
+[Dr. Iványi Tamás](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/ivanyi_tamas) a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi adjunktusa.
 
-[Dr. Molnár Bálint](http://mvt.bme.hu/munkatarsak/Moln%C3%A1r%20B%C3%A1lint) a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi adjunktusa. A BME Kommunikációs Igazgatóság igazgatója. 
+**Dr. Molnár Bálint** a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi adjunktusa. A BME Kommunikációs Igazgatóság igazgatója. 
 
-[Dr. Szalkai Zsuzsanna](http://mvt.bme.hu/munkatarsak/Szalkai%20Zsuzsanna) a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi docense, a Marketing Szakcsoport vezetője (szolgáltatásmarketing).
+**Dr. Szalkai Zsuzsanna** a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi docense, a Marketing Szakcsoport vezetője (szolgáltatásmarketing).
 
-[Dr. Veres István](http://mvt.bme.hu/munkatarsak/Veres%20Istv%C3%A1n) a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi adjunktusa (marketingkommunikáció).
+[Dr. Veres István](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/veres_istvan) a BME GTK Menedzsment és Vállalkozásgazdaságtan Tanszék egyetemi adjunktusa (marketingkommunikáció).
 
 
-Kutatócsoportunk a közelmúltban egy átfogó kutatás keretében vizsgálta a BME márkanév megítélését. Fedezd fel velünk a Műegyetem személyiségének rejtélyét és építsd Te is a BME márkáját! Érdekességek, interaktivitás, továbbtanulás. Gyere és csatlakozz hozzánk!
+Kutatócsoportunk a közelmúltban egy átfogó, több mindenre kiterjedő kutatás keretében vizsgálta a BME márkanév megítélését. A program során kiderül, mit jelent a márka személyiség általában, és a BME esetében. Fedezd fel velünk a Műegyetem személyiségének rejtélyét és építsd Te is a BME márkáját! Érdekességek, interaktivitás, továbbtanulás. Gyere és csatlakozz hozzánk!
 
 ![Műegyetemi marketing kulisszatitkok - Ha a BME ember lenne...](images/muegyetemi-marketing-kulisszatitkok-ha-a-bme-ember-lenne.jpg)
