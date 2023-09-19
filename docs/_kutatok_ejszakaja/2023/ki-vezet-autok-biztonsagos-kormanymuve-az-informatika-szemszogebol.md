@@ -21,6 +21,6 @@ date:  2023-03-27
 [Thyssenkrupp Components Technology Hungary Kft.](https://www.thyssenkrupp.hu/hu/): A  thyssenkrupp Automotive Technology budapesti leányvállalataként 1999 óta foglalkozunk személyautók elektromos kormányrendszerének fejlesztésével, a cégcsoporton belül egyedüli elektronikai és szoftverfejlesztési kompetenciaközpontként. Az iránt köteleztük el magunkat, hogy a neves autógyárak igényeit kiemelkedő minőségű, innovatív termékekkel elégítsük ki. Célunk, hogy kormányrendszerünk biztonságos legyen és tökéletes vezetési élményt nyújtson ügyfeleink számára.
 
 
-Ebben a demóban azt mutatjuk meg, hogy a veztésben milyen informatikai megoldások felelősek a könnyű irányváltásért, és ezeknek miként lehet garantálni a megfelelő működését. A demó a BME és a thyssenkrupp Kft.  Kompetencia Központban végzett munkáját mutatja be.
+Ebben a demóban azt mutatjuk meg, hogy a vezetésben milyen informatikai megoldások felelősek a könnyű irányváltásért, és ezeknek miként lehet garantálni a megfelelő működését. A demó a BME és a thyssenkrupp Kft.  Kompetencia Központban végzett munkáját mutatja be.
 
 ![Ki vezet? Autók biztonságos kormányműve az informatika szemszögéből](images/ki-vezet-autok-biztonsagos-kormanymuve-az-informatika-szemszogebol.jpg)
