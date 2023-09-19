@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Budafoki út 6-8. F épület, FE lépcsőház földszint (F épület Szent Gellért térhez közelebbi szárny, közvetlanül az utcai kapunál lévő épületi ajtónál)
 tud_idopont:  2023. szeptember 29. 17:00-19:00, 20:00-22:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/muszaki-biokemia-alkalmazott-mikrobiologia-1
 tud_url: 
 tud_reg: igen, összesen 30, turnusonkéánt max 15 fő
 date:  2023-03-27
