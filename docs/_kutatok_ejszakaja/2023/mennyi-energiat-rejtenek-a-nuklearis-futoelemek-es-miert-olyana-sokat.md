@@ -20,4 +20,4 @@ date:  2023-03-27
 
 Középiskolában mindenkinek hallania kellene az atomerőművekről, és a működésükről. Ennek ellenére rengeteg tévhit, félreértés kering róla. Mit "égetünk" el az atomerőműben? Van-e kéménye az atomerőműnek?  Aszódi Attila tanárúr ezen az estén tart egy fizikaórát, és eloszlatja a tévhiteket és félreértéseket.
 
-![Mennyi energiát rejtenek a nukleáris fűtőelemek és miért olyan sokat?](images/mennyi-energiat-rejtenek-a-nuklearis-futoelemek-es-miert-olyana-sokat.jpg)
+![Mennyi energiát rejtenek a nukleáris fűtőelemek és miért olyan sokat?](images/mennyi-energiat-rejtenek.jpg)
