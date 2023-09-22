@@ -8,9 +8,9 @@ tud_programfelelos:
 tud_eloadok: Buzási Attila
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111 Budapest, Műegyetem rkp 3. K. épület
+tud_helyszin: 1111 Budapest, Műegyetem rkp 3. K. épület, KF83 terem
 tud_idopont: 2023. szeptember 29. 19:15-20:15
-tud_regisztracio: https://app.kutatokejszakaja.hu/intezmenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/hohullamok-a-varosban-felkeszult-e-budapest
 tud_url: 
 tud_reg: nem, max 60 fő
 date:  2023-03-27
