@@ -5,7 +5,7 @@ tud_intezmeny: BME GPK, Hidrodinamikai Rendszerek Tanszék
 tud_intezmeny_rovid: GPK
 title: Miért kavitál a hajócsavar és hullámzik a patak? Nézd meg csatornáinkban!
 tud_programfelelos: Gulyás András
-tud_eloadok: Dr. Csizmadia Péter
+tud_eloadok: Dr. Csizmadia Péter, Sándor Levente Gábor
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest Bertalan Lajos utca 7. , L épület, Hidrodinamikai Rendszek Tanszék Laboratórium
