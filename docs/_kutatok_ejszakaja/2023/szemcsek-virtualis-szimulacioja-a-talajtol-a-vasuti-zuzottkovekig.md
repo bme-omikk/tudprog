@@ -5,13 +5,13 @@ tud_intezmeny: BME GPK, Gép- és Terméktervezés Tanszék
 tud_intezmeny_rovid: GPK
 title: Szemcsék virtuális szimulációja a talajtól a vasúti zúzottkövekig
 tud_programfelelos: Dr. Tamás Kornél
-tud_eloadok: Dr. Tamás Kornél, Gräff József Balázs, Hudoba Zoltán, Nagy Dániel, Nagy Balázs Martin, Pásthy László, Szabó Bence
+tud_eloadok: Dr. Tamás Kornél, Gräff József Balázs, Hudoba Zoltán, Nagy Dániel, Nagy Balázs Martin, Pásthy László, Szabó Bence, Dr. Farkas Zsolt
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME MG épület, műhely főbejárata, 1111 Budapest, Műegyetem rakpart 3. 
 tud_idopont: 2023. szeptember 29. 18:00-19:00; 19:00-20:00
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/szemcsek-virtualis-szimulacioja-a-talajtol-a-vasuti-zuzottkovekig
-tud_url: 
+tud_url: https://www.youtube.com/watch?v=DX-OUkyoa8s&t=115s
 tud_reg: igen, összesen 40 fő, turnusonként 20
 date:  2023-03-27
 ---
@@ -29,6 +29,8 @@ date:  2023-03-27
 **Nagy Balázs Martin**, mechatronikai mérnök, a BME GPK gépészeti modellezés mesterszakos hallgatója. Érdeklődési köre a szimulációs eljárások, szilárdtest mechanika, képelemzés, valamint a szemcsés anyagok keveredésének vizsgálata. _Elérhetősége_: balazs.martin.nagy@gmail.com
 
 [Dr. Farkas Zsolt](https://gt3.bme.hu/oktatoi_oldal.php?lepes=4&oid=120) a BME Gép- és Terméktervezés Tanszékének adjunktusa. Kutatási területe a jármű hajtáslánc analízise, szimulációja, fokozatmentes hajtóművek, pneumatika, hidraulika. _E-mail címe:_ farkas.zsolt@gt3.bme.hu
+
+**Nagy Dániel**: Gépészeti modellezés szakon MSc. hallgató a BME-n. Kutatási területe a GPU-val gyorsított numerikus módszerek alkalmazása a gépészetben. _Email címe_: nagyd@edu.bme.hu
 
 
 
