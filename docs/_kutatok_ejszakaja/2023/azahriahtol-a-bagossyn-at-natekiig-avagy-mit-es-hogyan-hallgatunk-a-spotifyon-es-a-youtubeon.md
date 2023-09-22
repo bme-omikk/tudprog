@@ -9,7 +9,7 @@ tud_eloadok: Tófalvy Tamás
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GTK Q épület, B 402-es terem
-tud_idopont: 2023. szeptember 29. 15:00-17:00
+tud_idopont: 2023. szeptember 29. 16:00-16:45
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
