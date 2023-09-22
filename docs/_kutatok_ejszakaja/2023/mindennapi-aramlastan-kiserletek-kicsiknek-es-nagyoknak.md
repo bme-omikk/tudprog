@@ -5,16 +5,18 @@ tud_intezmeny: BME GPK, Hidrodinamikai Rendszerek Tanszék
 tud_intezmeny_rovid: GPK
 title: Mindennapi áramlástan, kísérletek kicsiknek és nagyoknak
 tud_programfelelos: Gulyás András
-tud_eloadok: Till Sára
+tud_eloadok: Till Sára, Gyürki Dániel, Friedrich Péter, Krähling Péter
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online:
-tud_helyszin: 1111 Budapest Bertalan Lajos utca 7. , L épület, Hidrodinamikai Rendszek Tanszék Laboratórium
+tud_helyszin: BME L épület, Hidrodinamikai Rendszek Tanszék Laboratórium; 1111 Budapest Bertalan Lajos utca 7.,
 tud_idopont: 2023. szeptember 29. 18.00-22.00 folyamatosan.
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
 date:  2023-03-27
 ---
+
+**Gulyás András**: Okleveles gépészmérnök (MSc), jelenleg laborvezetőként dolgzik a HDR Tanszéken. Fő szakterülete az áramlástani méréstechnika
 
 **Till Sára** okleveles ipari termék- és formatervező mérnök, jelenleg a HDR Tanszéken tanársegédként dolgozik. Fő szakterületei a nemnewtoni folyadékok vizsgálata áramlástechnikai gépek esetében valamint hemodinamikai (véráramlás) kutatások. 
 
