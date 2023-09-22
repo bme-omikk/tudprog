@@ -8,11 +8,11 @@ tud_programfelelos: Dr. Bíró-Szigeti Szilvia
 tud_eloadok: Dr. Bíró-Szigeti Szilvia, Dr. Iványi Tamás, Dr. Molnár Bálint, Dr. Szalkai Zsuzsanna, Dr. Veres István
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME Q épület, Bp., Magyar Tudósok Körútja 2. 
+tud_helyszin: BME Q épület QBF08 terem, Bp., Magyar Tudósok Körútja 2. 
 tud_idopont: 2023. szeptember 29. 17.00-18.00
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/muegyetemi-marketing-kulisszatitkok-ha-a-bme-ember-lenne
+tud_regisztracio: 
 tud_url: 
-tud_reg: igen, nem
+tud_reg: nem, nem
 date:  2023-03-27
 ---
 
