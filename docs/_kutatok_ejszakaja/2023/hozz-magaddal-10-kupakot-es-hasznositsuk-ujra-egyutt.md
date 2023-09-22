@@ -23,4 +23,6 @@ date:  2023-03-27
 
 Az esemény során a látogatók megismerkedhetnek a műanyagok mechanikai újrahasznosításának lépéseivel, láthatják, hogy milyen termékek készülhetnek az összegyűjtött szelektív hulladékból. Emellett a látogatók átfogó képet kaphatnak a biopolimerekről, illetve ezek komposztálhatóságáról.  A program kapcsolódik a Polimertechnika Tanszék MT épületi laboratóriumában "Kompozit 3D nyomtatás: játékszer vagy a jövő?" címmel megrendezésre kerülő programhoz.
 
+**Az egyes labortevékenységek bizonyos esetekben erősebb szag- és hanghatással járhatnak.**
+
 ![Hozz magaddal 10 kupakot és hasznosítsuk újra együtt!](images/hozz-magaddal-10-kupakot-es-hasznositsuk-ujra-egyutt.jpg)
