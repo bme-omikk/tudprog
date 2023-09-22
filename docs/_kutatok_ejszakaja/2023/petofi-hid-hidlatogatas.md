@@ -1,7 +1,7 @@
 ---
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2023
-tud_intezmeny: BME ÉMK Út és Vasútépítési Tanszék
+tud_intezmeny: BME ÉMK Hidak és Szerkezetek Tanszék
 tud_intezmeny_rovid: EMK
 title: Petőfi híd - hídlátogatás
 tud_programfelelos: Dr. Farkas György és Dr. Horváth László
