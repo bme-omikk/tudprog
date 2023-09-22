@@ -9,7 +9,7 @@ tud_eloadok: Zarka Dénes
 tud_tipus: Csak online látogatható
 tud_online: https://mti-bme.adobeconnect.com/disco-vet
 tud_helyszin: 
-tud_idopont: 2023. szeptember 30. 10:00-11:00
+tud_idopont: 2023. szeptember 30. 10:00-10:30
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
