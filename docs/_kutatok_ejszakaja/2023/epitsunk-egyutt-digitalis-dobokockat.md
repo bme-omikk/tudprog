@@ -8,7 +8,7 @@ tud_programfelelos: Bátorfi Réka
 tud_eloadok: Takács Gergő, Havellant Gergő
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111 Budapest, Egry József u. 18. (BME ""V1"" épület) alagsor, BME ETT laboratóriumok
+tud_helyszin: BME V1 épület alagsor, BME ETT laboratóriumok; 1111 Budapest, Egry József u. 18. 
 tud_idopont: 2023. szeptember 29. 18.00-19.00; 19.00-20.00; 20.00-21.00; 21.00-22.00
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/epitsunk-egyutt-digitalis-dobokockat 
 tud_url: 
