@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Víg Zoltán
 tud_eloadok: Dr. Lőrincz Viktor, Dr. Víg Zoltán
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: Egyeztetés alatt
+tud_helyszin: BME Q épület, QBF09 terem
 tud_idopont: 2023. szeptember 29. 16.00-17.00
 tud_regisztracio: 
 tud_url: 
