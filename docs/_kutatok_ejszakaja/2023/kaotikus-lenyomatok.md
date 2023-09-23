@@ -4,7 +4,7 @@ tud_title:  Kutatók éjszakája 2023
 tud_intezmeny: BME TTK, Nukleáris Technika Tanszék
 tud_intezmeny_rovid: TTK
 title: Kaotikus lenyomatok
-tud_programfelelos: Vranek Hedvig, Dr. Károlyi György, Művészeti Rezidenciaprogram
+tud_programfelelos: Dr. Károlyi György
 tud_eloadok: Hajas Katinka
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
@@ -22,4 +22,5 @@ date:  2023-03-27
 
 Az érdeklődők ezen a programon egy réges-régi festési technikát próbálhatnak ki. A marbling, azaz vízmárványozás, egy ősi mintázási mód, amelyet eredetileg a keleti kultúrák könyvkötészetében alkalmaztak. Ma ezt már önálló művészeti formaként használják a víz tetején lebegő festékkel való mintázásra. A marbling technikával készített alkotások sohasem lesznek egyformák, egyszeri és megismételhetetlen mivoltuk adja a lenyomatok szépségét és egyedi karakterét. A márványra jellemző erezett minták hátterében a folyadékok kaotikus keveredése áll. A káosz lényege a kezdőhelyzetre való nagy fokú érzékenység, emiatt távolodnak egymástól a festékszemcsék, és szálas mintázatokat rajzolnak ki a keverés során. A kaotikus keveredés garantálja a kialakuló márványos minták egyediségét.
 
+Ezen a programon a Budapesti Műszaki és Gazdaságtudományi Egyetem Művészeti Rezidenciaprogramja mutatkozik be, melynek keretében a BME kutatói művészekkel működnek együtt, hogy feltárják a különböző tudásterületek kapcsolódási pontjait. 
 
