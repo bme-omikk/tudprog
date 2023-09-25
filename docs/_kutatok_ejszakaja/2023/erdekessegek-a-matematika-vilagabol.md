@@ -5,7 +5,7 @@ tud_intezmeny: BME TTK Matematikai Intézet
 tud_intezmeny_rovid: TTK
 title: Érdekességek a matematika világából
 tud_programfelelos: Eper Miklós
-tud_eloadok: Rácz Péter
+tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: K épület Aula
