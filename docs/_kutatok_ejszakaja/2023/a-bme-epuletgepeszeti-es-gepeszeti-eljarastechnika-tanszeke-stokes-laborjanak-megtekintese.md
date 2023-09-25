@@ -5,7 +5,7 @@ tud_intezmeny: BME GPK Épületgépészeti és Gépészeti Eljárástechnika Tan
 tud_intezmeny_rovid: GPK
 title: A BME Épületgépészeti és Gépészeti Eljárástechnika Tanszéke Stokes Laborjának megtekintése
 tud_programfelelos: Dr. Szánthó Zoltán
-tud_eloadok: Dr. Szánthó Zoltán; Dr. Hégely László, Dr. Varju Evelin, Érczes Norbert, Horváth Dániel
+tud_eloadok: Dr. Szánthó Zoltán; Dr. Hégely László, Dr. Varju Evelin, Érczes Norbert, Horváth Dániel, Dr. Poós Tibor
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Épületgépészeti és Gépészeti Eljárástechnika Tanszék Stokes Laborja; D.Csarnok épület; bejárat a déli terület sétánya felől
