@@ -1,15 +1,15 @@
 ---
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2023
-tud_intezmeny: 
-tud_intezmeny_rovid: 
+tud_intezmeny: BME KJK, Gépjárműtechnológia Tanszék
+tud_intezmeny_rovid: KJK
 title: Mikro méretű szenzorok az autóiparban
 tud_programfelelos: Holczer Eszter 
 tud_eloadok: Holczer Eszter
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Egyeztetés alatt
-tud_idopont:  Egyeztetés alatt
+tud_idopont:  2023. szeptember 29. 16:00-18:00
 tud_regisztracio: 
 tud_url: 
 tud_reg: 
