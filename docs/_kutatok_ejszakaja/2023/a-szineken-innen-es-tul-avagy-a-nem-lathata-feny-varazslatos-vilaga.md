@@ -34,3 +34,4 @@ módszereket.
 
 _A program a 2019-1.3.1-KK-2019-00004 számú projekt a Nemzeti Kutatási Fejlesztési és Innovációs Alapból biztosított támogatással, a 2019-1.3.1-KK pályázati program finanszírozásában valósult meg._
 
+![A színeken innen és túl – avagy a nem látható fény varázslatos világa](images/a-szineken-innen-es-tul.jpg)
