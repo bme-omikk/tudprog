@@ -13,7 +13,7 @@ A BME Vegyészmérnöki és Biomérnöki Karának biomérnök MSc hallgatója.
 <td>
 
 <div class="gallery">
-    <img src="images/Mocz_Marton.jpg" max-width="250" max-height="200">
+    <img src="images/Mocz_Marton2.jpg" max-width="250" max-height="200">
   <div class="desc">Mócz Márton</div>
 </div>
 
