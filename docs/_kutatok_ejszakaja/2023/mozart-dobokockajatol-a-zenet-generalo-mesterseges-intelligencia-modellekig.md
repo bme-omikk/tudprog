@@ -8,7 +8,7 @@ tud_programfelelos: Forstner Bertalan, Grad-Gyenge Anikó, Szigetvári Andrea
 tud_eloadok: Grad-Gyenge Anikó
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME Q épület A szárny, földszint 15 terem (QAF15)
+tud_helyszin: BME K épület földszint 
 tud_idopont: 2023. szeptember 29. 18:00 - 19:30
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mozart-dobokockajatol-a-zenet-generalo-mesterseges-intelligencia-modellekig
 tud_url: 
