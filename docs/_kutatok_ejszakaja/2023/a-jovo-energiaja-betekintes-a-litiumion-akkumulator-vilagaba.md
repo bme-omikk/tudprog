@@ -8,8 +8,8 @@ tud_programfelelos: Dr. Höfler Lajos
 tud_eloadok: Dr. Höfler Lajos
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: Egyeztetés alatt
-tud_idopont: 2023. szeptember 29. 
+tud_helyszin: BME Ch épület, A10 terem
+tud_idopont: 2023. szeptember 29. 18:00-19:30
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, 200
