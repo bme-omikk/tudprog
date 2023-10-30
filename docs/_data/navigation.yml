@@ -2,10 +2,12 @@
   url: /
 - title: Magyar Tudomány Ünnepe a BME-n
   url: 
-- title: Programok 2022
-  url: /tudunnep/2022
+- title: Programok 2023
+  url: /tudunnep/2023
 - title: Archívum
   sublinks:
+    - title: 2023
+      url: /tudunnep/2023/
     - title: 2022
       url: /tudunnep/2022/
     - title: 2021
