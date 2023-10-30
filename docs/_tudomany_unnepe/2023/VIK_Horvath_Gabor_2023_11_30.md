@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Mesterséges intelligencia, hálózatok és kommunikáció
 tud_tipus: Workshop, konferencia
 tud_tudomanyterulet: Műszakitudományok, Informatika
