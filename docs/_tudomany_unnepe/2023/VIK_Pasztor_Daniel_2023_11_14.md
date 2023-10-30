@@ -1,5 +1,4 @@
 ---
-layout collection
 title: Cross-platform mobil fejlesztés Flutterben
 tud_tipus: Előadás
 tud_tudomanyterulet: Alkalmazott informatika
