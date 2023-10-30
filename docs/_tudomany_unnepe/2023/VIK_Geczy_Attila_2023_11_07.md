@@ -12,6 +12,8 @@ date: 2023-11-07 15:00-16:00
 ---
 A BME-ETT részvételével zajló METIS (MicroElectronics Training, Industry and Skills) projekt céljául tűzte ki, hogy az elektronikai- és mikroelektronikai ipari készségek fókuszával, és a rendelkezésre álló tudásanyag frissítésével, bővítésével a jövő nemzedékek és a jelenlegi mérnökállomány versenyképességét növelje az EU-ban.
 A meghirdetett nyílt, online workshopunk bemutatja majd a projekt eredményeit, kiemelten a tanszéken és a konzorcium többi tagja által készült oktatási anyagokat. Ezek az ipari dolgozók és az egyetemi hallgatók számára is hasznos alapot adhatnak tudásuk megszerzésére.
+
 Az eseményünk csatlakozik a Magyar Tudomány Ünnepéhez, amelynek idei témája a "Tudomány: válaszok a globális kihívásokra". A projekt eredményei a fenntarthatósági SDG célok közül az SDG4-es számú "minőségi oktatás" tématerülethez csatlakozik.
+
 A METIS projekt Erasmus+ szerződésszáma:
 METIS 612339-EPP-1-2019-1-DE-EPPKA2-SSA-B.
