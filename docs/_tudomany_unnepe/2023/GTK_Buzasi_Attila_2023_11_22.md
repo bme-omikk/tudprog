@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Gondolatok a fenntarthatóságról – László Ervin „A tudatos fejlődés útja” c. könyve alapján
 tud_tipus: Konferencia
 tud_tudomanyterulet: Gazdaság- és társadalomtudományok
