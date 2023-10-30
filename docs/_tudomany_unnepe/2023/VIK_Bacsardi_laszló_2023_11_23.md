@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Kihívások nyomában Kvantuminformatika és kvantumkommunikáció a BME VIK-en
 tud_tipus: Workshop
 tud_tudomanyterulet: Műszaki, informatikai
