@@ -1,5 +1,4 @@
 ---
-layout collection
 title: Felhő szolgáltatások – Mennyire támaszkodjunk a felhőre?
 tud_tipus: Szimpózium
 tud_tudomanyterulet: Műszaki, informatikai
@@ -14,11 +13,19 @@ Egyre felhősebb az infokommunikációs világ de attól még derűs! (“Borúr
 
 A helyi hardver helyett a hálózati és informatikai funkcionalitás mindinkább a felhőbe vándorol.  Távolabb kerül a felhasználótól, de sokkal jobb erőforrás kihasználtságot, nagyobb rugalmasságot, talán hosszú távon kisebb költséget igér.
 Előadásaink ennek kihívásaira és kockázataira is felhívják a figyelmet.
+
 •	Cloud Native 5G, 6G - Seres Gergő, Kovács Benedek
+
 •	Dinamikus hálózati erőforrás menedzselés felhőben - Fazekas Péter
+
 •	Országos és Európai kutatási felhő hálózat - Kacsuk Péter
+
 •	Felhőbe vezető út: Hálózati forgalom áthelyezése P4 kapcsolókban - Pekár Adrián
+
 •	Felhőalkalmazások - Sonkoly Balázs
-•	Felhő-erőforrás menedzsment - Toka László 
+
+•	Felhő-erőforrás menedzsment - Toka László
+
 •	SafeLib: hálózati funkciók biztonságos kiszervezése a felhőbe - Biczók Gergely
+
 •	Kerekasztal beszélgetés
