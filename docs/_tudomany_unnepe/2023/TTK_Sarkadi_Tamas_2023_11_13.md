@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Sarkadi Tamás (BME TTK) Összefonódott fotonpár források tervezése és építése
 tud_tipus: Előadás
 tud_tudomanyterulet: természettudományok, fizika
