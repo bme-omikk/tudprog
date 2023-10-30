@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: A SPATIOTEMPORAL MODEL OF GPCR-G PROTEIN INTERACTIONS
 tud_tipus: Előadás
 tud_tudomanyterulet: Matematika, kémia, fizika
