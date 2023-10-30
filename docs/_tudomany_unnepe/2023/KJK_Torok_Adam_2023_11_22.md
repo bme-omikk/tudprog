@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Közlekedés és Tudomány
 tud_tipus: Előadás, tudományos ülés
 tud_tudomanyterulet: Közlekedés és Járműtudomány
