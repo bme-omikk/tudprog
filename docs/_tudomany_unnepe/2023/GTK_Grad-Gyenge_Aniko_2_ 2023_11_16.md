@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Az Internetes Jogtudományi Enciklopédia Szerzői jog és iparjogvédelem rovatának harmadik műhelyvitája 
 tud_tipus: Hibrid konferencia
 tud_tudomanyterulet: Jogtudomány
