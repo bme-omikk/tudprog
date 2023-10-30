@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: I. Imre Sándor Neveléstudományi Konferencia – Oktatás egy változó világban
 tud_tipus: Konferencia
 tud_tudomanyterulet: Neveléstudomány
