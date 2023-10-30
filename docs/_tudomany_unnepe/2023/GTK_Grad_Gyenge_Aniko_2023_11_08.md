@@ -1,5 +1,4 @@
 ---
-layout collection
 title: BME Gazdaság- és Társadalomudományi Kar Tudomány Napja
 tud_tipus: Előadás
 tud_tudomanyterulet: Társadalomtudományok
