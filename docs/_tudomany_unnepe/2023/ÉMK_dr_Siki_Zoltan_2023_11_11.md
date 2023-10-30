@@ -1,5 +1,4 @@
 ---
-layout collection
 title: Mérnökgeodézia Konferencia 2023
 tud_tipus: Konferencia
 tud_tudomanyterulet: Geodézia, mérnökgeodézia
