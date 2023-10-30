@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: METIS4Skills – a jövő mikroelektronikai iparának készségeiről és tudásáról
 tud_tipus: Workshop
 tud_tudomanyterulet: Elektronika, Mikroelektronika, Oktatás Fenntarthatóság SDG4 „minőségi oktatás”
