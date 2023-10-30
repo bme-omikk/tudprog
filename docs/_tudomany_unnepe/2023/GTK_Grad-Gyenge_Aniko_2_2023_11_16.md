@@ -8,7 +8,7 @@ tud_idopont: 2023. november 16. 14:00 – 18:00
 tud_helyszin: BME Q épület QB 404. terem (1117.Budapest,Magyar tudósok krt. 2.), és az Online tér 
 tud_intezmeny: BME GTK, ORAC Kiadó, Társadalomtudományi Kutatóközpont Jogtudományi Intézet
 tud_kapcsolattarto: Dr. Grad-Gyenge Anikó grad-gyenge.aniko@gtk.bme.hu +36 30 5641 675
-tud_url: https://ijoten.hu/uploads/Szerzoi_jog_es_iparjogvedelem_3(1).pdf 
+tud_url: https:\\www.gtk.bme.hu 
 date: 2023-10-16
 ---
 PROGRAM
