@@ -1,4 +1,4 @@
----
+
 
 title: "Faraday után szabadon" - fizikai kísérletező előadás középiskolásoknak
 tud_tipus: előadás, kísérleti bemutató
