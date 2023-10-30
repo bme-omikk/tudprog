@@ -1,6 +1,6 @@
 ---
 
-title: "Faraday után szabadon" - fizikai kísérletező előadás középiskolásoknak
+title: Faraday után szabadon - fizikai kísérletező előadás középiskolásoknak
 tud_tipus: előadás, kísérleti bemutató
 tud_tudomanyterulet: természettudományok, fizika
 tud_idopont: 2023. november 29. 12:15-13:45
