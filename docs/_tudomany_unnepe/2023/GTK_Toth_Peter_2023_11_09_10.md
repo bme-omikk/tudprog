@@ -14,7 +14,7 @@ Konferenciánkkal a neveléstudomány és rokon területein tevékenykedő junio
 Kiemelt küldetésünknek tartjuk teret adni a Kárpát-medencei magyar tannyelvű pedagógusképző intézmények oktatóinak és kutatóinak, hogy bemutathassák legfrissebb kutatási eredményeiket.
 Fontos feladatunknak tekintjük továbbá a doktoranduszok kutatómunkájának segítését, ezért lehetőséget kínálunk arra, hogy vitára bocsáthassák legfrissebb kutatási eredményeiket, hozzájárulva ez által is tudományos fejlődésükhöz.
 Tervezett szekciók:
-	Fejlődési tendenciák az oktatásban
-	Oktatáskutatások
-	Innováció a képzésben és az oktatásban
-	Oktatás határok nélkül
+-	Fejlődési tendenciák az oktatásban
+-	Oktatáskutatások
+-	Innováció a képzésben és az oktatásban
+-	Oktatás határok nélkül
