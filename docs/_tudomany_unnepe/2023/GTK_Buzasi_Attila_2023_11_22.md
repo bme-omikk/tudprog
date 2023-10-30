@@ -8,7 +8,7 @@ tud_idopont: 2023. november 22. 10:00
 tud_helyszin: BME GTK E épület, E301-es terem 1111. Budapest, Egry József utca 1.
 tud_intezmeny: BME GTK Környezetgazdaságtan és Fenntartható Fejlődés Tanszék
 tud_kapcsolattarto: Buzási Attila, buzasi.attila@gtk.bme.hu +36-1-463-1179
-tud_url: https://kornygazd.bme.hu  
+tud_url: http://kornygazd.bme.hu/hu  
 date: 2023-10-22
 ---
 A konferencia célja, hogy László Ervin idei évben megjelent, „A tudatos fejlődés útja” c. könyvében ismertetett összefüggések mentén ráirányítsuk a figyelmet a legfontosabb növekedési-fejlődési kérdésekre. Habár a fenntarthatósági diskurzusok nem újkeletűek a tudományban, a gyakorlat-orientált megközelítésmód és a fogalmi ellentmondások feloldása napjaink egyik legégetőbb kérdése.
