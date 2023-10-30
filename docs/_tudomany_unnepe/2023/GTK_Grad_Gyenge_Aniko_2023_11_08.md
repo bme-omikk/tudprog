@@ -8,7 +8,7 @@ tud_idopont: 2023. november 8. 14:00 - 17:00
 tud_helyszin: BME Q épület 1117. Budapest, Magyar tudósok körútja 2.
 tud_intezmeny: BME Gazdaság- és Társadalomtudományi Kar 
 tud_kapcsolattarto: Dr. Grad-Gyenge Anikó, grad-gyenge.aniko@gtk.bme.hu +36 30 5641 675
-tud_url: www.gtk.bme.hu 
+tud_url: https://www.gtk.bme.hu 
 date: 2023-10-08
 ---
 A Kar hagyományos módon minden év novemberében megszervezi a Tudomány Napját, amelynek célja a legaktuálisabb, a társadalomtudományokat átfogóan érintő témák közös áttekintése, meghívott előadók segítségével.
