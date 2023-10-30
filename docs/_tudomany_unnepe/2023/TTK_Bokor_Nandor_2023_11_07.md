@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Möbius-szalag és más érdekességek
 tud_tipus: Előadás
 tud_tudomanyterulet: Matematika
