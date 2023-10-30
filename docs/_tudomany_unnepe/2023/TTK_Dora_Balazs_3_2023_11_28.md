@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Szilárd Leó-Kollokvium
 tud_tipus: Előadás
 tud_tudomanyterulet: természettudományok, fizika
