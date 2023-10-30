@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Globális kihívások, lokális megoldások - interdiszciplináris kutatások a fenntarthatóság jegyében” MTA Fenntartható Fejlődés és Technológiák Nemzeti Program, BME GTK alprojekt
 tud_tipus: Konferencia
 tud_tudomanyterulet: Gazdaság- és társadalomtudományok
