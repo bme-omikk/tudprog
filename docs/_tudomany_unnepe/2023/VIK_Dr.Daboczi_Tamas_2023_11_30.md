@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Schnell László professzor emlékére – 100 éves évforduló
 tud_tipus: emlékülés
 tud_tudomanyterulet: Műszaki tudományok, villamosmérnöki és informatikai tudományok
