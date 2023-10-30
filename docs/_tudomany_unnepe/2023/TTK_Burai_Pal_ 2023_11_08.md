@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Pályaorientációs Nap
 tud_tipus: Előadás
 tud_tudomanyterulet: Matematika
