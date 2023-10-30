@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: OSCILLATIONS IN THREE-REACTION QUADRATIC MASS-ACTION SYSTEMS
 tud_tipus: Online előadás
 tud_tudomanyterulet: Matematika, kémia, fizika
