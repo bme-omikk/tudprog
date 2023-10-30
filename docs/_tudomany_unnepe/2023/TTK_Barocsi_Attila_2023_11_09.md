@@ -1,5 +1,5 @@
 ---
-layout collection
+
 title: Eötvös napok Miért nem fagy meg a madarak lába?
 tud_tipus: Előadás
 tud_tudomanyterulet: Természettudományok, fizika, biofizika
