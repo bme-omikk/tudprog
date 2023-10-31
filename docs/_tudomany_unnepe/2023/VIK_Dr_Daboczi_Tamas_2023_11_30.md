@@ -18,15 +18,15 @@ A megemlékezés célja Schnell László professzor Úr személyiségének és �
 Program:
 
 16-17 óra: kortársak megemlékezései Schnell Lászlóról, mint
- - a menedzser,
- - a mikroprocesszoros kultúra megteremtője,
- - a precíziós méréstechnika alkotó művelője, 
- - a számítástechnikai infrastruktúra megteremtője,
- - a nemzetközi kapcsolatrendszert építő tudós,
- - a mindenre odafigyelés mestere.
+- a menedzser,
+- a mikroprocesszoros kultúra megteremtője,
+- a precíziós méréstechnika alkotó művelője, 
+- a számítástechnikai infrastruktúra megteremtője,
+- a nemzetközi kapcsolatrendszert építő tudós,
+- a mindenre odafigyelés mestere.
 
 17-18 óra: kötetlen beszélgetés
 
 A rendezvény házigazdái: 
-Prof. Dabóczi Tamás, BME-MIT tanszékvezető és 
-Prof. Péceli Gábor, az MTA rendes tagja
+- Prof. Dabóczi Tamás, BME-MIT tanszékvezető és 
+- Prof. Péceli Gábor, az MTA rendes tagja
