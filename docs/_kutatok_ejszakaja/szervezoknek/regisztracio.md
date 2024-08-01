@@ -2,8 +2,8 @@
 layout: page_kutej_szervezoknek
 tud_idopont: 0
 tud_slogen: Jövőformáló tudomány
-tud_title: Kutatók éjszakája 2023
-date: 2023-02-27
+tud_title: Kutatók éjszakája 2024
+date: 2024-02-27
 ---
 
 **Kutatók Éjszakája szervezői regisztráció**

@@ -2,8 +2,8 @@
   url: /
 - title: Kutatók éjszakája a BME-n
   url: 
-- title: Programok 2023
-  url: /kutej/2023
+- title: Programok 2024
+  url: /kutej/2024
 - title: Szervezőknek
   url: /kutej/szervezoknek/regisztracio
 - title: Archívum
@@ -14,4 +14,6 @@
       url: /kutej/2021/
     - title: 2022
       url: /kutej/2022/
+    - title: 2023
+      url: /kutej/2023/
     
