@@ -8,7 +8,7 @@ tud_title: Kutatók éjszakája 2024
 ---
 BME Mechatronika, Optika és Gépészeti Informatika Tanszék
 
-*Kutatási terület:** színtévesztés korrigálása, műszaki optika
+**Kutatási terület:** színtévesztés korrigálása, műszaki optika
 
 
 Ábrahám professzor 25 éves kutatási munkájának eredményeképpen 2021-ben a világpiacra kerülnek a színtévesztést korrigáló magyar gyártmányú színszűrős szemüvegek. 
