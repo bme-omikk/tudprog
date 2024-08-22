@@ -4,8 +4,13 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr.habil Ábrahám György prof. emeritus, az MTA doktora
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2024
 ---
+BME Mechatronika, Optika és Gépészeti Informatika Tanszék
+
+*Kutatási terület:** színtévesztés korrigálása, műszaki optika
+
+
 Ábrahám professzor 25 éves kutatási munkájának eredményeképpen 2021-ben a világpiacra kerülnek a színtévesztést korrigáló magyar gyártmányú színszűrős szemüvegek. 
 
 
