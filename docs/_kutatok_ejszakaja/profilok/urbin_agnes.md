@@ -4,7 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Urbin Ágnes
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2024
 ---
 
 
@@ -15,7 +15,7 @@ Urbin Ágnes a Mechatronika, Optika és Gépészeti Informatika Tanszék adjunkt
 <td>
 
 <div class="gallery">
-    <img src="images/urbin_agnes.jpg" max-width="250" max-height="200">
+    <img src="images/urbin_agnes.png" max-width="250" max-height="200">
   <div class="desc">Urbin Ágnes</div>
 </div>
 
