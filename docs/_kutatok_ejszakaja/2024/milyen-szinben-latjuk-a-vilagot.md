@@ -13,7 +13,7 @@ tud_idopont: 2024. szeptember 27. 19:00-19:20, 19:30-19:50, 20:00-20:20, 20:30-2
 tud_regisztracio: 
 tud_url: 
 tud_reg: igen, 6 fő turnusonként
-date:  2023-03-27
+date:  2024-08-27
 ---
 
 **Nagy Balázs Vince** a Mechatronika, Optika és Gépészeti Informatika Tanszék docense. Kutatási területe a műszaki optika, a színek fizikája, szubjektív észlelése.
