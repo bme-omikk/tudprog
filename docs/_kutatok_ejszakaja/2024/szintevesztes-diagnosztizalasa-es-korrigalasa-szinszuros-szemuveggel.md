@@ -13,7 +13,7 @@ tud_idopont:  2024. szeptember 27.  16:00 - 21:00  15 percenként 1 fő + kísé
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, 1 fő + kísérő
-date:  2023-03-27
+date:  2024-08-27
 ---
 
 
