@@ -13,7 +13,7 @@ tud_idopont: 2024. szeptember 27. 17:00-20:45
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
-date:  2023-03-27
+date:  2024-08-27
 ---
 
 
