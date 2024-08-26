@@ -4,10 +4,10 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Samu Krisztián
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2024
 ---
 
-BME, Mechatronika, Optika és Gépészeti Informatika Tsz., egyetemi docens
+BME, Mechatronika, Optika és Gépészeti Informatika Tanszék, egyetemi docens
 Kutatási területe: elektronikus képmegjelenítők színtani tulajdonságai, színméréstechnika, megjelenítők színtévesztésdiagnostikai felhasználása.
 
 
