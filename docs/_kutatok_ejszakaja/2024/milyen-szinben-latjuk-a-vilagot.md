@@ -21,7 +21,7 @@ date:  2023-03-27
 **Urbin Ágnes** a Mechatronika, Optika és Gépészeti Informatika Tanszék adjunktusa. Kutatási területe a színlátás, azon belül a kromatikus adaptáció és hatásai.
 
 
-Mi a szín? Hogyan változik a tárgyak színe különböző környezetekben? Mi történik a tárgyak színével, ha színes LED-ek fénye alatt nézzük őket? 
+**Mi a szín? Hogyan változik a tárgyak színe különböző környezetekben? Mi történik a tárgyak színével, ha színes LED-ek fénye alatt nézzük őket?** 
 
 Keressük együtt a válaszokat a MOGI Tanszék optika laborjaiban, ahol érdekes kísérletekkel és vizsgálatokkal várjuk az érdeklődőket.
 
