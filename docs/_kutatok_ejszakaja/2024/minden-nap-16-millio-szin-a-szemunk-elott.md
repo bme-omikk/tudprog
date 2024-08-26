@@ -13,7 +13,7 @@ tud_idopont:  2024. szeptember 27. 17:30-18:00, 18:30-19:00, 19:30-20:00
 tud_regisztracio: 
 tud_url: 
 tud_reg: igen, összesen 30 fő - turnusonként 10 fő
-date:  2023-03-27
+date:  2024-08-27
 ---
 
 **Dr. Samu Krisztián**: Kutatási területe az elektronikus képmegjelenítők színtani tulajdonságai, színméréstechnika, megjelenítők színtévesztésdiagnostikai felhasználása.
