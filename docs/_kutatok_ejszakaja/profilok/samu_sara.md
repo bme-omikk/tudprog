@@ -4,11 +4,12 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Samu Sára
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2024
 ---
 
-II. Rákóczi Ferenc Gimnázium, Budapest, 11. osztályos tanulója
-Öntevékeny diák kutatási tevékenység: színtévesztés diagnosztika és korrekció népszerűsétése (Orchidea Science Award, 1. helyezés)
+II. Rákóczi Ferenc Gimnázium, Budapest, 12. osztály
+
+Öntevékeny diák kutatási tevékenység: színtévesztés diagnosztika és korrekció népszerűsétése (Orchidea Science Award, 1. helyezés), TDK dicséret
 
 
 
