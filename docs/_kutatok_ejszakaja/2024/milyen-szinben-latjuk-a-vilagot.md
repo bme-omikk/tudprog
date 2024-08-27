@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME D épület, 5. emelet, 503. labor
 tud_idopont: 2024. szeptember 27. 19:00-19:20, 19:30-19:50, 20:00-20:20, 20:30-20:50, 21:00-21:20, 21:30-21:50
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/milyen-szinben-latjuk-a-vilagot-1
 tud_url: 
 tud_reg: igen, 6 fő turnusonként
 date:  2024-03-27
