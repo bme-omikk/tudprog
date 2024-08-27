@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME D. épület 4. em. 401. terem
 tud_idopont: 2024. szeptember 27. 18:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/a-szintevesztes-oka-es-korrigalasa-szinszuros-szemuveggel-1
 tud_url: 
 tud_reg: igen, 56 fő
 date:  2024-03-27
