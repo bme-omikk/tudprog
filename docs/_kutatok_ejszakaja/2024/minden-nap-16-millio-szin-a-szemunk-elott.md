@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME, D. épület, 5. emelet, 507. laboratórium 
 tud_idopont:  2024. szeptember 27. 17:30-18:00, 18:30-19:00, 19:30-20:00 
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/mindennap-16-millio-szin-a-szemunk-elott
 tud_url: 
 tud_reg: igen, összesen 30 fő - turnusonként 10 fő
 date:  2024-03-27
