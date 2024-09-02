@@ -21,3 +21,6 @@ date:  2024-08-27
 Milyen hatással vannak az európai uniós fordítások a magyar szaknyelvre és terminológiára?  Hogyan lehet erősíteni a hazai kutatásokat és a kapcsolódási pontokat a kutatók, a szakemberek, fordítók és a tolmácsok között?  A Translating Europe sorozat részeként ezeket a kérdéseket járjuk körbe.
 
 [BME Idegen Nyelvi Központ Tolmács- és Fordítóképző Központ konferenciái >>](http://tfk.bme.hu/konferenciak) 
+
+
+![Terminológiai együttműködések itthon és az EU-ban](../2024/images/oterminologiai-egyuttmukodesek-itthon-es-az-eu-ban.jpg)
