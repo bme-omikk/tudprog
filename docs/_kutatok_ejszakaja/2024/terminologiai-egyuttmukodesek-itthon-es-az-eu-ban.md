@@ -9,7 +9,7 @@ tud_eloadok:
 tud_tipus: Személyes jelenléttel és online is látogatható
 tud_online: http://tfk.bme.hu/konferenciak
 tud_helyszin: 1117 Budapest, Magyar tudósok körútja 2., Q épület B szárny, 4. emelet, 404 terem (QB404)
-tud_idopont: 2023. szeptember 27. 16:20
+tud_idopont: 2024. szeptember 27. 16:20
 tud_regisztracio: 
 tud_url: 
 tud_reg: igen, nem
