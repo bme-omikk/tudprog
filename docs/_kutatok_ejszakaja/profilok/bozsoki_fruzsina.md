@@ -1,9 +1,9 @@
 ---
 layout: page_kutej_profilok
 tud_idopont: 0
-kutej_programfelelos_eloado: Bozsoki Fruzsina
+kutej_programfelelos_eloado: 
 kutej_programfelelos: 
-kutej_eloado:
+kutej_eloado: Bozsoki Fruzsina
 tud_title: Kutatók éjszakája 2024
 ---
 PhD hallgató, Környezetgazdaságtan és Fenntartható Fejlődés Tanszék
