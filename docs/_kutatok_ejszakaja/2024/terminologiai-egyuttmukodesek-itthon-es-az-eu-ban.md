@@ -10,7 +10,7 @@ tud_tipus: Személyes jelenléttel és online is látogatható
 tud_online: http://tfk.bme.hu/konferenciak
 tud_helyszin: 1117 Budapest, Magyar tudósok körútja 2., Q épület B szárny, 4. emelet, 404 terem (QB404)
 tud_idopont: 2024. szeptember 27. 16:20-17:30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/terminologiai-egyuttmukodesek-itthon-es-az-eu-ban
 tud_url: 
 tud_reg: igen, nem
 date:  2024-08-27
