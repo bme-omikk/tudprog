@@ -4,11 +4,11 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Bozsoki Fruzsina
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2024
 ---
 PhD hallgató, Környezetgazdaságtan és Fenntartható Fejlődés Tanszék
 
-A BME-VBK környezetmérnök alapszak elvégzése után a regionális és környezeti gazdaságtan mesterszakon folytattam tanulmányaimat. Miután megszereztem mesterdiplomámat, megkezdtem PhD tanulmányaimat. Jelenleg harmadéves vagyok a BME Környezetgazdaságtan és Fenntartható Fejlődés Tanszékén, kutatási témám a barnamezős területek revitalizációs megoldásainak vizsgálata fenntarthatósági szempontból, továbbá ehhez kacsolódóan a városi élhetőség vizsgálata.
+Bozsoki Fruzsina alapképzését tekintve környezetmérnök, mestertanulmányait a BME GTK regionális és környezeti gazdaságtan mesterképzésén végezte, jelenleg a Budapesti Műszaki és Gazdaságtudományi Egyetem Környezetgazdaságtan és Fenntartható Fejlődés Tanszékének PhD hallgatója, kutatója. Kutatási témái a városi barnamezős területek revitalizációja és a városi fenntarthatóság. A 2024/2025-ös tanévben Egyetemi Kutatói Ösztöndíj Program ösztöndíjas.
 
  <table class="picture">
 <tr>
