@@ -14,7 +14,7 @@ kutej_eloado: Dr. Forstner Bertalan
 <td>
 
 <div class="gallery">
-    <img src="images/Forstner_Bertalan.jpg" max-width="250" max-height="200">
+    <img src="images/Forstner_Bertalan.jpg" max-width="300" max-height="200">
   <div class="desc">Dr. Forstner Bertalan</div>
 </div>
 
