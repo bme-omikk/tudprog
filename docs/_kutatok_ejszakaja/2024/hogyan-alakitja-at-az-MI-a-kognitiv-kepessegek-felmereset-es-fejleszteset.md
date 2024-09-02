@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Q épület, Magyar Tudósok krt. 2., QBF15 terem
 tud_idopont: 2024. szeptember 27. 16.00-17.30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem[…]kognitiv-kepessegek-felmereset-es-fejleszteset
 tud_url: 
 tud_reg: igen, 50 fő
 date:  2024-08-27
