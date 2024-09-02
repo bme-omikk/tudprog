@@ -1,8 +1,8 @@
 ---
 layout: page_kutej_profilok
 tud_idopont: 0
-kutej_programfelelos_eloado: 
-kutej_programfelelos: Dr. Szabó Mariann
+kutej_programfelelos_eloado: Dr. Szabó Mariann
+kutej_programfelelos: 
 kutej_eloado:
 tud_title: Kutatók éjszakája 2024
 ---
