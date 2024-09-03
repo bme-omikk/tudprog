@@ -1,7 +1,7 @@
 ---
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
-tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
+tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék; HUN-REN SZTAKI
 tud_intezmeny_rovid: KJK
 title: Ön vezet vagy „önvezet”? Avagy ismerkedés az önvezető járművekkel.
 tud_programfelelos: Dr. Aradi Szilárd
