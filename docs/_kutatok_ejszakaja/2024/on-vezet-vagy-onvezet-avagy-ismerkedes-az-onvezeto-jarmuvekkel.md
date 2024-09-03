@@ -25,4 +25,6 @@ date:  2024-03-27
 
 A látogatók megtekinthetik az Autonóm Rendszerek Nemzeti Laboratórium által fejlesztett Lexus RX450h önvezető tesztautót, amellyel egy automatizált „valet parking” funkció kerül bemutatásra. Emellett kötetlen beszélgetést folytathatnak szakértőinkkel az önvezető járművek fejlesztéséről.
 
+*A bemutatott kutatás a [HUN-REN SZTAKI-val](https://sztaki.hun-ren.hu/) közös eredmény.*
+
 ![Ön vezet vagy „önvezet”? Avagy ismerkedés az önvezető járművekkel.](../2024/images/on-vezet-vagy-onvezet-avagy-ismerkedes-az-onvezeto-jarmuvekkel.jpg)
