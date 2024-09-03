@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Böcskei Elvira
 tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME GTK Q épület, Magyar tudósok körútja 2.
+tud_helyszin: BME GTK Q épület, QA 407-es terem (Budapest, Magyar tudósok körútja 2.)
 tud_idopont: 2024. szeptember 27. 16.00-16.45
 tud_regisztracio: 
 tud_url: 
