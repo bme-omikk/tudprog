@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Műegyetem rkp 3. K. épület
 tud_idopont: 2024. szeptember 27. 17:30-19:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/lehetseges-e-a-varosban-fenntarthatoan-elni
 tud_url: 
 tud_reg: igen, 60
 date:  2024-03-27
