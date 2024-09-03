@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: Rektori Kabinet és Pro Progressio Alapítvány
-tud_intezmeny_rovid: Tovabbi programok
+tud_intezmeny_rovid: OMIKK
 title: Élet és Tudomány, Pro Progressio valamint a BME közös cikkpályázatának díjkiosztó ünnepsége és előadássorozat a Kutatók Éjszakáján
 tud_programfelelos:
 tud_eloadok: Fekete-Kertész Ildikó, Németh Krisztián, Tóth Csenge, Andorfi István, Borbás Balázs, Muskovics Gabriella
