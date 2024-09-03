@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME AE épület, 1111 Budapest, Bertalan Lajos u. 4-6.
 tud_idopont: 2024.szeptember 27. 18:00-19:00,19:00-20:00,20:00-21:00,21:00-22:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/latogatas-a-karman-todor-szelcsatorna-laboratoriumban-1
 tud_url: 
 tud_reg: igen, összesen 400 fő, turnusonként 100 fő
 date:  2024-08-27
