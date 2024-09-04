@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME T épület 515. terem
 tud_idopont: 2024. szeptember 27. 16.00-16.30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/mit-arul-el-a-szemunk-az-emlekezet-es-a-figyelem-mukodeserol-1
 tud_url: 
 tud_reg: igen, 15 fő
 date:  2024-08-27
