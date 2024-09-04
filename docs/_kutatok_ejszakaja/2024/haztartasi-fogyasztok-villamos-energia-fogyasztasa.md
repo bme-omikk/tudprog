@@ -12,7 +12,7 @@ tud_helyszin: BME V1 épület, 4. emelet, 404. terem (1111 Budapest, Egry Józse
 tud_idopont: 2024. szeptember 27. 16.00-21.00
 tud_regisztracio: 
 tud_url: 
-tud_reg: nem; A terem kapacitása 25 fő
+tud_reg: nem; egyszerre 25 fő
 date:  2024-03-27
 ---
 
