@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Baranya Sándor
 tud_eloadok: Pomázi Flóra, Verbőczyné Füstös Vivien
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: Műegyetem rakpart 3., BME Központi épületének főbejárata
+tud_helyszin: BME Központi épületének főbejárata (1111 Budapest, Műegyetem rakpart 3.)
 tud_idopont: 2024. szeptember 27. A turnus 16.00-17.00; B turnus 16.00-17.00
 tud_regisztracio: 
 tud_url: 
