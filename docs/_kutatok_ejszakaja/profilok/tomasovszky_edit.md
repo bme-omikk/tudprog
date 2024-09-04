@@ -10,7 +10,7 @@ Dr. Tomasovszky Edit 2013-ban szerzett diplomát a Debreceni Egyetem Állam- és
 Doktori kutatásait szerzői jogi témában folytatta, a szerzői jog egyik jogintézményével, a követő joggal foglalkozott. Értekezését 2021-ben védte meg. 
 Francia gazdasági és jogi szakfordítói képzettséget és Arts&Business menedzser végzettséget is szerzett. 
 Jogi előadóként és ügyvédjelöltként dolgozott, szerzői jogi, védjegyjogi és polgári jogi ügyekkel foglalkozott. 
-2022. februártól a BME-GTK Üzleti Jog Tanszék adjunktusa. Kutatási területei a szellemi tulajdonjog és a mesterségs intelligencia szellemi tulajdonjogi és polgári jogi vonatkozásai.
+2022 februártól a BME-GTK Üzleti Jog Tanszék adjunktusa. Kutatási területei a szellemi tulajdonjog és a mesterségs intelligencia szellemi tulajdonjogi és polgári jogi vonatkozásai.
 
 <table class="picture">
 <tr>
