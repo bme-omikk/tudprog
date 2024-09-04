@@ -4,7 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Havellant Gergő
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2024
 ---
 A BME Elektronikai Technológia Tanszékének MSc hallgatója, demonstrátor. Érdeklődési területei a mikrovezérlőkkel megvalósított komplett készülékek és mérőrendszerek; az elektronikai szereléstechnológiák. Jelenlegi kutatásaiban gőzfázisú forrasztóberendezéseket vizsgál különböző szenzorfúziók alkalmazásával.
 
