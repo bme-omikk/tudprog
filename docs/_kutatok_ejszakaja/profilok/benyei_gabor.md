@@ -1,12 +1,12 @@
 ---
 layout: page_kutej_profilok
-tud_title:  Kutatók éjszakája 2023
+tud_title:  Kutatók éjszakája 2024
 tud_idopont:  0
-kutej_programfelelos:
+kutej_programfelelos: Bényei Gábor
 kutej_eloado: Bényei Gábor
 ---
 
-Másodéves doktorandusz vagyok, a Figyelem és Emlékezet Kutatócsoport tagjaként érdeklődésem középpontjában a végrehajtó funkciók mögött álló folyamatok szemmozgás-követéssel történő vizsgálata áll. Kutatómunkám során a pupillometriai adatfeldolgozás lehetőséget is igyekszem feltárni. Emellett közreműködöm a PupilEXT nevű nyílt-forrású szemmozgáskövető rendszer fejlesztésében.
+A BME TTK Kognitív Tudományi Tanszék doktori hallgatója, a Figyelem és Emlékezet Kutatócsoport tagja, érdeklődése középpontjában a végrehajtó funkciók mögött álló folyamatok szemmozgás-követéssel történő vizsgálata áll.
 
 <table class="picture">
 <tr>
