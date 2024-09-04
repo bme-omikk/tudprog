@@ -18,6 +18,8 @@ date:  2024-08-27
 
 **Gulyás András**: okleveles gépészmérnök (MSc), jelenleg laborvezetőként dolgzik a HDR Tanszéken. Fő szakterülete az áramlástani méréstechnika.
 
+**Till Sára** okleveles ipari termék- és formatervező mérnök, jelenleg a HDR Tanszéken tanársegédként dolgozik. Fő szakterületei a nemnewtoni folyadékok vizsgálata áramlástechnikai gépek esetében valamint hemodinamikai (véráramlás) kutatások. 
+
 **Gyürki Dániel** okleveles gépészmérnök (MSc), jelenleg tudományos segédmunkatársként dolgozik a HDR Tanszéken. Fő kutatási területét a hemodinamikai kutatások (véráramlás) jelentik.  
 
 **Friedrich Péter** okleveles gépészmérnök (MSc), jelenleg doktoranduszként dolgozik a HDR Tanszéken. Fő kutatási területét a hemodinamikai kutatások (véráramlás) jelentik.  
