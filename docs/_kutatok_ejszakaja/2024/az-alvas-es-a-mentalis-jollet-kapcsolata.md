@@ -12,7 +12,7 @@ tud_helyszin: BME T épület 515. terem
 tud_idopont: 2024. szeptember 27. 16.45-17.15
 tud_regisztracio: 
 tud_url: 
-tud_reg: igen, 15
+tud_reg: igen, 15 fő
 date:  2024-08-27
 ---
 
