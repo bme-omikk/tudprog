@@ -1,6 +1,6 @@
 ---
 layout: page_kutej_profilok
-tud_title:  Kutatók éjszakája 2023
+tud_title:  Kutatók éjszakája 2024
 tud_idopont:  0
 kutej_programfelelos: 
 kutej_eloado: Gyürki Dániel
@@ -13,7 +13,7 @@ Okleveles gépészmérnök (MSc), jelenleg tudományos segédmunkatársként dol
 <td>
 
 <div class="gallery">
-    <img src="images/Gyurki_Daniel.jpg" max-width="250" max-height="200">
+    <img src="images/Gyurki_Daniel.png" max-width="250" max-height="200">
   <div class="desc">Gyürki Dániel</div>
 </div>
 
