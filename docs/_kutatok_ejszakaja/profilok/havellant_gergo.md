@@ -6,7 +6,7 @@ kutej_programfelelos:
 kutej_eloado: Havellant Gergő
 tud_title: Kutatók éjszakája 2024
 ---
-A BME Elektronikai Technológia Tanszékének MSc hallgatója, demonstrátor. Érdeklődési területei a mikrovezérlőkkel megvalósított komplett készülékek és mérőrendszerek; az elektronikai szereléstechnológiák. Jelenlegi kutatásaiban gőzfázisú forrasztóberendezéseket vizsgál különböző szenzorfúziók alkalmazásával.
+A BME Elektronikai Technológia Tanszékének MsC hallgatója. Érdeklődési területei a mikrovezérlőkkel megvalósított komplett készülékek és mérőrendszerek; az elektronikai szereléstechnológiák. TDK kutatás keretében foglalkozott textil maszkok szűrőképességének vizsgálatával.
 
  <table class="picture">
 <tr>
