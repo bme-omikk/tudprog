@@ -23,4 +23,4 @@ date:  2024-03-27
 
 Mi a közös egy tönkrement hajócsavar és egy hangos vízforraló között? Hogyan alakul ki egy nyíltfelszínű hullám? Kísérleti berendezéseinken bemutatjuk ezen szép, de olykor pusztító erejű áramlástani jelenségeket. 
 
-![Miért kavitál a hajócsavar és hullámzik a patak? Nézd meg csatornáinkban!](../2024/images/miert-kavital-a-hajocsavar-és hullamzik-a-patak.PNG)
+![Miért kavitál a hajócsavar és hullámzik a patak? Nézd meg csatornáinkban!](../2024/images/miert-kavital-a-hajocsavar-es-hullamzik-a-patak.PNG)
