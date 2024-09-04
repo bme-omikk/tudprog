@@ -1,6 +1,6 @@
 ---
 layout: page_kutej_profilok
-tud_title:  Kutatók éjszakája 2023
+tud_title:  Kutatók éjszakája 2024
 tud_idopont:  0
 kutej_programfelelos: Gulyás András
 kutej_eloado: 
@@ -13,7 +13,7 @@ Okleveles gépészmérnök (MSc), jelenleg laborvezetőként dolgzik a HDR Tansz
 <td>
 
 <div class="gallery">
-    <img src="images/Gulyas_Andras.jpg" max-width="250" max-height="200">
+    <img src="images/Gulyas_Andras.png" max-width="250" max-height="200">
   <div class="desc">Gulyás András</div>
 </div>
 
