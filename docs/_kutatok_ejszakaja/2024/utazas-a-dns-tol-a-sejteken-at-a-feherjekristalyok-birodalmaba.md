@@ -3,14 +3,14 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
 tud_intezmeny_rovid: VBK
-title: Utazás a DNS-től a sejteken át a fehérjekristályok birodalmába.
+title: Utazás a DNS-től a sejteken át a fehérjekristályok birodalmába
 tud_programfelelos: Dr. Békési Angéla
 tud_eloadok: Emődi Nikolett, Szajkó Milda, Cs. Nagy-Lászlóffy Júlia, Leveles Ibolya, Hirmondó Rita
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME VBK, Ch épület alagsor Biostruct labor és az előtte lévő folyosó (1111 Budapest, Szent Gellért tér 4.)
 tud_idopont: 2024. szeptember 27. 17:00-22:00, 20 perces turnusok
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/utazas-a-dns-tol-a-sejteken-at-a-feherjekristalyok-birodalmaba
 tud_url: 
 tud_reg: igen, turnusonként 8
 date:  2024-08-27
