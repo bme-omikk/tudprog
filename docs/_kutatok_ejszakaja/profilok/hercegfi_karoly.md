@@ -4,12 +4,11 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Hercegfi Károly
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2024
 ---
 
 
-1999 óta a BME Ergonómia és Pszichológia Tanszék oktatója, kutatója. Jelenleg tanszékvezető, egyetemi docens. Fő kutatási területe az ember-számítógép interakció, azon belül az empirikus kutatások módszertani palettája (mint például a szemmozgáskövetés).
-
+Dr. Hercegfi Károly 1999 óta a BME Ergonómia és Pszichológia Tanszék oktatója, kutatója. Jelenleg tanszékvezető, egyetemi docens. Fő kutatási területe az ember-számítógép interakció, azon belül az empirikus kutatások módszertani palettája.
 
  <table class="picture">
 <tr>
