@@ -5,7 +5,7 @@ tud_intezmeny: BME GPK, Polimertechnika Tanszék
 tud_intezmeny_rovid: GPK
 title: Hozz magaddal 10 kupakot és hasznosítsuk újra együtt!
 tud_programfelelos: Dr. Gere Dániel
-tud_eloadok: Dr. Gere Dániel
+tud_eloadok: Dr. Gere Dániel, Kovács Zsófia, Kohári Andrea, Görbe Ákos, Varga László József, Krizsma Szabolcs Gábor
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GPK, Polimertechnika Tanszék Laboratórium, MT épület Bertalan L. utca felőli bejárat
@@ -21,8 +21,12 @@ date:  2024-03-27
 Kutatási területe kiterjed a műanyagok mechanikai újrahasznosítására, valamint a biológiailag lebontható műanyagok komposztálhatóságára is. Emellett alapanyagok fejlesztésével, 
 ezek feldolgozhatóságával és vizsgálatával is foglalkozik. Részt vesz több ipari K+F fejlesztési projektben is.
 
-[Kovács Zsófia](http://www.pt.bme.hu/munkatarsadatlap.php?id=ek4b3z8s865j5u2c45A79qo25wm5z8Ag4A2jcubz&l=m), [Kohári Andrea](http://www.pt.bme.hu/munkatarsadatlap.php?id=72s794mv2u2s4334p785un64x2xk2g6j2fhum2h5&l=m),
-[Görbe Ákos](http://www.pt.bme.hu/munkatarsadatlap.php?id=8z5tj52s7Bt2cB6k55c737672ybk829774gc2rd9&l=m), [Varga László József](http://www.pt.bme.hu/munkatarsadatlap.php?id=9t28uf5cvB26vv649pg8dgu327494ex4mxdp6v9u&l=m)
+[Kovács Zsófia](http://www.pt.bme.hu/munkatarsadatlap.php?id=ek4b3z8s865j5u2c45A79qo25wm5z8Ag4A2jcubz&l=m),
+[Kohári Andrea](http://www.pt.bme.hu/munkatarsadatlap.php?id=72s794mv2u2s4334p785un64x2xk2g6j2fhum2h5&l=m),
+[Görbe Ákos](http://www.pt.bme.hu/munkatarsadatlap.php?id=8z5tj52s7Bt2cB6k55c737672ybk829774gc2rd9&l=m),
+[Varga László József](http://www.pt.bme.hu/munkatarsadatlap.php?id=9t28uf5cvB26vv649pg8dgu327494ex4mxdp6v9u&l=m),
+[Krizsma Szabolcs Gábor](https://pt.bme.hu/munkatarsadatlap.php?id=9e5sA7h66h6f7rwbn2bwB97u4jq543894f6mm893&l=m)
+
 
 Az esemény során a látogatók megismerkedhetnek a műanyagok mechanikai újrahasznosításának lépéseivel, láthatják, hogy milyen termékek készülhetnek az összegyűjtött szelektív hulladékból. Emellett a látogatók átfogó képet kaphatnak a biopolimerekről, illetve ezek komposztálhatóságáról.  A program kapcsolódik a Polimertechnika Tanszék MT épületi laboratóriumában "A gumiabroncsok első és sokadik élete"címmel megrendezésre kerülő programhoz.
 
