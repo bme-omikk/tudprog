@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME VBK Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
-tud_intezmeny_rovid: VBK
+tud_intezmeny_rovid: ABET
 title: Legyél te is élelmiszertudós! - Legyél te is biomérnök
 tud_programfelelos: Juhászné Dr. Szentmiklóssy Marietta
 tud_eloadok: Dr. Jaksics Edina, Muskovics Gabriella, Pisch Barnabás, Sznopka Liliána, Gasparics Kata, Szűcsné Makay Erika, Dr. Tömösközi Sándor
