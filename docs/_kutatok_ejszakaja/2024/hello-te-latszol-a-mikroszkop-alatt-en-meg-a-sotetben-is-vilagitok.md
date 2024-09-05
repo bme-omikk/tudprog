@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME CH épület 2 emelet 244-es szoba (Kérjük az üvegajtó előtt várakozni!), Budapest, Szent Gellért tér 4. 
 tud_idopont: 2024. szeptember 27. 16:30-17:00, 17:15-17:45, 18:00-18:30, 18:45-19:15
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/hello-te-latszol-a-mikroszkop-alatt-en-meg-a-sotetben-is-vilagitok
 tud_url: 
 tud_reg: igen, Összesen 100 fő, turnusonként maximum 25 fő
 date:  2024-08-27
