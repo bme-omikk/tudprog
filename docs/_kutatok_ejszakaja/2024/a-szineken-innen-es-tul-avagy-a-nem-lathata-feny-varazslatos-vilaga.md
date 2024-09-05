@@ -40,7 +40,7 @@ módszereket.
 
 *A program a 2019-1.3.1-KK-2019-00004 számú projekt a Nemzeti Kutatási Fejlesztési és Innovációs Alapból biztosított támogatással, a 2019-1.3.1-KK pályázati program finanszírozásában valósult meg.* 
 
-Az esemény a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszékén megrendezésre kerülő ["Legyél te is biomérnök!"](https://kutatok.org/abettt/2024/09/04/kutatok-ejszakaja-2024-legyel-te-is-biomernok-programsorozat/) programsorozat része. [Bővebben>>](https://kutatok.org/abettt/2024/09/04/kutatok-ejszakaja-2024-legyel-te-is-biomernok-programsorozat/)
+Az esemény a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszékén megrendezésre kerülő ["Legyél te is biomérnök!"](https://kutatok.org/abettt/2024/09/04/kutatok-ejszakaja-2024-legyel-te-is-biomernok-programsorozat/) programsorozat része.
 
 ![A színeken innen és túl – avagy a nem látható fény varázslatos világa](../2024/images/a-szineken-innen-es-tul-avagy-a-nem-lathata-feny-varazslatos-vilaga.jpg)
 
