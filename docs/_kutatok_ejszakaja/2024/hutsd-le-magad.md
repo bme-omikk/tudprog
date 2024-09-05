@@ -7,7 +7,7 @@ title: Hűtsd le magad!
 tud_programfelelos: Kardos Réka, Rácz Erika
 tud_eloadok: Bellus Bendek
 tud_tipus:  Csak személyes jelenléttel látogatható
-tud_online: -
+tud_online: 
 tud_helyszin: BME DCS épület, DCS laboratórium St épület felőli oldala (1111 Budapest Stoczek József u. 6.)
 tud_idopont: 2024. szeptember 27. 16.00-21.00
 tud_regisztracio: 
