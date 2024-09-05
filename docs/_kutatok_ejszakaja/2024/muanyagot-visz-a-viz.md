@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Központi épületének főbejárata (1111 Budapest, Műegyetem rakpart 3.)
 tud_idopont: 2024. szeptember 27. A turnus 16.00-17.00; B turnus 16.00-17.00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/muanyagot-visz-a-viz
 tud_url: 
 tud_reg: igen, Összesen 20, turnusonként 10 fő
 date:  2024-08-27
