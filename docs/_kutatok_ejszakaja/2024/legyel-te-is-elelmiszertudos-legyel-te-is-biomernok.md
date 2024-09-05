@@ -15,6 +15,7 @@ tud_url:
 tud_reg: igen, 16
 date:  2024-08-27
 ---
+[Juhászné Dr. Szentmiklóssy Marietta](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/juhaszne_dr_szentmiklossy_marietta)
 [Dr. Jaksics Edina](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/jaksics_edina), [Muskovics Gabriella](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/muskovics_gabriella), 
 [Pisch Barnabás](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/pisch_barnabas),[ Sznopka Liliána](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/sznopka_liliana), [Gasparics Kata](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gasparics_kata), 
 [Szűcsné Makay Erika](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/szucsne_makay_erika), [Dr. Tömösközi Sándor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/tomoskozi_sandor)
