@@ -13,7 +13,7 @@ Vegyésztechnikus, 20 éve az Alkalmazott Biotechnológia és Élelmiszertudomá
 <td>
 
 <div class="gallery">
-    <img src="images/Juhaszne_Sz_M.png" max-width="250" max-height="200">
+    <img src="images/Szucsne_M_E.jpg" max-width="250" max-height="200">
   <div class="desc">Szűcsné Makay Erika</div>
 </div>
 
