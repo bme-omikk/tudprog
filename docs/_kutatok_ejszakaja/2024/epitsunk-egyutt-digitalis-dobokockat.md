@@ -23,6 +23,6 @@ date:  2024-08-27
 
 Elgondolkodtál már azon, hogy készülnek az elektronikus áramkörök? Hogyan készül a mobiltelefon vagy a mosógép vezérlőlapja? Akkor itt a helyed nálunk! A program során bemutatjuk egy egyszerű áramkörrel, hogyan épül fel a felületszerelési technológia, hogyan lesz a sok bezacskózott alkatrészből a végén egy működő villogó digitális dobókocka!
 
-**Fontos!** *A helyszíni regisztráció a V1 épület aulájában történik. A látogatókat minden óra egészkor engedjük be a laboratóriumba. Egy turnusban maximum 25 fő vehet részt. Amennyiben valaki nem fér be az adott turnusba, a következő turnusban elsőbbséget élvez.*
+**Fontos!** *A programra a helyszínen lehet regisztrálni a V1 épület aulájában, folyamatosan 16:30-tól 21:00 óráig. A regisztráció helyszínén kollégáink és hallgatóink kézzel is megfogható kütyükkel, érdekességekkel várják a látogatókat.*
 
 ![Építsünk együtt digitális dobókockát!](../2024/images/epitsunk-egyutt-digitalis-dobokockat.jpg)
