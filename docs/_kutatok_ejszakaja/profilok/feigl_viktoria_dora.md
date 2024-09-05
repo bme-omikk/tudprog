@@ -1,8 +1,8 @@
 ---
 layout: page_kutej_profilok
-tud_title:  Kutatók éjszakája 2023
+tud_title:  Kutatók éjszakája 2024
 tud_idopont:  0
-kutej_programfelelos: 
+kutej_programfelelos: Dr. Feigl Viktória Dóra
 kutej_eloado: Dr. Feigl Viktória Dóra
 ---
 
