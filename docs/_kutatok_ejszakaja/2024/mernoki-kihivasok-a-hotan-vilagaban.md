@@ -21,4 +21,4 @@ date:  2024-08-27
 A hőenergia egy az univerzumunkat formáló rejtélyes, láthatatlan erő. Mégis hogy érzékelhetjük és hasznosíthatjuk különféle célokra? A programon szakértőktől tudhatod meg hogyan vizsgálják és értékelik a hőtani folyamatokat, akár a Földön, akár az űrben.
 
 
-![Hogyan kérd fel táncra a lángokat?](../2024/images/mernoki-kihivasok-a-hotan-vilagaban.png)
+![Mérnöki kihívások a hőtan világában](../2024/images/mernoki-kihivasok-a-hotan-vilagaban.png)
