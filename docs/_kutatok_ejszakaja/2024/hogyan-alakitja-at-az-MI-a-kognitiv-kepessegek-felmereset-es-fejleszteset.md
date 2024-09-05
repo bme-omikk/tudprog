@@ -5,7 +5,7 @@ tud_intezmeny: BME VIK, Automatizálási és Alkalmazott Informatikai Tanszék
 tud_intezmeny_rovid: VIK
 title: Hogyan alakítja át az MI a kognitív képességek felmérését és fejlesztését?
 tud_programfelelos: Dr. Forstner Bertalan
-tud_eloadok: Porkoláb Mercédesz, Jeges Gábor, Musa Abdullah, Balázs Mátyás Krisztián, Strbik Anna Viktória, Füstös Gergely
+tud_eloadok: Porkoláb Mercédesz, Jeges Gábor, Musa Abdullah, Balázs Mátyás Krisztián, Strbik Anna Viktória, Füstös Gergely, Szalka Panka
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Q épület, Magyar Tudósok krt. 2., QBF15 terem
@@ -34,6 +34,8 @@ date:  2024-08-27
 
 
 **Füstös Gergely** MSc hallgató a BME-n, ahol a kognitív képességmérés újszerű analízisét kutatja. Jelenlegi munkája a mesterséges intelligencia alkalmazására fókuszál a képességtesztek elemzésében.	
+
+**Szalka Panka** hatod éves mérnökinformatikus szakos hallgató a BME-n. Több olyan témával foglalkozom, amelyek érdekesek számomra, mint például a kiterjesztett valóság és a gépi látás. Ezt a félévemet Szingapúrban töltöm, amikor pedig szabadidőm engedi szeretek olvasni, festeni és utazni.
 
 
 
