@@ -21,4 +21,4 @@ date:  2024-08-27
 A BME NTI által kifejlesztett atomreaktor-szimulátor kipróbálása. A szoftver a Paksi Atomerőmű primer körének legfontosabb fizikai és műszaki jelenségeit mutatja be, 
 a normálüzemtől lényegesen nem eltérő állapotokban. A látogatók kipróbálhatják például a szivattyúk kiesésének vagy a vészleállásnak a hatását a reaktorra.
 
-![Atomerőmű szimulátor](images/atomeromu-szimulator.jpg)
+![Atomerőmű szimulátor](../2023/images/atomeromu-szimulator.jpg)
