@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Bernek Ágnes
 tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME Q épület (1117 Budapest, Magyar tudósok körútja 2.)
+tud_helyszin: BME Q épület QAF15 (1117 Budapest, Magyar tudósok körútja 2.)
 tud_idopont: 2024. szeptember 27. 16:00-17:30
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/a-jelenlegi-orosz-kinai-erdekszovetseg-a-formalodo-uj-tobbpolusu-vilagrend-korvonalai
 tud_url: 
