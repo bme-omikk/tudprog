@@ -21,3 +21,6 @@ date:  2024-08-27
 A kerekasztal-beszélgetés résztvevői: **Dr. Szandi-Varga Péter** BME Műszaki Pedagógia Tanszék adjunktusa, **Dr. Somogyi Ákos** Nemzeti Média- és Hírközlési Hatóság Gyermekvédelmi Főosztályának vezetője és **Ribní Ferenc** ELTE PPK Neveléstudományi Doktori Iskola doktorandusza, informatikus"
 
 A mesterséges intelligencia használata az életünk egyre több területén elterjedtté válik. Nem kivétel ezalól az oktatás sem. A kerekasztal-beszélgetés során azt igyekszünk körbejárni, hogyan és mire lehet jól használni a mesterséges intelligenciát, legyen szó közoktatásról vagy egyetemi tanulmányokról, tanulási eszközről vagy támogatásról a tanórákra készülésben. 
+
+
+![Mesterséges intelligencia az oktatásban - ellenség vagy szövetséges?](../2024/images/mesterseges_intelligencia_az_oktatasban.jpg)
