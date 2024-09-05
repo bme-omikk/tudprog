@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
-tud_intezmeny_rovid: VBK
+tud_intezmeny_rovid: ABET
 title: Utazás a DNS-től a sejteken át a fehérjekristályok birodalmába
 tud_programfelelos: Dr. Békési Angéla
 tud_eloadok: Emődi Nikolett, Szajkó Milda, Cs. Nagy-Lászlóffy Júlia, Leveles Ibolya, Hirmondó Rita
