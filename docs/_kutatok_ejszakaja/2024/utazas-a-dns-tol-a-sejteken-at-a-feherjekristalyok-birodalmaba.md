@@ -27,6 +27,6 @@ Továbbá a [BME VBK ABÉT insta](https://www.instagram.com/p/C_fSLQoovmX/?igsh=
 
 Egy interaktív workshopot kínálunk kicsiknek és nagyoknak. A Biostruct labor előtti folyosón installált játékok regisztráció nélkül is kipróbálhatók, közben a laborban a regisztrált érdeklődők bepillantást nyernek egy fehérjekristályosító labor életébe. 
 
-[Kutatók Éjszakája 2024 – “Legyél te is biomérnök!” programsorozat>>](https://kutatok.org/abettt/2024/09/04/kutatok-ejszakaja-2024-legyel-te-is-biomernok-programsorozat/#more-1985)
+Az esemény a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszékén megrendezésre kerülő ["Legyél te is biomérnök!"](https://kutatok.org/abettt/2024/09/04/kutatok-ejszakaja-2024-legyel-te-is-biomernok-programsorozat/) programsorozat része.
 
 ![Utazás a DNS-től a sejteken át a fehérjekristályok birodalmába.](../2024/images/utazas-a-dns-tol-a-sejteken-at-a-feherjekristalyok-birodalmaba.png)
