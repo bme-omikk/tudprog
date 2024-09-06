@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Pesznyák Csilla
 tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME Nukleáris Technikai Intézet (1111 Budapest, Műegyetem rkp. 3.), R épület 2. emelet 215. terem
+tud_helyszin: BME Nukleáris Technikai Intézet (1111 Budapest, Műegyetem rkp. 9.), R épület 2. emelet 215. terem
 tud_idopont:  2024. szeptember 27. 18:00-18:45
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/a-sugarvedelem-tortenete
 tud_url: 
