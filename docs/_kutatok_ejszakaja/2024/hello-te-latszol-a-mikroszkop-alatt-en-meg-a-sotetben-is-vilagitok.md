@@ -23,5 +23,7 @@ date:  2024-08-27
 
 Hogyan beszélgetnek egymással a mikróbák? Mit látunk a mikroszkópban? Jól mozog a bolharák, ha boldog? Mit lehet kiszedni mikróbákkal hulladékokból? Gyere, és ismerd meg a BME Környezeti Mikrobiológia és Környezettoxikológia laboratoriumának titkait!
 
+Az esemény a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszékén megrendezésre kerülő ["Legyél te is biomérnök!"](https://kutatok.org/abettt/2024/09/04/kutatok-ejszakaja-2024-legyel-te-is-biomernok-programsorozat/) programsorozat része.
+
 
 ![Hello, te látszol a mikroszkóp alatt? - Én még a sötétben is világítok!](../2024/images/hello-te-latszol-a-mikroszkop-alatt-en-meg-a-sotetben.jpeg)
