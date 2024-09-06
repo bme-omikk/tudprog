@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME St. épület  földszint 12. labor
 tud_idopont: 2024. szeptember 27. 17:00-17:20; 17:20-17:40; 17:40-18:00
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/femek-3d-s-nyomtatasa
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/femek-3d-s-nyomtatasa-1
 tud_url: 
 tud_reg: igen, turnusonként 12 fő
 date:  2024-08-27
