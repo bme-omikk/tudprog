@@ -13,7 +13,7 @@ A BME Kognitív Tudományi Tanszék munkatársa. Fő érdeklődési körei a pup
 <td>
 
 <div class="gallery">
-    <img src="images/Pajkossy_Peter.jpg" max-width="250" max-height="200">
+    <img src="images/pajkossy_arc.jpg" max-width="250" max-height="200">
   <div class="desc">Dr. Pajkossy Péter</div>
 </div>
 
