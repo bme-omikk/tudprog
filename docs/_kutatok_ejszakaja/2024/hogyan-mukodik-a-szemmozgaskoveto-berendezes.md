@@ -9,7 +9,7 @@ tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME T épület 515. terem
-tud_idopont: 2024. szeptember 27. 17.30-18.00
+tud_idopont: 2024. szeptember 27. 16:45–17:15
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/hogyan-mukodik-a-szemmozgaskoveto-berendezes-1
 tud_url: 
 tud_reg: igen, 15 fő
