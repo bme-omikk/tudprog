@@ -19,3 +19,5 @@ date:  2024-08-27
 **Bényei Gábor** a tanszék doktori hallgatója, a Figyelem és Emlékezet Kutatócsoport tagja, érdeklődése középpontjában a végrehajtó funkciók mögött álló folyamatok szemmozgás-követéssel történő vizsgálata áll.
 
 Az előadáson a résztvevők megismerkedhetnek a szemmozgáskövetés módszereivel, a pupilla és tekintet követésének történetével, elméleti hátterével, illetve szoftveres és hardveres lehetőségeivel, korlátaival.
+
+![Hogyan működik a szemmozgáskövető berendezés?](../2024/images/benyei_program.png)
