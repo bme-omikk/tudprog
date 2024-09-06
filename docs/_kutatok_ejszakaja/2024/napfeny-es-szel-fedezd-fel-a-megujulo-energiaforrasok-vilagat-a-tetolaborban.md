@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME DCS épület, DCS laboratórium St épület felőli oldala (1111 Budapest Stoczek József u. 6.) 
 tud_idopont: 2024. szeptember 27. 17.00-17.30, 18.30-19.00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/napfeny-es-szel-fedezd-fel-a-megujulo-energiaforrasok-vilagat-a-tetolaborban
 tud_url: 
 tud_reg: igen, 20 fő/turnus
 date:  2024-08-27
