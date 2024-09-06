@@ -19,3 +19,5 @@ date:  2024-08-27
 **Dr. Mihály Andrea** pszichiáter, pszichoterapeuta, a tanszék doktori hallgatója.
 
 A pszichiátriai gyakorlatban látjuk, hogy a depresszió és szorongás tüneteivel járó kórképek mennyire heterogének. Amerikai-ausztrál kutatók funkcionális MRI vizsgálatokkal a szorongásos-depressziós kórképek hat biotípusát határozták meg, amelyeket jól beazonosítható módon más-más agyi hálózati aktivitás jellemezte. A kutatások előmozdíthatják a pszichiátriai területén is a precíziós medicina fejlődését.
+
+![Ezerarcú depresszió](../2024/images/mihaly_program.png)
