@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
-tud_intezmeny_rovid: VBK
+tud_intezmeny_rovid: ABET
 title: Hello, te látszol a mikroszkóp alatt? - Én még a sötétben is világítok!
 tud_programfelelos: Dr. Feigl Viktória
 tud_eloadok: Dr. Molnár Mónika, Dr. Fekete-Kertész Ildikó, Márton Rita, Berkl Zsófia
