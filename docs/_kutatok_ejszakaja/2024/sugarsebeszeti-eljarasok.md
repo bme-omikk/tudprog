@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Pesznyák Csilla
 tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME Nukleáris Technikai Intézet (1111 Budapest, Műegyetem rkp. 3.), R épület 2. emelet 215. terem (bejárat a D épületen keresztül vagy hátulról, a reaktor felőli hátsó bejáraton)
+tud_helyszin: BME Nukleáris Technikai Intézet (1111 Budapest, Műegyetem rkp. 9.), R épület 2. emelet 215. terem (bejárat a D épületen keresztül vagy hátulról, a reaktor felőli hátsó bejáraton)
 tud_idopont:  2024. szeptember 27. 19:00-19:45
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/sugarsebeszeti-eljarasok
 tud_url: 
