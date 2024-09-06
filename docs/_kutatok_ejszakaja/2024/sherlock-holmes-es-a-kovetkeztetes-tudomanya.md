@@ -22,4 +22,4 @@ Megtudhatjuk azt is, hogy miért nem dedukció adja az alapját Sherlock Holmes 
 válik sherlocki és a watsoni elme közötti eltérés.
 Ahogy a zseniális detektív mondaná: „A játszma elkezdődött.”
 
-
+![Sherlock Holmes és a következtetés tudománya](../2024/images/sherlock2.jpg)
