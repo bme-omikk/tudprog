@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME K épület 1. emelet Oktatói Klub
 tud_idopont: 2024. szeptember 27. 15:00-16:30
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/elet-es-tudomany-pro-progressio-es-a-bme-cikkpalyazatanak-dijkiosztoja-es-eloadassorozat
+tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
 date:  2024-03-27
