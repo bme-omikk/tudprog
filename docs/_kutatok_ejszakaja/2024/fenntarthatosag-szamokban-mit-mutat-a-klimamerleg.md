@@ -17,7 +17,7 @@ date:  2024-08-27
 ---
 [A BME Energetikai Gépek és Rendszerek Tanszék munkatársai](http://www.energia.bme.hu/munkatarsak/)
 
-Kíváncsi vagy a mindennapi életed klímaváltozásra gyakorolt hatására? Az Életciklus szemlélet segítségével megismerheted a hétköznapjaid CO2 lábnyomát, a háztartási berendezéseid, az otthoni szórakozásod, vagy akár az ételrendelésed környezetterhelését.
+Kíváncsi vagy a mindennapi életed klímaváltozásra gyakorolt hatására? Az Életciklus szemlélet segítségével megismerheted a hétköznapjaid CO₂ lábnyomát, a háztartási berendezéseid, az otthoni szórakozásod, vagy akár az ételrendelésed környezetterhelését.
 
 
 ![Fenntarthatóság számokban – Mit mutat a klímamérleg?](../2024/images/fenntarthatosag-szamokban-mit-mutat-a-klimamerleg.png)
