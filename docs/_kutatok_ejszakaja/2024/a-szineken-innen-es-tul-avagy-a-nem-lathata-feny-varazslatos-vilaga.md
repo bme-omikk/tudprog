@@ -12,7 +12,7 @@ tud_helyszin: 1111 Budapest, Szent Gellért tér 4., Ch épület 1. emelet 165.,
 tud_idopont: 2024. szeptember 27., 16.00-16.45, 17.00-17.45, 18.00-18.45, 19.00-19.45
 tud_regisztracio:
 tud_url: 
-tud_reg: nem, turnusonként 15
+tud_reg: nem, turnusonként 15 fő
 date:  2024-03-27
 ---
 
