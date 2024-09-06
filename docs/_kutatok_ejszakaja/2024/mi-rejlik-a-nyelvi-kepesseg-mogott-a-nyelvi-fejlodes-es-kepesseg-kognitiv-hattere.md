@@ -19,3 +19,6 @@ date:  2024-08-27
 **Lukics Krisztina Sára** pszichológus, a BME Kognitív Tudományi Tanszék adjunktusa. Kutatási érdeklődésének fókkuszában az áll, hogy a nem csak a nyelvet alátámasztó, általános megismerőfunkciók hogyan alakítják a nyelvhasználat képességét.
 
 Míg az élet dolgaiban általában a felnőttek ügyesebbek, a babák játszi könnyedséggel sajátítják el az anyanyelvüket. Miért jobbak a fiatalabbak pont a nyelvtanulásban? Az előadásban azt járjuk körbe, hogy mi lehet ennek az ellentmondásnak az oka.
+
+
+![Mi rejlik a nyelvi képesség mögött? A nyelvi fejlődés és képesség kognitív háttere](../2024/images/lukics_program.png)
