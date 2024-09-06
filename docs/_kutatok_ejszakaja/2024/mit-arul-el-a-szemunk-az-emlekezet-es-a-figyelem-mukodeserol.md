@@ -19,3 +19,6 @@ date:  2024-08-27
 **Dr. Pajkossy Péter** a Kognitív Tudományi Tanszék munkatársa. Fő érdeklődési körei a pupilla, az agyműködés, és az emlékezet.
 
 A szemmozgáskövető berendezés segítségével rögzíthető, hova néz, mire figyel a felhasználó. Az előadásomban olyan kutatások ismertetünk, melyek a szemmozgáskövető segítségével vizsgálják az emlékezet és figyelem működését, agyi háttérfolyamatait.
+
+
+![Mit árul el a szemünk az emlékezet és a figyelem működéséről?](../2024/images/pajkossy_program.png)
