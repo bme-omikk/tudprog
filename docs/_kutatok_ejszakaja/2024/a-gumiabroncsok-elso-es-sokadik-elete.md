@@ -8,7 +8,7 @@ tud_programfelelos: Görbe Ákos
 tud_eloadok: Görbe Ákos, Zelenainé Kohári Andrea, Decsi Balázsné Sayfo Petra, Kiss Lóránt
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME MT épület (1111, Budapest, Bertalan L. u. 5.)
+tud_helyszin: (1111, Budapest, Bertalan L. u. 5.) BME MT Polimertechnika Tanszék Laboratóriumában ( Bertalan L. utca felőli bejárat)
 tud_idopont: 2024. szeptember 27. 18.00-19.00; 20.00-21.00 
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/a-gumiabroncsok-elso-es-sokadik-elete
 tud_url: 
