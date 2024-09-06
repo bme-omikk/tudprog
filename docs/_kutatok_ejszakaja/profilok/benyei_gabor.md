@@ -13,7 +13,7 @@ A BME TTK Kognitív Tudományi Tanszék doktori hallgatója, a Figyelem és Eml�
 <td>
 
 <div class="gallery">
-    <img src="images/Benyei_Gabor.jpg" max-width="250" max-height="200">
+    <img src="images/benyei_arc.jpg" max-width="250" max-height="200">
   <div class="desc">Bényei Gábor</div>
 </div>
 
