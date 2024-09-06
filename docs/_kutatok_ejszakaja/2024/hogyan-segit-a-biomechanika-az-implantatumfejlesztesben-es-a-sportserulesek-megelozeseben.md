@@ -8,9 +8,9 @@ tud_programfelelos: Nemes-Károly István
 tud_eloadok: Tomin Márton, Nemes-Károly István, Hajagos Szabolcs
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111, Budapest, Bertalan Lajos utca 3.
-tud_idopont: 2024. szeptember 27. 16:00; 16:30; 17:00; 17:30
-tud_regisztracio: 
+tud_helyszin: 1111, Budapest, Bertalan Lajos utca 3., MT Polimertechnika Tanszék Laboratóriumában ( Bertalan L. utca felőli bejárat)
+tud_idopont: 2024. szeptember 27. 16:00-16:30; 17:00-17:30
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/hogyan-segit-a-biomechanika-az-implantatumfejlesztesben-es-a-sportserulesek-megelozeseben
 tud_url: 
 tud_reg: igen, turnusonként 20 fő
 date:  2024-08-27
