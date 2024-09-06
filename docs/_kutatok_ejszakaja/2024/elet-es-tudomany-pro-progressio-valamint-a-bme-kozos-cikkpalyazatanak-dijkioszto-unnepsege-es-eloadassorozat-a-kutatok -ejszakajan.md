@@ -29,3 +29,6 @@ A pályázatra olyan műveket vártak, amelyek ismeretterjesztő megközelítés
 - Díjazott: **Andorfi István**: Radioaktív bomlás és egy „furcsa” kvantummechanika (BME Természettudományi Kar, Nukleáris Technikai Intézet, Atomenergetika Tanszék) - TDK alkategória
 - Díjazott: **Borbás Balázs**: Láthatóvá tehető-e az infravörös sugárzás? – A felkonvertáló nanorészecskék különleges világa (BME Vegyészmérnöki és Biomérnöki Kar, Fizikai Kémia és Anyagtudományi Tanszék) - ÚNKP alkategória
 - Díjazott: **Muskovics Gabriella**: Városi legendák: lebomlik-e a glutén a kovászos kenyér készítése során? (BME Vegyészmérnöki és Biomérnöki Kar, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék) - ÚNKP alkategória
+
+
+![Élet és Tudomány, Pro Progressio és a BME cikkpályázatának díjkiosztója és előadássorozat](../2024/images/2023-0~1.JPG)
