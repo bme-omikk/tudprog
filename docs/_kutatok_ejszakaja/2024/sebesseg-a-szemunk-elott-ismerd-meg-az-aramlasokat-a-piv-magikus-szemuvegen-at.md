@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME DCS épület, DCS laboratórium St épület felőli oldala (1111 Budapest Stoczek József u. 6.)
 tud_idopont: 2024. szeptember 27. 17.50-18.20, 19.20-19.50
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/sebesseg-a-szemunk-elott-ismerd-meg-az-aramlasokat-a-piv-magikus-szemuvegen-at
 tud_url: 
 tud_reg: igen, 20 fő/turnus
 date:  2024-08-27
