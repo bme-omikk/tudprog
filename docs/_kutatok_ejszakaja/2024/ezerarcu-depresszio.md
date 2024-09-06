@@ -9,7 +9,7 @@ tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME T épület 515. terem
-tud_idopont: 2024. szeptember 27. 20.00-20.30
+tud_idopont: 2024. szeptember 27. 19:00-19:30
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/ezerarcu-depresszio
 tud_url: 
 tud_reg: igen, 15 fő
