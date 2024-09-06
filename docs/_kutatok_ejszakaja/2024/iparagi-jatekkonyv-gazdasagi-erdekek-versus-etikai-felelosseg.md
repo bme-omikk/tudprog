@@ -21,3 +21,6 @@ date:  2024-08-27
 Az előadás során azon kérdésre keressük a választ, hogy a gazdasági érdekek és etikai felelősség között létezik-e egyensúly? 
 A modern gazdaság egyik legnagyobb kihívása, hogy a profitmaximalizálás és a társadalmi felelősségvállalás között egyensúlyt találjon. Egyes iparágak óriási nyereséget termelnek, azonban a nyereség mögött igen súlyos társadalmi, etikai kérdések húzódnak meg. 
 A témát a gazdasági szereplők, a szabályozások és etikai normák összefüggésein keresztül vizsgáljuk.
+
+
+![Iparági játékkönyv - gazdasági érdekek versus etikai felelősség](../2024/images/iparagi-jatekkonyv.jpg)
