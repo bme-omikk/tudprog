@@ -9,7 +9,7 @@ tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME T épület 515. terem
-tud_idopont: 2024. szeptember 27. 18.15-18.45
+tud_idopont: 2024. szeptember 27. 17:30–18:00
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/mi-rejlik-a-nyelvi-kepesseg-mogott-a-nyelvi-fejlodes-es-kepesseg-kognitiv-hattere
 tud_url: 
 tud_reg: igen, 15 fő
