@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Pesznyák Csilla
 tud_eloadok: Koszta Enikő
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME Nukleáris Technikai Intézet, R épület 2. emelet 215. terem (1111 Budapest, Műegyetem rkp. 3.)
+tud_helyszin: BME Nukleáris Technikai Intézet, R épület 2. emelet 215. terem (1111 Budapest, Műegyetem rkp. 9.)
 tud_idopont:  2024. szeptember 27. 17:00-17:45
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/jatekos-kepalkotas
 tud_url: 
