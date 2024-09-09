@@ -19,3 +19,5 @@ date:  2024-08-27
 
 Sherlock Holmes, mint ismeretes, a Baker Streeten lakott, a 221B szám alatt. Mégis mi teszi igazzá ezt az állítást? Az egyik legjelentősebb 20. századi logikus-filozófus, David Lewis szerint az a tény, hogy vannak olyan lehetséges világok, amelyekben a Sherlock Holmes nevű nyomozó történetesen a Baker Streeten lakott, méghozzá a 221B szám alatt. Ezekben a lehetséges világokban a Sherlock Holmes történetek elbeszélője, dr. Watson ismert tényként meséli el azokat a történeteket, amelyeket az író, Arthur Conan Doyle a mi világunkban fikcióként ad elő.
 Az előadásban arra a kérdésre keressük a választ, hogy a fikció világáról tényleg számot adhatunk-e a lehetséges világok logikai-metafizikai fogalmának segítségével. 
+
+![Fikcióelmélet mérnököknek. Hogyan modellezhetjük a fikció világát lehetséges világokként?](../2024/images/fikcioelmelet.jpg)
