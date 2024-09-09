@@ -20,6 +20,7 @@ date:  2024-08-27
 [Verbőczyné Füstös Vivien](https://vit.bme.hu/content/verbőczyné-füstös-vivien)
 
 Műanyagot visz a víz – de hová is? 
+
 Folyóink nemcsak a vizet szállítják, hanem pl. sok műanyag hulladékot. Korszerű, GPS nyomkövetős, mesterséges intelligencia alapú és más módszerekkel vizsgáljuk a hulladékok utazását a Dunában, a partról és motorcsónakról. Gyere, vizsgáld velünk!
 
 
