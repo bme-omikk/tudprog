@@ -8,7 +8,7 @@ tud_programfelelos: Juhászné Dr. Szentmiklóssy Marietta
 tud_eloadok: Dr. Jaksics Edina, Muskovics Gabriella, Pisch Barnabás, Sznopka Liliána, Gasparics Kata, Szűcsné Makay Erika, Dr. Tömösközi Sándor
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME Ch épület 1. emelet 151., 1111 Budapest Szent Gellért tér 4.
+tud_helyszin: BME Ch épület, alagsor A11-es terem (1111 Budapest Szent Gellért tér 4.)
 tud_idopont: 2024. szeptember 27.  15:00-16:00; 16:30-17:30; 18:00-19:00
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/legyel-te-is-elelmiszertudos-legyel-te-is-biomernok
 tud_url: 
