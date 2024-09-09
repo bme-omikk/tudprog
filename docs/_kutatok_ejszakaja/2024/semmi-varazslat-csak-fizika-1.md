@@ -9,7 +9,7 @@ tud_eloadok: Härtlein Károly és vendégei
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME, F épület F29 tanterem (1111. Budapest, Budafoki út 8.)
-tud_idopont: 2023. szeptember 29., 15:15-16:45
+tud_idopont: 2024. szeptember 27. 15:15-16:45
 tud_regisztracio: 
 tud_url: http://kutatokejszakaja.phy.bme.hu/
 tud_reg: nem, nem
