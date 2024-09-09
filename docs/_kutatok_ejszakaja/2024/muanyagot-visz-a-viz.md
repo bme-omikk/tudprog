@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME ÉMK, Vízépítési és Vízgazdálkodási Tanszék
 tud_intezmeny_rovid: EMK
-title: Műanyagot visz a víz
+title: Műanyagot visz a víz– de hová is?
 tud_programfelelos: Dr. Baranya Sándor
 tud_eloadok: Pomázi Flóra, Verbőczyné Füstös Vivien
 tud_tipus: Csak személyes jelenléttel látogatható
@@ -20,7 +20,7 @@ date:  2024-08-27
 [Verbőczyné Füstös Vivien](https://vit.bme.hu/content/verbőczyné-füstös-vivien)
 
 Műanyagot visz a víz – de hová is? 
-Folyóink nemcsak a vizet szállítják, hanem pl. sok műanyag hulladékot. Korszerű, GPS nyomkövetős, mesterséges intelligencia alapú és más módszerekkel vizsgáljuk a hulladékok utazását, hogy végül hatékonyabban eltávolíthassuk az oda nem illő anyagokat. Ismerd meg, hogyan!
+Folyóink nemcsak a vizet szállítják, hanem pl. sok műanyag hulladékot. Korszerű, GPS nyomkövetős, mesterséges intelligencia alapú és más módszerekkel vizsgáljuk a hulladékok utazását a Dunában, a partról és motorcsónakról. Gyere, vizsgáld velünk!
 
 
 
