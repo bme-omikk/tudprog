@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME ÉMK, Vízépítési és Vízgazdálkodási Tanszék
 tud_intezmeny_rovid: EMK
-title: Műanyagot visz a víz– de hová is?
+title: Műanyagot visz a víz
 tud_programfelelos: Dr. Baranya Sándor
 tud_eloadok: Pomázi Flóra, Verbőczyné Füstös Vivien
 tud_tipus: Csak személyes jelenléttel látogatható
