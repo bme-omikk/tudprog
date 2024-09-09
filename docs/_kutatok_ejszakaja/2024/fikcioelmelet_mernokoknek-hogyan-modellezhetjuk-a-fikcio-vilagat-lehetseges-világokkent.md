@@ -8,7 +8,7 @@ tud_programfelelos: Bárány Tibor
 tud_eloadok: Bárány Tibor
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME GTK Q épület, B 402-es terem (1117 Budapest, Magyar tudósok körútja 2.)
+tud_helyszin: BME GTK E épület, 704-es terem
 tud_idopont: 2024. szeptember 27. 16.00-16.45
 tud_regisztracio: 
 tud_url: 
