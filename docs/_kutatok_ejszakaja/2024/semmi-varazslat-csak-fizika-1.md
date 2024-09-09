@@ -22,4 +22,4 @@ date:  2024-03-27
 
 A fizika alaptudomány, amely nélkül a modern társadalom összeomlik, ezért évről-évre várjuk a lelkes híveket, akik fizika szeretetükkel és tudásukkal tovább „fertőzhetik” a környezetüket. Ahogy eddig is, kiragadjuk a fizika legszerethetőbb részét a kísérletezést, és ennek szenteljük ezt a délutánt. Ebben az előadásban az intézetünkben bemutatható kísérletekből válogatok, azt szeretném megmutatni, hogy a fizika mennyire szövi át a mindennapjainkat, és ezzel rávilágítani a fizika tudás-tanulás fontosságára.
 
-![Semmi varázslat, csak fizika I.](../2024/images/semmi-varazslat-csak-fizika-1.jpg)
+![Semmi varázslat, csak fizika I.](../2023/images/semmi-varazslat-csak-fizika-1.jpg)
