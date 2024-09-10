@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME GPK Mechatronika, Optika és Gépészeti Informatika Tanszék
 tud_intezmeny_rovid: GPK
+tud_latogato: KF 
 title: Milyen színben látjuk a világot?
 tud_programfelelos: Nagy Balázs Vince
 tud_eloadok: Urbin Ágnes

@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME Ipar 4.0 Technológiai Központ
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Digitalizáció a gyártásban
 tud_programfelelos: Kovács László
 tud_eloadok: Kovács László, Fincicky Dániel, Lipcsei Dániel, Bőczén Koppány András, Harmath Máté

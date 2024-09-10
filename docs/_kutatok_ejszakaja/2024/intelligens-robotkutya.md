@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME-VIK, TMIT
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title:  Intelligens robotkutya (Ericsson egyetemi együttműködés a BME-vel)
 tud_programfelelos: Simon Csaba
 tud_eloadok: Fehér Gábor, Vidács Attila

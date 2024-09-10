@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: Természettudományi Kar
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Atomerőmű szimulátor
 tud_programfelelos: Kópházi József
 tud_eloadok: BME NTI Oktatóreaktor személyzet

@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME GPK, Hidrodinamikai Rendszerek Tanszék
 tud_intezmeny_rovid: GPK
+tud_latogato: KF
 title: Mindennapi áramlástan, kísérletek kicsiknek és nagyoknak
 tud_programfelelos: Gulyás András
 tud_eloadok: Till Sára, Gyürki Dániel, Friedrich Péter, Krähling Péter, Kalmár Péter

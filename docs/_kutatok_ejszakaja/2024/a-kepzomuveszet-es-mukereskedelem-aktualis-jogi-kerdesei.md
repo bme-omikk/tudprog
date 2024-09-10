@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME GTK Üzleti Jog Tanszék
 tud_intezmeny_rovid: GTK
+tud_latogato: KF
 title: A képzőművészet és műkereskedelem aktuális jogi kérdései
 tud_programfelelos: Dr. Víg Zoltán, Dr. Tomasovszky Edit
 tud_eloadok: Dr. Grad-Gyenge Anikó, Dr. Tomasovszky Edit, Dr. Víg Zoltán

@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME TTK, Nukleáris Technikai Intézet
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Fiatalok a nukleáris energetikáért- barátunk az atom
 tud_programfelelos: Dr. Orosz Gergely Imre
 tud_eloadok: 

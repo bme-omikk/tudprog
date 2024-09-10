@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME GPK, Áramlástan Tanszék
 tud_intezmeny_rovid: GPK
+tud_latogato: KF
 title: Látogatás a Kármán Tódor Szélcsatorna Laboratóriumban
 tud_programfelelos: Tokaji Kristóf
 tud_eloadok: Áramlástan Tanszék, Áramlástan Szakosztály
