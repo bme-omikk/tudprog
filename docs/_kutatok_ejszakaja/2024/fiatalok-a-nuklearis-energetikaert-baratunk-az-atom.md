@@ -6,7 +6,7 @@ tud_intezmeny_rovid: TTK
 tud_latogato: KF
 title: Fiatalok a nukleáris energetikáért- barátunk az atom
 tud_programfelelos: Dr. Orosz Gergely Imre
-tud_eloadok: 
+tud_eloadok: Fekete Domonkos, Szállási Zsofia
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME K épület, Aula (Nukleáris stand)
