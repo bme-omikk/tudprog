@@ -15,7 +15,7 @@ Dr. Hercegfi Károly 1999 óta a BME Ergonómia és Pszichológia Tanszék oktat
 <td>
 
 <div class="gallery">
-    <img src="images/hercegfi_karoly.jpg" max-width="250" max-height="200">
+    <img src="images/Karesz.png" max-width="250" max-height="200">
   <div class="desc">Dr. Hercegfi Károly</div>
 </div>
 
