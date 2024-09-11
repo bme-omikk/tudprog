@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME GTK Testnevelési Központ
 tud_intezmeny_rovid: GTK
-title: A Műegyetem 20. olimpiai aranyérmét nyerő Nagy Dávid sporttudományi háttere
+title: A Műegyetem 20. olimpiai aranyérmese – Nagy Dávid sporttudományi háttere
 tud_programfelelos: Dr. Kincses Gábor
 tud_eloadok: Dr. Koltai Tamás; Nagy Dávid
 tud_tipus: Csak személyes jelenléttel látogatható
@@ -22,6 +22,6 @@ date:  2024-08-27
 **Nagy Dávid:** GTK gazdálkodás és menedzsment alapszakos hallgató
 
 
-Nagy Dávid párbajtőröző kerekasztal beszélgetése, aki a Műegyetem 20. olimpiai aranyérmét nyerte a 2024-es párizsi olimpián.
+Nagy Dávid párbajtőröző kerekasztal beszélgetése, aki a Műegyetem 20. olimpiai aranyérmese lett a 2024-es párizsi olimpián
 
-![A Műegyetem 20. olimpiai aranyérmét nyerő Nagy Dávid sporttudományi háttere](../2024/images/a-muegyetem-20-olimpiai-aranyermet-nyero-nagy-david.jpg)
+![A Műegyetem 20. olimpiai aranyérmese – Nagy Dávid sporttudományi háttere](../2024/images/a-muegyetem-20-olimpiai-aranyermet-nyero-nagy-david.jpg)
