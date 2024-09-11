@@ -15,7 +15,7 @@ UX kutató és oktató, az NKE docense és a BME Ergonómia és Pszichológia Ta
 <td>
 
 <div class="gallery">
-    <img src="images/herendy_csilla.jpg" max-width="250" max-height="200">
+    <img src="images/Csilla.png" max-width="250" max-height="200">
   <div class="desc">Dr. Herendy Csilla</div>
 </div>
 
