@@ -22,6 +22,6 @@ date:  2024-08-27
 **Nagy Dávid:** GTK gazdálkodás és menedzsment alapszakos hallgató
 
 
-Nagy Dávid párbajtőröző kerekasztal beszélgetése, aki a Műegyetem 20. olimpiai aranyérmese lett a 2024-es párizsi olimpián
+Nagy Dávid párbajtőröző kerekasztal beszélgetése, aki a Műegyetem 20. olimpiai aranyérmese lett a 2024-es párizsi olimpián.
 
 ![A Műegyetem 20. olimpiai aranyérmese – Nagy Dávid sporttudományi háttere](../2024/images/a-muegyetem-20-olimpiai-aranyermet-nyero-nagy-david.jpg)
