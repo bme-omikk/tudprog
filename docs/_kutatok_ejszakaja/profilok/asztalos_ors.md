@@ -4,9 +4,9 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Asztalos Örs
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2024
 ---
-Tudományos segédmunkatárs, a Magyar Nukleáris Társaság Fúziós Szakcsoportjának az elnöke.
+Adjunktus a NTI-ben, a Magyar Nukleáris Társaság Fúziós Szakcsoportjának az elnöke
 
  <table class="picture">
 <tr>
