@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: Természettudományi Kar
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Hogyan hozzuk le a Napot a Földre? Fúziós energiatermelés
 tud_programfelelos: Asztalos Örs
 tud_eloadok: Kovácsik Ákos, Pokol Gergő, Asztalos Örs, Andorfi István, Imre Anna Eszter
