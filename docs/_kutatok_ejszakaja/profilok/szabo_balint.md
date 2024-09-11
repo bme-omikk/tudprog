@@ -14,7 +14,7 @@ Ember-számítógép interakcióval és ergonómiával foglalkozó oktató és k
 <td>
 
 <div class="gallery">
-    <img src="images/szabo_balint.jpg" max-width="250" max-height="200">
+    <img src="images/Balint.png" max-width="250" max-height="200">
   <div class="desc"> Dr. Szabó Bálint</div>
 </div>
 
