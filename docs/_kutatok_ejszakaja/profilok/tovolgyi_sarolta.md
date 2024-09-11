@@ -13,7 +13,7 @@ Emberközpontú termékmenedzsmenttel foglalkozó oktató és kutató,  a BME Er
 <td>
 
 <div class="gallery">
-    <img src="images/tovolgyi_sarolta.jpg" max-width="250" max-height="200">
+    <img src="images/Saci.png" max-width="250" max-height="200">
   <div class="desc">Dr. Tóvölgyi Sarolta</div>
 </div>
 
