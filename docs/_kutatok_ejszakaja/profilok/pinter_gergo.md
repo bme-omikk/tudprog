@@ -13,4 +13,15 @@ meg, az [Új világok teremtése című térelmélkedés](https://www.typotex.hu
 
 [Térteremtés (Mindenki Akadémiája) videó>>](https://youtu.be/qzVWZyWg4Ng)
 
+<table class="picture">
+<tr>
+<td>
 
+<div class="gallery">
+    <img src="images/pinter_gergo.JPG" max-width="250" max-height="200">
+  <div class="desc">Pintér Gergő</div>
+</div>
+
+</td>
+</tr>
+</table>
