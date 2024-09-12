@@ -4,9 +4,13 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Pintér Gergő
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2024
 ---
 
-Pintér Gergő matematikus, jelenleg a BME Fizika Intézet kutatója. A MateMorfózis előadássorozat keretében szórakoztató fesztiválműfajt formált a “felsőbb” matematikából, amely könnyed, de súlyos. A gyakran merevnek, száraznak vélt matematika világának szabadságát és teremtőerejét mutatja be, mely sok szálon szoros összefüggésben van az életünkkel, világszemléletünkkel, ily módon mindennapjainkra is hat. Új világok teremtése című ismeretterjesztő könyve egy éve jelent meg a Typotex Kiadónál.
+Pintér Gergő matematikus. Minden szinten űzi és tanítja a matekot. Topológia és szingularitáselmélet témában doktorált, jelenleg egy fizikus kutatócsoporttal kvantumrendszerek topológiai jellemzőit
+vizsgálja a BME-n. Főleg különböző területek kapcsolódásai érdeklik, a MateMorfózis előadássorozat keretében szórakoztató fesztiválműfajt formált a „felsőbb” matematikából. Két ismeretterjesztő könyve jelent
+meg, az [Új világok teremtése című térelmélkedés](https://www.typotex.hu/book/10491/pinter_gergo_uj_vilagok_teremtese) és [A számok rejtett építőkövei: a prímek](https://www.libri.hu/konyv/pinter_gergo.a-szamok-rejtett-epitokovei.html) című sztereotipikus családi dráma.
+
+[Térteremtés (Mindenki Akadémiája) videó>>](https://youtu.be/qzVWZyWg4Ng)
 
 
