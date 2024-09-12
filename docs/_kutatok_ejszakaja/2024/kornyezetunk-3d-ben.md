@@ -20,5 +20,7 @@ date:  2024-08-27
 A résztvevők megismerkedhetnek a lézerszkennelés izgalmas világával. Bemutatjuk,
 hogyan készíthetünk 3D-s felvételeket a környezetünkről, és megvizsgáljuk, miként segít a technológia a természet és épületek pontos megfigyelésében.
 
+*A bemutatón egyszerre legfeljebb 30 fő vehet részt, hogy mindenki számára garantált legyen a különleges élmény!*
+
 
 ![Környezetünk 3D-ben](../2024/images/kornyezetunk-3d-ben.JPG)
