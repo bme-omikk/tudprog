@@ -1,7 +1,7 @@
 ---
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
-tud_intezmeny: Matematika Intézet
+tud_intezmeny: BME Matematika Intézet
 tud_intezmeny_rovid: TTK
 title: Prímek, véletlenek, zene, valószínűség
 tud_programfelelos: Keszthelyi Gabriella, Pintér Gergő
