@@ -27,4 +27,4 @@ igényeit kiemelkedő minőségű, innovatív termékekkel elégítsük ki. Cél
 
 Ebben a demóban azt mutatjuk meg, hogy a veztésben milyen informatikai megoldások felelősek a könnyű irányváltásért, és ezeknek miként lehet garantálni a megfelelő működését. A demó a BME és a thyssenkrupp Kft.  Kompetencia Központban végzett munkáját mutatja be.
 
-![Ki vezet? Autók biztonságos kormányműve az informatika szemszögéből](../2024/images/ki-vezet-autok-biztonsagos-kormanymuve-az-informatika-szemszogebol.jpg)
+![Ki vezet? Autók biztonságos kormányműve az informatika szemszögéből](../2023/images/ki-vezet-autok-biztonsagos-kormanymuve-az-informatika-szemszogebol.jpg)
