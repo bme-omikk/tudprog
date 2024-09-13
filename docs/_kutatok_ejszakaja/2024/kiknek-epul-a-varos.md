@@ -8,7 +8,7 @@ tud_programfelelos: Bozsoki Fruzsina
 tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111 Budapest, Műegyetem rkp 3. K. épület
+tud_helyszin: 1111 Budapest, Műegyetem rkp 3. BME K épület 83-as terem
 tud_idopont: 2024. szeptember 27. 19:15-20:15
 tud_regisztracio: 
 tud_url: 
