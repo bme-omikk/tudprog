@@ -3,8 +3,8 @@ layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: 
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Színes lángok - a lángfestés fizikája és kémiája
-tud_latogato: KF 
 tud_programfelelos: Härtlein Károly
 tud_eloadok: Roland Alex
 tud_tipus: Csak személyes jelenléttel látogatható
