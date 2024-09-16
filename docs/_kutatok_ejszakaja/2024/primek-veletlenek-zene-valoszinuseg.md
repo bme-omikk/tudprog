@@ -9,7 +9,7 @@ tud_eloadok: Keszthelyi Gabriella, Pintér Gergő
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME K épület F82-es terem
-tud_idopont: 2024. szeptember 27. Egyeztetés alatt
+tud_idopont: 2024. szeptember 27. 17:30-20:00
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
