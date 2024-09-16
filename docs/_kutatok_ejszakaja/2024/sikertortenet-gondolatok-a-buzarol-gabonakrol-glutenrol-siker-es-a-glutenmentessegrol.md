@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Tömösközi Sándor
 tud_eloadok: Dr. Tömösközi Sándor
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 
+tud_helyszin: 1111 Budapest, Műegyetem rakpart 1. - Ch épület, A11-es terem (alagsor)
 tud_idopont: 2024. szeptember 27. 14:00-14:50
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/sikeer-tortenet-gondolatok-a-buzarol-gabonakrol-glutenrol-siker-es-a-glutenmentessegrol
 tud_url: 
