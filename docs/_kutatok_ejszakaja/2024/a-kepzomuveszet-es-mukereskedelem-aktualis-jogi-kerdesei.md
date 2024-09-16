@@ -9,8 +9,8 @@ tud_programfelelos: Dr. Víg Zoltán, Dr. Tomasovszky Edit
 tud_eloadok: Dr. Grad-Gyenge Anikó, Dr. Tomasovszky Edit, Dr. Víg Zoltán
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: Egyeztetés alatt
-tud_idopont: 2024. szeptember 27. 16.00-17.00
+tud_helyszin: BME Q épület, QA 144-es terem
+tud_idopont: 2024. szeptember 27. 17.00-18.00
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
