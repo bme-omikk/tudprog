@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GPK, Polimertechnika Tanszék Laboratórium, T épület földszint
 tud_idopont: 2024. szeptember 27. 17:00-17:45; 17:45-18:30; 18:30-19:15; 19:15-20:00; 20:00-20:45
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mikroszkop-mikroszal-kompozit-erositoanyagok-es-vizsgalatuk-1 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mikroszkop-mikroszal-kompozit-erositoanyagok-es-vizsgalatuk
 tud_url: 
 tud_reg: igen, összesen 50 fő, turnusonként 10
 date:  2024-03-27
