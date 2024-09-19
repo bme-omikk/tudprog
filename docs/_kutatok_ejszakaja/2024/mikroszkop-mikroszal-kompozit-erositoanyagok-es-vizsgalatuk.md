@@ -21,4 +21,4 @@ date:  2024-03-27
 
 Miért használnak polimer kompozitokat a repülőgépek, versenyautók, versenybiciklik gyártásánál? Miben tud többet (vagy éppen kevesebbet) a szénszál a fémeknél? Hogyan vizsgálják és mi alapján minősítik ezeket az erősítőanyagokat? Még csak a sorozatokban hallottál elektronmikroszkópról? Itt az idő, hogy ez megváltozzon!
 
-![Mikroszkóp-Mikroszál; kompozit erősítőanyagok és vizsgálatuk](../2024/images/MiMi2024_kicsi.jpg)
+![Mikroszkóp-Mikroszál; kompozit erősítőanyagok és vizsgálatuk](../2023/images/MiMi2024_kicsi.jpg)
