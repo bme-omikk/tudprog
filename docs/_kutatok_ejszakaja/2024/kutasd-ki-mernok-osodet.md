@@ -4,7 +4,7 @@ tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME OMIKK, Levéltár
 tud_intezmeny_rovid: NEMKARI
 title: Kutasd ki mérnök ősödet!
-tud_programfelelos: Batalka Krisztina, Taschek Zoltá
+tud_programfelelos: Batalka Krisztina, Taschek Zoltán
 tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
