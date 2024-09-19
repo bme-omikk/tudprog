@@ -24,3 +24,5 @@ date:  2024-08-27
 
 Mi is a szuperszámítógép? Hogyan lett a tudomány és az innováció nélkülözhetetlen eszköze? Mire használják a biológusok, kémikusok, fizikusok és mérnökök? Milyen lehetőségeket tartogat a Komondor, a magyar szuperszámítógép?
 Ismerd meg a szuperszámítógépek világát, az elképesztő teljesítményt és a legújabb magyar szupergépet! 
+
+![Ismerd meg a Komondort – a jó HPC-t – és mindent, ami mögötte van](../2024/images/Komondor_IMG_20240927.jpg)
