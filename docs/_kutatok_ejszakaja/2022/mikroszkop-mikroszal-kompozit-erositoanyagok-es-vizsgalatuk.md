@@ -14,7 +14,7 @@ tud_intezmeny_rovid: GPK
 tud_covid:
 tud_url:
 tud_online:
-tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/mikroszkop-mikroszal-kompozit-erositoanyagok-es-vizsgalatuk
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/mikroszkop-mikroszal-kompozit-erositoanyagok-es-vizsgalatuk-1
 tud_reg: Igen, 10 fő Turnusonként, összesen 40 fő
 date: 2022-02-27
 ---
