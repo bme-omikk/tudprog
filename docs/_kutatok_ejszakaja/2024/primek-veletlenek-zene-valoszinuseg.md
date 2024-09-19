@@ -9,7 +9,7 @@ tud_eloadok: Keszthelyi Gabriella, Pintér Gergő
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME K épület F82-es terem
-tud_idopont: 2024. szeptember 27. 17:30-20:00
+tud_idopont: 2024. szeptember 27. 17:30-18:30, 18:45-20:00
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
@@ -26,5 +26,7 @@ hogyan segítenek meglátni a számok lelkét?... és hogyan kapcsolódnak a zen
 És annak, hogy ránk esik egy repülőgép darabja? Miért mérjük fel rosszul fontos dolgok valószínűségét? 
 
 Ilyen és ehhez hasonló kérdésekre keressük majd a választ.  
+
+*A program két szerző külön előadása egyazon témakörben, így a két megadott időpont közötti szünetben is érdemes csatlakozni a második előadáshoz.*
 
 ![Prímek, véletlenek, zene, valószínűség](../2024/images/primek-veletlenek-zene-valoszinuseg.JPG)
