@@ -29,4 +29,4 @@ Ilyen és ehhez hasonló kérdésekre keressük majd a választ.
 
 *A program két szerző külön előadása egyazon témakörben, így a két megadott időpont közötti szünetben is érdemes csatlakozni a második előadáshoz.*
 
-![Prímek, véletlenek, zene, valószínűség](../2024/images/primek-veletlenek-zene-valoszinuseg.JPG)
+![Prímek, véletlenek, zene, valószínűség](../2024/images/plakatkutatok12.png)
