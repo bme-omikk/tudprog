@@ -9,7 +9,7 @@ tud_programfelelos: Dr. Víg Zoltán, Dr. Tomasovszky Edit
 tud_eloadok: Dr. Grad-Gyenge Anikó, Dr. Tomasovszky Edit, Dr. Víg Zoltán
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME Q épület, QA 144-es terem
+tud_helyszin: BME Q épület, QA 407-es terem
 tud_idopont: 2024. szeptember 27. 17.00-18.00
 tud_regisztracio: 
 tud_url: 
@@ -24,4 +24,4 @@ date:  2024-08-27
 **Dr. Víg Zoltán** jogi diplomát a Szegedi Egyetem Állam- és Jogtudományi Karán szerzett (1998), majd ezt követően LLM (1999) és SJD (PhD) (2006) fokozatokat nemzetközi üzleti jogból a budapesti Közép-európai Egyetemen (CEU). Kutatói ösztöndíjjal dolgozott a Max Planck és az Asser Intézetekben, a Humboldt, Hamburgi, Emory és a Yale Egyetemeken. Öt évig volt a Magyar Tudományos Akadémia kutatója. Gyakorlati tudást a Freshfields Bruckhaus Deringer és a DBP Advokati nemzetközi ügyvédi irodánál szerzett.Több könyve és cikke jelent meg magyar, angol, szerb és német nyelveken. Oktatói karrierje során többek között olyan tárgyakat oktatott mint a nemzetközi beruházási jog, nemzetközi gazdasági jog, társasági jog, EU joga. 
 
 
-**A kerekasztal beszélgetés a képzőművészet és a műkereskedelem aktuális jogi kérdéseit, kihívásait járja körül - kiemelten a hamisítás, a követő jog és az NFT-k kérdésköreit, melyeket izgalmas esetekkel illusztrálnak az előadók.**
+**A kerekasztal beszélgetés a képzőművészet és a műkereskedelem aktuális jogi kérdéseit, kihívásait járja körül - kiemelten a műtárgyhamisítás, a követő jog, a mesterséges intelligencia és az NFT-k használatának kérdésköreit, melyeket izgalmas esetekkel illusztrálnak az előadók.**
