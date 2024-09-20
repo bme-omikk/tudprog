@@ -1,7 +1,7 @@
 ---
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
-tud_intezmeny: BME VIK, Méréstechnika és Információs Rendszerek Tanszék
+tud_intezmeny: BME VIK, Mesterséges Intelligencia és Rendszertervezés Tanszék
 tud_intezmeny_rovid: VIK
 tud_latogato: KF
 title: Ki vezet? Autók biztonságos kormányműve az informatika szemszögéből
@@ -17,7 +17,7 @@ tud_reg: nem, nem
 date:  2024-03-27
 ---
 
-[**Dr. Vörös András**](https://inf.mit.bme.hu/members/vorosa) a BME docense régóta foglalkozik azzal, hogy az informatikai rendszerek helyes működését miként lehet garantálni.
+[**Dr. Vörös András**](https://www.mit.bme.hu/general/staff/vori) a BME docense régóta foglalkozik azzal, hogy az informatikai rendszerek helyes működését miként lehet garantálni.
 Ebben a munkában a matematikát hívta segítségül, amelyet arra használhatunk, hogy egy elkészült informatikai rendszer helyességét a matematikai logika segítségével vizsgáljuk.
 
 [Thyssenkrupp Components Technology Hungary Kft.](https://www.thyssenkrupp.hu/hu/): A  thyssenkrupp Automotive Technology budapesti leányvállalataként 1999 óta foglalkozunk személyautók elektromos 
