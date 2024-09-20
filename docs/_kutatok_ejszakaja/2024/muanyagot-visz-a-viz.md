@@ -1,4 +1,4 @@
----
+//---
 layout: collection_kutej
 tud_title:  
 tud_intezmeny: BME ÉMK, Vízépítési és Vízgazdálkodási Tanszék
