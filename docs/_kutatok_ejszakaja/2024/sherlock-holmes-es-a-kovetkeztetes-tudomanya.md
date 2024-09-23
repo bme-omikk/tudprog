@@ -9,7 +9,7 @@ tud_eloadok: Egres Dorottya, Petschner Anna
 tud_tipus: csak élő közvetítés
 tud_online: https://meet.google.com/hrj-aizo-yqs
 tud_helyszin: Google Meet
-tud_idopont:  2024. szeptember 27.
+tud_idopont:  2024. szeptember 27. 19:00-20:00
 tud_regisztracio: 
 tud_url: https://meet.google.com/hrj-aizo-yqs
 tud_reg: nem, nem
