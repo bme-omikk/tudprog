@@ -16,5 +16,5 @@ tud_reg: nem , nem
 date:  2024-08-27
 ---
 
-![Van-e élet a Naprendszerben a Jupiter Europa nevű holdján?](ii.2024/images/van-e-elet-a-naprendszerben-a-jupiter-europa-nevu-holdjan.png)
+![Van-e élet a Naprendszerben a Jupiter Europa nevű holdján?](../2024/images/van-e-elet-a-naprendszerben-a-jupiter-europa-nevu-holdjan.png)
 
