@@ -9,7 +9,7 @@ tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME OMIKK Aula
-tud_idopont: 2024. szeptember 27. 16:00, 16:20, 16:40, 17:00, 17:20, 17:40, 18:00
+tud_idopont: 2024. szeptember 27. 16:00-17:00, 16:20-17:20, 16:40-17:40, 17:00-18:00, 17:20-18:20, 17:40-18:40, 18:00-19:00
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/fedezzuk-fel-egyutt-a-konyvtarat
 tud_url: 
 tud_reg: igen , Turnusonként 6 fő, összesen max 42 fő
