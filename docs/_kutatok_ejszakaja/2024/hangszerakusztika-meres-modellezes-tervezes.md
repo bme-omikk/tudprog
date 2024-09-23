@@ -9,7 +9,7 @@ tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1117 Budapest, Magyar Tudósok krt. 2., I. épület, IE222 labor (porta után egyből jobbra, lifttel fel a 2.-ra, 2x jobbra a hosszú folyosóra, majd a 2. labor)
-tud_idopont: 2024. szeptember 27. 17:45, 19:15, 20:45
+tud_idopont: 2024. szeptember 27. 17:45-18:30, 19:15-20:00, 20:45-21:30
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/hangszerakusztika-meres-modellezes-tervezes
 tud_url: 
 tud_reg: igen, 20 fő
