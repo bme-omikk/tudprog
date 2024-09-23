@@ -10,7 +10,7 @@ tud_eloadok: Friedrich Péter
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME K épület Aula 
-tud_idopont: 2024. szeptember 27. 18.00-20.00
+tud_idopont: 2024. szeptember 27. 18.00-22.00
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
