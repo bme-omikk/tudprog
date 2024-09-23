@@ -13,7 +13,7 @@ tud_helyszin: BME I épület, B szárny, első emelet, IB110. (1117 Budapest, Ma
 tud_idopont: 2024. szeptember 27. 17:00–21:00, 30 perces turnusok
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/kvantumkommunikacio-testkozelbol-1
 tud_url: 
-tud_reg: nem, Összesen 100 fő, turnusonként 10
+tud_reg: igen, Összesen 100 fő, turnusonként 10
 date:  2024-08-27
 ---
 
