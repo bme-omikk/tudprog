@@ -784,7 +784,10 @@ a.list_button:before {
   * transition: 0.5s;
 }
 
+a.normal_button:after{
+content: ' »';
 
+}
 
 a.list_button:hover {
   text-decoration:none;
