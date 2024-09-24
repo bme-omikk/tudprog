@@ -15,7 +15,7 @@ Dr. Fehér Árpád 2023. nyarán szerezte meg doktori fokozatát a közlekedés-
 
 <div class="gallery">
     <img src="images/feher_arpad.png" max-width="250" max-height="200">
-  <div class="desc">Fehér Árpád</div>
+  <div class="desc">Dr. Fehér Árpád</div>
 </div>
 
 </td>
