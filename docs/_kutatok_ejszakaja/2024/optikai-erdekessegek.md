@@ -1,4 +1,4 @@
----
+//---
 layout: collection_kutej
 tud_title:  Kutatók éjszakája 2024
 tud_intezmeny: BME TTK
