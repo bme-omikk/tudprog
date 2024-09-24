@@ -8,7 +8,7 @@ tud_programfelelos: Hegyesi Dóra
 tud_eloadok: Dr. Szandi-Varga Péter, Dr. Somogyi Ákos, Ribní Ferenc
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1117 Budapest, Magyar Tudósok Körútja 2. (BME Q ép.) QA404. terem
+tud_helyszin: 1117 Budapest, Magyar Tudósok Körútja 2. (BME Q ép.) QA406. terem
 tud_idopont: 2024. szeptember 27. 18:00-20:00
 tud_regisztracio: 
 tud_url: 
