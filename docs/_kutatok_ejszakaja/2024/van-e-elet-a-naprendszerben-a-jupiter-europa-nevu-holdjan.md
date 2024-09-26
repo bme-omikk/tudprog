@@ -9,7 +9,7 @@ tud_programfelelos: Kugler Zsófia
 tud_eloadok:  Dr. Murthy S. Gudipati
 tud_tipus: Csak személyes jelenléttel látogatható 
 tud_online: 
-tud_helyszin: BME K épület F144-es terem, Budapest Műegyetem rkp 3.
+tud_helyszin: BME K épület 144-es terem, Budapest Műegyetem rkp 3.
 tud_idopont: 2024. szeptember 27. 18:00-18:45
 tud_regisztracio: 
 tud_url: 
