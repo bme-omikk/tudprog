@@ -9,7 +9,7 @@ tud_helyszin: Magyar Telekom székház Budapest, Könyves Kálmán krt. 36
 tud_intezmeny: MTA Távközlési Tudományos Bizottság, BME-VIK, MI-EDIH
 tud_kapcsolattarto: Dr. Varga Pál – pvarga@tmit.bme.hu +36 30 3978303
 tud_url: https://www.tmit.bme.hu/
-date: 2024-11-11 14:00-18:00
+date: 2024-10-11 14:00-18:00
 ---
 A Távközlés és Mesterséges Intelligencia sorozat az MI-EDIH égisze alatt folytatódik, a Magyar Telekom székházban. A távközés, a hálózatok, a multimédia területeit átfonja a mesterséges intelligencia algoritmusok és eszközök alkalmazása. A workshopon ezekből tekintjük át a legújabb példákat.
 
