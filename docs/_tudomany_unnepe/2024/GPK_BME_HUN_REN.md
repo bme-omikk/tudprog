@@ -11,8 +11,9 @@ tud_kapcsolattarto: Imre Attila; imreattila@energia.bme.hu
 tud_url: 
 date: 2024-10-26 14:00-17:00
 ---
-PROGRAM
-14: 00 – 14:10 Bevezető: Dr. Imre Attila (BME GPK Energetikai Gépek és Rendszerek tsz)
+**PROGRAM**
+
+- 14: 00 – 14:10 Bevezető: Dr. Imre Attila (BME GPK Energetikai Gépek és Rendszerek tsz)
 
 - 14:10-14:30
 Dr. Alföldy-Boruss Márk (Energiaügyi Minisztérium, Energiapolitikáért felelős helyettes államtitkár):  Energiapolitikai aktualitások
