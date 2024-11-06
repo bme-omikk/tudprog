@@ -7,7 +7,7 @@ tud_tudomanyterulet: kémia, biotechnológia
 tud_idopont: 2024.11.20. 16:00
 tud_helyszin: BME F épület Schay terem
 tud_intezmeny: Budapesti Műszaki és Gazdaságtudományi Egyetem, Vegyészmérnöki és Biomérnöki Kar, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék; BME a Fenntarthatóságért Munkacsoport
-tud_kapcsolattarto: Dr. Feigl Viktória, feigl.viktoria@vbk.bme.hu, +36706229579
+tud_kapcsolattarto: Dr. Feigl Viktória, feigl.viktoria@vbk.bme.hu
 tud_url: 
 date: 2024-10-26 16:00
 ---
