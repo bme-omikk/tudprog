@@ -7,7 +7,7 @@ tud_tudomanyterulet: IKT/szoftver
 tud_idopont: 2024.11.28. 15:30
 tud_helyszin: BME, Q. épület BF14 
 tud_intezmeny: BME Villamosmérnöki és Informatikai Kar, Automatizálási és Alkalmazott Informatikai Tanszék (AUT)
-tud_kapcsolattarto: Forstner Bertalan, Ekler Péter, forstner.bertalan@vik.bme.hu, ekler.peter@vik.bme.hu (20) 3833750, (30) 4892111
+tud_kapcsolattarto: Forstner Bertalan, Ekler Péter, forstner.bertalan@vik.bme.hu, ekler.peter@vik.bme.hu
 tud_url: https://www.aut.bme.hu/News/PressRoom/Izgalmas-workshopok-a-Magyar
 date: 2024-10-26 15:30
 ---

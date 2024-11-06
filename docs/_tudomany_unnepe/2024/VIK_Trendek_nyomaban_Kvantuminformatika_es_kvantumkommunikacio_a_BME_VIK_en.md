@@ -7,7 +7,7 @@ tud_tudomanyterulet: műszaki
 tud_idopont: 2024.11.28. 14:00-15:30
 tud_helyszin: BME Q épület, földszint, QBF13 1117 Budapest, Magyar tudósok krt. 2.
 tud_intezmeny: BME Villamosmérnöki és Informatikai Kar
-tud_kapcsolattarto: Bacsárdi László, bacsardi.laszlo@vik.bme.hu, +36 1 463 3261
+tud_kapcsolattarto: Bacsárdi László, bacsardi.laszlo@vik.bme.hu
 tud_url: 
 date: 2024-10-26
 ---

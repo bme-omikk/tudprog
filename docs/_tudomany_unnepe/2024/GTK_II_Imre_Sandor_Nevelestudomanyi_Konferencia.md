@@ -7,7 +7,7 @@ tud_tudomanyterulet: Neveléstudomány
 tud_idopont: 2024. november 27.  9:00-17:00
 tud_helyszin: BME GTK MPT 1117 Budapest, Magyar tudósok krt. 2-6. QA139
 tud_intezmeny: BME GTK Műszaki Pedagógia Tanszék
-tud_kapcsolattarto: Dr. Tóth Péter; toth.peter@gtk.bme.hu; 06-1-463-2115 Hegyesi Dóra; 06-1-463-2114; mpt.conference@gtk.bme.hu
+tud_kapcsolattarto: Dr. Tóth Péter, toth.peter@gtk.bme.hu; Hegyesi Dóra, mpt.conference@gtk.bme.hu
 tud_url: https://isnk.mpt.bme.hu/
 date: 2024-10-26  9:00-17:00
 ---

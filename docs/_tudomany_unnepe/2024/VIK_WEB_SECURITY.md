@@ -7,7 +7,7 @@ tud_tudomanyterulet: Informatika, webes alkalmazások
 tud_idopont: 2024.11. 06. 15:00
 tud_helyszin: BME Q épület BF15
 tud_intezmeny: BME VIK Automatizálási és Alkalmazott Informatikai Tanszék
-tud_kapcsolattarto: Dr. Kovács Tibor, kovacs.tibor@aut.bme.hu, +36-70-428-5122
+tud_kapcsolattarto: Dr. Kovács Tibor, kovacs.tibor@aut.bme.hu
 tud_url: https://www.aut.bme.hu/News/PressRoom/Izgalmas-workshopok-a-Magyar
 date: 2024-10-26  15:00
 ---

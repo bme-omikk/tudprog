@@ -8,13 +8,13 @@ tud_idopont: 2024. 11. 28.   9:00 – 12:20
 tud_helyszin: Humán Tudományok Kutatóháza (1097 Budapest, Tóth Kálmán u.4.).
 tud_intezmeny: MTA
 tud_kapcsolattarto: Sugár Éva sugar.eva@titkarsag.mta.hu 
-tud_url: Az eseményt élőben közvetítjük az MTA YouTube-csatornáján.
-date: 2024-10-26  9:00 - 12:20
+tud_url: 
+date: 2024-10-26
 ---
-A program célja, hogy bemutassa a Fenntartható Fejlődés és Technológiák Nemzeti Programot.
+A program célja, hogy bemutassa a Fenntartható Fejlődés és Technológiák Nemzeti Programot. Az eseményt élőben közvetítjük az MTA YouTube-csatornáján.
 Programterv:
 
-Levezető elnök: Bozó László, az MTA rendes tagja
+Levezető elnök: Bozó László, az MTA rendes tagja. 
 
 - 9:00 – 9:10 Megnyitó Bozó László/Józsa János/ Garamszegi László
 

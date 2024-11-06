@@ -7,8 +7,8 @@ tud_tudomanyterulet: Gazdaság- és társadalomtudományok
 tud_idopont: 2024. 11. 8. 9:30-15:30
 tud_helyszin: BME Q épület, QA403-as terem. Cím 1117 Budapest, Magyar tudósok körútja 2.
 tud_intezmeny: BME-GTK Környezetgazdaságtan és Fenntartható Fejlődés Tanszék
-tud_kapcsolattarto: Buzási Attila, buzasi.attila@gtk.bme.hu, 463-1179
-tud_url: kornygazd.bme.hu
+tud_kapcsolattarto: Buzási Attila, buzasi.attila@gtk.bme.hu
+tud_url: http://kornygazd.bme.hu
 date: 2024-10-26 9:30-15:30
 ---
 A BME Környezetgazdaságtan és Fenntartható Fejlődés Tanszékének 35 éves fennállása alkalmából november 8-ánünnepi konferenciát tartunk. Többszörös évfordulót ünneplünk, hiszen a Tanszék elődje 35 éve kezdte meg működését, 20 éve vagyunk tagjai az Európai Uniónak, mesterképzésünkre – a regionális és környezeti gazdaságtan képzésre – pedig 15 éve iratkoztak be az első hallgatók.

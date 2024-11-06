@@ -7,7 +7,7 @@ tud_tudomanyterulet: IKT/Ipar4.0
 tud_idopont: 2024.11.08 16:00-16:30, 17:00-17:30, 17:30-18:00, 18:00-18:30
 tud_helyszin: BME I. épület, IB017 – BME Ipar 4.0 Technológiai Központ
 tud_intezmeny: BME Villamosmérnöki és Informatikai Kar, Automatizálási és Alkalmazott Informatikai Tanszék (AUT), Ipar 4 Technológiai Központ
-tud_kapcsolattarto: Nenov Adrienn, nenov.adrienn@bme.hu, +36 20 625-5533
+tud_kapcsolattarto: Nenov Adrienn, nenov.adrienn@bme.hu
 tud_url: https://www.aut.bme.hu/News/PressRoom/Izgalmas-workshopok-a-Magyar
 date: 2024-10-26
 ---

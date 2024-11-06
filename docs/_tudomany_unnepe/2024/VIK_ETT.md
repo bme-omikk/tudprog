@@ -7,8 +7,8 @@ tud_tudomanyterulet: Műszaki tudományok, villamosmérnöki tudományok
 tud_idopont: 2024.11.13. 14:00
 tud_helyszin: BME, Egry J. u. 18. V1. Épület 102. + Online
 tud_intezmeny: BME-VIK, Elektronikai Technológia Tanszék
-tud_kapcsolattarto: Dr. Bonyár Attila, bonyar.attila@vik.bme.hu, +3614632758
-tud_url: www.ett.bme.hu
+tud_kapcsolattarto: Dr. Bonyár Attila, bonyar.attila@vik.bme.hu
+tud_url: https://www.ett.bme.hu
 date: 2024-10-26 14:00
 ---
 A fenntartható fejlődés indikátorai az elektronikai ipart, a gyártást és a fogyasztást is érintik. Az ENSZ által javasolt SDG célok mentén a hardverekkel foglalkozó iparágnak is szüksége van alapvető változtatásokra, újszerű megközelítésekre. A tanszékünk évtizedek óta foglalkozik fenntartható elektronikai anyagok alkalmazástechnikájával, szenzorok fejlesztésével és a hibalehetőségeket feltáró, azokat jelentősen csökkentő folyamatok kutatásával.

@@ -7,8 +7,8 @@ tud_tudomanyterulet: Társadalomtudomány Gazdálkodás- és szervezéstudomány
 tud_idopont: 2024. 11. 22. 15:00
 tud_helyszin: BME Q. épület, Ladó László terem; Q. épület Aula
 tud_intezmeny: Menedzsment és Vállalkozásgazdaságtan Tanszék
-tud_kapcsolattarto: Kovács Stefan, kovacs.stefan@gtk.bme.hu, 0630 94 27 220
-tud_url: mvt.bme.hu
+tud_kapcsolattarto: Kovács Stefan, kovacs.stefan@gtk.bme.hu
+tud_url: https://mvt.bme.hu
 date: 2024-10-26 15:00
 ---
 A Menedzsment és Vállalkozásgazdaságtan Tanszék 75. évfordulójának megünneplésére november 15-én kerül sor, amely méltó alkalmat biztosít arra, hogy visszatekintsünk a tanszék gazdag történetére, valamint a gazdálkodástudomány és a menedzsment területén elért kimagasló eredményeire. 

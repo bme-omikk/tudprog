@@ -7,7 +7,7 @@ tud_tudomanyterulet: kémiai tudományok
 tud_idopont: 2024. november 05. 14:00-16:00
 tud_helyszin: 1111 Budapest, Szent Gellért tér 4. BME CH épület CH201 terem + online 
 tud_intezmeny: Budapesti Műszaki és Gazdaságtudományi Egyetem, Vegyészmérnöki és Biomérnöki Kar, Kémiai és Környezeti Folyamatmérnöki Tanszék + Magyar Tudományos Akadémia Műszaki Kémia Tudományos Bizottság
-tud_kapcsolattarto: Székely Edit, edit.szekely@edu.bme.hu, +36306257616
+tud_kapcsolattarto: Székely Edit, edit.szekely@edu.bme.hu
 tud_url: 
 date: 2024-10-26 14:00-16:00
 ---
