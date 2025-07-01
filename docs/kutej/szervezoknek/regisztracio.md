@@ -18,4 +18,6 @@ Az egyes programok megvalósításának költsége a programszervező szervezeti
 Kérdéseikkel, észrevételeikkel forduljanak bizalommal az intézményi koordinátorunkhoz: <br>
 Kulasák Noémi (konyvtar.rendezveny@bme.hu, +36-30-299-4474)
 
+[Ezen a linken érhetők el a 2025-ös arculati elemek](https://drive.google.com/drive/folders/1-WxMKyzS-SetPMljVSXrISViCc0kuZ_E)
+
 
