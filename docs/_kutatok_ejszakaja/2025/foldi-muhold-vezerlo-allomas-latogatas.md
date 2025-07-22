@@ -23,7 +23,7 @@ Előadók:
 
 
 
-BME Etető, avagy földi műhold vezérlő állomás és az oktatási műhold fejlesztéseink bemutatása: Masat-1, SMOG-P, ATL-1, SMOG-1, MRC-100, Hunity (NMHH-1)
+**BME Etető**, avagy földi műhold vezérlő állomás és az oktatási műhold fejlesztéseink bemutatása: Masat-1, SMOG-P, ATL-1, SMOG-1, MRC-100, Hunity (NMHH-1)
 
 
 
