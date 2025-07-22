@@ -27,4 +27,4 @@ BME Etető, avagy földi műhold vezérlő állomás és az oktatási műhold fe
 
 
 
-![Földi műhold vezérlő állomás látogatás](../2025/images/foldi-muhold-vezerlo-allomas-latogatas.JPG)
+![Földi műhold vezérlő állomás látogatás](../2025/images/foldi-muhold-vezerlo-allomas-latogatas.png)
