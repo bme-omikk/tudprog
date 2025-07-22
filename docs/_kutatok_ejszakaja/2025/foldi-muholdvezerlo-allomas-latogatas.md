@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Találkozó a BME E épület portán.
 tud_idopont: 2025. szeptember 26. 16:00-16:45, 17:00-17:45, 18:00-18:45, 19:00-19:45, 20:00-20:45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/foldi-muholdvezerlo-allomas-latogatas
 tud_url: 
 tud_reg: igen, 5 turnus- 12 fő/turnus, 
 date:  2025-07-22
