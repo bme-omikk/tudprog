@@ -4,7 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Németh Bálint
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2024
+tud_title: Kutatók éjszakája 2025
 ---
 Laboratórium-vezető, egyetemi docens, Nagyfeszültségű Technika és Berendezések Csoport (Villamos Energetika Tanszék · VIK)
 
@@ -17,7 +17,7 @@ Laboratórium-vezető, egyetemi docens, Nagyfeszültségű Technika és Berendez
 
 <div class="gallery">
     <img src="images/nemeth_balint.jpg" max-width="250" max-height="200">
-  <div class="desc">Dr Németh Bálint</div>
+  <div class="desc">Dr. Németh Bálint</div>
 </div>
 
 </td>
