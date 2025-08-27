@@ -19,8 +19,11 @@ date:  2025-08-27
 A mesterséges intelligencia ma már képes zenét szerezni, képeket alkotni és bonyolult problémákat megoldani, mégis sokan tartanak tőle. Pedig az AI lehet a társunk és segítőnk, 
 nem pedig az ellenségünk – ahogy a matematikusok munkája sem tűnt el a számológép megjelenésével, csak új távlatokat nyert. Barangoljunk együtt ebben az izgalmas világban, és keressük a választ: létezik-e a kreativitásnak kódja? 
 
-*(Ezt a bevezetőt egy AI írta. Észrevetted már az elején?)*
+*Ezt a bevezetőt egy AI írta. Észrevetted már az elején?*
+  
 
- [Csonka Bence]()
+ [Csonka Bence](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/csonka_bence)
+
+   
 
  ![Létezik-e a kreativitásnak kódja? Barangolás a mesterséges intelligancia világában.](../2025/images/letezik-e-a-kreativitasnak-kodja-barangolas.jpg)
