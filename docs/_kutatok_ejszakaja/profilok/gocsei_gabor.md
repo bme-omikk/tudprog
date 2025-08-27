@@ -4,7 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado:
 kutej_programfelelos: 
 kutej_eloado: Dr. Göcsei Gábor
-tud_title: Kutatók éjszakája 2024
+tud_title: Kutatók éjszakája 2025
 ---
 Egyetemi docens, Nagyfeszültségű Technika és Berendezések Csoport (Villamos Energetika Tanszék · VIK)
 
@@ -17,7 +17,7 @@ Egyetemi docens, Nagyfeszültségű Technika és Berendezések Csoport (Villamos
 
 <div class="gallery">
     <img src="images/gocsei_gabor.jpg" max-width="250" max-height="200">
-  <div class="desc">Dr Göcsei Gábor</div>
+  <div class="desc">Dr. Göcsei Gábor</div>
 </div>
 
 </td>
