@@ -1,6 +1,6 @@
 ---
 layout: collection_kutej
-tud_title:  Kutatók éjszakája 2025
+tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME VIK Szélessávú Hírközlés és Villamosságtan Tanszék
 tud_intezmeny_rovid: VIK
 title: Földi műholdvezérlő állomás látogatás
