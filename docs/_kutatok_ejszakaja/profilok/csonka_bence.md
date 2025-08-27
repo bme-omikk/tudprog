@@ -15,7 +15,7 @@ Csonka Bence a Matematika- és Számítástudományok Doktori iskola hallgatója
 <td>
 
 <div class="gallery">
-    <img src="images/csonka_bence.jpg" max-width="250" max-height="200">
+    <img src="images/csonka_bence.png" max-width="250" max-height="200">
   <div class="desc">Csonka Bence</div>
 </div>
 
