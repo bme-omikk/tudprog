@@ -26,6 +26,6 @@ Modellezzük a villámcsapást és annak hatásait, láthatóvá tesszük a nagy
 nyílik lehetőség a villamosmérnöki tudomány ezen ágának megismerésére. A Budapesti Műszaki és Gazdaságtudományi Egyetem Nagyfeszültségű Laboratóriumába ellátogatók biztonságos körülmények között, testközelből láthatnak és
 érthetnek meg olyan, elsősorban nagyfeszültségen lejátszódó veszélyes jelenségeket, amelyekre a mindennapi tevékenységük során általában nincs lehetőség. 
 
-[További információ:](http://nfl.vet.bme.hu/)
+[További információ>>](http://nfl.vet.bme.hu/)
 
 ![Óránként induló bemutatók a Nagyfeszültségű Laboratóriumban](../2025/images/orankant_indulo_bemutatok_a_Nagyfeszultsegu_Laboratoriumban.JPG)
