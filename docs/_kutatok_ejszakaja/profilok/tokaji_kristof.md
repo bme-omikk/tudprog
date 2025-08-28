@@ -4,9 +4,9 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Tokaji Kristóf
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2025
 ---
-okl. gépészmérnök (MSc), áramlástechnikai gépészmérnök, tanszéki mérnök az Áramlástan Tanszék munkatársa. Kutatási területei: aerokausztika, áramlások modellezése, áramlástechnikai gépek, légtechnika. https://triton.ara.bme.hu/munkatarsak/552
+Dr. Tokaji Kristóf gépészmérnök (PhD), áramlástechnikai gépészmérnök, adjunktus, az Áramlástan Tanszék munkatársa. Kutatási területei: aerokausztika, áramlások modellezése, áramlástechnikai gépek, légtechnika. https://www.ara.bme.hu/munkatarsak/552
 
 
 
@@ -16,7 +16,7 @@ okl. gépészmérnök (MSc), áramlástechnikai gépészmérnök, tanszéki mér
 <td>
 
 <div class="gallery">
-    <img src="images/tokaji_kristof.jpg" max-width="250" max-height="200">
+    <img src="images/Dr. Tokaji Kristóf.jpg" max-width="250" max-height="200">
   <div class="desc">Tokaji Kristóf</div>
 </div>
 
