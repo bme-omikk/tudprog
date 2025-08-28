@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME VBK Szent Gellért tér 4. 1111, Ch épület alagsor Biostruct labor és az előtte lévő folyosó
 tud_idopont: 2025. szeptember 26. 17:00-17:25, 17:25-17:50, 17:50-18:15, 18:30-18:55, 18:55-19:20, 19:20-19:45, 20:00-20:25, 20:25-20:50, 20:50-21:15
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/a-sejt-titkai-dns-tol-a-feherjekig
 tud_url: 
 tud_reg: igen, turnusonként 10 fő
 date:  2025-08-27
