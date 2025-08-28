@@ -14,7 +14,7 @@ A BME VBK ABÉT tanszékén 2021-től vagyok adjunktus, kutatómunkámat a Prof.
 <td>
 
 <div class="gallery">
-    <img src="images/bekesi_angela.jpg" max-width="250" max-height="200">
+    <img src="images/bekesi_angela.jpg.JPG" max-width="250" max-height="200">
   <div class="desc">Dr. Békési Angéla</div>
 </div>
 
