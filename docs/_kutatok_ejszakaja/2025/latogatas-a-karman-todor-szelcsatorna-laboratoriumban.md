@@ -19,7 +19,7 @@ date:  2025-08-27
 Megismerkedhetnek a szélcsatornás mérésekkel és érdekes áramlástani sajátosságokkal. Lehetőség van beállni a szélcsatorna közel 90 km/h sebességű levegőáramába. 
 Továbbá látványos áramlástani bemutatók tekinthetők meg.
 
-Dr. Tokaji Kristóf
+[Dr. Tokaji Kristóf](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/tokaji_kristof)
 
 [Áramlástan Tanszék](https://www.ara.bme.hu/), [Áramlástan Szakosztály](https://www.facebook.com/aramlastanszakosztaly)
 
