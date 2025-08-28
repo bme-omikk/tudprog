@@ -25,6 +25,6 @@ Egy interaktív workshopot kínálunk kicsiknek és nagyoknak. A Biostruct labor
 
 **Emődi Nikolett, Iván Réka, Szajkó Milda:** 
 A Genom Metabolizmus és Biostruct Kutatócsoport lelkes fiatal kutatói, doktoranduszai és MSc-s diákjai. A csoport kutatási és oktatási tevékenységéről a honalpjainkon lehet tájékozódni: [https://www.biostruct.org/](https://www.biostruct.org/) és [https://www.ttk.hun-ren.hu/ei/genom-metabolizmus-kutatocsoport](https://www.ttk.hun-ren.hu/ei/genom-metabolizmus-kutatocsoport).
-Továbbá a BME VBK ABÉT insta és facebook oldalán találhattok egy rövid bemutatkozást: [https://www.instagram.com/p/C_fSLQoovmX/?igsh=cXBjZ2pkdXh1bDJq](https://www.instagram.com/p/C_fSLQoovmX/?igsh=cXBjZ2pkdXh1bDJq) és [https://www.facebook.com/share/p/iwCxi83ubJKME1Mr/](https://www.facebook.com/share/p/iwCxi83ubJKME1Mr/)
+Továbbá a BME VBK ABÉT insta és facebook oldalán találhattok egy rövid bemutatkozást: [Instagram](https://www.instagram.com/p/C_fSLQoovmX/?igsh=cXBjZ2pkdXh1bDJq) és [Facebook](https://www.facebook.com/share/p/iwCxi83ubJKME1Mr/)
 
 ![A sejt titkai: DNS-től a fehérjékig](../2025/images/a-sejt-titkai-dns-tol-a-feherjekig.png)
