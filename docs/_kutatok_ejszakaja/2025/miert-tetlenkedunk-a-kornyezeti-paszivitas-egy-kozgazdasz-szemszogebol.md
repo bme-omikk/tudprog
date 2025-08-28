@@ -24,4 +24,4 @@ a környezeti ügyek iránt és miért tétlenkednek, számos tudományág vizsg
 a környezeti passzivitás egyéni okai. Evidenciának tartjuk, hogy minden egyes ember számára megéri erőfeszítéseket tenni és beruházni a problémák megelőzésébe és a szennyezések ártalmatlanításába, de vajon biztosan így van ez? Az előadást követően 
 a résztvevők közösen gondolkodhatnak és beszélgethetnek a környezetvédelem közös ügyéről és arról, hogy vajon tesznek-e ők eleget.
 
-
+[Csuvár Ádám](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/csuvar_adam)
