@@ -5,7 +5,7 @@ tud_intezmeny: BME GPK, Áramlástan Tanszék
 tud_intezmeny_rovid: GPK
 title: Látogatás a Kármán Tódor Szélcsatorna Laboratóriumban
 tud_programfelelos: Dr. Tokaji Kristóf
-tud_eloadok: Áramlástan Tanszék
+tud_eloadok: Áramlástan Tanszék, Áramlástan Szakosztály
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME AE épület, 1111 Budapest, Bertalan Lajos u. 4-6.
@@ -18,6 +18,10 @@ date:  2025-08-27
 
 Megismerkedhetnek a szélcsatornás mérésekkel és érdekes áramlástani sajátosságokkal. Lehetőség van beállni a szélcsatorna közel 90 km/h sebességű levegőáramába. 
 Továbbá látványos áramlástani bemutatók tekinthetők meg.
+
+Dr. Tokaji Kristóf
+
+[Áramlástan Tanszék](https://www.ara.bme.hu/), [Áramlástan Szakosztály](https://www.facebook.com/aramlastanszakosztaly)
 
 ![Látogatás a Kármán Tódor Szélcsatorna Laboratóriumban](../2025/images/latogatas-a-karman-todor-szelcsatorna-laboratoriumban.JPG)
 
