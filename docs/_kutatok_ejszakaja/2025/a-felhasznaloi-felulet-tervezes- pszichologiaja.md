@@ -24,3 +24,6 @@ Különösen ajánlott a pszichológia, a felhasználói élmény (UX) és a UI 
 Molnár Marietta
 
 BME GTK, Ergonómia és Pszichológia Tanszék
+
+
+![A felhasználói felület tervezés pszichológiája] (../2025/images/a-felhasznaloi-felulet-tervezes- pszichologiaja.png)
