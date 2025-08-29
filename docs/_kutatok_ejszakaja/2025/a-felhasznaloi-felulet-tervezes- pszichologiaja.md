@@ -21,7 +21,7 @@ Különösen ajánlott a pszichológia, a felhasználói élmény (UX) és a UI 
 
 **Bemutató ideje**: 16:00-17:30
 
-Molnár Marietta
+[Molnár Marietta](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/molnar_marietta)
 
 BME GTK, Ergonómia és Pszichológia Tanszék
 
