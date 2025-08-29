@@ -15,7 +15,7 @@ Kutatási tevékenységének fókuszában a mesterséges intelligencia (AI) felh
 <table class="picture">
 <tr>
 <td>
-
+ 
 <div class="gallery">
     <img src="images/molnar-marietta.png" max-width="250" max-height="200">
   <div class="desc">Molnár Marietta</div>
