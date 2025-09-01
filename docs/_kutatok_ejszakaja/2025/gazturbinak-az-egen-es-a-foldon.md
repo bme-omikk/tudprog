@@ -7,7 +7,7 @@ title: Gázturbinák az égen és a földön
 tud_programfelelos: Kardos Réka, Rácz Erika
 tud_eloadok: Dr. Sztankó Krisztián
 tud_tipus: Csak személyes jelenléttel látogatható
-tud_online: -
+tud_online: 
 tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111. 
 Megjegyzés: DCS laboratórium St épület felőli oldala
 tud_idopont: 2025.09.26 17:30-18:20, 19:00-19:50
