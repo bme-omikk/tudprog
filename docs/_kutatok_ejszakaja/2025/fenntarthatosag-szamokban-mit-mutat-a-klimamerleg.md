@@ -5,7 +5,7 @@ tud_intezmeny: BME GPK, Energetikai Gépek és Rendszerek Tanszék
 tud_intezmeny_rovid: GPK
 title: Fenntarthatóság számokban – Mit mutat a klímamérleg?
 tud_programfelelos: Kardos Réka, Rácz Erika
-tud_eloadok: A BME Energetikai Gépek és Rendszerek Tanszék
+tud_eloadok: Dr. Kovács Viktória, Szalainé Kaczkó Orsolya
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111 .
