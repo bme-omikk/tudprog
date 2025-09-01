@@ -20,6 +20,6 @@ Sherlock Holmes, mint ismeretes, a Baker Streeten lakott, a 221B szám alatt. Ig
 Mégis mi teszi igazzá ezt az állítást? Egyes filozófusok szerint semmi: amikor fiktív karakterek tulajdonságairól vitatkozunk, egyszerűen úgy teszünk, mintha a szóban forgó állítások igazak lennének. Más filozófusok úgy gondolják: bár a fiktív karakterek másféle fajtájú létezők, mint a hús-vér személyek, de kétségtelenül léteznek, és a róluk szóló állításokat a velük kapcsolatos tények teszik igazzá. Megint mások meg vannak róla győződve: a fiktív karakterekről szóló mondatok valójában arról szólnak, hogy a fikció szerint mi a helyzet a szereplőkkel, és az ilyen mondatok akkor is igazak lehetnek, ha nem léteznek fiktív karakterek. Kinek van igaza a vitában? 
 És az egyes elméletek szerint voltaképpen mit is csinál a fikció szerzője, amikor megalkotja a fiktív karaktereket? 
 
-Bárány Tibor
+[Bárány Tibor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/barany_tibor)
 
 BME GTK, [Szociológia és Kommunikáció Tanszék](https://www.bmekomm.hu/)
