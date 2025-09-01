@@ -6,7 +6,7 @@ tud_intezmeny_rovid: TTK
 title: A sugárvédelem története
 tud_programfelelos: Gerdán Mercédesz
 tud_eloadok: Gazdag-Hegyesi Szilvia
-tud_tipus: 
+tud_tipus: Csak személyes jelenléttel látogatható 
 tud_online: 
 tud_helyszin: Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézet 1111 Budapest, Műegyetem rkp. 9., R épület 2. emelet 215. terem
 tud_idopont: 2025. szeptember 26. 2025. szeptember 26. 18:00-18:45
