@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Szijjártó Linda
 tud_eloadok: Dr. Szijjártó Linda
 tud_tipus: Csak élő közvetítés
 tud_online: 
-tud_helyszin: QA202
+tud_helyszin: A szárny 202-es terem
 tud_idopont: 2025. szeptember 26. 17:30-18:30
 tud_regisztracio: 
 tud_url: 
