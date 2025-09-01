@@ -8,7 +8,7 @@ tud_programfelelos: Bednanics Hanna
 tud_eloadok: Bednanics Hanna, Bajnóczi Boldizsár, és a szakkollégium rendes, illetve ifjú tagjai
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: K épület Aula, Sóhajok hídja felől
+tud_helyszin: Budafoki út 4-6. K épület Aula, Sóhajok hídja felől
 tud_idopont: 2025. szeptember 26. 16:00-23:00
 tud_regisztracio: 
 tud_url: 
