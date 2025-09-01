@@ -13,7 +13,7 @@ Gépészeti modellezés szakon MSc. hallgató a BME-n. Kutatási területe a GPU
 <td>
 
 <div class="gallery">
-    <img src="images/Nagy_Daniel.jpg" max-width="250" max-height="200">
+    <img src="images/Nagy_Dániel.png" max-width="250" max-height="200">
   <div class="desc">Nagy Dániel</div>
 </div>
 
