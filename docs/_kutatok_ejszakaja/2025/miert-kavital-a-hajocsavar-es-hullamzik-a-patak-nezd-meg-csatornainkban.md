@@ -23,4 +23,4 @@ Mi a közös egy tönkrement hajócsavar és egy hangos vízforraló között? H
 
 BME GPK, Hidrodinamikai Rendszerek Tanszék
 
-![Miért kavitál a hajócsavar és hullámzik a patak? Nézd meg csatornáinkban!](../2025/images/miert-kavital-a-hajocsavar-es-hullamzik-a-patak-nezd-meg-csatornainkban.png)
+![Miért kavitál a hajócsavar és hullámzik a patak? Nézd meg csatornáinkban!](../2025/images/miert-kavital-a-hajocsavar-es-hullamzik-a-patak-nezd-meg-csatornainkban.PNG)
