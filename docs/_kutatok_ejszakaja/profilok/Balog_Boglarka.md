@@ -14,7 +14,7 @@ Okleveles gépészmérnök (MSc), jelenleg doktoranduszként dolgozik a HDR Tans
 
 <div class="gallery">
     <img src="images/Balog_Boglárka.png" max-width="250" max-height="200">
-  <div class="desc">Friedrich Péter</div>
+  <div class="desc">Balog Boglárka</div>
 </div>
 
 </td>
