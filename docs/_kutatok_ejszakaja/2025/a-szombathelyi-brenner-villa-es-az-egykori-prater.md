@@ -18,7 +18,7 @@ date:  2025-08-27
 
 A sétán a Szombathelyi Brenner-villa és park múltjával ismerkedhetnek meg a résztvevők. A villa felújítása kapcsán archív képeken, a múlt elemeinek felderítésével tárul fel a Brenner család villájának és kertjének története. 
 
-Gácsi Zsuzsanna
+[Gácsi Zsuzsanna](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gacsi_zsuzsanna)
 
 BME ÉPK, Középülettervezési tanszék
 
