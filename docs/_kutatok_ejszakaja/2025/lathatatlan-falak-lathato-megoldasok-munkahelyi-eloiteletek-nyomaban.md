@@ -6,7 +6,7 @@ tud_intezmeny_rovid: GTK
 title: Láthatatlan falak, látható megoldások. munkahelyi előítéletek nyomában
 tud_programfelelos: Dr. Szijjártó Linda
 tud_eloadok: Dr. Szijjártó Linda
-tud_tipus: Csak élő közvetítés
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: A szárny 202-es terem
 tud_idopont: 2025. szeptember 26. 17:30-18:30
