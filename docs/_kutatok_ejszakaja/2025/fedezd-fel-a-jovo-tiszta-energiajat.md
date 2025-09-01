@@ -6,9 +6,14 @@ tud_intezmeny_rovid: GPK
 title: Fedezd fel a jövő tiszta energiáját!
 tud_programfelelos: Kardos Réka, Rácz Erika
 tud_eloadok: Lévai Emese
+tud_tipus: Csak személyes jelenléttel látogatható
+tud_online: 
+tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111. 
+Megjegyzés: DCS laboratórium St épület felőli oldala
+tud_idopont: 2025.09.26. 17:00-20:00
 tud_regisztracio: 
 tud_url: 
-
+tud_reg: nem, nem
 date:  2025-08-27
 ---
 
