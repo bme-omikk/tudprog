@@ -3,7 +3,7 @@ layout: page_kutej_profilok
 tud_title:  Kutatók éjszakája 2025
 tud_idopont:  0
 kutej_programfelelos: 
-kutej_eloado: Nguyen Zsófia Ly
+kutej_eloado: Nguyen Zsófia Ly 
 ---
 
 Utolsó félévemet kezdtem meg a vegyészmérnöki mesterképzésen, 3 éve vagyok a Lágy anyagok csoport tagja. 
