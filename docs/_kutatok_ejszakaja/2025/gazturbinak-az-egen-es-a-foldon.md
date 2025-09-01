@@ -8,7 +8,8 @@ tud_programfelelos: Kardos Réka, Rácz Erika
 tud_eloadok: A BME Energetikai Gépek és Rendszerek Tanszék
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111. Megjegyzés: DCS laboratórium St épület felőli oldala
+tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111. 
+Megjegyzés: DCS laboratórium St épület felőli oldala
 tud_idopont: 2025.09.26 17:30-18:20, 19:00-19:50
 tud_regisztracio: 
 tud_url: 
