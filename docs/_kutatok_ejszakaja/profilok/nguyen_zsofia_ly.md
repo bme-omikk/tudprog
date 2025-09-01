@@ -6,5 +6,4 @@ kutej_programfelelos:
 kutej_eloado: Nguyen Zsófia Ly 
 ---
 
-Utolsó félévemet kezdtem meg a vegyészmérnöki mesterképzésen, 3 éve vagyok a Lágy anyagok csoport tagja. 
-Fehérjetisztításra alkalmas polimer hordozókkal foglalkozom, minél színesebb annál jobb. 
+Utolsó félévemet kezdtem meg a vegyészmérnöki mesterképzésen, 3 éve vagyok a Lágy anyagok csoport tagja. Fehérjetisztításra alkalmas polimer hordozókkal foglalkozom, minél színesebb annál jobb. 
