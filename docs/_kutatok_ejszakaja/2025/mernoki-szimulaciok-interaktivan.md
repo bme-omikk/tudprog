@@ -8,7 +8,7 @@ tud_programfelelos: Kardos Réka, Rácz Erika
 tud_eloadok: Sziffer Bence, Dr. Csemány Dávid
 tud_tipus: Kérjük válasszon!
 tud_online: 
-tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111 
+tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111. 
 tud_idopont: 2025. szeptember 26. folyamatos (17:00-20:00)
 tud_regisztracio: 
 tud_url: 
