@@ -7,4 +7,4 @@ kutej_eloado: Szabó Domonkos
 ---
 
 3 éve végzek kutatómunkát a Lágy Anyagok Kutatócsoportban. 
-Kedvencem a lemoshatós tetkó. 
+Kedvencem a lemoshatós tetkó.  
