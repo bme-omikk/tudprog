@@ -20,7 +20,7 @@ Hogyan segíthet a pszichológia, hogy magabiztosan érd el a következő karrie
 Ez az interaktív műhely feltárja a rejtett akadályokat és gyakorlati eszközöket ad a karriered előrehaladásához.
 
 
-Dr. Szijjártó Linda
+[Dr. Szijjártó Linda](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/szijjarto_linda)
 
 BME GTK Ergonómia és Pszichológia Tanszék
 
