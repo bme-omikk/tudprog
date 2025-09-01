@@ -6,7 +6,7 @@ kutej_programfelelos:
 kutej_eloado: Balog Boglárka
 ---
 
-Okleveles gépészmérnök (MSc), jelenleg doktoranduszként dolgozik a HDR Tanszéken. Fő kutatási területét nemnewtoni folyadékok vizsgálata áramlástechnikai gépek esetén.   
+Okleveles gépészmérnök (MSc), jelenleg doktoranduszként dolgozik a HDR Tanszéken. Fő kutatási területét nemnewtoni folyadékok vizsgálata áramlástechnikai gépek esetén. 
 
 <table class="picture">
 <tr>
