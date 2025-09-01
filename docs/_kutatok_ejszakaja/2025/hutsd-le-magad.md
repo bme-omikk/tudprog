@@ -6,6 +6,10 @@ tud_intezmeny_rovid: GPK
 title: Hűtsd le magad!
 tud_programfelelos: Kardos Réka, Rácz Erika
 tud_eloadok: Bellus Bendek
+tud_tipus: Csak személyes jelenléttel látogatható
+tud_online: 
+tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111 
+tud_idopont: 2025.09.26. 17:00-20:00
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem , nem
