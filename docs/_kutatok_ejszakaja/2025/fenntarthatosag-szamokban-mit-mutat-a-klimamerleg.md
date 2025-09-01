@@ -9,6 +9,7 @@ tud_eloadok: A BME Energetikai Gépek és Rendszerek Tanszék
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111 .
+Megjegyzés: DCS laboratórium St épület felőli oldala
 tud_idopont: 2025. szeptember 26. 17.00-20.00
 tud_regisztracio: 
 tud_url: 
