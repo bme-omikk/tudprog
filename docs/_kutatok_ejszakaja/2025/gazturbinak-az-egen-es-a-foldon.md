@@ -13,7 +13,7 @@ Megjegyzés: DCS laboratórium St épület felőli oldala
 tud_idopont: 2025.09.26 17:30-18:20, 19:00-19:50
 tud_regisztracio: 
 tud_url: 
-tud_reg: nem, turnusonként 20 fő
+tud_reg: igen, turnusonként 20 fő
 date:  2025-09-01
 ---
 
