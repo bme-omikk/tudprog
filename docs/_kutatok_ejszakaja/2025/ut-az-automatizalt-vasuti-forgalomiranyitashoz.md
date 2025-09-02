@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Stoczek u. 2., St. épület 1. emelet 103.
 tud_idopont: 2025. szeptember 26. 2025.09.26. 17:00, 2025.09.26. 18:00, 2025.09.26. 19:00, 2025.09.26. 20:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/ut-az-automatizalt-vasuti-forgalomiranyitashoz
 tud_url: 
 tud_reg: igen, turnusonként 25 fő
 date:  2025-08-27
