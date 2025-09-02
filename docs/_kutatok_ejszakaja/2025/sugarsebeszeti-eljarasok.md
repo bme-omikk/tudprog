@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézet 1111 Budapest, Műegyetem rkp. 9., R épület 2. emelet 215. terem
 tud_idopont: 2025. szeptember 26. 2025. szeptember 26. 19:00-19:45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/sugarsebeszeti-eljarasok-1
 tud_url: 
 tud_reg: Igen, Nem
 date:  2025-08-27
