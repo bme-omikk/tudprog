@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Budafoki u 8., F29 terem
 tud_idopont: 2025. szeptember 26. Egy alkalom, 23:00-0:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/jatek-a-tuzzel-1
 tud_url: 
 tud_reg: igen, összesen 370 fő
 date:  2025-08-27
