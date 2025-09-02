@@ -22,6 +22,6 @@ Kísérleteinket játékos formában mutatjuk be a napelemes hajón és akusztik
 
 [Till Sára](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/till_sara), [Dr. Gyürki Dániel](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gyurki_daniel), [Friedrich Péter](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/friedrich_peter), [Sándor Levente Gábor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/sandor_levente_gabor), [Balog Boglárka](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/balog_boglarka)
 
-BME GPK, Hidrodinamikai Rendszerek Tanszék
+[BME GPK, Hidrodinamikai Rendszerek Tanszék](https://www.hds.bme.hu/tanszek.php?)
 
 ![Mindennapi áramlástan, kísérletek kicsiknek és nagyoknak](../2025/images/mindennapi-aramlastan-kiserletek-kicsiknek-es-nagyoknak.jpg)
