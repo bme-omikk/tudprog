@@ -20,6 +20,6 @@ A látogatók érdekes feladatokon, fejtörőkön keresztül próbára tehetik m
 
 Eper Miklós
 
-BME TTK Matematika Intézet
+[BME TTK Matematika Intézet](https://math.bme.hu/)
 
 ![Matematikai érdekességek](../2025/images/matematikai-erdekessegek.jpg)
