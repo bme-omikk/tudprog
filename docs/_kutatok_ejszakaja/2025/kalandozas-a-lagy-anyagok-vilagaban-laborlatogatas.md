@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111, Budapest, Budafoki út 8; BME F épület I. lépcsőház, magasföldszint
 tud_idopont: 2025. szeptember 26. 16:00-16:50, 17:00-17:50, 18:00-18:50, 19:00-19:50
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/kalandozas-a-lagy-anyagok-vilagaban-laborlatogatas
 tud_url: 
 tud_reg: igen, turnusonként 10 fő
 date:  2025-08-27
