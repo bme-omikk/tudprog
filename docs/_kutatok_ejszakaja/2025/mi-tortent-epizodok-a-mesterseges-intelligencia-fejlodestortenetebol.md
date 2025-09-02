@@ -16,7 +16,7 @@ tud_reg: igen, turnusonként 40 fő
 date:  2025-08-27
 ---
 
-Gyakran megfeledkezünk arról, hogy a mesterséges intelligencia évtizedek óta mindennapjaink része. 
+Gyakran megfeledkezünk arról, hogy a mesterséges intelligencia évtizedek óta mindennapjaink része.  
 Az előadás során megvizsgáljuk a mesterséges intelligencia fejlődését, illetve, hogy ezen megoldások hogyan váltak életünk nélkülözhetetlen részévé.
 
 [Dr. Hullám Gábor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/hullam_gabor), [Alekszejenkó Levente](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/alekszejenko_levente)
