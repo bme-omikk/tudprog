@@ -22,6 +22,6 @@ Aki kíváncsi a részletekre, jöjjön el az előadásra...
 
 Gerdán Mercédesz, Koszta Enikő
 
-BME TTK, Nukleáris Technikai Intézet
+[BME TTK, Nukleáris Technikai Intézet](https://www.reak.bme.hu/)
 
 ![Sugársebészeti eljárások](../2025/images/sugarsebeszeti-eljarasok.jpg)
