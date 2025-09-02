@@ -17,7 +17,7 @@ date:  2025-08-27
 ---
 
 Az áramlástannal bárhol találkozhatunk legyen az sütikészítés, zenehallgatás, vérnyomásmérés, művészet vagy műszaki alkalmazások. 
-Kísérleteinket játékos formában mutatjuk be a napelemes hajón és akusztikán át, a nemnewtoni folyadékokig.  
+Kísérleteinket játékos formában mutatjuk be a napelemes hajón és akusztikán át, a nemnewtoni folyadékokig.   
 
 
 [Till Sára](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/till_sara), [Dr. Gyürki Dániel](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gyurki_daniel), [Friedrich Péter](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/friedrich_peter), [Sándor Levente Gábor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/sandor_levente_gabor), [Balog Boglárka](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/balog_boglarka)
