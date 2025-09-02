@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézet 1111 Budapest, Műegyetem rkp. 9., R épület 2. emelet 215. terem
 tud_idopont: 2025. szeptember 26. 2025. szeptember 26. 18:00-18:45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/a-sugarvedelem-tortenete-1
 tud_url: 
 tud_reg: igen, nem
 date:  2025-08-27
