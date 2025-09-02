@@ -9,7 +9,7 @@ tud_eloadok: Bereczki Bence
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME ""V1"" épület) földszint 024.
-tud_idopont: 2025. szeptember 26. 16:00-22:00
+tud_idopont: 2025. szeptember 26. 16:00-22:00 
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
