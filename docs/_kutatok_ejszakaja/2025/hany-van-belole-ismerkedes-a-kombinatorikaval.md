@@ -21,6 +21,6 @@ Előadásomban konkrét, szemléletes modelleket vizsgálok, megmutatom, hogyan 
 
 [Szabó Zsolt](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/szabo_zsolt)
 
-BME TTK, Matematika Intézet
+[BME TTK, Matematika Intézet](https://math.bme.hu/)
 
 ![Hány van belőle? Ismerkedés a kombinatorikával.](../2025/images/hany-van-belole-ismerkedes-a-kombinatorikaval.jpg)
