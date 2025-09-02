@@ -13,7 +13,7 @@ tud_idopont: 2025. szeptember 26. 18:00 - 20 :00
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, egy időben 30 fő 
-date:  2025-08-27
+date:  2025-08-27 
 ---
 
 A résztvevők megismerkedhetnek a lézerszkennelés izgalmas világával. Bemutatjuk, hogyan készíthetünk 3D-s felvételeket a környezetünkről, és megvizsgáljuk, miként segít a technológia a természet és épületek pontos megfigyelésében.
