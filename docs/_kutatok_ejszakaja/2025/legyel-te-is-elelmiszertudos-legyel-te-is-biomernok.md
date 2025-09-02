@@ -12,7 +12,7 @@ tud_helyszin: 1111 Budapest Szent Gellért tér 4. Ch épület 1. emelet 151.
 tud_idopont: 2025. szeptember 26. 16:00-17:00; 17:30-18:30; 19:00-20:00
 tud_regisztracio: 
 tud_url: 
-tud_reg: , turnusonként 20 fő
+tud_reg: nem, turnusonként 20 fő
 date:  2025-08-27
 ---
 
