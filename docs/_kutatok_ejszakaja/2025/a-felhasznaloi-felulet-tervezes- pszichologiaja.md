@@ -25,4 +25,4 @@ Az alkalom betekintést nyújt a felhasználói felület (UI) tervezés pszichol
 BME GTK, [Ergonómia és Pszichológia Tanszék](http://www.erg.bme.hu/)
 
 
-![A felhasználói felület tervezés pszichológiája](../2025/images/a-felhasznaloi-felulet-tervezes- pszichologiaja.png)
+![A felhasználói felület tervezés pszichológiája](../2025/images/a-felhasznaloi-felulet-tervezes-pszichologiaja.png)
