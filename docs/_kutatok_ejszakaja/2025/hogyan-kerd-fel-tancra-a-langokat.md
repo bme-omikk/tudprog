@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Budapest, BME, DCS épület, Stoczek József u. 6, 1111 
 tud_idopont: 2025.09.26. 17:00-17:30, 18:30-19:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/hogyan-kerd-fel-tancra-a-langokat-1
 tud_url: 
 tud_reg: igen , turnusonként 25 fő
 date:  2025-08-27
