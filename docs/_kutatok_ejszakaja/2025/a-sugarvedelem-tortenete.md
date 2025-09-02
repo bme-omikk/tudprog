@@ -21,6 +21,6 @@ A biztonságért folytatott küzdelem történetéről szól az előadás.
 
 Gerdán Mercédesz, Gazdag-Hegyesi Szilvia
 
-BME TTK, Nukleáris Technikai Intézet
+BME TTK, [Nukleáris Technikai Intézet](https://www.reak.bme.hu/)
 
 ![A sugárvédelem története](../2025/images/a-sugarvedelem-tortenete.jpg)
