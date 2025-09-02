@@ -27,7 +27,7 @@ What controlling tricks can lead the simple and common baker’s yeast to produc
 or how it possible to manufacture cosmetics and sweeteners with bacteria and fungi. Visitors can try microscopes, taking aseptic samples from pilot facility, cosmetic measurements, 
 and we will demonstrate, who has the most dirtiest hands 😊
 
-Az esemény a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszékén megrendezésre kerülő programsorozat része.
+Az esemény a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszékén megrendezésre kerülő **"Legyél te is biomérnök!"** programsorozat része.
 
 [Dr. Németh Áron](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/nemeth_aron), [Dr. Kiss Bernadett](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/kiss_bernadett), [Eszterbauer Edina](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/eszterbauer_edina)
 
