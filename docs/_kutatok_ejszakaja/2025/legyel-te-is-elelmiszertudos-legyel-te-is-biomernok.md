@@ -6,7 +6,7 @@ tud_intezmeny_rovid: VBK
 title: Legyél Te is Élelmiszertudós! - Legyél Te is Biomérnök!
 tud_programfelelos: Juhászné Dr. Szentmiklóssy Marietta Klaudia 
 tud_eloadok: Dr. Tömösközi Sándor    
-tud_tipus: Kérjük válasszon!
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest Szent Gellért tér 4. Ch épület 1. emelet 151. 
 tud_idopont: 2025. szeptember 26. 16:00-17:00; 17:30-18:30; 19:00-20:00
