@@ -3,7 +3,7 @@ layout: page_kutej_profilok
 tud_title:  Kutatók éjszakája 2025
 tud_idopont:  0
 kutej_programfelelos: 
-kutej_eloado: Szabó Zsolt
+kutej_eloado: Szabó Zsolt 
 ---
 
 Szabó Zsolt a BME TTK Elméleti Fizika Tanszéken szerezte mesterdiplomáját, jelenleg elsőéves doktorandusz a Matematika Intézet Sztochasztika Tanszékén.
