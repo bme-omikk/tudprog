@@ -6,7 +6,7 @@ tud_intezmeny_rovid: GPK
 title: Mikroszkóp-Mikroszál; kompozit erősítőanyagok és vizsgálatuk
 tud_programfelelos: Pinke Balázs Gábor
 tud_eloadok: Dr. Morlin Bálint
-tud_tipus: Kérjük válasszon!
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GPK, Polimertechnika Tanszék Laboratórium, T épület földszint
 tud_idopont: 2025. szeptember 26. 17:00-17:45; 17:45-18:30; 18:30-19:15; 19:15-20:00
