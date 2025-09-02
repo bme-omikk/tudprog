@@ -16,8 +16,7 @@ tud_reg: Szeptember 25. éjfél, Maximum 50 fő összesen
 date:  2025-08-27
 ---
 
-Az alkalom betekintést nyújt a felhasználói felület (UI) tervezés pszichológiai vonatkozásaiba. 
-Különösen ajánlott a pszichológia, a felhasználói élmény (UX) és a UI design iránt érdeklődőknek.
+Az alkalom betekintést nyújt a felhasználói felület (UI) tervezés pszichológiai vonatkozásaiba. Különösen ajánlott a pszichológia, a felhasználói élmény (UX) és a UI design iránt érdeklődőknek.
 
 **Bemutató ideje**: 16:00-17:30
 
