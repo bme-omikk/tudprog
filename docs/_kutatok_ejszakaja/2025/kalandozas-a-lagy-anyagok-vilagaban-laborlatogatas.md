@@ -5,7 +5,7 @@ tud_intezmeny: BME VBK, Fizikai Kémia és Anyagtudományi Tanszék
 tud_intezmeny_rovid: VBK
 title: Kalandozás a lágy anyagok világában - laborlátogatás
 tud_programfelelos: Lágy Anyagok Kutatócsoport
-tud_eloadok: Dőtsch Anna Angyalka
+tud_eloadok: Dőtsch Anna Angyalka 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111, Budapest, Budafoki út 8; BME F épület I. lépcsőház, magasföldszint
