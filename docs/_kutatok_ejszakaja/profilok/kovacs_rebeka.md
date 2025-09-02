@@ -7,7 +7,7 @@ kutej_eloado:
 tud_title: Kutatók éjszakája 2025
 ---
 
-A BME VIK Elektronikai Technológia Tanszék PhD hallgatója. Biomérnöki BSc és Egészségügyi mérnöki MSc végzettséggel rendelkezik. Doktori kutatásának témája a lokalizált felületi plazmonrezonancián alapuló bioszenzorok fejlesztése. 
+A BME VIK Elektronikai Technológia Tanszék PhD hallgatója. Biomérnöki BSc és Egészségügyi mérnöki MSc végzettséggel rendelkezik. Doktori kutatásának témája a lokalizált felületi plazmonrezonancián alapuló bioszenzorok fejlesztése.  
 
 <table class="picture">
 <tr>
