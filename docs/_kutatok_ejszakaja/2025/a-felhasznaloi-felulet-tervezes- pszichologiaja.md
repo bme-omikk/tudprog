@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Q épület, A szárny, 1. emelet, 102-es terem
 tud_idopont: 2025. szeptember 26. 16:00-17:30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/a-felhasznaloi-felulet-tervezes-pszichologiaja
 tud_url: 
 tud_reg: Szeptember 25. éjfél, Maximum 50 fő összesen
 date:  2025-08-27
