@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME I épület (1117 Budapest, Magyar tudósok körútja 2.), E224-es terem.
 tud_idopont: 2025. szeptember 26. 17.30-18.30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/nagy-nyelvi-modellektol-a-feherjestrukturakig
 tud_url: 
 tud_reg: igen, turnusonként 40 fő
 date:  2025-08-27
