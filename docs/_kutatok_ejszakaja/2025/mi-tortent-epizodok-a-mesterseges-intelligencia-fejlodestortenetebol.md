@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME I épület, E224-es terem.
 tud_idopont: 2025. szeptember 26. 16.15-17.15
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/mi-tortent-epizodok-a-mesterseges-intelligencia-fejlodestortenetebol
 tud_url: 
 tud_reg: igen, turnusonként 40 fő
 date:  2025-08-27
