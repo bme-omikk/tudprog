@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111, Budapest, Bertalan Lajos utca 3.
 tud_idopont: 2025. szeptember 26. 17:00-17:45; 18:00-18:45, 19:00-19:45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/kulonleges-anyagok-3d-nyomtatasa-mire-lesz-ez-jo-a-jovoben
 tud_url: 
 tud_reg: igen, turnusonként 20 fő
 date:  2025-08-27
