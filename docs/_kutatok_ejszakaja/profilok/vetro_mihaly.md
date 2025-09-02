@@ -6,4 +6,5 @@ kutej_programfelelos:
 kutej_eloado: Vetró Mihály
 ---
 
-PhD hallgató a BME-MIT tanszék Mesterséges Intelligencia Kutatócsoportjánál. Fő kutatási területe az elektrofiziológiai jelfeldolgozás, illetve neurális hálók fejlesztése és alkalmazása a bioinformatika különböző területein.
+PhD hallgató a BME-MIT tanszék Mesterséges Intelligencia Kutatócsoportjánál. 
+Fő kutatási területe az elektrofiziológiai jelfeldolgozás, illetve neurális hálók fejlesztése és alkalmazása a bioinformatika különböző területein.
