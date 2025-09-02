@@ -6,7 +6,7 @@ tud_intezmeny_rovid: EMK
 title: Környezetünk 3D-ben
 tud_programfelelos: Dr. Kugler Zsófia
 tud_eloadok: Baranyai Dániel, Nagy Zoltán
-tud_tipus: Kérjük válasszon!
+tud_tipus: csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME K épület, 1. emelet 44. (BME K 144)
 tud_idopont: 2025. szeptember 26. 18:00 - 20 :00
