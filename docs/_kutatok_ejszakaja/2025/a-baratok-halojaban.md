@@ -24,4 +24,4 @@ Talán a legfontosabb, miért egy fizikus akarja ezt megfejteni?
 
 [BME TTK, Elméleti Fizika Tanszék](https://dtp.physics.bme.hu/)
 
-!A barátok hálójában](../2025/images/a-baratok-halojaban.png)
+![A barátok hálójában](../2025/images/a-baratok-halojaban.png)
