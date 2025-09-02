@@ -12,7 +12,7 @@ tud_helyszin:
 tud_idopont: 2025. szeptember 26. 16.00-16.30
 tud_regisztracio: 
 tud_url: 
-tud_reg: , Nem
+tud_reg: nem, Nem
 date:  2025-08-27
 ---
 
