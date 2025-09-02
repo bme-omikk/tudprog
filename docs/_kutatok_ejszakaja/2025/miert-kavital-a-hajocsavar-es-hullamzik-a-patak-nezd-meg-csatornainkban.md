@@ -21,6 +21,6 @@ Mi a közös egy tönkrement hajócsavar és egy hangos vízforraló között? H
 
 [Dr. Csizmadia Péter](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/csizmadia_peter), [Kalmár Péter](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/kalmar_peter),	[Nagy Dániel](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/nagy_daniel)
 
-BME GPK, Hidrodinamikai Rendszerek Tanszék
+[BME GPK, Hidrodinamikai Rendszerek Tanszék](https://www.hds.bme.hu/tanszek.php)
 
 ![Miért kavitál a hajócsavar és hullámzik a patak? Nézd meg csatornáinkban!](../2025/images/miert-kavital-a-hajocsavar-es-hullamzik-a-patak-nezd-meg-csatornainkban.PNG)
