@@ -15,7 +15,7 @@ Zarka Dénes, okl. villamosmérnök, oktatásfejlesztő, a Budapesti Műszaki é
 <td>
 
 <div class="gallery">
-    <img src="images/zarka_denes.jpg" max-width="250" max-height="200">
+    <img src="images/Zarka Dénes.jpg" max-width="250" max-height="200">
   <div class="desc">Zarka Dénes</div>
 </div>
 
