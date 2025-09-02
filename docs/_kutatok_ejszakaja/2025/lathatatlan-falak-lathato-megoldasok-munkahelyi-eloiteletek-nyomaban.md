@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: A szárny 202-es terem
 tud_idopont: 2025. szeptember 26. 17:30-18:30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/lathatatlan-falak-lathato-megoldasok-munkahelyi-eloiteletek-nyomaban
 tud_url: 
 tud_reg: Igen, turnusonként 45 fő
 date:  2025-08-27
