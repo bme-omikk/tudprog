@@ -22,6 +22,6 @@ Ez az interaktív műhely feltárja a rejtett akadályokat és gyakorlati eszkö
 
 [Dr. Szijjártó Linda](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/szijjarto_linda)
 
-BME GTK Ergonómia és Pszichológia Tanszék
+[BME GTK Ergonómia és Pszichológia Tanszék](http://www.erg.bme.hu/)
 
 ![Láthatatlan falak, látható megoldások: munkahelyi előítéletek nyomában](../2025/images/lathatatlan-falak-lathato-megoldasok-munkahelyi-eloiteletek-nyomaban.jpg)
