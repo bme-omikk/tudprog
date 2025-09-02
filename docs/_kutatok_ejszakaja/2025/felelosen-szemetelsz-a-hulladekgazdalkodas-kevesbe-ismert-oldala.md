@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GPK, Polimertechnika Tanszék Laboratórium, MT épület Bertalan L. utca felőli bejárat
 tud_idopont: 2025. szeptember 26. 18:00-19:00; 20:00-21:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/felelosen-szemetelsz-a-hulladekgazdalkodas-kevesbe-ismert-oldala
 tud_url: 
 tud_reg: szeptember 25. éjfél, összesen 30 fő; 15 fő/turnus
 date:  2025-08-27
