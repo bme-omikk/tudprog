@@ -18,7 +18,7 @@ date:  2025-08-27
 
 Az alkalom betekintést nyújt a felhasználói felület (UI) tervezés pszichológiai vonatkozásaiba. Különösen ajánlott a pszichológia, a felhasználói élmény (UX) és a UI design iránt érdeklődőknek.
 
-**Bemutató ideje**: 16:00-17:30
+**Bemutató ideje**: 16:00-17:30 
 
 [Molnár Marietta](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/molnar_marietta)
 
