@@ -6,7 +6,7 @@ tud_intezmeny_rovid: VBK
 title: A színeken innen és túl – avagy a nem látható fény varázslatos világa
 tud_programfelelos: Dr. Gergely Szilveszter
 tud_eloadok: Dr. Gergely Szilveszter
-tud_tipus: Kérjük válasszon!
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Szent Gellért tér 4., Ch épület 1. emelet 165., NIR Spektroszkópia Csoport
 tud_idopont: 2025. szeptember 26. 16.00-16.45, 17.00-17.45, 18.00-18.45, 19.00-19.45
