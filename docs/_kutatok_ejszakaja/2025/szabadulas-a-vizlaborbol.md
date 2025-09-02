@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME ÉMK, Vízi Közmű és Környezetmérnöki Tanszék laboratórium, BME K épület, földszint, 32.
 tud_idopont: 2025. szeptember 26. 16.00-16.45, 17.00-17.45, 18.00-18.45, 19.00-19.45, 20.00-20.45, 21.00-21.45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/szabadulas-a-vizlaborbol-a-vizlabor-rejtelye-1
 tud_url: 
 tud_reg: igen, turnusonként 7 fő 
 date:  2025-08-27
