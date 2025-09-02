@@ -6,7 +6,7 @@ kutej_programfelelos:
 kutej_eloado: Horváth Sándor
 ---
 
-Csoportvezető, egyetemi tanársegéd. 
+Csoportvezető, egyetemi tanársegéd.  
 
 <table class="picture">
 <tr>
