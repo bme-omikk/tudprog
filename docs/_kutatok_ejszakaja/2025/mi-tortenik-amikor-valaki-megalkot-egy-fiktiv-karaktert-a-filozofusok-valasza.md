@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GTK E épület, E 704-es terem
 tud_idopont: 2025. szeptember 26. 15.00-15.45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/mi-tortenik-amikor-valaki-megalkot-egy-fiktiv-karaktert-a-filozofusok-valasza
 tud_url: 
 tud_reg: Szeptember 24. éjfél, Nem
 date:  2025-08-27
