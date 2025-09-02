@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: Hálózati Rendszerek és Szolgáltatások Tanszék
 tud_intezmeny_rovid: VIK
-title: Páratlan műszerünk: a fülünk. Mi jó és mi árt neki?
+title: Páratlan műszerünk. a fülünk. Mi jó és mi árt neki?
 tud_programfelelos: Dr. Márki Ferenc
 tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
