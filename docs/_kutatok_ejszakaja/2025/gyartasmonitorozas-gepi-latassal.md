@@ -21,6 +21,6 @@ Az alkalmazást a TK-ban egy teszt szerelősoron mutatjuk be, ahol egy LEGÓ ös
 
 [Kovács László](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/kovacs_laszlo)
 
-BME VIK, Ipar 4.0 Technológiai Központ
+[BME VIK, Ipar 4.0 Technológiai Központ](https://www.ipar4.bme.hu/#page-content)
 
 ![Gyártásmonitorozás gépi látással](../2025/images/gyartasmonitorozas-gepi-latassal.png)
