@@ -17,8 +17,8 @@ date:  2025-08-27
 ---
 
 A többéves felsőoktatási tanulási folymat során a hallgatók szociális és kommunikációs készésege is egyre fontosabb a munkaerőpiac számára. 
-Az igény, hogy a tanulási informális teljesítményekre is egy szabványos digitális formátumban legyen lehetőség a jutalmazásra látható, gyűjthető, transzparens módon. Az előadás a BME Mérnöktovábbképző kutatását, fejlesztését, és a validált Open Badge 2.0-ra épülő Displayer portálját mutatja be az érdeklődőknek, 
-különös tekintettel a portál azon képességére, hogy az informális szociális és kommunikációs készségek meglétét és fejlődését is meg tudja jeleníteni.
+Az igény, hogy a tanulási informális teljesítményekre is egy szabványos digitális formátumban legyen lehetőség a jutalmazásra látható, gyűjthető, transzparens módon. 
+Az előadás a BME Mérnöktovábbképző kutatását, fejlesztését, és a validált Open Badge 2.0-ra épülő Displayer portálját mutatja be az érdeklődőknek, különös tekintettel a portál azon képességére, hogy az informális szociális és kommunikációs készségek meglétét és fejlődését is meg tudja jeleníteni.
 
 [Zarka Dénes](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/zarka_denes)
 
