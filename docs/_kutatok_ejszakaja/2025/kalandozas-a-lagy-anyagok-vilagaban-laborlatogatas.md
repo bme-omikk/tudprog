@@ -20,6 +20,6 @@ Az érdeklődők megismerkedhetnek különböző viszkoelasztikus anyagokkal és
 
 [Dőtsch Anna Angyalka](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/dotsch_anna_angyalka),	[Mihalovics Bence](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/mihalovics_bence),	[Nguyen Zsófia Ly](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/nguyen_zsofia_ly),	[Szabó Domonkos](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/szabo_domonkos),	[Szayly Kata](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/szayly_kata)
 
-BME VBK, Fizikai Kémia és Anyagtudományi Tanszék
+BME VBK, [Fizikai Kémia és Anyagtudományi Tanszék](https://www.ch.bme.hu/kezdooldal/)
 
 ![Kalandozás a lágy anyagok világában - laborlátogatás](../2025/images/kalandozas-a-lagy-anyagok-vilagaban-laborlatogatas.png)
