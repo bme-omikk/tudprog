@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME I épület, fsz. 017.
 tud_idopont: 2025. szeptember 26. 16:00-16:40, 17:00-17:40, 18:00-18:40
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/gyartasmonitorozas-gepi-latassal
 tud_url: 
 tud_reg: igen, turnusonként 25 fő
 date:  2025-08-27
