@@ -10,7 +10,7 @@ tud_tipus: Csak élő közvetítés
 tud_online: https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTVmZjQxNDUtZTM4Mi00NjI2LWJhZjQtOTVmZTNkZjFkM2Zh%40thread.v2/0?context=%7b%22Tid%22%3a%226a3548ab-7570-4271-91a8-58da00697029%22%2c%22Oid%22%3a%2273299782-5dfc-4406-921e-c5357ce3b954%22%7d
 tud_helyszin: ONLINE- TEAMS
 tud_idopont: 2025. szeptember 26. 18:00-18:45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/modern-mobil-szoftverfejlesztes-jelene-es-jovoje-2?editorView
 tud_url: 
 tud_reg: igen, nem
 date:  2025-08-27
