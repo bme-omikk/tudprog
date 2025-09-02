@@ -4,7 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Török János
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2023
+tud_title: Kutatók éjszakája 2025
 ---
 
 Fizikus, TTK Fizikai Intézet
