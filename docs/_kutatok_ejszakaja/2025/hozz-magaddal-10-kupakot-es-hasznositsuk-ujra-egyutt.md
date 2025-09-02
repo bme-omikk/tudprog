@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GPK, Polimertechnika Tanszék Laboratórium, MT épület Bertalan L. utca felőli bejárat
 tud_idopont: 2025. szeptember 26. 17:00-17:50; 18:00-18:50; 19:00-19:50
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/hozz-magaddal-10-kupakot-es-hasznositsuk-ujra-egyutt-1
 tud_url: 
 tud_reg: igen, összesen 45 fő; 15 fő/turnus
 date:  2025-08-27
