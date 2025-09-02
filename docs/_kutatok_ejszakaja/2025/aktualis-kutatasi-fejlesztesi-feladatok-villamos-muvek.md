@@ -20,6 +20,6 @@ Rugalmassági kérdések és válaszok közérthetően a napelemes termélésrő
 
 [Horváth Sándor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/horvath_sandor)
 
-BME VIK, Villamos Energetika Tanszék
+[BME VIK, Villamos Energetika Tanszék](https://vet.bme.hu/)
 
 ![Aktuális kutatási-fejlesztési feladatok Villamos Művek és Energiaátalakítók területén](../2025/images/aktualis-kutatasi-fejlesztesi-feladatok-villamos-muvek.png)
