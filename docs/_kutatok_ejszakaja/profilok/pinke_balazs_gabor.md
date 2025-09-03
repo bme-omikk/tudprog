@@ -4,7 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Pinke Balázs Gábor
-tud_title: Kutatók éjszakája 2024
+tud_title: Kutatók éjszakája 2025
 ---
 
 Tanszéki Mérnök, Mikroszkópia és Morfológia Szaklaboratórium vezető. 7 éve foglalkozik elektronmikroszkópiával, a polimer szerkezetek vizsgálatával és minősítésével. 
