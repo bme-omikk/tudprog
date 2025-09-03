@@ -7,5 +7,4 @@ kutej_eloado: Koszta Enikő
 tud_title: Kutatók éjszakája 2025
 ---
 
-2020-tól dolgozik az Országos Onkológiai Intézetben orvosi fizikusként. 2024-től PhD hallgató a BME Nukleáris Technikai Intézetében. 
-Kutatási területe a robotkaros lineáris gyorsítóval végzett sztereotaxiás sugárterápiás kezelések dozimetriai elemzése.
+2020-tól dolgozik az Országos Onkológiai Intézetben orvosi fizikusként. 2024-től PhD hallgató a BME Nukleáris Technikai Intézetében. Kutatási területe a robotkaros lineáris gyorsítóval végzett sztereotaxiás sugárterápiás kezelések dozimetriai elemzése.
