@@ -21,4 +21,6 @@ amellyel egy automatizált „valet parking” funkció kerül bemutatásra. Eme
 
 [Dr. Aradi Szilárd](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/aradi_szilard), [Dr. Fehér Árpád](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/feher_arpad)
 
+[BME KJK, Közlekedés- és Járműirányítási Tanszék](https://kjit.bme.hu/index.php/hu/)
+
 ![Ön vezet vagy „önvezet”? Avagy ismerkedés az önvezető járművekkel.](../2025/images/on-vezet-vagyonvezet-avagy-ismerkedes-az-onvezeto-jarmuvekkel.jpg)
