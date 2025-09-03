@@ -26,5 +26,5 @@ Ilyen és hasonló témákat járunk körül, illetve ezekre a kérdésekre kere
 
 [Dr. Tömösközi Sándor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/tomoskozi_sandor)
 
-BME VBK Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
+[BME VBK Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék](https://kutatok.org/abettt/)
 
