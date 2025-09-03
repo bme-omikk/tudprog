@@ -21,6 +21,6 @@ Fedezd fel a robotika világát! Próbáld ki a sakkozó robotot, irányítsd a 
 
 [Dr. Budai Csaba](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/budai_csaba), [Bertók Zsanett](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/bertok_zsanett), [Nagy Vanda Orsolya](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/nagy_vanda_orsolya), [Haba Tamás](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/haba_tamas)
 
-BME GPK, [Mechatronika, Optika és Gépészeti Informatika Tanszék](https://mogi.bme.hu/)
+[BME GPK, Mechatronika, Optika és Gépészeti Informatika Tanszék](https://mogi.bme.hu/)
 
 ![Kéz a kézben a robotokkal](../2025/images/kez-a-kezben-a-robotokkal.png)
