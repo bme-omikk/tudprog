@@ -5,7 +5,7 @@ tud_intezmeny:
 tud_intezmeny_rovid: GPK 
 title: Felelősen szemetelsz? - A hulladékgazdálkodás kevésbé ismert oldala
 tud_programfelelos: Dr. Tóth Csenge
-tud_eloadok: Dr. Tóth Csenge
+tud_eloadok: Dr. Tóth Csenge, Dr. Virág Ábris Dávid, Nagy Róbert, Csapó Maja
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME GPK, Polimertechnika Tanszék Laboratórium, MT épület Bertalan L. utca felőli bejárat
@@ -18,6 +18,6 @@ date:  2025-08-27
 
 Interaktív műhelyünkben hulladékgazdálkodási játékra invitálunk, amely során te irányítod a hulladék útját, tesztelheted tudásod, és közben megismerheted a hulladékkezelés, hulladékhasznosítás, újrahasznosítás és fenntarthatóság kevésbé ismert oldalait.
 
-[Dr. Tóth Csenge](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/toth_csenge)
+[Dr. Tóth Csenge](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/toth_csenge), Dr. Virág Ábris Dávid, Nagy Róbert, Csapó Maja
 
 ![Felelősen szemetelsz? - A hulladékgazdálkodás kevésbé ismert oldala](../2025/images/felelosen-szemetelsz-a-hulladekgazdalkodas-kevesbe-ismert-oldala.jpg)
