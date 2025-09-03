@@ -25,6 +25,6 @@ A program során bemutatjuk egy egyszerű áramkörrel, hogyan épül fel a fel�
 
 [Bátorfi Réka](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/batorfi_reka.html), [Takács Gergő](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/takacs_gergo.html),	[Havellant Gergő](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/havellant_gergo.html), [Tafferner Zoltán](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/tafferner_zoltan)
 
-BME VIK, [Elektronikai Technológia Tanszék](https://www.ett.bme.hu/)
+[BME VIK, Elektronikai Technológia Tanszék](https://www.ett.bme.hu/)
 
 ![Építsünk együtt digitális dobókockát!](../2025/images/DigitalisDobokocka.png)
