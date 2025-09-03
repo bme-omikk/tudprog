@@ -5,7 +5,7 @@ tud_intezmeny: BME GPK, Polimertechnika Tanszék
 tud_intezmeny_rovid: GPK
 title: Különleges anyagok 3D nyomtatása – mire lesz ez jó a jövőben?
 tud_programfelelos: Dr. Tomin Márton
-tud_eloadok: Dr. Török Dániel
+tud_eloadok: Dr. Török Dániel, Dr. Kovács Norbert Krisztián
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111, Budapest, Bertalan Lajos utca 3.
@@ -21,6 +21,6 @@ Az egyik legizgalmasabb példa a „habosodó” nyomtatószál, amelyből könn
 A laborlátogatás során a látogatók kézbe vehetik ezeket a nyomtatott próbatesteket, és megtudhatják, hogyan vizsgáljuk őket. 
 Megmutatjuk, milyen mechanikai tesztekkel mérjük a szilárdságukat, hogyan elemezzük a mikroszerkezetet, milyen szerepe van a színhomogenitás vizsgálatának, és hogy mindez hogyan járulhat hozzá a jövő fenntartható anyagaihoz.
 
-Dr. Tomin Márton
+[Dr. Tomin Márton](http://www.pt.bme.hu/munkatarsadatlap.php?id=5d6q84jc5cbz83n5s2er385v647s56o44n57mg46&l=m),[Dr. Kovács Norbert Krisztián](http://www.pt.bme.hu/munkatarsadatlap.php?id=j2j3e454q78eqxmsstuvb3639ho6B799bpp6kbh9&l=m),  [Dr. Török Dániel](http://www.pt.bme.hu/munkatarsadatlap.php?id=Bjpon4ek5oe8zjb274q46e75BB86q59p3574dA8o&l=m)
 
 [BME GPK, Polimertechnika Tanszék](http://www.pt.bme.hu/fooldal.php?l=m)
