@@ -2,7 +2,7 @@
 layout: page_kutej_profilok
 tud_title:  Kutatók éjszakája 2025
 tud_idopont:  0
-kutej_programfelelos: Csuvár Ádám
+kutej_programfelelos: Dr. Csuvár Ádám
 ---
 
 Csuvár Ádám a Környezetgazdaságtan és Fenntartható Fejlődés Tanszék egyetemi adjunktusa. A gazdaságtudomány és a környezetügyek összefonódásával kapcsolatos tárgyakat tanít, kutatásaiban főként a fenntartható energiaellátással és a körforgásos gazdasággal foglalkozik. 
