@@ -20,4 +20,6 @@ Az előadás áttekinti a legfontosabb digitális országrangsorokat, bemutatja,
 
 [Bánhidi Zoltán](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/banhidi_zoltan)
 
+[BME GTK, Közgazdaságtan Tanszék](http://kgt.bme.hu/)
+
 ![Digitális országrangsorok](../2025/images/digitalis-orszagrangsorok.jpg)
