@@ -4,7 +4,7 @@ tud_title: Kutatók éjszakája 2025
 tud_intezmeny: Környezetgazdaságtan és Fenntartható Fejlődés Tanszék
 tud_intezmeny_rovid: GTK
 title: Miért tétlenkedünk? A környezeti passzivitás egy közgazdász szemszögéből
-tud_programfelelos: Csuvár Ádám
+tud_programfelelos: Dr. Csuvár Ádám
 tud_eloadok: Dr. Csuvár Ádám
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
