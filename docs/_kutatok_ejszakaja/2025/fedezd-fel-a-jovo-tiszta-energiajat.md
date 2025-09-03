@@ -22,7 +22,7 @@ Fedezd fel a hidrogéncellák izgalmas világát! Tanulj meg mindent arról, hog
 
 Kardos Réka, Rácz Erika
 
-BME GPK, [Energetikai Gépek és Rendszerek Tanszék](https://www.energia.bme.hu/)
+[BME GPK, Energetikai Gépek és Rendszerek Tanszék](https://www.energia.bme.hu/)
 
 
 ![Fedezd fel a jövő tiszta energiáját!](../2025/images/fedezd-fel-a-jovo-tiszta-energiajat.png)
