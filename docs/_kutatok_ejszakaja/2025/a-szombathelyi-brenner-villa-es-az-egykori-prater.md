@@ -20,6 +20,6 @@ A sétán a Szombathelyi Brenner-villa és park múltjával ismerkedhetnek meg a
 
 [Gácsi Zsuzsanna](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gacsi_zsuzsanna)
 
-BME ÉPK, [Középülettervezési tanszék](https://kozep.bme.hu/)
+[BME ÉPK, Középülettervezési tanszék](https://kozep.bme.hu/)
 
 ![A Szombathelyi Brenner-villa és az egykori Práter – helytörténeti séta](../2025/images/a-szombathelyi-brenner-villa-es-az-egykori-prater.jpg)
