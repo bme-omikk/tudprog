@@ -24,6 +24,6 @@ nem pedig az ellenségünk – ahogy a matematikusok munkája sem tűnt el a sz�
 
  [Csonka Bence](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/csonka_bence)
 
-   
+ [BME TTK Matematika Intézet](https://math.bme.hu/)
 
  ![Létezik-e a kreativitásnak kódja? Barangolás a mesterséges intelligancia világában.](../2025/images/letezik-e-a-kreativitasnak-kodja-barangolas.jpg)
