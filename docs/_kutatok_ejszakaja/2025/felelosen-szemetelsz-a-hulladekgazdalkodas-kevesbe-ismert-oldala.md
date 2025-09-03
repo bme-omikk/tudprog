@@ -2,7 +2,7 @@
 layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: 
-tud_intezmeny_rovid: GPK
+tud_intezmeny_rovid: GPK 
 title: Felelősen szemetelsz? - A hulladékgazdálkodás kevésbé ismert oldala
 tud_programfelelos: Dr. Tóth Csenge
 tud_eloadok: Dr. Tóth Csenge
