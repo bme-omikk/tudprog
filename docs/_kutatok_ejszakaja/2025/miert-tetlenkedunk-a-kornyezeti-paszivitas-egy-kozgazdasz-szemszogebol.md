@@ -5,7 +5,7 @@ tud_intezmeny: Környezetgazdaságtan és Fenntartható Fejlődés Tanszék
 tud_intezmeny_rovid: GTK
 title: Miért tétlenkedünk? A környezeti passzivitás egy közgazdász szemszögéből
 tud_programfelelos: Csuvár Ádám
-tud_eloadok: Csuvár Ádám
+tud_eloadok: Dr. Csuvár Ádám
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME K épület (terem egyeztetés alatt)
@@ -24,4 +24,6 @@ a környezeti ügyek iránt és miért tétlenkednek, számos tudományág vizsg
 a környezeti passzivitás egyéni okai. Evidenciának tartjuk, hogy minden egyes ember számára megéri erőfeszítéseket tenni és beruházni a problémák megelőzésébe és a szennyezések ártalmatlanításába, de vajon biztosan így van ez? Az előadást követően 
 a résztvevők közösen gondolkodhatnak és beszélgethetnek a környezetvédelem közös ügyéről és arról, hogy vajon tesznek-e ők eleget.
 
-[Csuvár Ádám](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/csuvar_adam)
+[Dr. Csuvár Ádám](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/csuvar_adam)
+
+[Környezetgazdaságtan és Fenntartható Fejlődés Tanszék](http://kornygazd.bme.hu/hu)
