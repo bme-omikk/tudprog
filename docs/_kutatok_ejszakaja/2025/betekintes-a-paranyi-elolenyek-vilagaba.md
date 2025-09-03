@@ -21,6 +21,6 @@ Tudod, hogy néz ki egy élesztőgomba a mikroszkóp alatt? Tudtad, hogy van oly
 
 [Márton Rita](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/marton_rita), [Kese István](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/kese_istvan),	[Lassu Dominika](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/lassu_dominika)
 
-BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
+[BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék](https://kutatok.org/abettt/)
 
 ![Betekintés a parányi élőlények világába](../2025/images/betekintes-a-paranyi-elolenyek-vilagaba.jpg)
