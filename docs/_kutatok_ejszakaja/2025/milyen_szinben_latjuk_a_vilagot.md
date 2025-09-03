@@ -24,5 +24,7 @@ Keressük együtt a válaszokat a MOGI Tanszék optika laborjaiban, ahol érdeke
 
 [Nagy Balázs Vince](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/nagy_balazs_vince.html), [Urbin Ágnes](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/urbin_agnes.html)
 
+[BME GPK Mechatronika, Optika és Gépészeti Informatika Tanszék](https://mogi.bme.hu/)
+
 ![Milyen színben látjuk a világot?](../2025/images/milyen-szinben-latjuk-a-vilagot.png)
 
