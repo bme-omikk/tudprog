@@ -23,4 +23,6 @@ Habár a meglévő ház állapota leromlott, főbb terei bejárhatók, abban a t
 [Batizi-Pócsi Gergő](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/batizi_pocsi_gergo)
 
 
+[BME ÉPK, Középülettervezési Tanszék](https://kozep.bme.hu/)
+
 ![Galántai utcai Árkay-villa épületbejárása és terveinek bemutatása](../2025/images/galantai-utcai-arkay-villa-epuletbejarasa-es-terveinek-bemutata.jpg)
