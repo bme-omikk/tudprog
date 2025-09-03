@@ -18,8 +18,8 @@ date:  2025-08-27
 
 A résztvevők megismerkedhetnek a lézerszkennelés izgalmas világával. Bemutatjuk, hogyan készíthetünk 3D-s felvételeket a környezetünkről, és megvizsgáljuk, miként segít a technológia a természet és épületek pontos megfigyelésében.
 
-Dr. Kugler Zsófia 
+[Dr. Kugler Zsófia ](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/kugler_zsofia)
 
 [BME ÉMK, Fotogrammetria és Térinformatika Tanszék](https://fmt.bme.hu/)
 
-![Környezetünk 3D-ben](../2025/images/kornyezetunk-3d-ben.jpg)
+![Környezetünk 3D-ben](../2025/images/kornyezetunk-3d-ben(1).jpg)
