@@ -25,5 +25,6 @@ date:  2025-08-27
 
 Egy korszerű megmunkálási eljárás kerül bemutatásra: porágyas lézersugaras fém nyomtatás, gyártás folyamata és nyomtatott modellek.
 
+[BME KJK, Gépjárműtechnológia Tanszék](https://auto.bme.hu/)
 
 ![Fémek 3D-s nyomtatása](../2025/images/femek-3d-s-nyomtatasa.jpg)
