@@ -5,6 +5,5 @@ tud_idopont:  0
 kutej_programfelelos: Bárány Tibor
 kutej_eloado: Bárány Tibor
 ---
-Bárány Tibor filozófus, a BME GTK Szociológia és Kommunikáció Tanszékének adjunktusa. 
+[Bárány Tibor](https://www.bmekomm.hu/portfolio/barany-tibor) filozófus, a BME GTK Szociológia és Kommunikáció Tanszékének adjunktusa. 
 Egyebek közt a művészeti kommunikáció jelenségeivel foglalkozik, és az esztétikai normativitás természetét kutatja.  
-Link: https://www.bmekomm.hu/portfolio/barany-tibor.
