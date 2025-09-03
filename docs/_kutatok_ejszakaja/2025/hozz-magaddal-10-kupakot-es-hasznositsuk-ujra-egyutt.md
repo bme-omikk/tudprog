@@ -20,7 +20,7 @@ Az esemény során a látogatók megismerkedhetnek a műanyagok mechanikai újra
 Emellett a látogatók átfogó képet kaphatnak a biopolimerekről, illetve ezek komposztálhatóságáról.  
 A program kapcsolódik a Polimertechnika Tanszék MT épületi laboratóriumában megrendezésre kerülő többi programhoz.
 
-[Dr. Gere Dániel](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gere_daniel), [Kovács Zsófia](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/kovacs_zsofia),	[Dr. Krizsma Szabolcs Gábor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/krizsma_szabolcs),	[Dr. Bordácsné Bocz Katalin](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/bordacsne_bocz_katalin),	[Ötvös Bettina](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/otvos_bettina),	Dremák Csenge
+[Dr. Gere Dániel](http://www.pt.bme.hu/munkatarsadatlap.php?id=kb45kox2hu4xxz4jn8u627pwn3ok78975d9exw6c&almenu=1&l=m), [Kovács Zsófia](http://www.pt.bme.hu/munkatarsadatlap.php?id=ek4b3z8s865j5u2c45A79qo25wm5z8Ag4A2jcubz&l=m),	[Dr. Krizsma Szabolcs Gábor](http://www.pt.bme.hu/munkatarsadatlap.php?id=9e5sA7h66h6f7rwbn2bwB97u4jq543894f6mm893&l=m),	[Dr. Bordácsné Bocz Katalin](https://oct.bme.hu/oct/hu/boczkatalin),	[Ötvös Bettina](https://oct.bme.hu/oct/hu/otvos),	Dremák Csenge
 
 [BME, GPK, Polimertechnika Tanszék](http://www.pt.bme.hu/fooldal.php?l=m)
 
