@@ -20,7 +20,7 @@ Robot apuka megkérdezi csemetéjét: - Ha nagy leszel, te is az iparban szeretn
 Mire a kis robot öntudatosan: - Nem, én sebész leszek! 
 Aki kíváncsi a részletekre, jöjjön el az előadásra...
 
-Gerdán Mercédesz, Koszta Enikő
+[Gerdán Mercédesz](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gerdan_mercedesz), [Koszta Enikő](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/koszta_eniko)
 
 [BME TTK, Nukleáris Technikai Intézet](https://www.reak.bme.hu/)
 
