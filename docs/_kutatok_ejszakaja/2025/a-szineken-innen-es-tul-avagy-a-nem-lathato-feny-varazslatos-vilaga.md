@@ -21,6 +21,6 @@ Tudtad, hogy a fehér fényben van a legtöbb szín? És hogy mi van ott, amit n
 
 [Dr. Gergely Szilveszter](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gergely_szilveszter),	[Slezsák János](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/slezsak_janos),	[Madács Ágnes](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/madacs_agnes),	[Prof. Salgó András](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/salgo_andras)
 
-BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
+[BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék](https://kutatok.org/abettt/)
 
 ![A színeken innen és túl – avagy a nem látható fény varázslatos világa](../2025/images/a-szineken-innen-es-tul-avagy-a-nem-lathato-feny-varazslatos-vilaga.jpg)
