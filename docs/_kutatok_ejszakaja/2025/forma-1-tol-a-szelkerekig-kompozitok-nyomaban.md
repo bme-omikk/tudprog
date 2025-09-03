@@ -20,4 +20,6 @@ Mi köti össze az eget, a versenypályát és a szél energiáját? A polimer k
 
 [Balogh Fanni](https://shorturl.at/4LvT4), [Dr. Czél Gergely](https://shorturl.at/90aEL), [Dr. Pomázi Ákos](https://shorturl.at/kKSk9), [Marton Gergő Zsolt](https://bit.ly/4p8WUtw), [Kiss Lóránt](https://bit.ly/4g7d6r5)
 
+[BME GPK, Polimertechnika Tanszék](http://www.pt.bme.hu/fooldal.php?l=m)
+
 ![Forma–1-től a szélkerékig – kompozitok nyomában](../2025/images/kompozitok_nyomaban.png)
