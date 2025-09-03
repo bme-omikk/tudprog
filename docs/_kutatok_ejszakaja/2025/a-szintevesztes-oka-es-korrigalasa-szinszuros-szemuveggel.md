@@ -20,4 +20,6 @@ Vetített képes előadás az emberi látásról, a színlátásról és a szín
 
 [Dr.habil Ábrahám György professor emeritus](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/abraham_gyorgy.html)
 
+[GPK  Mechatronika,Optika és Gépészeti Informatika Tanszék](https://mogi.bme.hu/)
+
 ![A színtévesztés oka és korrigálása színszűrős szemüveggel- előadás](../2025/images/a-szintevesztes-oka-es-korrigalasa-szinszuros-szemuveggel-eloadas.png)
