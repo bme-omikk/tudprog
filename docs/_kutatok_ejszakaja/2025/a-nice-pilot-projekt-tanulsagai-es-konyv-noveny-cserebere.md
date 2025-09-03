@@ -26,4 +26,6 @@ Milyen területen újulhat meg egy csomagolásmentes bolt és Szemléletformál�
 [Stieber Balázs](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/stieber_balazs), [Vincze Dorottya](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/vincze_dorottya)
 
 
+[BME GTK, Környezetgazdaságtan és Fenntartható Fejlődés Tanszék](http://kornygazd.bme.hu/hu)
+
 ![A NiCE Pilot Projekt tanulságai és könyv-növény cserebere](../2025/images/a-nice-pilot-projekt-tanulsagai-es-konyv-noveny-cserebere.jpg)
