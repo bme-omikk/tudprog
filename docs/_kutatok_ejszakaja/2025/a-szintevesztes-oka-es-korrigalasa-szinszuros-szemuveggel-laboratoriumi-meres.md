@@ -24,6 +24,6 @@ A **vizsgálat + a korrigálás** ideje nagyjából 15 percet vesz igénybe.
 
  [Dr.habil Ábrahám György professor emeritus](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/abraham_gyorgy.html)
 
- G[PK  Mechatronika,Optika és Gépészeti Informatika Tanszék](https://mogi.bme.hu/)
+ [GPK  Mechatronika,Optika és Gépészeti Informatika Tanszék](https://mogi.bme.hu/)
 
  ![A színtévesztés oka és korrigálása színszűrős szemüveggel- előadás](../2025/images/a-szintevesztes-oka-es-korrigalasa-szinszuros-szemuveggel-eloadas.png)
