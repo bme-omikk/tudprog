@@ -22,4 +22,4 @@ Mégis mi teszi igazzá ezt az állítást? Egyes filozófusok szerint semmi: am
 
 [Bárány Tibor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/barany_tibor)
 
-BME GTK, [Szociológia és Kommunikáció Tanszék](https://www.bmekomm.hu/)
+[BME GTK, Szociológia és Kommunikáció Tanszék](https://www.bmekomm.hu/)
