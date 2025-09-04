@@ -6,7 +6,7 @@ kutej_programfelelos: Dr. Szijjártó Linda
 kutej_eloado: Dr. Szijjártó Linda
 ---
 
-Dr. Szijjártó Linda, szervezetfejlesztő, munka- és szervezet szakpszichológus. 
+Dr. Szijjártó Linda, szervezetfejlesztő, munka- és szervezet szakpszichológus.  
 A BME-GTK  egyetemi adjunktusaként elsősorban vezetéspszichológiával kapcsolatos tárgyakat oktat, kutatói érdeklődése középpontjában az áll, hogyan válhatnak az egyéni életút fontos állomásai a karrierúttal összehangolhatóvá.
 
 <table class="picture">
