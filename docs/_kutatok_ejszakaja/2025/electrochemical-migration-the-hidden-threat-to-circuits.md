@@ -22,5 +22,7 @@ Az elektronikai áramkörökben különböző okoból apró fémionok indulhatna
 
 [Ali Gharaibeh, PhD.](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/ali_gharibeh), [Czapp Emese](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/czapp_emese)
 
-BME VIK, Elektronikai Technológia Tanszék
+[BME VIK, Elektronikai Technológia Tanszék](https://www.ett.bme.hu/)
 
+
+![Electrochemical Migration, The Hidden Threat to Circuits](../2025/images/electrochemical-migration-the-hidden-threat-to-circuits.jpg)
