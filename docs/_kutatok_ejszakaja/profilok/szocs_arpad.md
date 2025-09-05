@@ -15,7 +15,7 @@ A hazai startup ökoszisztéma aktív követője, mentorként több hazai startu
 <td>
 
 <div class="gallery">
-    <img src="images/Szőcs Árpád.png" max-width="250" max-height="200">
+    <img src="images/Szőcs_Árpád.png" max-width="250" max-height="200">
   <div class="desc">Szőcs Árpád</div>
 </div>
 
