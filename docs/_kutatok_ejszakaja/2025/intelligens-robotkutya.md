@@ -18,6 +18,6 @@ date:  2025-08-27
 
 Gyere és játssz az intelligens robotkutyával! A felhőből irányított robot a mesterséges intelligencia segítségével képes felismerni emberi gesztusokat, valamint képes egyszerűbb feladatok önálló megoldására is.
 
-Dr. Fehér Gábor, Dr. Vidács Attila
+Dr. Fehér Gábor, Dr. Vidács Attila 
 
 [BME VIK/Távközlési és Mesterséges Intelligencia Tanszék](https://www.tmit.bme.hu/)
