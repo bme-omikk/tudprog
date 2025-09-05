@@ -6,7 +6,7 @@ tud_intezmeny_rovid: GTK
 title: Inspiráló női startup alapítók
 tud_programfelelos: Szőcs Árpád
 tud_eloadok: 
-tud_tipus: 
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME Q épület 323-as terem
 tud_idopont: 2025. szeptember 26. 18:00-18:45
