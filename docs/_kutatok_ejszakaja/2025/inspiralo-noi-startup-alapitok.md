@@ -1,7 +1,7 @@
 ---
 layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
-tud_intezmeny: 
+tud_intezmeny: Gazdaság- és Társadalomtudományi Kar
 tud_intezmeny_rovid: GTK
 title: Inspiráló női startup alapítók
 tud_programfelelos: Szőcs Árpád
