@@ -1,7 +1,7 @@
 ---
 layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
-tud_intezmeny: 
+tud_intezmeny: Mesterséges Intelligencia és Rendszertervezés Tanszéket
 tud_intezmeny_rovid: VIK
 title: Aktív zajcsökkentés
 tud_programfelelos: Dr. Sujbert László
@@ -20,5 +20,7 @@ Laboratóriumunkban mindenki saját fülével győződhet meg látványos formá
 Az aktív zajcsökkentés alapja, hogy olyan "másodlagos" zajt kell létrehozni, amely a kívánt helyen az eredeti "elsődleges" zajjal interferálva, kioltja azt.
 
 [Dr. Sujbert László](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/sujbert_laszlo), [Ország Bence](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/orszag_bence)
+
+[Mesterséges Intelligencia és Rendszertervezés Tanszéket](https://www.mit.bme.hu/)
 
 ![Aktív zajcsökkentés](../2025/images/aktiv-zajcsokkentes.jpg)
