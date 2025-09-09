@@ -20,7 +20,9 @@ Ebben a demóban azt mutatjuk meg, hogy a veztésben milyen informatikai megold�
 Bemutatjuk egy modern kormány informatikai rendszereit és ezek működését. 
 A demó a BME és a thyssenkrupp Kft.  Kompetencia Központban végzett munkáját mutatja be.
 
-[Dr. Vörös András](https://www.mit.bme.hu/munkatarsak/vori)
+[Dr. Vörös András](https://www.mit.bme.hu/munkatarsak/vori) , 
+
+**Thyssenkrupp Components Technology Hungary Kft. munkatársai**: A  thyssenkrupp Automotive Technology budapesti leányvállalataként 1999 óta foglalkozunk személyautók elektromos kormányrendszerének fejlesztésével, a cégcsoporton belül egyedüli elektronikai és szoftverfejlesztési kompetenciaközpontként. Az iránt köteleztük el magunkat, hogy a neves autógyárak igényeit kiemelkedő minőségű, innovatív termékekkel elégítsük ki. Célunk, hogy kormányrendszerünk biztonságos legyen és tökéletes vezetési élményt nyújtson ügyfeleink számára.
 
 [BME VIK, Méréstechnika és Információs Rendszerek Tanszék](https://www.mit.bme.hu/)
 
