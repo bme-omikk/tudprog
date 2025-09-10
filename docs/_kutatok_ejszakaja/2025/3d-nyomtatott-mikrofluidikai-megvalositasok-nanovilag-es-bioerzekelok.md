@@ -12,7 +12,7 @@ tud_helyszin: 1111 Budapest, Egry József u. 18. (BME ""V1"" épület) alagsor, 
 tud_idopont: Kérjük válasszon! 16.00-16.20, 16.30-16.50
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/3d-nyomtatott-mikrofluidikai-megvalositasok-nanovilag-es-bioerzekelok-1
 tud_url: 
-tud_reg: igen, turnusonként 15 fő
+tud_reg: igen, turnusonként 15 fő 
 date:  2025-08-27
 ---
 
