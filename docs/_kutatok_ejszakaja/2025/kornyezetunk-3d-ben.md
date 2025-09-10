@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME ÉMK, Fotogrammetria és Térinformatika Tanszék
 tud_intezmeny_rovid: EMK
+tud_latogato: KF
 title: Környezetünk 3D-ben
 tud_programfelelos: Dr. Kugler Zsófia
 tud_eloadok: Baranyai Dániel, Nagy Zoltán
