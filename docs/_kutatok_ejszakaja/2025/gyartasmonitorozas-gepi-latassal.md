@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME VIK, Ipar 4.0 Technológiai Központ
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Gyártásmonitorozás gépi látással
 tud_programfelelos: Kovács László
 tud_eloadok: Császi Sándor, Harmat Máté, Graff József, Szlávik Botond
