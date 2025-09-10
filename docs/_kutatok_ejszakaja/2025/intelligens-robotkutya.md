@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME VIK/Távközlési és Mesterséges Intelligencia Tanszék
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Intelligens robotkutya
 tud_programfelelos: Dr. Fehér Gábor
 tud_eloadok: Dr. Vidács Attila
