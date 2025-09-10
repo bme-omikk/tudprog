@@ -6,7 +6,7 @@ tud_intezmeny_rovid: VIK
 title: 3D nyomtatott mikrofluidikai megvalósítások - Nanovilág és bioérzékelők
 tud_programfelelos: Kovács Rebeka
 tud_eloadok: Tarpataki Nóra
-tud_tipus: csak személyes jelenléttel látogatható
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME ""V1"" épület) alagsor, BME ETT laboratóriumok
 tud_idopont: 2025. szeptember 26. 16.00-16.20, 16.30-16.50
