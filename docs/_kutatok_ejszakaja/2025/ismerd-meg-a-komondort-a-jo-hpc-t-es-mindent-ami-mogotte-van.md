@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME GPK, Hidrodinamikai Rendszerek Tanszék
 tud_intezmeny_rovid: GPK
+tud_latogato: KF
 title: Ismerd meg a Komondort – a jó HPC-t – és mindent, ami mögötte van
 tud_programfelelos: Dr. Csippa Benjamin
 tud_eloadok: Csippa Benjamin és a DKF (Digitális Kormányzati Fejlesztés és Projektmendzsment) munkatársa, Kiss Zoltán
