@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME VIK, Méréstechnika és Információs Rendszerek Tanszék
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Ki vezet? Autók biztonságos kormányműve az informatika szemszögéből.
 tud_programfelelos: Dr. Vörös András
 tud_eloadok: Dr. Vörös András, thyssenkrupp Components Technology Hungary Kft. munkatársai
