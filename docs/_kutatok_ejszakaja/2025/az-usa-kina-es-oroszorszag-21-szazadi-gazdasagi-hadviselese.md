@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME GTK Közgazdaságtan Tanszék
 tud_intezmeny_rovid: GTK
+tud_latogato: KF
 title: Az USA, Kína és Oroszország 21. századi gazdasági hadviselése 
 tud_programfelelos: Dr. Bernek Ágnes
 tud_eloadok: Dr. Bernek Ágnes
