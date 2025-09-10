@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: Mesterséges Intelligencia és Rendszertervezés Tanszéket
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Aktív zajcsökkentés
 tud_programfelelos: Dr. Sujbert László
 tud_eloadok: Dr. Sujbert László, Ország Bence
