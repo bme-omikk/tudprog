@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: GPK  Mechatronika,Optika és Gépészeti Informatika Tanszék
 tud_intezmeny_rovid: GPK
+tud_latogato: KF
 title: Színtévesztés diagnosztizálása és korrigálása színszűrős szemüveggel - Laboratóriumi mérés
 tud_programfelelos: Dr.habil Ábrahám György professor emeritus
 tud_eloadok: Szabó Máté PhD hallgató
