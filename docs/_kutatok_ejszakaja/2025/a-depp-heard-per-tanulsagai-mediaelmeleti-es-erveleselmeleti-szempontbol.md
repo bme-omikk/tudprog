@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME GTK Filozófia és Tudománytörténet Tanszék
 tud_intezmeny_rovid: GTK
+tud_latogato: KF
 title: #metoo vs. #JusticeForJohnny. A Depp-Heard per tanulságai médiaelméleti és érveléselméleti szempontból
 tud_programfelelos: Dr. Csordás Hédi Virág - Danka István
 tud_eloadok: Dr. Csordás Hédi Virág - Danka István
