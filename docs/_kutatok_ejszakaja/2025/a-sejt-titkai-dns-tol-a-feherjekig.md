@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
 tud_intezmeny_rovid: VBK
+tud_latogato: KF
 title: A sejt titkai- DNS-től a fehérjékig
 tud_programfelelos: Dr. Békési Angéla
 tud_eloadok: Emődi Nikolett, Iván Réka, Szajkó Milda
