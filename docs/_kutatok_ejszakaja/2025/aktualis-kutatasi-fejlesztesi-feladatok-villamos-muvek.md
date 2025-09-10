@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME VIK, Villamos Energetika Tanszék
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Aktuális kutatási-fejlesztési feladatok Villamos Művek és Energiaátalakítók területén
 tud_programfelelos: Horváth Sándor
 tud_eloadok: Bereczki Bence
