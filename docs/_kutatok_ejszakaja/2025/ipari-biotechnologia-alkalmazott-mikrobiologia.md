@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék
 tud_intezmeny_rovid: VBK
+tud_latogato: KF
 title: Ipari biotechnológia - alkalmazott mikrobiológia
 tud_programfelelos: Dr. Németh Áron
 tud_eloadok: Dr. Kiss Bernadett, Eszterbauer Edina
