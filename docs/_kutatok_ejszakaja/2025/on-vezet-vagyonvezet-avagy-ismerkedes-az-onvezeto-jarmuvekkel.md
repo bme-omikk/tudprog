@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_intezmeny_rovid: KJK
+tud_latogato: KF
 title: Ön vezet vagy „önvezet”? Avagy ismerkedés az önvezető járművekkel.
 tud_programfelelos: Dr. Aradi Szilárd
 tud_eloadok: Dr. Fehér Árpád
