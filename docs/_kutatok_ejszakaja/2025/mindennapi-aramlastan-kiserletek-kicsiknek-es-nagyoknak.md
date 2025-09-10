@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME GPK, Hidrodinamikai Rendszerek Tanszék
 tud_intezmeny_rovid: GPK
+tud_latogato: KF
 title: Mindennapi áramlástan, kísérletek kicsiknek és nagyoknak
 tud_programfelelos: Gulyás András
 tud_eloadok: Till Sára, Dr. Gyürki Dániel, Friedrich Péter, Sándor Levente Gábor, Balog Boglárka
