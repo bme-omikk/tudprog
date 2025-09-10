@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME VIK, Elektronikai Technológia Tanszék
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Electrochemical Migration, The Hidden Threat to Circuits
 tud_programfelelos: Ali Gharaibeh, PhD.
 tud_eloadok: Ali Gharaibeh
