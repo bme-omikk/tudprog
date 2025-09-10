@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME TTK Wigner Jenő Szakkollégium
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Látványos kísérleti bemutatók 
 tud_programfelelos: Bednanics Hanna
 tud_eloadok: Bednanics Hanna, Bajnóczi Boldizsár, és a szakkollégium rendes, illetve ifjú tagjai
