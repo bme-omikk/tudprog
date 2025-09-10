@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME TTK Matematika Intézet
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Létezik-e a kreativitásnak kódja? Barangolás a mesterséges intelligancia világában.
 tud_programfelelos: Csonka Bence
 tud_eloadok: 
