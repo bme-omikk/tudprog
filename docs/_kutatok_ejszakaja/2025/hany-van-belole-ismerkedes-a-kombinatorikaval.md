@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME TTK, Matematika Intézet
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Hány van belőle? Ismerkedés a kombinatorikával.
 tud_programfelelos: Szabó Zsolt
 tud_eloadok: 
