@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2025
 tud_intezmeny: BME TTK, Elméleti Fizika Tanszék
 tud_intezmeny_rovid: TTK
-title: Természetes mintázatok: a kemény szikláktól a lágy cellákig
+title: Természetes mintázatok, a kemény szikláktól a lágy cellákig
 tud_programfelelos: Domokos Gábor
 tud_eloadok: Domokos Gábor
 tud_tipus: élő közvetítés és utólagos videó feltöltés
