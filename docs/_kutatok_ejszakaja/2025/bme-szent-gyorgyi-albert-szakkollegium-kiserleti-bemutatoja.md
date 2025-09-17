@@ -6,7 +6,7 @@ tud_intezmeny_rovid: VBK
 title: BME Szent Györgyi-Albert Szakkollégium kísérleti bemutatója
 tud_programfelelos: BME Szent-Gyögyi Albert Szakkollégium
 tud_eloadok: A Szakkollégium tagjai
-tud_tipus: Csak személyes jelenléttel látogatható
+tud_tipus: Csak személyes jelenléttel látogatható 
 tud_online: 
 tud_helyszin: BME CH épület földszint, BME CH épület előtt (1111 Budapest, Műegyetem rkp. 1,)
 tud_idopont: 2025. szeptember 26. 2025. szeptember 26. 17:00-20:00 CH épület földszint; 20:15-20:45 CH épület előtt
