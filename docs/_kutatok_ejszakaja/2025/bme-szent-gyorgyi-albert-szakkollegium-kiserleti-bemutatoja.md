@@ -12,7 +12,7 @@ tud_helyszin: BME CH épület földszint, BME CH épület előtt (1111 Budapest,
 tud_idopont: 2025. szeptember 26. 2025. szeptember 26. 17:00-20:00 CH épület földszint; 20:15-20:45 CH épület előtt
 tud_regisztracio: 
 tud_url: 
-tud_reg: nem, nem
+tud_reg: nem, nem 
 date:  2025-08-27
 ---
 
