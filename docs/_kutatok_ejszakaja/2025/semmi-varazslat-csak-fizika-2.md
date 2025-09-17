@@ -24,4 +24,4 @@ Domokos Gábor, Vinze Miklós,[ Härtlein Károly](https://tudprog.bme.hu/kutato
 
 [BME TTK, Elméleti Fizika Tanszék](https://dtp.physics.bme.hu/)
 
-![Semmi varázslat, csak fizika II.](../2025/images/semmi-varazslat-csak-fizika-2.jpg)
+![Semmi varázslat, csak fizika II.](../2025/images/semmi-varazslat-csak-fizika-i.png)
