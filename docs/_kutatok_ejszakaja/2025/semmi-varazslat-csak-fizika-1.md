@@ -12,7 +12,7 @@ tud_helyszin: F29
 tud_idopont: 2025. szeptember 26. 15:15-16:45
 tud_regisztracio: 
 tud_url: 
-tud_reg: nem, nem
+tud_reg: nem, nem 
 date:  2025-08-27
 ---
 
