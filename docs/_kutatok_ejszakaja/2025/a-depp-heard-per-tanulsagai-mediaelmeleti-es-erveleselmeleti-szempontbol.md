@@ -8,7 +8,7 @@ title: #metoo vs. #JusticeForJohnny. A Depp-Heard per tanulságai médiaelmélet
 tud_programfelelos: Dr. Csordás Hédi Virág - Danka István
 tud_eloadok: Dr. Csordás Hédi Virág - Danka István
 tud_tipus: Csak online látogatható
-tud_online: 
+tud_online: https://teams.microsoft.com/meet/3286231504702?p=oqaO2BVIPmul6ey7VK
 tud_helyszin: 
 tud_idopont: 2025. szeptember 27. 10.00-10.45
 tud_regisztracio: 
