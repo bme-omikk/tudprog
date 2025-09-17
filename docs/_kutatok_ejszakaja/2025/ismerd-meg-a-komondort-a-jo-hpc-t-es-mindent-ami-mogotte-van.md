@@ -10,7 +10,7 @@ tud_eloadok: Csippa Benjamin és a DKF (Digitális Kormányzati Fejlesztés és 
 tud_tipus: Csak élő közvetítés
 tud_online: 
 tud_helyszin: K-épüélet Stand egy asztal és két szék
-tud_idopont: 2025. szeptember 26. 18:00 - folyamatosan
+tud_idopont: 2025. szeptember 26. 18:00 - 21.00
 tud_regisztracio: 
 tud_url: 
 tud_reg: Nem, Nem
