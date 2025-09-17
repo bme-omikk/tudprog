@@ -4,7 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Ekler Péter
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2024
+tud_title: Kutatók éjszakája 2025
 ---
 
 Dr. Ekler Péter egyetemi docens. Oktatóként több mint 15 éve vezet kurzusokat a BME Villamosmérnöki és Informatikai Karán, részt vett új tantárgyak kidolgozásában és bevezetésében (például Android alapú szoftverfejlesztés, Üzleti intelligencia, Flutter alapú szoftverfejlesztés, Kotlin alapú szoftverfejlesztés), valamint számos tanfolyam szervezésében és megtartásában az ipar számára. Kutatóként több évet foglalkozott elosztott, peer-to-peer és közösségi hálózati megoldásokkal, melyekből PhD-t szerzett 2011-ben. 

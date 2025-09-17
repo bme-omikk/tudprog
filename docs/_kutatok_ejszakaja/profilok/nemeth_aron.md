@@ -4,7 +4,7 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Németh Áron
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2024
+tud_title: Kutatók éjszakája 2025
 ---
 Csoportvezető: Dr. Németh Áron	
 

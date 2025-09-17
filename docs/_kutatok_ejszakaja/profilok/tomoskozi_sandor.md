@@ -4,10 +4,10 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Dr. Tömösközi Sándor
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2024
+tud_title: Kutatók éjszakája 2025
 ---
 
-Vegyészmérnök, a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék tanszékvezető docense. 1987 óta lát el oktatási feladatokat. Fő szakterületei: gabonatudomány, mikromódszerek fejlesztése, élelmiszerminőség, -biztonság és -analitika, laboratóriumi minőségirányítás. Több élelmiszertudományhoz kapcsolódó bizottság tagja. Fontosnak tartja a tudomány és az ipar jó kapcsolatát, az innovációt. 
+Vegyészmérnök, a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék tanszékvezető docense, a Gabonatudományi és Élelmiszerbiztonság Kutatócsoport vezetője. 1987 óta lát el oktatási és kutatási feladatokat. Fő szakterületei: gabonatudomány, mikromódszerek fejlesztése, élelmiszerminőség, -biztonság és -analitika, laboratóriumi minőségirányítás. Több élelmiszertudományhoz kapcsolódó bizottság tagja. Fontosnak tartja a tudomány és az ipar jó kapcsolatát, az innovációt.
 
 
 
@@ -16,7 +16,7 @@ Vegyészmérnök, a BME Alkalmazott Biotechnológia és Élelmiszertudományi Ta
 <td>
 
 <div class="gallery">
-    <img src="images/tomoskozi_sandor.jpg" max-width="250" max-height="200">
+    <img src="images/Dr. Tömösközi Sándor.jpg" max-width="250" max-height="200">
   <div class="desc">Dr. Tömösközi Sándor</div>
 </div>
 
