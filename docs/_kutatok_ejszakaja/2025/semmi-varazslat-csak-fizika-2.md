@@ -6,7 +6,7 @@ tud_intezmeny_rovid: TTK
 title: Semmi varázslat, csak fizika II.
 tud_programfelelos: Härtlein Károly
 tud_eloadok: Domokos Gábor, Vinze Miklós, Härtlein Károly
-tud_tipus: Élő közvetítés és utólagos videó feltöltés
+tud_tipus: Utólagos videó feltöltés
 tud_online: 
 tud_helyszin: F29
 tud_idopont: 2025. szeptember 26. 21:00-22:30

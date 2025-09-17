@@ -6,7 +6,7 @@ tud_intezmeny_rovid: TTK
 title: A barátok hálójában
 tud_programfelelos: Török János
 tud_eloadok: Török János
-tud_tipus: élő közvetítés és utólagos videó feltöltés
+tud_tipus: utólagos videó feltöltés
 tud_online: 
 tud_helyszin: F épület 29-es terem
 tud_idopont: 2025. szeptember 26. 18:30-19:15
