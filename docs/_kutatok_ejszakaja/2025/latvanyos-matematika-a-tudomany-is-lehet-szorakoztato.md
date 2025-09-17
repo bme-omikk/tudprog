@@ -9,7 +9,7 @@ tud_eloadok: Keszthelyi Gabriella, Pintér Gergő
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: KF.83 
-tud_idopont:  16:00-18:00
+tud_idopont: 2025. szeptember 26. 16:00-18:00
 tud_regisztracio: 
 tud_url: 
 tud_reg: nem, nem
