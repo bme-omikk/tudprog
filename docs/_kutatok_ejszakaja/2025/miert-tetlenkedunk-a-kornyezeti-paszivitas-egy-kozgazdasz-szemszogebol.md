@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Csuvár Ádám
 tud_eloadok: Dr. Csuvár Ádám
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: BME K épület (terem egyeztetés alatt)
+tud_helyszin: 1111 Budapest, Műegyetem rkp.3. - BME K épület, Turnus helyszín: Oktatói Klub (K197)
 tud_idopont: 2025. szeptember 26. 20:00 - 21:30
 tud_regisztracio: 
 tud_url: 
