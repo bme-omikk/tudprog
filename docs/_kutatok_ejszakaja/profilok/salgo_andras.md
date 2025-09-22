@@ -6,7 +6,7 @@ kutej_programfelelos:
 kutej_eloado: Prof. Salgó András
 ---
 
-[Prof. Salgó András](https://mta.hu/koztestuleti_tagok?PersonId=9756 ), a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszékének professor emeritus-a. 50 éve a tanszék dolgozója, a NIR Spektoszkópia Csoport megalapítója. Oktatási tevékenysége keretében több tantárgy és képzési forma kidolgozója, előadója mind a mai napig (pl.: Élelmiszerkémia és táplálkozástan, Közeli infravörös spektroszkópia alapjai és ipari alkalmazásai, Táplálkozás biokémia és dietetika, Élelmiszeranalitika c. tárgy egyes fejezetei). 
+[Prof. Salgó András](https://tudatosvasarlo.hu/infravoros-hullamokkal-a-jobb-minosegu-elelmiszerekert/), a BME Alkalmazott Biotechnológia és Élelmiszertudományi Tanszékének professor emeritus-a. 50 éve a tanszék dolgozója, a NIR Spektoszkópia Csoport megalapítója. Oktatási tevékenysége keretében több tantárgy és képzési forma kidolgozója, előadója mind a mai napig (pl.: Élelmiszerkémia és táplálkozástan, Közeli infravörös spektroszkópia alapjai és ipari alkalmazásai, Táplálkozás biokémia és dietetika, Élelmiszeranalitika c. tárgy egyes fejezetei). 
 
 
 <table class="picture">
