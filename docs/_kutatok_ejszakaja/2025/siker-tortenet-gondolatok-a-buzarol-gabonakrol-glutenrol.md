@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Tömösközi Sándor
 tud_eloadok: Dr. Tömösközi Sándor
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 
+tud_helyszin: CH épület 2. emelet 201-es terem
 tud_idopont: 2025. szeptember 26. 18:00-18:50
 tud_regisztracio: 
 tud_url: 
@@ -26,5 +26,5 @@ Ilyen és hasonló témákat járunk körül, illetve ezekre a kérdésekre kere
 
 [Dr. Tömösközi Sándor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/tomoskozi_sandor)
 
-[BME VBK Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék](https://kutatok.org/abettt/)
+[BME VBK Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék](https://abet.vbk.bme.hu/)
 
