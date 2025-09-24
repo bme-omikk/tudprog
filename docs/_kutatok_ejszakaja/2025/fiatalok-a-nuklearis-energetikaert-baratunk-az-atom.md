@@ -23,7 +23,7 @@ Az egyszerűsített, szétszedhető maketteket a gyerekek maguk rakhatják össz
 A legkisebbeket atomerőműves színezőkkel várjuk, a nagyobbaknak pedig lehetőségük lesz dózismérők kipróbálására is.
 Célunk, hogy minden korosztály számára közérthetően és szórakoztatóan mutassuk be az atomenergia szerepét, biztonságát és érdekességeit.
 
-**Asztalos Őrs:** Adjunktus a NTI-ben, a Magyar Nukleáris Társaság Fúziós Szakcsoportjának az elnöke.
+[Dr. Asztalos Őrs](https://www.reak.bme.hu/munkatars/oktatok/asztalos-ors.html): Adjunktus a NTI-ben, a Magyar Nukleáris Társaság Fúziós Szakcsoportjának az elnöke.
 
 **Orosz Gergely, Szállási Zsófia, Izsáki Domonkos, Szabó Jázmin Eszter, Gyimóthy Réka, Berg Isabel Rita:**
 A Magyar Nukleáris Társaság- Fiatalok a Nukleáris Energetikáért tagjai, energetikai mérnök BSc, MSc hallgatók/ adjunktus a BME-NTI-ben
