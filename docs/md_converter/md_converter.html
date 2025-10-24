@@ -43,6 +43,7 @@
         var textToSave =
           '---\r\n'+
 		  'layout: ' + layout + '\r\n' + // =layout
+		  'tud_title: ' + tud_title + '\r\n' + // =tud_title
           'title: ' + document.getElementById('title').value.replace(/: |:|\s\s+/g, ' ') + '\r\n' + // =title
 		  'tud_tipus: ' + document.getElementById('tud_tipus').value.replace(/: |:|\s\s+/g, ' ') + '\r\n' + // =tudomány tipus
 		  'tud_tudomanyterulet: ' + document.getElementById('tud_tudomanyterulet').value.replace(/: |:|\s\s+/g, ' ') + '\r\n' + // =tudomány terület
@@ -145,7 +146,7 @@
 	
 	<label for="datum">
     <i>Pontos időpont (rendezési alap)</i>  <!-- =Rendezvény időpntja -->
-    <input type="text" id="datum" cols="40" rows="3" placeholder="formátum: 2024-11-03 12:30">
+    <input type="text" id="datum" cols="40" rows="3" placeholder="formátum: 2025-11-03 12:30">
     </label>
 
     <br>
