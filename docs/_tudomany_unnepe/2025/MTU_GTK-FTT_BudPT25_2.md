@@ -1,6 +1,6 @@
 ---
 layout: collection
-tud_title: A Magyar Tudomány Ünnepe 2025
+tud_title: Jubileumi Tudományünnep 2025
 title: Budapest Workshop on Philosophy and Technology 2025
 tud_tipus: Nemzetközi Konferencia
 tud_tudomanyterulet: Technikafilozófia, etika, orvosi bölcsészettudomány

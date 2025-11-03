@@ -1,6 +1,6 @@
 ---
 layout: collection
-tud_title: A Magyar Tudomány Ünnepe 2025
+tud_title: Jubileumi Tudományünnep 2025
 title: Kvantumhálózatok nyomában – A kommunikáció jövője a BME-n
 tud_tipus: Workshop
 tud_tudomanyterulet: Műszaki

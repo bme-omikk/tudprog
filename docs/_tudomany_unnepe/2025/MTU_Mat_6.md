@@ -1,6 +1,6 @@
 ---
 layout: collection
-tud_title: A Magyar Tudomány Ünnepe 2025
+tud_title: Jubileumi Tudományünnep 2025
 title: BME Mathematical Modeling Seminar, Csordás Dóra Éva
 tud_tipus: előadás
 tud_tudomanyterulet: matematika

@@ -1,6 +1,6 @@
 ---
 layout: collection
-tud_title: A Magyar Tudomány Ünnepe 2025
+tud_title: Jubileumi Tudományünnep 2025
 title: DevFest Budapest 2025 – The AI Conference
 tud_tipus: Konferencia
 tud_tudomanyterulet: Mesterséges intelligencia, Felhő alapú megoldások

@@ -1,6 +1,6 @@
 ---
 layout: collection
-tud_title: A Magyar Tudomány Ünnepe 2025
+tud_title: Jubileumi Tudományünnep 2025
 title: Elméleti fizika szeminárium - Fabian Ballar Noise, Magic, and Error-Resilience in Encoding–Decoding Quantum Circuits
 tud_tipus: előadás
 tud_tudomanyterulet: fizika

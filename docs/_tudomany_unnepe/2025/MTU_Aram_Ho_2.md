@@ -1,6 +1,6 @@
 ---
 layout: collection
-tud_title: A Magyar Tudomány Ünnepe 2025
+tud_title: Jubileumi Tudományünnep 2025
 title: Eredmények az áramlás- és hőtechnika területén
 tud_tipus: Konferencia
 tud_tudomanyterulet: Áramlás- és hőtechnika
