@@ -8,7 +8,7 @@ tud_idopont: 2025. november 25. (kedd), 13:00-15:00
 tud_helyszin: Budapesti Műszaki és Gazdaságtudományi Egyetem Gazdaság- és Társadalomtudományi Kar (BME GTK), Q épület (1117 Budapest, Magyar tudósok krt. 2.)
 tud_intezmeny: Budapesti Műszaki és Gazdaságtudományi Egyetem Gazdaság- és Társadalomtudományi Kar (BME GTK)
 tud_kapcsolattarto: Szalmáné Dr. Csete Mária, csete.maria@gtk.bme.hu
-tud_url: https://www.gtk.bme.hu
+tud_url: https://www.gtk.bme.hu/blog/klimatol-kulturaig-a-fenntarthatosag-arcai/
 date: 2025-10-25 13:00
 ---
 A rendezvény a Magyar Tudományos Akadémia 200 éves

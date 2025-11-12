@@ -8,7 +8,7 @@ tud_idopont: 2025. november 27-28.
 tud_helyszin: BME E épület
 tud_intezmeny: BME, továbbá Society for Philosophy and Technology, EELISA, SEFI, RAISE-U
 tud_kapcsolattarto: Héder Mihály heder.mihaly@gtk.bme.hu +36 1 463-1182
-tud_url: www.budpt.eu
+tud_url: https://budpt.eu
 date: 2025-10-28
 ---
 A kétévente megrendezett workshop célja, hogy egyetemünkre, azon belül is a Gazdasági- és Társadalomtudományi Karra vonzza a technikafilozófia területén aktív kutatókat, valamint, hogy aktuális műszaki kutatási-fejlesztési irányok (például: mesterséges intelligencia, orvosi technológia, autonóm járművek) etikai és filozófiai vonatkozásait tárgyalja.
