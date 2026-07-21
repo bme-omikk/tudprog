@@ -20,8 +20,8 @@ Misák Bianka (konyvtar.rendezveny@bme.hu, +36-30-299-4474)
 
 [Ezen a linken érhetők el a 2026-os arculati elemek](https://drive.google.com/drive/folders/1-WxMKyzS-SetPMljVSXrISViCc0kuZ_E)
 
-[Adatkezelési tájékoztató] (https://app.kutatokejszakaja.hu/documents/1809b8b9-be71-4ba3-bca9-f1e3283e58c4.pdf)
+[Adatkezelési tájékoztató](https://app.kutatokejszakaja.hu/documents/1809b8b9-be71-4ba3-bca9-f1e3283e58c4.pdf)
 
-Képmás és hangfelvétel felhasználási tájékoztató (https://app.kutatokejszakaja.hu/documents/0c2b0205-74e3-4e05-afdd-6c455803fa05.pdf)
+[Képmás és hangfelvétel felhasználási tájékoztató](https://app.kutatokejszakaja.hu/documents/0c2b0205-74e3-4e05-afdd-6c455803fa05.pdf)
 
 
