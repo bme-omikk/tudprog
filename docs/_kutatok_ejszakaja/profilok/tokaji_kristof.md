@@ -4,9 +4,10 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Tokaji Kristóf
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2025
+tud_title: Kutatók éjszakája 2026
 ---
-Dr. Tokaji Kristóf gépészmérnök (PhD), áramlástechnikai gépészmérnök, adjunktus, az Áramlástan Tanszék munkatársa. Kutatási területei: aerokausztika, áramlások modellezése, áramlástechnikai gépek, légtechnika. https://www.ara.bme.hu/munkatarsak/552
+Dr. Tokaji Kristóf gépészmérnök (PhD), áramlástechnikai gépészmérnök, adjunktus, az Áramlástan Tanszék munkatársa. 
+Kutatási területei: aerokausztika, áramlások modellezése, áramlástechnikai gépek, légtechnika. [Tanszéki elérhetősége](https://www.ara.bme.hu/munkatarsak/552)
 
 
 
