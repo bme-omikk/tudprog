@@ -23,4 +23,4 @@ Milyen hatása van a nagyfeszültségű berendezéseknek és az azok által lét
 
 [BME VIK, Villamos Energetika Tanszék](https://vet.bme.hu/)
 
-![Óránként induló bemutatók a Nagyfeszültségű Laboratóriumban](../2026/images/Óránként-induló-bemutatók-a-Nagyfeszültségű-Laboratóriumban.jpg)
+![Óránként induló bemutatók a Nagyfeszültségű Laboratóriumban](../2026/images/Óránként-induló-bemutatók-a-Nagyfeszültségű-Laboratóriumban.JPG)
