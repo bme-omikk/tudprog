@@ -12,7 +12,7 @@ tud_helyszin: BME J épület 3. em. 309 terem (1111 Budapest, Stoczek utca 6.)
 tud_idopont: 2026. szeptember 25. 17:00-17:30, 17:45-18:15, 18:30-18:45, 19:00-19:30
 tud_regisztracio: 
 tud_url:
-tud_reg: nem , nem
+tud_reg: Igen, turnusonként 12 fő
 date:  2026-08-27
 ---
 
