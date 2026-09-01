@@ -20,6 +20,6 @@ Műegyetemi műholdvezérlő földi állomás látogatás, amely során az eddig
 
 [Dr. Dudás Levente](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/dudas_levente), [Herman Tibor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/herman_tibor), [Hödl Emil](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/hodl_emil), [Püspöki Péter](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/puspoki_peter) 
 
-[BME VIK, Szélessávú Hírközlés és Villamosságtan Tanszék](https://hvt.bme.hu/))
+[BME VIK, Szélessávú Hírközlés és Villamosságtan Tanszék](https://hvt.bme.hu/)
 
 ![Műholdvezérlő földi állomás látogatás](../2026/images/Muholdvezerlo-földi-állomás-látogatás.jpg)
