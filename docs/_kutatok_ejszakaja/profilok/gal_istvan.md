@@ -11,10 +11,3 @@ A Repüléstudományi és Hajózási Tanszék tanársegédje, elsődleges terül
 
 
 
- <table class="picture">
-<tr>
-<td>
-
-</td>
-</tr>
-</table>
