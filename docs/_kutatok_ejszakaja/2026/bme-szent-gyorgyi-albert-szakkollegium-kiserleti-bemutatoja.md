@@ -20,6 +20,6 @@ A Szent-Györgyi Albert Szakkollégium tagjai izgalmas, interaktív kísérleti 
 Kicsiknek és nagyoknak egyaránt szórakoztató lesz az előadás, reméljük, minél többetekkel találkozunk majd szept. 25-én!
 
 
-[BME Szent Györgyi-Albert Szakkollégium](https://szasz.bme.hu/))
+[BME Szent Györgyi-Albert Szakkollégium](https://szasz.bme.hu/)
 
 ![BME Szent Györgyi-Albert Szakkollégium kísérleti bemutatója](../2026/images/bme-szent-gyorgyi-albert-szakkollegium-kiserleti-bemutatoja.jpeg)
