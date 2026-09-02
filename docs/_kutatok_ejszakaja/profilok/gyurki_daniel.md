@@ -1,12 +1,12 @@
 ---
 layout: page_kutej_profilok
-tud_title:  Kutatók éjszakája 2025
-tud_idopont:  0
+tud_title:  Kutatók éjszakája 2026
+tud_idopont:  
 kutej_programfelelos: 
 kutej_eloado: Gyürki Dániel
 ---
 
-Okleveles gépészmérnök (MSc), Ph.D, jelenleg adjunktusként dolgozik a HDR Tanszéken. Fő kutatási területét a hemodinamikai kutatások (véráramlás) jelentik.  
+Okleveles gépészmérnök (MSc), Ph.D, jelenleg adjunktusként dolgozik a HDR Tanszéken. Fő kutatási területét a hemodinamikai kutatások (véráramlás) jelentik.   
 
 <table class="picture">
 <tr>
