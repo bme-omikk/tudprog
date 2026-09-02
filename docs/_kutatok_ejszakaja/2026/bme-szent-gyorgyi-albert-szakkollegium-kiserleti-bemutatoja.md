@@ -16,8 +16,8 @@ tud_reg: nem , nem
 date:  2026-08-27
 ---
 
-A látogatók megtekinthetik a SZTAKI és a BME által fejlesztett önvezető tesztautót, amellyel az önvezető járművek "mixed reality"-t alkalmazó tesztelési folyamatai kerülnek bemutatásra. 
-A jármű a parkolóban működés közben, akár utasként is kipróbálható.
+A Szent-Györgyi Albert Szakkollégium tagjai izgalmas, interaktív kísérleti bemutatóval készültek nektek az idei Kutatók Éjszakájára. 
+Kicsiknek és nagyoknak egyaránt szórakoztató lesz az előadás, reméljük, minél többetekkel találkozunk majd szept. 25-én!
 
 
 [BME Szent Györgyi-Albert Szakkollégium](https://szasz.bme.hu/))
