@@ -1,12 +1,12 @@
 ---
 layout: page_kutej_profilok
-tud_title:  Kutatók éjszakája 2025
-tud_idopont:  0
+tud_title:  Kutatók éjszakája 2026
+tud_idopont:  
 kutej_programfelelos:
 kutej_eloado: Dr. Csizmadia Péter
 ---
 
-Okleveles gépészmérnök, Ph. D., jelenleg a HDR Tanszéken adjunktus pozícióban dolgozik. Fő szakterülete a nemnewtoni folyadékok vizsgálata áramlástechnikai gépek esetében.
+Okleveles gépészmérnök, Ph. D., jelenleg a HDR Tanszék tanszékvezető helyettese továbbá adjunktus pozíciót tölt be. Fő szakterülete a nemnewtoni folyadékok vizsgálata áramlástechnikai gépek esetében. 
 <table class="picture">
 <tr>
 <td>
