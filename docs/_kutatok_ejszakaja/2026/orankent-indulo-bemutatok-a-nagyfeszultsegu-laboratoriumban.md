@@ -12,7 +12,7 @@ tud_helyszin: 1111 Budapest, Egry József u. 18. (BME ""V1"" épület) földszin
 tud_idopont: 2026. szeptember 25. 15:00-22:00
 tud_regisztracio: 
 tud_url: 
-tud_reg: nem , nem
+tud_reg: Igen , turnusonként 35 fő
 date:  2026-08-27
 ---
 
