@@ -12,7 +12,7 @@ tud_helyszin: 1111 Budapest, Szent Gellért tér 4., Ch épület alagsor A03 lab
 tud_idopont: 2026. szeptember 25. 16.00-16.30, 16.30-17.00
 tud_regisztracio: 
 tud_url: 
-tud_reg: Igen , turnusonként 15 fő
+tud_reg: Igen, turnusonként 15 fő
 date:  2026-08-27
 ---
 
