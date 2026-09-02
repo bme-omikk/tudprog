@@ -12,7 +12,7 @@ tud_helyszin: 1111 Budapest Bertalan Lajos utca 7. , L épület, Hidrodinamikai 
 tud_idopont: 2026. szeptember 25. 18.00-18.45, 18.45-19.30, 19.30-20.15, 20.15-21:00
 tud_regisztracio: 
 tud_url: 
-tud_url: 
+tud_reg: Igen , turnusonként 24 fő
 date:  2026-08-27
 ---
 
