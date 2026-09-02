@@ -12,7 +12,7 @@ tud_helyszin: Találkozó a BME E-épület portán (Egry József utca). Onnan k�
 tud_idopont: 2026. szeptember 25. 16:00-16:45, 17:00-17:45, 18:00-18:45, 19:00-19:45
 tud_regisztracio: 
 tud_url: 
-tud_reg: nem , nem
+tud_reg: Nem , max 12 fő / turnus.
 date:  2026-08-27
 ---
 
