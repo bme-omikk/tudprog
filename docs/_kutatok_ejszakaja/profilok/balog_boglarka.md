@@ -1,12 +1,12 @@
 ---
 layout: page_kutej_profilok
-tud_title:  Kutatók éjszakája 2025
-tud_idopont:  0
+tud_title:  Kutatók éjszakája 2026
+tud_idopont:  
 kutej_programfelelos: 
 kutej_eloado: Balog Boglárka
 ---
 
-Okleveles gépészmérnök (MSc), jelenleg doktoranduszként dolgozik a HDR Tanszéken. Fő kutatási területét nemnewtoni folyadékok vizsgálata áramlástechnikai gépek esetén. 
+Okleveles gépészmérnök (MSc), jelenleg doktoranduszként dolgozik a HDR Tanszéken. Fő kutatási területét nemnewtoni folyadékok vizsgálata áramlástechnikai gépek esetén.  
 
 <table class="picture">
 <tr>
