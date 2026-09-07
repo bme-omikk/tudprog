@@ -1,10 +1,10 @@
 ---
 layout: page_kutej_profilok
-tud_idopont: 0
+tud_idopont: 
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Urbin Ágnes
-tud_title: Kutatók éjszakája 2025
+tud_title: Kutatók éjszakája 2026
 ---
 
 
