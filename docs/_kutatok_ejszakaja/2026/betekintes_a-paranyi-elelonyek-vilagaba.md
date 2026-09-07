@@ -5,8 +5,8 @@ tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Ta
 tud_intezmeny_rovid: VBK
 title: Betekintés a parányi élőlények világába
 tud_programfelelos: Dr. Feigl Viktória
-tud_eloadok: Dr. Molnár Mónika
-tud_tipus: Kérjük válasszon!
+tud_eloadok: Dr. Molnár Mónika, Kese István, Lassu Dominika
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME CH. Épület Szent Gellért tér 4. 2 emelet 244-es szoba
 tud_idopont: 2026. szeptember 25. 16:30-17:00, 17:15-17:45, 18:00-18:30
