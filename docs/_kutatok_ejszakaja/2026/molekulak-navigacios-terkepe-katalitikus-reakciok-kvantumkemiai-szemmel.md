@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: Vegyészmérnöki és Biomérnöki Kar
 tud_intezmeny_rovid: VBK
-title: Molekulák navigációs térképe: katalitikus reakciók kvantumkémiai szemmel
+title: Molekulák navigációs térképe, katalitikus reakciók kvantumkémiai szemmel
 tud_programfelelos: Antal Balázs
 tud_eloadok: Haffner Ádám Balázs
 tud_tipus: Csak személyes jelenléttel látogatható
