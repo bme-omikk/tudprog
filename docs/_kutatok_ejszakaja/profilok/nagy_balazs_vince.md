@@ -1,10 +1,10 @@
 ---
 layout: page_kutej_profilok
-tud_idopont: 0
+tud_idopont: 
 kutej_programfelelos_eloado: 
-kutej_programfelelos: Dr. Nagy Balázs Vince egyetemi docens 
+kutej_programfelelos: Dr. Nagy Balázs Vince
 kutej_eloado:
-tud_title: Kutatók éjszakája 2025
+tud_title: Kutatók éjszakája 2026
 ---
 
 
