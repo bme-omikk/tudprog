@@ -5,7 +5,7 @@ tud_intezmeny: BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Ta
 tud_intezmeny_rovid: VBK
 title: A színeken innen és túl - avagy a nem látható fény varázslatos világa
 tud_programfelelos: Dr. Gergely Szilveszter
-tud_eloadok: Dr. Gergely Szilveszter
+tud_eloadok: Dr. Gergely Szilveszter, Madács Ágnes, Slezsák János
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Szent Gellért tér 4., Ch épület 1. emelet 165., NIR Spektroszkópia Csoport
@@ -16,7 +16,7 @@ tud_url:
 date:  2026-08-27
 ---
 
-[Dr. Gergely Szilveszter](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gergely_szilveszter), [Slezsák János](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/slezsak_janos)
+[Dr. Gergely Szilveszter](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/gergely_szilveszter), [Slezsák János](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/slezsak_janos), [Madács Ágnes](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/madacs_agnes)
 
 [BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék](https://abet.vbk.bme.hu/)
 
