@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME GTK, Ergonómia és Pszichológia Tanszék
 tud_intezmeny_rovid: GTK
-title: Észlelés, érzelem, döntés: a felhasználói élmény (UX) pszichológiája
+title: Észlelés, érzelem, döntés. A felhasználói élmény (UX) pszichológiája
 tud_programfelelos: Molnár Marietta
 tud_eloadok: Molnár Marietta
 tud_tipus: Csak személyes jelenléttel látogatható
