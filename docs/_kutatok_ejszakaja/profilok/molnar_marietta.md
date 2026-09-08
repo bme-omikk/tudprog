@@ -1,15 +1,14 @@
 ---
 layout: page_kutej_profilok
-tud_idopont: 0
+tud_idopont: 
 kutej_programfelelos_eloado: Molnár Marietta
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2025
+tud_title: Kutatók éjszakája 2026
 ---
 
 
-Az Ergonómia és Pszichológia Tanszék PhD hallgatója. Pszichológiai tanulmányai alatt ismerkedett meg a szoftverergonómia tudományágával, és azóta is aktívan kutat a felhasználói élmény (UX) területén. 
-Kutatási tevékenységének fókuszában a mesterséges intelligencia (AI) felhasználó-központú fejlesztési folyamatokban betöltött szerepének vizsgálata áll. 
+Az Ergonómia és Pszichológia Tanszék harmadéves PhD hallgatója. Pszichológiai tanulmányai alatt ismerkedett meg a szoftverergonómia tudományágával, és azóta is aktívan kutat a felhasználói élmény (UX) területén. Kutatási tevékenységének fókuszában a mesterséges intelligencia (AI) felhasználó-központú fejlesztési folyamatokban betöltött szerepének vizsgálata áll. 
 
 
 <table class="picture">
@@ -17,7 +16,7 @@ Kutatási tevékenységének fókuszában a mesterséges intelligencia (AI) felh
 <td>
  
 <div class="gallery">
-    <img src="images/molnar-marietta.png" max-width="250" max-height="200">
+    <img src="images/hs_MM.jpg" max-width="250" max-height="200">
   <div class="desc">Molnár Marietta</div>
 </div>
 
