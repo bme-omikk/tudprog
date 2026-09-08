@@ -9,7 +9,7 @@ tud_eloadok: Bertók Zsanett, Nagy Vanda Orsolya
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Műegyetem rakpart 9, BME D épület 5. em. 501. terem
-tud_idopont: 2025. szeptember 26. 17.00-17.20, 17.30-17.50, 18.00-18.20, 18.30-18.50
+tud_idopont: 2026. szeptember 26. 17.00-17.20, 17.30-17.50, 18.00-18.20, 18.30-18.50
 tud_regisztracio: 
 tud_url: 
 tud_reg: Igen, turnusonként 10 fő
