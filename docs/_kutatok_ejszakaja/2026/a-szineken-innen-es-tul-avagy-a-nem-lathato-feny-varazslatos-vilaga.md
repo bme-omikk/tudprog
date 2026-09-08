@@ -10,7 +10,8 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Szent Gellért tér 4., Ch épület 1. emelet 165., NIR Spektroszkópia Csoport
 tud_idopont: 2026. szeptember 25. 16.00-16.45, 17.00-17.45, 18.00-18.45, 19.00-19.45
-tud_regisztracio: Igen, turnusonként 15 fő 
+tud_regisztracio:
+tud_reg: Igen, turnusonként 15 fő 
 tud_url: 
 date:  2026-08-27
 ---
