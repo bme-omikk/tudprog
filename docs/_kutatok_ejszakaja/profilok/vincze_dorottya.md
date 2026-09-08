@@ -4,9 +4,9 @@ tud_idopont: 0
 kutej_programfelelos_eloado: 
 kutej_programfelelos: 
 kutej_eloado: Vincze Dorottya
-tud_title: Kutatók éjszakája 2025
+tud_title: Kutatók éjszakája 2026
 ---
-Vincze Dorottya alapszakos környezetmérnök hallgató, a 2024/2025-ös tanévben Egyetemi Kutatói Ösztöndíj Program ösztöndíjas, a 2025-ös Közgazdaságtudományi OTDK-n második helyezést ért el. Kutatásaiban a csomagolásmentes üzletek hosszútávú működésének vizsgálatát tűzte ki célul a budapesti agglomerációban. Tanulmányai mellett Dorottya aktív civilszervezeti tevékenységet is folytat, többször adott már elő Fenntarthatósági Témahéten, valamint a ZÖLD XVII és a Kerekerdő Egyesület önkéntese. A 2024/2025 tavaszi félévben a Fenntartható üzleti modellezési gyakorlat kurzus hallgatója, ahol a Ligeti Csomagolásmentes bolt fenntartható üzleti modell innovációján dolgozott társaival.
+Vincze Dorottya okleveles környezetmérnök, jelenleg a BME GTK Regionális és környezeti gazdaságtan mesterszakos hallgatója. A 2026/2027-es tanévben második alkalommal az Egyetemi Kutatói Ösztöndíj Program ösztöndíjasa, a 2025-ös Közgazdaságtudományi OTDK-n második helyezést ért el. Kutatásaiban a csomagolásmentes üzletek hosszú távú működésének vizsgálatát tűzte ki célul a budapesti agglomerációban és vidéki terekben. Tanulmányai mellett Dorottya aktív civil tevékenységet is folytat: többször adott már elő a Fenntarthatósági Témahéten, valamint a ZÖLD XVII és a BME Egyetemi Zöld Körének önkéntese. A 2024/2025-ös tavaszi félévben a Fenntartható üzleti modellezési gyakorlat kurzus hallgatójaként a Ligeti Csomagolásmentes bolt fenntartható üzleti modell innovációján dolgozott társaival.
 
  <table class="picture">
 <tr>
