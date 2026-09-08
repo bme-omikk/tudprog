@@ -8,9 +8,8 @@ tud_programfelelos: Dr. Kiss Domokos
 tud_eloadok: Dr. Nagy Ákos, Kiss Ágoston, Hartmann Ábel
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1117 Budapest, Magyar tudósok körútja 2.
-BME Q épület, B szárny, 1. emeleti folyosó
-tud_idopont: 2026. szeptember 25. 17.00-18:00; 18:00-19:00
+tud_helyszin: 1117 Budapest, Magyar tudósok körútja 2., BME Q épület, B szárny, 1. emeleti folyosó
+tud_idopont: 2026. szeptember 25. 17.00-18:00, 18:00-19:00
 tud_regisztracio: 
 tud_url: 
 tud_reg: Igen, turnusonként 30 fő
