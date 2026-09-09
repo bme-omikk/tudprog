@@ -14,7 +14,7 @@ A BME Elektronikai Technológia Tanszékének doktorandusz hallgatója. Érdekl�
 <td>
 
 <div class="gallery">
-    <img src="images/Havellant_Gergo.jpg" max-width="250" max-height="200">
+    <img src="images/Havellant Gergo.jpg" max-width="250" max-height="200">
   <div class="desc">Havellant Gergő</div>
 </div>
 
