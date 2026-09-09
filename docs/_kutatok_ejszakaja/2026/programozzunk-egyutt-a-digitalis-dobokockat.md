@@ -11,7 +11,7 @@ tud_online:
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME "V1" épület) földszint, 008 számítógépterem
 tud_idopont: 2026. szeptember 25. 17:00-18:00, 18:00-19:00, 19:00-20:00, 20:00-21:00
 tud_regisztracio:
-tud_reg: Igen, turnusonként 2 fő.
+tud_reg: Igen, egy turnusban 18 fő, de maximum 36, 18 workshop hely van, de egy helyre lehet párban is ülni, ebben az esetben 2 fő programoz egy fejlesztőkártyán.
 tud_url: 
 date: 2026-08-27
 ---
