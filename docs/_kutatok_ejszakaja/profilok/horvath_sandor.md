@@ -1,12 +1,12 @@
 ---
 layout: page_kutej_profilok
-tud_title:  Kutatók éjszakája 2025
+tud_title:  Kutatók éjszakája 2026
 tud_idopont:  0
 kutej_programfelelos: 
 kutej_eloado: Horváth Sándor
 ---
 
-Csoportvezető, egyetemi tanársegéd.  
+Csoportvezető, egyetemi tanársegéd - Villamos Művek és Energiaátalakítók Csoport. 
 
 <table class="picture">
 <tr>
