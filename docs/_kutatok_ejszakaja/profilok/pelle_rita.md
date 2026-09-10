@@ -16,7 +16,7 @@ A bemutató a módszertan, az eredmények és a további kutatási irányok átt
 <td>
 
 <div class="gallery">
-    <img src="images/pelle_rita.jpg" max-width="250" max-height="200">
+    <img src="images/pelle_rita.png" max-width="250" max-height="200">
   <div class="desc">Pelle Rita</div>
 </div>
 
