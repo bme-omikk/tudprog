@@ -15,7 +15,7 @@ Kelemen Zsolt a kutatócsoport vezetője, 2019-ben alapította a kutatócsoporto
 <td>
 
 <div class="gallery">
-    <img src="images/kelemen_zsolt.jpg" max-width="250" max-height="200">
+    <img src="images/kelemen_zsolt.png" max-width="250" max-height="200">
   <div class="desc">Kelemen Zsolt</div>
 </div>
 

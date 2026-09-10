@@ -15,7 +15,7 @@ Bartek Máté, PhD-hallgató, munkája középpontjában a kvantumkémiai szimul
 <td>
 
 <div class="gallery">
-    <img src="images/bartek_mate.jpg" max-width="250" max-height="200">
+    <img src="images/bartek_mate.png" max-width="250" max-height="200">
   <div class="desc">Bartek Máté</div>
 </div>
 

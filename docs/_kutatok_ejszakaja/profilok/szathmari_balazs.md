@@ -15,7 +15,7 @@ Szathmári Balázs doktorjelölt, kutatása során fluoreszcens anyagok előáll
 <td>
 
 <div class="gallery">
-    <img src="images/szathmari_balazs.jpg" max-width="250" max-height="200">
+    <img src="images/szathmari_balazs.png" max-width="250" max-height="200">
   <div class="desc">Szathmári Balázs</div>
 </div>
 

@@ -16,7 +16,7 @@ PhD hallgató, munkája központjában COSAN-alapú katalizátor ligandumok szin
 <td>
 
 <div class="gallery">
-    <img src="images/szantai_lorant.jpg" max-width="250" max-height="200">
+    <img src="images/szantai_lorant_istvan.png" max-width="250" max-height="200">
   <div class="desc">Szántai Lóránt</div>
 </div>
 
