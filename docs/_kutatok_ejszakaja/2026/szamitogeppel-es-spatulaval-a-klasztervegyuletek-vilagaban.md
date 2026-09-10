@@ -5,7 +5,7 @@ tud_intezmeny: BME VBK, Szervetlen és Analitikai Kémia Tanszék
 tud_intezmeny_rovid: VBK
 title: Számítógéppel és spatulával a klasztervegyületek világában
 tud_programfelelos: Szántai Lóránt István
-tud_eloadok: Szántai Lóránt, Bartek Máté, Szathmári Balázs, Kelemen Zsolt
+tud_eloadok: Szántai Lóránt István, Bartek Máté, Szathmári Balázs, Kelemen Zsolt
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online:
 tud_helyszin: 1111 Budapest, Szent Gellért tér 4. BME CH épület földszint 064
