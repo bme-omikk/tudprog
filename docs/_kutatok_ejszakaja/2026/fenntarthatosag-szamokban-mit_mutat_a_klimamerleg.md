@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME GPK, Energetikai Gépek és Rendszerek Tanszék
 tud_intezmeny_rovid: GPK
-title: Fenntarthatóság számokban – Mit mutat a klímamérleg?
+title: Fenntarthatóság számokban - Mit mutat a klímamérleg?
 tud_programfelelos: Kardos Réka, Fehér Anna
 tud_eloadok: Dr. Kovács Viktória
 tud_tipus: Csak személyes jelenléttel látogatható
