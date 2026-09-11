@@ -17,7 +17,8 @@ date:  2026-08-27
 ---
 
 Az [Energetikai Szakkollégium]( https://www.eszk.org) a Budapesti Műszaki és Gazdaságtudományi Egyetem hallgatóiból alakult szakmai szervezet, amely 2002 óta összeköti az ipari, tudományos és egyetemi világot. Minden félévben aktuális energetikai témákban szervez nyilvános előadásokat és üzemlátogatásokat, valamint tagjai számára belső soft- és hardskill kurzusokat, projekteket és nemzetközi konferenciákon való részvételi lehetőséget is kínál.
-<br>
+
+
 Teszteld az energetikai tudásod, pörgesd meg a szerencsekereket, és nyerj ESZK-s ajándékokat! Emellett látványos DIY kísérletekkel, köztük egy Jákob létrával is várunk.
 
 
