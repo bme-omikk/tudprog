@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Budapest, BME TR épület (Tanreaktor), Műegyetem rkp. 3, 1111
 tud_idopont: 2026. szeptember 25. 13:00 - 14:30, 14:45 - 16:15, 16:30 - 18:00, 18:15 - 19:45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/oktatoreaktor-latogatas-1
 tud_reg: Igen, Összesen 80 fő, turnusonként minimum 10 fő, maximum 20 fő
 tud_url: 
 date:  2026-08-27
