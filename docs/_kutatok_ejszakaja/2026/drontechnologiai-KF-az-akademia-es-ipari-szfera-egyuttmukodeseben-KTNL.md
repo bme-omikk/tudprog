@@ -3,14 +3,14 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: Közlekedésmérnöki és Járműmérnöki Kar / Repüléstudományi és Hajózási Tanszék
 tud_intezmeny_rovid: KJK
-title: Dróntechnológiai kutatások az akadémiai szférában, technológia, lehetőségek és kihívások
+title: Dróntechnológiai K+F az akadémia és ipari szféra együttműködésében – KTNL
 tud_programfelelos: Hus Máté Olivér
 tud_eloadok: Hus Máté Olivér, Fendrik Ármin 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Budapesti Műszaki és Gazdaságtudományi Egyetem Közlekedésmérnöki és Járműmérnöki Kar Repüléstudományi és Hajózási Tanszék J. épület, IV. emelet 1111 Budapest, Stoczek u. 6
 tud_idopont: 2026. szeptember 25. 18:00-18:45, 19:00-19:45, 20:00-20:45, 21:00-21:45, 22:00-22:45
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/drontechnologiai-kf-az-akademia-es-ipari-szfera-egyuttmukodeseben-ktnl
 tud_url: 
 tud_reg: Igen, 15 fő turnusokként.
 date:  2026-08-27
@@ -23,4 +23,4 @@ A repülő szerkezetek mögött összetett rendszerek, új alkalmazások, piaci 
 
 [BME KJK, Repüléstudományi és Hajózási Tanszék](http://rht.bme.hu/hu/)
 
-![Dróntechnológiai kutatások az akadémiai szférában: technológia, lehetőségek és kihívások](../2026/images/Dróntechnológiai-kutatások-az-akadémiai-szférában-technológia,-lehetőségek-és-kihívások.png)
+![Dróntechnológiai K+F az akadémia és ipari szféra együttműködésében – KTNL](../2026/images/Dróntechnológiai-kutatások-az-akadémiai-szférában-technológia,-lehetőségek-és-kihívások.png)
