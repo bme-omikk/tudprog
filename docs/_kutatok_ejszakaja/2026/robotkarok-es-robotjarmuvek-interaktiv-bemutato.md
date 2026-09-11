@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1117 Budapest, Magyar tudósok körútja 2., BME Q épület, B szárny, 1. emeleti folyosó
 tud_idopont: 2026. szeptember 25. 17.00-18:00, 18:00-19:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/robotkarok-es-robotjarmuvek-interaktiv-bemutato
 tud_url: 
 tud_reg: Igen, turnusonként 30 fő
 date:  2026-08-27
