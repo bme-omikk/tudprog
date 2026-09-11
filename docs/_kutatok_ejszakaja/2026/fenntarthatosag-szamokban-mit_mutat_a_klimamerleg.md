@@ -23,4 +23,4 @@ Kíváncsi vagy a mindennapi életed klímaváltozásra gyakorolt hatására? Az
 
 [BME GPK, Energetikai Gépek és Rendszerek Tanszék](https://www.energia.bme.hu/)
 
-![Erőműtől a konnektorig - Kísérletek és játékos kihívások](../2026/images/fenntarthatosag-szamokban-mit_mutat_a_klimamerleg.png)
+![Fenntarthatóság számokban - Mit mutat a klímamérleg](../2026/images/fenntarthatosag-szamokban-mit_mutat_a_klimamerleg.png)

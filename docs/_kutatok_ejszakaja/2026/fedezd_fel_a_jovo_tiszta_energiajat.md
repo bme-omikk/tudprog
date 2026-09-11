@@ -21,4 +21,4 @@ Fedezd fel a hidrogéncellák izgalmas világát! Tanulj meg mindent arról, hog
 
 [BME GPK, Energetikai Gépek és Rendszerek Tanszék](https://www.energia.bme.hu/)
 
-![Erőműtől a konnektorig - Kísérletek és játékos kihívások](../2026/images/fedezd_fel_a_jovo_tiszta_energiajat.png)
+![Fedezd fel a jövő tiszta energiáját](../2026/images/fedezd_fel_a_jovo_tiszta_energiajat.png)
