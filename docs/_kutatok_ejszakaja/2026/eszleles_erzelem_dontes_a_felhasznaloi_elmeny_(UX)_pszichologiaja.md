@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Q épület, A szárny, 1. emelet, 102-es terem
 tud_idopont: 2026. szeptember 25. 17:00-18:30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/eszleles-erzelem-dontes-a-felhasznaloi-elmeny-ux-pszichologiaja
 tud_url: 
 tud_reg: Igen, maximum 50 fő
 date:  2026-08-27
