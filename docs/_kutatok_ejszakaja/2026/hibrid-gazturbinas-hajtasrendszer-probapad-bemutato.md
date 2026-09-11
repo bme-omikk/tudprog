@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Budapesti Műszaki és Gazdaságtudományi Egyetem  AE épület, udvar felőli kapu bejárat.
 tud_idopont: 2026. szeptember 25. 16:15-17:00, 17:15-18:00, 18:15-19:00, 19:00-20:00, 20:00-21:00, 21:00-22:00, 22:00-23:00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/hibrid-gazturbinas-hajtasrendszer-probapad-bemutato
 tud_url: 
 tud_reg: Igen , turnusonként 15 fő
 date:  2026-08-27
