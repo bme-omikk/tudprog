@@ -23,7 +23,8 @@ Léna vagyok, a SharkTeam dízel-hibrid versenyautója!  A Shell Eco-marathon p�
 
 Csapatunk közel egy évtizedes tapasztalattal rendelkezik a Shell Eco-marathon enerigahatékonysági versenyen.
 Saját fejlesztésű innovatív megoldásokkal küzdünk a jobb verseny eredményekért és egy tisztább, környezettudatosabb jövőért.
-linkek: [sharkteam.hu](https://www.facebook.com/bmesharkteam), [Instagram](https://www.instagram.com/bme_sharkteam/),  [Linkedin](https://www.linkedin.com/company/bmesharkteam/), [Tiktok](https://www.tiktok.com/@bmesharkteam)
+
+linkek: [sharkteam.hu](https://www.facebook.com/bmesharkteam), [Instagram](https://www.instagram.com/bme_sharkteam/), [Linkedin](https://www.linkedin.com/company/bmesharkteam/), [Tiktok](https://www.tiktok.com/@bmesharkteam)
 
 
 [BME GPK, Energetikai Gépek és Rendszerek Tanszék](https://www.energia.bme.hu/)
