@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: Budapesti Műszaki és Gazdaságtudományi Egyetem Közlekedésmérnöki és Járműmérnöki Kar Repüléstudományi és Hajózási Tanszék J. épület, IV. emelet 1111 Budapest, Stoczek u. 6
 tud_idopont: 2026. szeptember 25. 18:00-18:45, 19:00-19:45, 20:00-20:45, 21:00-21:45, 22:00-22:45
-tud_regisztracio: 
+tud_regisztracio:
 tud_url: 
 tud_reg: Igen, 15 fő turnusokként.
 date:  2026-08-27
