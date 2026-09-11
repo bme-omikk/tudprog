@@ -21,4 +21,4 @@ Fedezd fel a hűtéstechnika csodáit izgalmas kísérletek során! A programon 
 
 [BME GPK, Energetikai Gépek és Rendszerek Tanszék](https://www.energia.bme.hu/)
 
-![Hűtsd le magad](../2026/images/Hutsd_le_magad.png)
+![Hűtsd le magad](../2026/images/hutsd_le_magad.png)
