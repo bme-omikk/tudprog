@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME, Ch épület, Budapest, Műegyetem rkp. 1, 1111. alagsor A17-es terem
 tud_idopont: 2026. szeptember 25. 16:00-16:45, 17:00-17:45, 18:00-18:45, 19:00-19:45, 20:00-20:45, 21:00-21:45
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/ki-olte-meg-a-sejteket
 tud_url: 
 tud_reg: Igen, turnusonként 8 fő
 date:  2026-08-27
