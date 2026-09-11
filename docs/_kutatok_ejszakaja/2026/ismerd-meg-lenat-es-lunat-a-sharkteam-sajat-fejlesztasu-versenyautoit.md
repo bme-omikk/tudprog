@@ -28,4 +28,4 @@ linkek: [sharkteam.hu](https://www.facebook.com/bmesharkteam), [Insta](https://w
 
 [BME GPK, Energetikai Gépek és Rendszerek Tanszék](https://www.energia.bme.hu/)
 
-![Ismerd meg Lénát és Lunát - a SharkTeam saját fejlesztésű versenyautóit](../2026/images/ismerd-meg-lenat-es-lunat-a-sharkteam-sajat-fejlesztasu-versenyautoit.jpg)
+![Ismerd meg Lénát és Lunát - a SharkTeam saját fejlesztésű versenyautóit](../2026/images/ismerd-meg-lenat-es-lunat-a-sharkteam-sajat-fejlesztesu-versenyautoit.jpg)
