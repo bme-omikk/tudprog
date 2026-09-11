@@ -12,7 +12,7 @@ tud_helyszin: 1111 Budapest, Budafoki út 6-8. F épület, FE lépcsőház föld
 tud_idopont: 2026. szeptember 25. 17:00-19:00, 20:00-22:00
 tud_regisztracio:
 tud_url: 
-tud_reg: igen, turnusonként 5 fő
+tud_reg: Igen, turnusonként 5 fő
 date:  2026-08-27
 ---
 
