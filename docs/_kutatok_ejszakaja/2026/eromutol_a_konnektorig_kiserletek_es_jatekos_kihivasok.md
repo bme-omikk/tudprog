@@ -8,7 +8,7 @@ tud_programfelelos: Kardos Réka, Fehér Anna
 tud_eloadok: Galó András, Szabó Jázmin
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111 Budapest, BME, DCS épület, Stoczek József u. 6.  
+tud_helyszin: 1111 Budapest, BME, DCS épület, Stoczek József u. 6. (DCS laboratórium St épület felőli oldala)
 tud_idopont: 2026. szeptember 25. 16-22 óráig
 tud_regisztracio:
 tud_reg: Nem, Nem 
