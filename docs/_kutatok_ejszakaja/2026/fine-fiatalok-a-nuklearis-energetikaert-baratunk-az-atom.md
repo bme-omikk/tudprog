@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Orosz Gergely Imre
 tud_eloadok: Dr. Orosz Gergely Imre
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111 Budapest, Műegyetem rakpart 1-3, K-Aula (Nukleáris stand)
+tud_helyszin: 1111 Budapest, Műegyetem rakpart 1-3, K épület Aula (Nukleáris stand)
 tud_idopont: 2026. szeptember 25. 17:00 - 20:00
 tud_regisztracio:
 tud_reg: Nem, Nem
