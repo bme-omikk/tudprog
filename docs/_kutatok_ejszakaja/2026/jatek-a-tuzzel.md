@@ -8,7 +8,7 @@ tud_programfelelos: Rapi Zsolt
 tud_eloadok: Rapi Zsolt
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111 Budapest,Műegyetem rkp 1., CH C14 terem
+tud_helyszin: 1111 Budapest, Műegyetem rkp 1., CH C14 terem
 tud_idopont: 2026. szeptember 25. 18.00-19.00
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/jatek-a-tuzzel-2
 tud_reg: Igen, összesen 300 fő
