@@ -18,7 +18,7 @@ date: 2026-08-27
 
 Az energiaigény növekedésével, és a fosszilis energiahordozók végességének tudatával az emberiség komoly kihívások elé néz energetikai téren. Az egyik lehetséges megoldás az úgynevezett magfúzió, az a folyamat, amellyel a csillagok termelik az energiát, így a mi Napunk is.
 
-[Dr. Orosz Gergely Imre](https://www.reak.bme.hu/munkatars/oktatok/asztalos-ors.html)
+[Dr. Asztalos Őrs](https://www.reak.bme.hu/munkatars/oktatok/asztalos-ors.html)
 
 [BME TTK, Természettudományi Kar](https://www.ttk.bme.hu/)
 
