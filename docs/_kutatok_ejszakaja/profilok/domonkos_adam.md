@@ -15,7 +15,7 @@ Domonkos Ádám doktorandusz. Körülbelül 10 évvel ezelőtt kezdtem mobil szo
 <td>
 
 <div class="gallery">
-    <img src="images/domonkos_adam" max-width="250" max-height="200">
+    <img src="images/domonkos_adam.jpg" max-width="250" max-height="200">
   <div class="desc">Domonkos Ádám</div>
 </div>
 
