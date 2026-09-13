@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1117 Budapest, Magyar tudósok körútja 2., BME I épület, B szárny, első emelet, IB110
 tud_idopont: 2026. szeptember 25. 17:00–21:05, 45 perces turnusok
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/kvantumkommunikacio-testkozelbol-3
 tud_reg: Igen, turnusonként 15 fő
 date: 2026-08-27
 ---

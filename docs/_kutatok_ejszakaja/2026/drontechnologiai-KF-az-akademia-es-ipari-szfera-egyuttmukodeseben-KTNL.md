@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: Közlekedésmérnöki és Járműmérnöki Kar / Repüléstudományi és Hajózási Tanszék
 tud_intezmeny_rovid: KJK
+tud_latogato: NK
 title: Dróntechnológiai K+F az akadémia és ipari szféra együttműködésében – KTNL
 tud_programfelelos: Hus Máté Olivér
 tud_eloadok: Hus Máté Olivér
@@ -22,4 +23,4 @@ A dróntechnológia egyszerre szórakozás, kutatási terület, mérnöki kihív
 
 [BME KJK, Repüléstudományi és Hajózási Tanszék](http://rht.bme.hu/hu/)
 
-![Dróntechnológiai K+F az akadémia és ipari szféra együttműködésében – KTNL](../2026/images/Dróntechnológiai-kutatások-az-akadémiai-szférában-technológia,-lehetőségek-és-kihívások.png)
+![Dróntechnológiai K+F az akadémia és ipari szféra együttműködésében – KTNL](../2026/images/drontechnologiai-kutatasok-az-akademiai-szferaban-technologia-lehetosegek-es-kihivasok.png)
