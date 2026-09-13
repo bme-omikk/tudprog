@@ -19,9 +19,9 @@ date:  2026-08-27
 Szabadulószoba (sőt, labor!) a Műegyetemen! Játékos feladatok megoldása során ismerkedhetsz a vízkémiával, vízanalitikával, vízi közművekkel és a vízhez kapcsolódó környezeti kérdésekkel. Közben betekintést nyerhetsz a tanszékünkön folyó munkákba is. Meg tudjátok oldani a Vízlabor rejtélyét?
 
 
-[Murányi Gábor](https://vkkt.bme.hu/muranyi-gabor), [A BME VKKT munkatársai](https://epito.bme.hu/vkkt/munkatarsak)
+[Murányi Gábor](https://vkkt.bme.hu/muranyi-gabor), [A BME VKKT munkatársai](https://vkkt.bme.hu/vkkt/munkatarsak)
 
-[BME ÉMK, Vízi Közmű és Környezetmérnöki Tanszék](https://epito.bme.hu/vkkt/)
+[BME ÉMK, Vízi Közmű és Környezetmérnöki Tanszék](https://vkkt.bme.hu/)
 
 
 ![Szabadulás a vízlaborból](../2026/images/szabadulas-a-vizlaborbol.jpg)
