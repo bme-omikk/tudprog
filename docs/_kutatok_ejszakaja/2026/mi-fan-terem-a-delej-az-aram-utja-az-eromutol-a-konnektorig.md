@@ -22,4 +22,4 @@ A látogatás részeként bepillantást nyújtunk a korszerű technológiák - m
 
 [BME VIK, Villamos Energetika Tanszék](https://vet.bme.hu/)
 
-![Mi fán terem a delej? - Az áram útja az erőműtől a konnektorig.](../2026/images/Mi-fán-terem-a-delej-Az-áram-útja-az-erőműtől-a-konnektorig.png)
+![Mi fán terem a delej? - Az áram útja az erőműtől a konnektorig.](../2026/images/mi-fan-terem-a-delej-az-aram-utja-az-eromutol-a-konnektorig.png)
