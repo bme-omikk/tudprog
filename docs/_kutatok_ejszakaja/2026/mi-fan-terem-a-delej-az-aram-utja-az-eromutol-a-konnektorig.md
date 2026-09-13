@@ -9,7 +9,7 @@ tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME """"V1"""" épület) földszinti aula
-tud_idopont: 2026. szeptember 25. 16:00 - 20:00
+tud_idopont: 2026. szeptember 25. 16:00 - 20:00 (30 perces turnusokban) 
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/mi-fan-terem-a-delej-az-aram-utja-az-eromutol-a-konnektorig
 tud_url: 
 tud_reg: Igen, turnusonként 30 fő
