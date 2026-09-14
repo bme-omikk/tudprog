@@ -16,7 +16,7 @@ Vegyészmérnök, a BME Alkalmazott Biotechnológia és Élelmiszertudományi Ta
 <td>
 
 <div class="gallery">
-    <img src="images/tomoskozy_sandor.jpg" max-width="250" max-height="200">
+    <img src="images/tomoskozi_sandor.jpg" max-width="250" max-height="200">
   <div class="desc">Dr. Tömösközi Sándor</div>
 </div>
 

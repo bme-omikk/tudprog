@@ -13,7 +13,7 @@ kutej_eloado: Horváth Ábel Ruben
 <td>
 
 <div class="gallery">
-    <img src="images/horvath_abel_ruben.jpeg" max-width="250" max-height="200">
+    <img src="images/horvath_abel_ruben.jpg" max-width="250" max-height="200">
   <div class="desc">Horváth Ábel Ruben</div>
 </div>
 
