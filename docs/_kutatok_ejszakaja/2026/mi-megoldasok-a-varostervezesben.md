@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1117 Budapest, Magyar tudósok körútja 2. BME Q épület, QB203
 tud_idopont: 2026. szeptember 25. 16.00-16.45
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/mi-megoldasok-a-varostervezesben
 tud_reg: Igen, 40 fő
 tud_url: 
 date:  2026-08-27
