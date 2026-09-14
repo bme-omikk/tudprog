@@ -1,19 +1,19 @@
 ---
 layout: page_kutej_profilok
-tud_idopont: 0
-kutej_programfelelos_eloado:
+tud_title:  Kutatók éjszakája 2026
+tud_idopont:  
 kutej_programfelelos: 
-kutej_eloado:  Dr. Tóvölgyi Sarolta
-tud_title: Kutatók éjszakája 2024
+kutej_eloado: Dr. Tóvölgyi Sarolta
 ---
-Emberközpontú termékmenedzsmenttel foglalkozó oktató és kutató,  a BME Ergonómia és Pszichológia Tanszék adjunktusa.
+
+Dr. Tóvölgyi Sarolta egyetemi docens, az Ergonómia és Pszichológia Tanszék tanszékvezető-helyettese és a BME GTK megbízott nemzetközi dékánhelyettese. Előadásában bemutatja a Tanszék oktatási és kutatási tevékenységét, főbb szakmai területeit és működését a GTK kari struktúrájában, valamint azokat a lehetőségeket, ahol a hallgatók bekapcsolódhatnak a Tanszék szakmai, kutatási és közösségi életébe.
 
 <table class="picture">
 <tr>
 <td>
 
 <div class="gallery">
-    <img src="images/Saci.png" max-width="250" max-height="200">
+    <img src="images/tovolgyi_sarolta.jpg" max-width="250" max-height="200">
   <div class="desc">Dr. Tóvölgyi Sarolta</div>
 </div>
 
