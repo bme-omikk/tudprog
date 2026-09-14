@@ -5,7 +5,7 @@ tud_intezmeny: BME TTK, Fizikai Intézet
 tud_intezmeny_rovid: TTK
 title: Színes lángok fizikája és kémiája hétköznapi anyagokon
 tud_programfelelos: Roland Alex
-tud_eloadok:
+tud_eloadok: Härtlein Károly
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Budafoki út 8., BME F épületek által körbefogott udvar
