@@ -18,7 +18,7 @@ date:  2026-08-27
 
 A Kutatók Éjszakáján megnyitjuk a BME Épületgépészeti és Gépészeti Eljárástechnika Tanszékének Stokes Laborját. Az este folyamán a Tanszék oktatói és hallgatói mutatják be a működésben lévő kísérleti laborberendezéseket. 
 
-[Dr.Szánthó Zoltán](https://epget.bme.hu/wp/munkatarsak/szantho-zoltan/) 
+[Dr.Szánthó Zoltán](https://epget.bme.hu/wp/munkatarsak/dr-szantho-zoltan/) 
 
 [BME GPK, Épületgépészeti és Gépészeti Eljárástechnika Tanszék](https://epget.bme.hu/wp/)
 
