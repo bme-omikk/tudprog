@@ -23,4 +23,4 @@ Mit jelent a "minőség"? Miért értéktelen egy labdarúgó világbajnoki dobo
 
 [BME GTK MVT](https://mvt.bme.hu/)
 
-![Mit jelent, hogyan értelmezzük a minőséget?](../2026/images/mit-jelent-hogyan-ertelmezzuk-a-minoseget.jpg)
+![Mit jelent, hogyan értelmezzük a minőséget?](../2026/images/mit-jelent-hogyan-ertelmezzuk-a-minoseget.JPG)
