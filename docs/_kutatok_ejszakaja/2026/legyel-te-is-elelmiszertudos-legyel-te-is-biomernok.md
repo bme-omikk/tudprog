@@ -23,4 +23,4 @@ Mit csinál egy élelmiszerkutató? Alaposan utánajár annak, hogy miből kész
 
 [BME VBK, Alkalmazott Biotechnológia és Élelmiszertudományi Tanszék](https://abet.vbk.bme.hu/)
 
-![A sejt titkai, DNS-től a fehérjékig](../2026/images/legyel-te-is-elelmiszertudos-legyel-te-is-biomernok.jpg)
+![Legyél Te is Élelmiszertudós! - Legyél Te is Biomérnök!](../2026/images/legyel-te-is-elelmiszertudos-legyel-te-is-biomernok.jpg)
