@@ -4,7 +4,7 @@ tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME ETT, Elektronikai Technológia Tanszék
 tud_intezmeny_rovid: VIK
 title: Programozzunk együtt digitális dobókockát!
-tud_programfelelos: Fehér László
+tud_programfelelos: Havellant Gergő
 tud_eloadok: Fehér László, Havellant Gergő, Bátorfi Réka
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 

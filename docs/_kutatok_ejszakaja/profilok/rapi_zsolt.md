@@ -21,3 +21,4 @@ Rapi Zsolt okleveles vegyészmérnök (PhD) egyetemi docensként dolgozik a BME 
 </td>
 </tr>
 </table>
+

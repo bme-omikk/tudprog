@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Budafoki út 8. F ép. I. lépcsőház II. emelet.
 tud_idopont: 2026. szeptember 25. 16.00-16.30, 16.30-17.00, 17.00-17.30, 17.30-18.00, 18.00-18.30, 18:30-19.00, 19.00-19.30, 19.30-20.00
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/3d-nyomtatas-a-kemiaban
 tud_reg: Igen, turnusonként 12 fő. 
 tud_url: 
 date:  2026-08-27

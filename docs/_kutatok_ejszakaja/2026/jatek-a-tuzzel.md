@@ -16,6 +16,7 @@ tud_reg: Igen, 300 fő
 date:  2026-08-27
 ---
 
+
 Olyan kémiát népszerűsítő kísérleteket láthatnak az érdeklődők, melyek színváltozással, fényjelenséggel, füsttel járnak. Minden korosztály számára érthetőek lesznek a magyarázatok, kémiai előismeretek sem szükségesek az előadás megtekintéséhez.
 
 [Rapi Zsolt](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/rapi_zsolt)
@@ -23,3 +24,4 @@ Olyan kémiát népszerűsítő kísérleteket láthatnak az érdeklődők, mely
 [BME VBK, Szerves Kémia és Technológia Tanszék](https://oct.bme.hu/)
 
 ![Játék a tűzzel](../2026/images/jatek-a-tuzzel.jpg)
+

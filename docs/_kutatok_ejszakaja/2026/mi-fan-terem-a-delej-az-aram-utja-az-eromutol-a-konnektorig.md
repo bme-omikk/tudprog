@@ -3,14 +3,14 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME VIK, Villamos Energetika Tanszék
 tud_intezmeny_rovid: VIK
-title: Mi fán terem a delej? - Az áram útja az erőműtől a konnektorig.
+title: Mi fán terem a delej? - Az áram útja az erőműtől a konnektorig
 tud_programfelelos: Horváth Sándor
 tud_eloadok: 
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Egry József u. 18. (BME """"V1"""" épület) földszinti aula
-tud_idopont: 2026. szeptember 25. 16:00 - 20:00
-tud_regisztracio: 
+tud_idopont: 2026. szeptember 25. 16:00 - 20:00 (30 perces turnusokban) 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/mi-fan-terem-a-delej-az-aram-utja-az-eromutol-a-konnektorig
 tud_url: 
 tud_reg: Igen, turnusonként 30 fő
 date:  2026-08-27
@@ -22,4 +22,4 @@ A látogatás részeként bepillantást nyújtunk a korszerű technológiák - m
 
 [BME VIK, Villamos Energetika Tanszék](https://vet.bme.hu/)
 
-![Mi fán terem a delej? - Az áram útja az erőműtől a konnektorig.](../2026/images/Mi-fán-terem-a-delej-Az-áram-útja-az-erőműtől-a-konnektorig.png)
+![Mi fán terem a delej? - Az áram útja az erőműtől a konnektorig.](../2026/images/mi-fan-terem-a-delej-az-aram-utja-az-eromutol-a-konnektorig.png)

@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Szent Gellért tér 4., Ch épület alagsor A03 labor PML
 tud_idopont: 2026. szeptember 25. 16.00-16.30, 16.30-17.00
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/hogyan-keszulnek-a-gyogyszerek
 tud_url: 
 tud_reg: Igen, turnusonként 15 fő
 date:  2026-08-27

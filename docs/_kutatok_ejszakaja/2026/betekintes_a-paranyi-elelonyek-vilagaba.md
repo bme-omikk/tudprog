@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: BME CH. Épület Szent Gellért tér 4. 2 emelet 244-es szoba
 tud_idopont: 2026. szeptember 25. 16:30-17:00, 17:15-17:45, 18:00-18:30
-tud_regisztracio: 
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/betekintes-a-paranyi-elolenyek-vilagaba-1
 tud_url: 
 tud_reg: Igen, turnusonként maximum 25 fő
 date:  2026-08-27

@@ -4,12 +4,12 @@ tud_idopont: 0
 kutej_programfelelos_eloado: Härtlein Károly
 kutej_programfelelos: 
 kutej_eloado:
-tud_title: Kutatók éjszakája 2025
+tud_title: Kutatók éjszakája 2026
 ---
 
 TTK, Fizikai Intézet
 
-Härtlein Károly fizika szakos tanár, mesteroktató, tanszéki mérnök a BME Fizikai Intézetében. A magyar tudományos ismeretterjesztés és a szkeptikus mozgalom egyik kiemelkedő alakja, számos televíziós műsor vendége, a Spektrum TV által készített Brutális Fizika című sorozat egyik házigazdája és szakértője, hosszú ideig a Csodák Palotája munkatársa, az Ericsson-díj kitüntetettje.
+Härtlein Károly Prima Primissima díjas fizika szakos tanár, a BME Fizikai Intézet mesteroktatója. A tudományos ismeretterjesztés és a szkeptikus mozgalom egyik kiemelkedő alakja, számos televíziós sorozat házigazdája, szakértője.
 
  <table class="picture">
 <tr>
