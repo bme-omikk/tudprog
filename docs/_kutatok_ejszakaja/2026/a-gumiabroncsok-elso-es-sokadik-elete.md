@@ -5,10 +5,10 @@ tud_intezmeny:
 tud_intezmeny_rovid: GPK
 title: A gumiabroncsok első és sokadik élete
 tud_programfelelos: Görbe Ákos
-tud_eloadok: Görbe Ákos, Zelenainé Kohári Andrea, Dr. Kiss Lóránt,	Grzybovsky Ádám
+tud_eloadok: Görbe Ákos, Zelenainé Kohári Andrea, Dr. Kiss Lóránt, Grzybovsky Ádám
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111, Budapest, Bertalan L. u. 5, MT épület
+tud_helyszin: 1111, Budapest, Bertalan L. u. 5, BME, MT épület
 tud_idopont: 2026. szeptember 25. 17.00-18.00; 19.00-20.00 
 tud_regisztracio: 
 tud_url: 
