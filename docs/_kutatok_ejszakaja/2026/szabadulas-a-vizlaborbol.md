@@ -11,7 +11,7 @@ tud_online:
 tud_helyszin:  1111 Budapest, Műegyetem rakpart 1-3. BME ÉMK, Vízi Közmű és Környezetmérnöki Tanszék laboratórium, BME K épület, földszint, 32.
 tud_idopont: 2026. szeptember 25. 16.00-16.45, 17.00-17.45, 18.00-18.45, 19.00-19.45, 20.00-20.45, 21.00-21.45
 tud_regisztracio:
-tud_reg: Igen, turnusonként 12 fő
+tud_reg: Igen (helyszíni regisztráció), turnusonként 12 fő
 tud_url: 
 date:  2026-08-27
 ---
