@@ -12,7 +12,7 @@ tud_helyszin: 1117 Budapest, Magyar tudósok körútja 2., BME I épület E224-e
 tud_idopont: 2026. szeptember 25. 17.30-18.30
 tud_regisztracio:
 tud_url: 
-tud_reg: Igen, turnusonként 40 fő
+tud_reg: Igen, 40 fő
 date:  2026-08-27
 ---
 
