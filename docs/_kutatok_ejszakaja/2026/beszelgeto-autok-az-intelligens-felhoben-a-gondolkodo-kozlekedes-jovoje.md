@@ -11,6 +11,7 @@ tud_online:
 tud_helyszin: 1117 Budapest, Magyar Tudósok krt. 2., BME Informatika épület, IE223, Kovács „Jos” József Járműinformatikai és Járműkommunikációs Hallgatói Laboratórium
 tud_idopont: 2026. szeptember 25. 16.00-16.45, 17.00-17.45, 18.00-18.45
 tud_regisztracio:
+tud_reg: Nem, Nem
 tud_url: 
 date:  2026-08-27
 ---
