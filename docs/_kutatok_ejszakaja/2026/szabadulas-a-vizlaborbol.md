@@ -1,7 +1,7 @@
 ---
 layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
-tud_intezmeny: BME ÉMK, Vízi Közmű és Környezetmérnöki Tanszék
+tud_intezmeny: BME EMK, Vízi Közmű és Környezetmérnöki Tanszék
 tud_intezmeny_rovid: EMK
 title: Szabadulás a vízlaborból
 tud_programfelelos: Murányi Gábor
