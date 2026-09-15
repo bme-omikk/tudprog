@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1117 Budapest, Magyar tudósok krt. 2. BME Q épület, QBF14 terem
 tud_idopont: 2026. szeptember 25. 17:00-17:45, 18:00-18:45
-tud_regisztracio:
+tud_regisztracio: https://tudprog.bme.hu/kutatok_ejszakaja/2026/a-modern-mobiltelefonok-es-a-mesterseges-intelligencia-lehetosegei.html
 tud_reg: Igen, turnusonként 40 fő
 date: 2026-08-27
 ---
