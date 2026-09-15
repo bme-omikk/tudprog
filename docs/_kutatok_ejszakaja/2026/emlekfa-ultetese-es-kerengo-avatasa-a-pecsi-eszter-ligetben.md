@@ -18,7 +18,7 @@ date:  2026-08-27
 
 Az első magyar mérnöknő tiszteletére készült ligetben emlékfát fogunk ültetni, valamint felavatjuk a közösségi összefogással elkészült kerengőt. A Műegyetem emlékezeti terében mérnöknők eddig egyáltalán nem jelentek meg, így alakult az emlékliget ötlete, melynek idén nyáron az első szakasza, a kerengő valósult meg a BME EMK, EPK, az Építész Szakkollégium és a Pro Progressio Alapítvány segítségével.
 
-[Dallos Györgyi](https://www.mit.bme.hu/munkatarsak/dallos_gyorgyi), [Alföldi György](https://www.mit.bme.hu/munkatarsak/alfoldi_gyorgy), [Kőhalmy Nóra](https://www.mit.bme.hu/munkatarsak/kohalmy_nora), [Rab Enikő Sarolta](https://www.mit.bme.hu/munkatarsak/rab_eniko_sarolta)
+[Dallos Györgyi](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/dallos_gyorgyi), [Alföldi György](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/alfoldi_gyorgy), [Kőhalmy Nóra](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/kohalmy_nora), [Rab Enikő Sarolta](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/rab_eniko_sarolta)
 
 
 [BME](https://www.mit.bme.hu/)
