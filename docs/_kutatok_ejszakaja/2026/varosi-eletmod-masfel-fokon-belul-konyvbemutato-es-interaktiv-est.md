@@ -8,7 +8,7 @@ tud_programfelelos: Dr. Szabó Mariann
 tud_eloadok: Vadovics Edina, Vadovics Kristóf, Vincze Dorottya
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111 Budapest, Műegyetem rkp. 3 - BME K épület
+tud_helyszin: 1117 Budapest, Magyar Tudósok Körútja 2., BME Q épület "A" szárny, II. emelet, QA202-es terem
 tud_idopont: 2026. szeptember 25. 17:00-19:30
 tud_regisztracio:
 tud_reg: Nem, Nem
