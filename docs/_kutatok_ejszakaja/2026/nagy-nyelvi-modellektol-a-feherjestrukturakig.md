@@ -23,7 +23,7 @@ nyelveket, hanem a ""fehérjék nyelvét"" is képesek megtanulni? Legutóbb egy
 hasonló érdekességekről beszélünk a program során.
 
 
-[Dr. Hullám Gábor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/hullam_gabor), [Vetró Mihály](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/vetro_mihály)
+[Dr. Hullám Gábor](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/hullam_gabor), [Vetró Mihály](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/vetro_mihaly)
 
 [BME VIK, Mesterséges Intelligencia és Rendszertervezés Tanszék](https://www.mit.bme.hu/)
 
