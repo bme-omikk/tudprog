@@ -23,4 +23,4 @@ Látványos kísérletekkel mutatjuk meg, hogyan lesz a rezgésből hang, hogyan
 
 [BME VIK, Mesterséges Intelligencia és Rendszertervezés Tanszék](https://www.mit.bme.hu/)
 
-
+![Látni a láthatatlant - hangok és rezgések nyomában](../2026/images/latni-a-lathatatlant-hangok-es-rezgesek-nyomaban.png)
