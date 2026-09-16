@@ -9,7 +9,7 @@ tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Stoczek József u. 6., BME St. épület  földszint 12. Labor
-tud_idopont: 2026. szeptember 25. 16:00-16:30; 16:30-17:00
+tud_idopont: 2026. szeptember 25. 16:00-16:30, 16:30-17:00
 tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/femek-3d-s-nyomtatasa-3
 tud_url: 
 tud_reg: Igen, turnusonként 12 fő
