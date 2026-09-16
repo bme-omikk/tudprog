@@ -10,7 +10,7 @@ tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1117 Budapest, Magyar tudósok körútja 2., BME I épület E224-es terem. (A BME I épületében, a porta mellett elhaladva kell jobbra fordulni ahhoz, hogy az épület megfelelő szárnyába érkezzünk. Itt a 2. emeleten található a terem.)
 tud_idopont: 2026. szeptember 25. 17:00-18:00
-tud_regisztracio:
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/amikor-az-mi-nem-mond-igazat
 tud_url: 
 tud_reg: Igen, 30 fő
 date:  2026-08-27
