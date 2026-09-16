@@ -19,3 +19,6 @@ date:  2026-08-27
 A tanszék laboratóriumában található egy hibrid gázturbinás hajtásrendszer működőképes modellje, melyen nemcsak jól megfigyelhető egy ilyen modern gép felépítése, hanem a mérhető paramétereken keresztül vizsgálható is a gép működése például energetikai szempontból.
 
 [BME KJK, Repüléstudományi és Hajózási Tanszék](http://rht.bme.hu/hu/)
+
+
+![Hibrid gázturbinás hajtásrendszer próbapad bemutató](../2026/images/hibrid-gazturbinas-hajtasrendszer-probapad-bemutato.jpg)
