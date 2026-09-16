@@ -7,7 +7,7 @@ kutej_eloado:
 tud_title: Kutatók éjszakája 2026
 ---
 
-Jelenleg a BME VIK mérnökinformatikus MSc képzésének hallgatójaként folytatom tanulmányaimat. Kutatómunkám középpontjában a többágenses rendszerek orvosinformatikai modellezése, integrációja és gyakorlati implementációja áll. (agota.png)
+Jelenleg a BME VIK mérnökinformatikus MSc képzésének hallgatójaként folytatom tanulmányaimat. Kutatómunkám középpontjában a többágenses rendszerek orvosinformatikai modellezése, integrációja és gyakorlati implementációja áll.
 
 
 
