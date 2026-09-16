@@ -3,7 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME GPK, Energetikai Gépek és Rendszerek Tanszék
 tud_intezmeny_rovid: GPK
-title: Ismerd meg Lénát és Lunát - a SharkTeam saját fejlesztésű versenyautóit
+title: Ismerd meg Lénát - a SharkTeam saját fejlesztésű versenyautóját
 tud_programfelelos: Kardos Réka, Fehér Anna
 tud_eloadok: BME Shark Team
 tud_tipus: Csak személyes jelenléttel látogatható
@@ -18,9 +18,6 @@ date:  2026-08-27
 
 Léna vagyok, a SharkTeam dízel-hibrid versenyautója!  A Shell Eco-marathon pályáin azt bizonyítom, hogy egy jól megtervezett hibrid hajtáslánccal elképesztő üzemanyag-hatékonyság érhető el. A motoromat is a csapat tervezte és építette – gyere, nézz be a motorháztető alá!
 
-Én vagyok Luna, a SharkTeam hidrogéncellás versenyautója! Bennem nem hagyományos motor, hanem egy teljesen saját fejlesztésű üzemanyagcella dolgozik, ami elektromos energiává alakítja a hidrogént – kipufogógáz helyett csak vízpára távozik belőlem. Ismerd meg, hogyan hajt engem a jövő technológiája
-
-
 Csapatunk közel egy évtizedes tapasztalattal rendelkezik a Shell Eco-marathon enerigahatékonysági versenyen.
 Saját fejlesztésű innovatív megoldásokkal küzdünk a jobb verseny eredményekért és egy tisztább, környezettudatosabb jövőért.
 
@@ -29,4 +26,4 @@ linkek: [sharkteam.hu](https://www.facebook.com/bmesharkteam), [Instagram](https
 
 [BME GPK, Energetikai Gépek és Rendszerek Tanszék](https://www.energia.bme.hu/)
 
-![Ismerd meg Lénát és Lunát - a SharkTeam saját fejlesztésű versenyautóit](../2026/images/ismerd-meg-lenat-es-lunat-a-sharkteam-sajat-fejlesztesu-versenyautoit.jpg)
+![Ismerd meg és Lunát - a SharkTeam saját fejlesztésű versenyautóit](../2026/images/ismerd-meg-lenat-a-sharkteam-sajat-fejlesztesu-versenyautojat.jpg)
