@@ -14,7 +14,7 @@ Keszthelyi Gabriella matematikus, az MTA KIK Tudományelemzési osztályának mu
 <td>
 
 <div class="gallery">
-    <img src="images/keszthelyi_gabriella.jpg" max-width="250" max-height="200">
+    <img src="images/keszthelyi_gabriella.png" max-width="250" max-height="200">
   <div class="desc">Keszthelyi Gabriella</div>
 </div>
 
