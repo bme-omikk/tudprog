@@ -14,7 +14,7 @@ Pintér Gergő matematikus. Minden szinten űzi és tanítja a matekot. Topológ
 <td>
 
 <div class="gallery">
-    <img src="images/pinter_gergo.jpg" max-width="250" max-height="200">
+    <img src="images/pinter_gergo.JPG" max-width="250" max-height="200">
   <div class="desc">Pintér Gergő</div>
 </div>
 
