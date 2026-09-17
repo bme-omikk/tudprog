@@ -13,7 +13,7 @@ Dr. Bíró Gábor István a tudomány történetével és filozófiájával fogl
 <td>
 
 <div class="gallery">
-    <img src="images/biro_gabor_istvan.jpg" max-width="250" max-height="200">
+    <img src="images/biro_gabor_istvan.png" max-width="250" max-height="200">
   <div class="desc">Dr. Bíró Gábor István</div>
 </div>
 
