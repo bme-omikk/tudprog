@@ -16,8 +16,7 @@ tud_reg: Igen, turnusonként 15 fő
 date:  2026-08-27
 ---
 
-A látogatók megtekinthetik a SZTAKI és a BME által fejlesztett önvezető tesztautót, amellyel az önvezető járművek "mixed reality"-t alkalmazó tesztelési folyamatai kerülnek bemutatásra. 
-A jármű a parkolóban működés közben, akár utasként is kipróbálható.
+A laborlátogatás során az érdeklődők betekintést nyerhetnek a gyógyszergyártás folyamatába. Interaktív kísérletek segítségével bemutatjuk, hogy miből és hogyan készülnek a gyógyszertárban kapható tabletták.
 
 [Dr. Galata Dorián](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/galata_dorian), [Fekete Dániel](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/fekete_daniel), [Szeip Judit](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/szeip_judit)
 
