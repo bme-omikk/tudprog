@@ -8,7 +8,6 @@ tud_programfelelos: Dr. Bíró Gábor István
 tud_eloadok:
 tud_tipus: Csak online látogatható
 tud_online: https://meet.google.com/xvp-dyhu-sau
-tud_helyszin: Online tér
 tud_idopont: 2026. szeptember 25. 10:00-11:00
 tud_regisztracio: 
 tud_url: 
