@@ -12,7 +12,7 @@ tud_helyszin: Online tér
 tud_idopont: 2026. szeptember 25. 10:00-11:00
 tud_regisztracio: 
 tud_url: 
-tud_reg: Igen, Nem
+tud_reg: Nem, Nem
 date:  2026-08-27
 ---
 
