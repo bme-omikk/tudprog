@@ -1,8 +1,8 @@
 ---
 layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
-tud_intezmeny: 
-tud_intezmeny_rovid: GPK
+tud_intezmeny: BME GTK, Filozófia és Tudománytörténet Tanszék
+tud_intezmeny_rovid: GTK
 title: Legendás lények és filozófiájuk
 tud_programfelelos: Dr. Bíró Gábor István
 tud_eloadok:
@@ -20,7 +20,10 @@ Vajon miért foglalkozott Newton sárkányokkal? És Leibniz unikornisokkal? Mi�
 
 [Bíró Gábor István](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/biro_gabor_istvan)
 
-![A gumiabroncsok első és sokadik élete](../2026/images/legendas-lenyek-es-filozofiajuk.jpg)
+[BME GTK, Filozófia és Tudománytörténet Tanszék](https://www.filozofia.bme.hu/)
+
+
+![Legendás lények és filozófiájuk](../2026/images/legendas-lenyek-es-filozofiajuk.jpg)
 
 
 
