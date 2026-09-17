@@ -18,7 +18,7 @@ date:  2026-08-27
 
 Vajon miért foglalkozott Newton sárkányokkal? És Leibniz unikornisokkal? Miért alkotta meg Linné a Homo Sapiens mellett a Homo Monstrosus kategóriáját is Systema Naturae c. nagy természettudományos munkájában? Mit taníthatnak nekünk letűnt korok szörnyetegei a tudományról?
 
-[Bíró Gábor István](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/biro_gabor_istvan)
+[Bíró Gábor István](https://tudprog.bme.hu/kutatok_ejszakaja/profilok/biro_gabor_istvan.jpg)
 
 [BME GTK, Filozófia és Tudománytörténet Tanszék](https://www.filozofia.bme.hu/)
 
