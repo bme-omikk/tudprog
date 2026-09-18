@@ -8,10 +8,10 @@ tud_programfelelos: Dr. Bíró Gábor István
 tud_eloadok:
 tud_tipus: Csak online látogatható
 tud_online: https://meet.google.com/xvp-dyhu-sau
-tud_idopont: 2026. szeptember 25. 10:00-11:00
-tud_regisztracio: 
+tud_idopont: 2026. szeptember 26. 10:00-11:00
+tud_regisztracio: https://app.kutatokejszakaja.hu/esemenyek/budapesti-muszaki-es-gazdasagtudomanyi-egyetem-bme/legendas-lenyek-es-filozofiajuk
 tud_url: 
-tud_reg: Nem, Nem
+tud_reg: Igen, 20 fő
 date:  2026-08-27
 ---
 
