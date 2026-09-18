@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME VBK, Szerves Kémia és Technológia Tanszék 
 tud_intezmeny_rovid: VBK
+tud_latogato: KF
 title: Hogyan készülnek a gyógyszerek?
 tud_programfelelos: Dr. Galata Dorián
 tud_eloadok: Fekete Dániel, Szeip Judit

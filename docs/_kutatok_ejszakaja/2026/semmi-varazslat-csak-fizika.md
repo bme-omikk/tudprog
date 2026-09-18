@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME TTK, Fizikai Intézet
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Semmi varázslat, csak fizika!
 tud_programfelelos: Härtlein Károly
 tud_eloadok:

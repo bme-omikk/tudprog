@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME-VIK, Hálózati Rendszerek és Szolgáltatások Tanszék
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Kvantumkommunikáció testközelből
 tud_programfelelos: Dr. Schranz Ágoston Kristóf
 tud_eloadok: Márton Botond László, Schranz Ágoston, Solymos Balázs, Uzonyi Ákos

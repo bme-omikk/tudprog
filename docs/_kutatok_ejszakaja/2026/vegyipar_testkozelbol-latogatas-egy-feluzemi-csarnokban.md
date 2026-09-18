@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME KKFT
 tud_intezmeny_rovid: VBK
+tud_latogato: KF
 title: Vegyipar testközelből - Látogatás egy félüzemi csarnokban
 tud_programfelelos: Kántor Petra
 tud_eloadok: Székely Edit, Kőrösi Márton, Hegyi Mihály, Képes Bence, Luterán Gergő,  Szilágyi Botond

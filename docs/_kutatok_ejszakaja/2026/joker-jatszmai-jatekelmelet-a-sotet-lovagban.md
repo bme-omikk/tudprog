@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME GTK FTT (Filozófia és Tudománytörténet Tanszék)
 tud_intezmeny_rovid: GTK
+tud_latogato: KF
 title: Joker játszmái - játékelmélet A sötét lovagban
 tud_programfelelos: Nagy Gellért
 tud_eloadok:

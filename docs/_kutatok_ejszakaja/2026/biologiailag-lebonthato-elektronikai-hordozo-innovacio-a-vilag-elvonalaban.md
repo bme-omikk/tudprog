@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME VIK, Elektronikai Technológia Tanszék
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Biológiailag lebontható elektronikai hordozó - innováció a világ élvonalában
 tud_programfelelos: Dr. Farkas Csaba
 tud_eloadok: Dr. Farkas Csaba és a kutatásban részt vevő hallgatók

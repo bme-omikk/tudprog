@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME TTK, Matematika Intézet
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Szavazások és választások matematikája
 tud_programfelelos: Dr. Molontay Roland
 tud_eloadok:

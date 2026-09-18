@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME VIK, Mesterséges Intelligencia és Rendszertervezés Tanszék
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Látni a láthatatlant - hangok és rezgések nyomában
 tud_programfelelos: Orosz György
 tud_eloadok: Gungl Szilárd

@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME VBK
 tud_intezmeny_rovid: VBK
+tud_latogato: KF
 title: BME Szent Györgyi-Albert Szakkollégium kísérleti bemutatója
 tud_programfelelos: BME Szent-Gyögyi Albert Szakkollégium
 tud_eloadok: A Szakkollégium tagjai

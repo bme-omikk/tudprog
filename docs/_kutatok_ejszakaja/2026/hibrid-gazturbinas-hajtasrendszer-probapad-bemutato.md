@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: Repüléstudományi és Hajózási Tanszék
 tud_intezmeny_rovid: KJK
+tud_latogato: KF
 title: Hibrid gázturbinás hajtásrendszer próbapad bemutató
 tud_programfelelos: Faltin Zsolt István
 tud_eloadok: Csomor Vilmos, Faltin Zsolt István

@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME KJK, Közlekedés- és Járműirányítási Tanszék
 tud_intezmeny_rovid: KJK
+tud_latogato: KF
 title: Ön vezet vagy „önvezet”? Avagy ismerkedés az önvezető járművekkel
 tud_programfelelos: Dr. Aradi Szilárd
 tud_eloadok: Dr. Fehér Árpád
@@ -23,4 +24,4 @@ A jármű a parkolóban működés közben, akár utasként is kipróbálható.
 
 [BME KJK, Közlekedés- és Járműirányítási Tanszék](https://kjit.bme.hu/index.php/hu/)
 
-![Ön vezet vagy „önvezet”? Avagy ismerkedés az önvezető járművekkel.](../2026/images/on-vezet-vagy-„onvezet”_Avagy-ismerkedés-az-onvezeto-jarmuvekkel.jpg)
+![Ön vezet vagy „önvezet”? Avagy ismerkedés az önvezető járművekkel.](../2026/images/on-vezet-vagy-onvezet-avagy-ismerkedes-az-onvezeto-jarmuvekkel.jpg)

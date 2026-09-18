@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME EPK, Exploratív Építészeti Tanszék
 tud_intezmeny_rovid: EPK
+tud_latogato: KF
 title: Egyiptomi Pecha Kucha - explorálás az 'örök élet' nyomában…
 tud_programfelelos: Prof. Vasáros Zsolt DLA
 tud_eloadok: Bernert Zsolt, Buzár Ágota, Csehi Eszter Katalin, Dávid Dóra, Egedi Barbara, Fullér Andrea, Halászné Kapcsándi Szilvia, Hamza Márkó, Hoór Csilla, Koncsos Levente, Pálvölgyi Ádám, Szigetváry Fanni, Takáts Bendegúz, Tóth Eszter, Tóth Tamara, Varga Dániel, Prof. Vasáros Zsolt, Zoltai András

@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME VBK, Szerves Kémia és Technológia Tanszék
 tud_intezmeny_rovid: VBK
+tud_latogato: KF
 title: 3D nyomtatás a kémiában
 tud_programfelelos: Dr. Bálint Erika
 tud_eloadok: Orosz János Máté, Gyöngyössy Ádám, Heller Bence

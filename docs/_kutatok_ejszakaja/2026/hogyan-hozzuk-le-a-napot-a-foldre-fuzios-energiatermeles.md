@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME TTK, Természettudományi Kar
 tud_intezmeny_rovid: TTK
+tud_latogato: KF
 title: Hogyan hozzuk le a Napot a Földre? Fúziós energiatermelés
 tud_programfelelos: Dr. Asztalos Örs
 tud_eloadok: Vavrik Márton, Balázs Péter, Pokol Gergő, Angyal Ádám

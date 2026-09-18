@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME VBK, Szervetlen és Analitikai Kémia Tanszék
 tud_intezmeny_rovid: VBK
+tud_latogato: KF
 title: Számítógéppel és spatulával a klasztervegyületek világában
 tud_programfelelos: Szántai Lóránt István
 tud_eloadok: Szántai Lóránt István, Bartek Máté, Szathmári Balázs, Kelemen Zsolt

@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME
 tud_intezmeny_rovid: EPK
+tud_latogato: KF
 title: Emlékfa ültetése és kerengő avatása a Pécsi Eszter-ligetben
 tud_programfelelos: Dallos Györgyi
 tud_eloadok: Alföldi György, Dallos Györgyi, Kőhalmy Nóra, Rab Enikő Sarolta

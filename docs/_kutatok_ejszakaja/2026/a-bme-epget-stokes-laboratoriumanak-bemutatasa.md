@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME GPK, Épületgépészeti és Gépészeti Eljárástechnika Tanszék
 tud_intezmeny_rovid: GPK
+tud_latogato: KF
 title: A BME ÉpGET Stokes Laboratóriumának bemutatása
 tud_programfelelos: Dr.Szánthó Zoltán
 tud_eloadok: A Tanszék oktatói és doktoranduszai, a Gépészeti Eljárástechnika Szakosztály és az Épületgépészeti Szakosztály hallgatói

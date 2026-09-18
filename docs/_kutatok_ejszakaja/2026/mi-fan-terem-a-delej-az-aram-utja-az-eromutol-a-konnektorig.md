@@ -3,6 +3,7 @@ layout: collection_kutej
 tud_title: Kutatók éjszakája 2026
 tud_intezmeny: BME VIK, Villamos Energetika Tanszék
 tud_intezmeny_rovid: VIK
+tud_latogato: KF
 title: Mi fán terem a delej? - Az áram útja az erőműtől a konnektorig
 tud_programfelelos: Horváth Sándor
 tud_eloadok: 
