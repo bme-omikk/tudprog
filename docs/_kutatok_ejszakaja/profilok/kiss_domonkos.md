@@ -17,7 +17,7 @@ Kutatási területe a mobilis robotok mozgástervezése és irányítása.
 
 <div class="gallery">
     <img src="images/KissDomokos.jpg" max-width="250" max-height="200">
-  <div class="desc">Kiss Domonkos</div>
+  <div class="desc">Kiss Domokos</div>
 </div>
 
 </td>
