@@ -9,7 +9,7 @@ tud_programfelelos: Gulyás András
 tud_eloadok: Till Sára, Dr. Gyürki Dániel, Balog Boglárka, Friedrich Péter, Sándor Levente Gábor
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111 Budapest Bertalan Lajos utca 7. , L épület, Hidrodinamikai Rendszek Tanszék Laboratórium
+tud_helyszin: 1111 Budapest Bertalan Lajos utca 7. , L épület, Hidrodinamikai Rendszerek Tanszék Laboratórium
 tud_idopont: 2026. szeptember 25. 18.00-22.00 folyamatosan.
 tud_regisztracio: 
 tud_url: 

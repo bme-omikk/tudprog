@@ -9,7 +9,7 @@ tud_programfelelos: Nagy Gellért
 tud_eloadok:
 tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
-tud_helyszin: 1111 Budapest, Műegyeten rakpart 3., BME K épület
+tud_helyszin: 1111 Budapest, Műegyetem rakpart 3., BME K épület
 tud_idopont: 2026. szeptember 25. 17:00-18:00
 tud_regisztracio:
 tud_url: 
