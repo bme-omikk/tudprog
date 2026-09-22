@@ -7,7 +7,7 @@ tud_latogato: KF
 title: Semmi varázslat, csak fizika!
 tud_programfelelos: Härtlein Károly
 tud_eloadok:
-tud_tipus: Személyes jelenléttel és online is látogatható
+tud_tipus: Csak személyes jelenléttel látogatható
 tud_online: 
 tud_helyszin: 1111 Budapest, Budafoki út 8., BME F. épület 29-es előadó terem
 tud_idopont: 2026. szeptember 25. 15:15-16:45, 21:00-22:30
