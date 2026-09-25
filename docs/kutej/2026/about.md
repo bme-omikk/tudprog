@@ -23,4 +23,4 @@ Szeretettel várjuk minden rendezvényünkön.
 „Fizika nem azért van, hogy gyötörjük vele a gyerekeket. Jóléti társadalmunk erre a tudásra, mint alapra épül.” Beszélgetés Härtlein Károllyal, az évente megrendezett Kutatók Éjszakája ötletgazdájával. 
 
 
-[Kiegészítő tájékoztató képmással kapcsolatban](https://tudprog.bme.hu/2026/pdf/kiegeszito_tajekoztato_kepmassal_kapcsolatban.pdf)
+[Kiegészítő tájékoztató képmással kapcsolatban](https://tudprog.bme.hu/pdf/2026/kiegeszito_tajekoztato_kepmassal_kapcsolatban.pdf)
