@@ -1,9 +1,9 @@
 ---
 layout: collection
-tud_title: Tudományünnep a BME-vel jubileumi eseménysorozat
+tud_title: Tudományünnep a BME-vel
 tud_picture: tudunnep
-tud_description: Kétszáz éve a tudás és a társadalom szolgálatában áll a Magyar Tudományos Akadémia, ennek alkalmából a tudományünnepi programsorozatuk jubileumi köntöst ölt. Idén novemberben - a hazai tudományos élet kitüntetett eseményén - a BME ismét részt vesz ismeretterjesztő előadásokkal, konferenciákkal az elmúlt 200 év bemutatásában.
+tud_description: Novemberben ismét a tudományé a főszerep, indul a Magyar Tudomány Ünnepe, amely idén az MTA és Könyvtára bicentenáriumi emlékévében, „Szabadság és tudomány” címmel várja az érdeklődőket. A hazai tudományos élet kiemelt eseményén a BME egész hónapban ismeretterjesztő előadásokkal és konferenciákkal vesz részt, bemutatva, hogyan szolgálja a tudomány a társadalmat a múlt tanulságaitól a jövő kihívásáig.
 tud_subtitle: PROGRAMOK
-tud_url: /tudunnep/2025/
-date: 2025-11-02
+tud_url: /tudunnep/2026/
+date: 2026-11-02
 ---
