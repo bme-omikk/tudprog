@@ -6,7 +6,7 @@ tud_tipus: Előadás
 tud_tudomanyterulet: műszaki (távközlés, informatika)
 tud_idopont: 2026. november 11.
 tud_helyszin: BME I épület, IB.028
-tud_intezmeny: BME Villamosmérnüki és Informatikai Kar
+tud_intezmeny: BME Villamosmérnöki és Informatikai Kar
 tud_kapcsolattarto: Bacsárdi László, bacsardi.laszlo@vik.bme.hu, 06-1-463-3261
 tud_url: 
 date: 2026-10-11 14:15
