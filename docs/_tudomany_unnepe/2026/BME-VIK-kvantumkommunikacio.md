@@ -4,7 +4,7 @@ tud_title: A Magyar Tudomány Ünnepe 2026
 title: A BME VIK-től a kvantumiparig karrierutak a kvantumkommunikáció világában
 tud_tipus: Előadás
 tud_tudomanyterulet: műszaki (távközlés, informatika)
-tud_idopont: 2026. november 11.
+tud_idopont: 2026. november 11. 14:15-15:30
 tud_helyszin: BME I épület, IB.028
 tud_intezmeny: BME Villamosmérnöki és Informatikai Kar
 tud_kapcsolattarto: Bacsárdi László, bacsardi.laszlo@vik.bme.hu, 06-1-463-3261
