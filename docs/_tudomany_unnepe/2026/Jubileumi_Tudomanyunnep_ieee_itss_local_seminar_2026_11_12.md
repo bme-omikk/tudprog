@@ -4,7 +4,7 @@ tud_title: A Magyar Tudomány Ünnepe 2026
 title: Szimulációk, kísérleti projektek és széleskörű telepítések, tapasztalatok a magyar C-ITS-ökoszisztémából
 tud_tipus: szeminárium és szakmai vita
 tud_tudomanyterulet: közlekedéstudomány, informatika, távközlés
-tud_idopont: 2026. november 12.
+tud_idopont: 2026. november 12. 16:00
 tud_helyszin: BME I épület, IB.023
 tud_intezmeny: IEEE ITSS Hungary Chapter, BME VIK HIT, HUN-REN SZTAKI
 tud_kapcsolattarto: Bokor László, bokorl@hit.bme.hu, +36-1-463-2048

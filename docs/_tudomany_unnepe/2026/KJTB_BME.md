@@ -4,7 +4,7 @@ tud_title: A Magyar Tudomány Ünnepe 2026
 title: Magyar Tudomány Ünnepe - Közforgalmú közlekedés, szervezés, technológia
 tud_tipus: Ünnepi tudományos ülés
 tud_tudomanyterulet: Közlekedés- és Járműtudomány
-tud_idopont: 2026. november 25.
+tud_idopont: 2026. november 25. 14:00
 tud_helyszin: Bp. V. Nádor utca 7 F029
 tud_intezmeny: BME KJK, Széchenyi Egyetem, Közlekedéstudományi Intézet
 tud_kapcsolattarto: Török Ádám, torok.adam@kjk.bme.hu
