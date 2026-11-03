@@ -1,7 +1,7 @@
 ---
 layout: collection
 tud_title: A Magyar Tudomány Ünnepe 2026
-title: Szimulációk, kísérleti projektek és széleskörű telepítések, tapasztalatok a magyar C-ITS-ökoszisztémából
+title: "Szimulációk, kísérleti projektek és széleskörű telepítések: tapasztalatok a magyar C-ITS-ökoszisztémából"
 tud_tipus: szeminárium és szakmai vita
 tud_tudomanyterulet: közlekedéstudomány, informatika, távközlés
 tud_idopont: 2026. november 12. 16:00
