@@ -7,7 +7,7 @@ tud_tudomanyterulet:
 tud_idopont: 2026.11.16. 16:00
 tud_helyszin: K épület, díszterem
 tud_intezmeny: Kommunikációs Igazgatóság
-tud_kapcsolattarto: Galambos Péter, galambospe@gmail.com
+tud_kapcsolattarto: Galambos Péter, galambos.peter@bme.hu
 tud_url: https://www.bme.hu/esemenyek/22470
 date: 2026.10.16. 16:00
 ---
