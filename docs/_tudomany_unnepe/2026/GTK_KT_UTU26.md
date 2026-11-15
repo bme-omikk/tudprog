@@ -5,7 +5,7 @@ title: BME GTK Kari Tanács ünnepi tudományos ülése
 tud_tipus: tudományos ülés
 tud_tudomanyterulet: gazdaság- és társadalomtudományok
 tud_idopont: 2026. november 25. 14:00-16:00
-tud_helyszin: BME Q épület Fszt. 17. kari tanácsterem
+tud_helyszin: BME Q épület B szárny, 4. emelet 404-es előadóterem (QB404)
 tud_intezmeny: BME GTK
 tud_kapcsolattarto: Janky Béla, janky.bela@gtk.bme.hu, 1-463-2410
 tud_url: 
