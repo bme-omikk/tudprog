@@ -11,11 +11,11 @@ tud_kapcsolattarto: Varga Pál - pvarga@tmit.bme.hu - +36303978303
 tud_url: https://www.tmit.bme.hu/MTAMI26
 date: 2026-10-30 15:00
 ---
-Mindenkit szeretettel várunk a BME Távközlés és Mesterséges Intelligencia sorozatának következő, 26. állomásán, amelyet a Babes-Bolyai Tudományegyetemmel és a
+Mindenkit szeretettel várunk a BME Távközlés és Mesterséges Intelligencia sorozatának következő,
+26. állomásán, amelyet a Babes-Bolyai Tudományegyetemmel és a
 Kolozsvári Műszaki Egyetemmel közösen szervezünk a Magyar Tudomány Ünnepi hónapjának zárásaként.
 
-A részvétel ingyenes, de [regisztrációt](https://forms.gle/drR7s87Dq1iWoEod7) kérünk.
-
+A részvétel ingyenes, de regisztrációt kérünk itt: https://forms.gle/drR7s87Dq1iWoEod7
 --> Miért is ne most?
 
 PROGRAM
@@ -28,7 +28,9 @@ PROGRAM
     Az interpretálható modellek kiértékelési nehézségei
 - Tamás Levente (egyetemi tanár, Robotics and NCR Group, Kolozsvári Műszaki Egyetem)
     MI a manó? Humanoidok a MI világában Levezető elnök: Varga Pál (tanszékvezető, BME-TMIT)
+
 --- szünet, apró finomságokkal ---
+
 - Biczók Gergely (docens, BME-HIT, CrySyS Lab)
     A víz nedves, az ég kék… Az AI meg veszélyes
 - Oneț-Marian Zsuzsanna (adjunktus, BBTE, Machine Learning Research Group)
