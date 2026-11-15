@@ -11,11 +11,10 @@ tud_kapcsolattarto: Varga Pál - pvarga@tmit.bme.hu - +36303978303
 tud_url: https://www.tmit.bme.hu/MTAMI26
 date: 2026-10-30 15:00
 ---
-Mindenkit szeretettel várunk a BME Távközlés és Mesterséges Intelligencia sorozatának következő,
-26. állomásán, amelyet a Babes-Bolyai Tudományegyetemmel és a
-Kolozsvári Műszaki Egyetemmel közösen szervezünk a Magyar Tudomány Ünnepi hónapjának zárásaként.
+Mindenkit szeretettel várunk a BME Távközlés és Mesterséges Intelligencia sorozatának következő, 26. állomásán, amelyet a Babes-Bolyai Tudományegyetemmel és a Kolozsvári Műszaki Egyetemmel közösen szervezünk a Magyar Tudomány Ünnepi hónapjának zárásaként.
 
-A részvétel ingyenes, de regisztrációt kérünk itt: https://forms.gle/drR7s87Dq1iWoEod7
+A részvétel ingyenes, de regisztrációt kérünk itt: [https://forms.gle/drR7s87Dq1iWoEod7](https://forms.gle/drR7s87Dq1iWoEod7)
+
 --> Miért is ne most?
 
 PROGRAM
